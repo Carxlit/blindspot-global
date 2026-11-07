@@ -1,5 +1,107 @@
 [
   {
+    "slug": "armed-attack-krakow-exposes-security-vulnerabilities-0hjw",
+    "path": "noticias/armed-attack-krakow-exposes-security-vulnerabilities-0hjw/",
+    "title": "An armed attack in Krakow exposes the security vulnerabilities of open European public squares",
+    "headline": "FIVE KILLED IN ARMED ATTACK IN KRAKOW",
+    "dek": "Five people are dead and at least 10 injured following a shooting near the main market square in Krakow. The incident highlights the persistent difficulty of securing dense urban environments against sudden localized violence.",
+    "category": "GEOPOLITICS",
+    "sourceName": "Al Jazeera",
+    "image": "img/armed-attack-krakow-exposes-security-vulnerabilities-0hjw.jpg",
+    "photo": "img/armed-attack-krakow-exposes-security-vulnerabilities-0hjw-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "UQBjIfgeZWc",
+      "title": "Five killed and at least 10 injured in Krakow shooting | #AJ shorts",
+      "channel": "Al Jazeera English"
+    },
+    "publishedAt": "2026-11-07T17:01:54.506Z",
+    "article": {
+      "slug": "armed-attack-krakow-exposes-security-vulnerabilities-0hjw",
+      "title": "An armed attack in Krakow exposes the security vulnerabilities of open European public squares",
+      "dek": "Five people are dead and at least 10 injured following a shooting near the main market square in Krakow. The incident highlights the persistent difficulty of securing dense urban environments against sudden localized violence.",
+      "keyFacts": [
+        "Five people were killed in the shooting.",
+        "At least 10 individuals sustained injuries.",
+        "The incident occurred near the main market square in Krakow, southern Poland.",
+        "Police confirmed that a suspect has been arrested."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "According to reports from Al Jazeera, Reuters, The Jerusalem Post, NBC News, and CBS News, a shooting occurred near the main market square in the southern Polish city of Krakow.",
+            "The attack resulted in five fatalities and left at least 10 individuals injured. Local police forces moved quickly to secure the perimeter and confirmed that a suspect has been taken into custody."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Krakow stands as one of Poland's primary cultural and economic hubs, drawing millions of visitors annually to its historic medieval market square. Open-access urban areas of this scale present complex logistical challenges for law enforcement agencies tasked with maintaining public safety.",
+            "While European urban centers maintain robust overall security measures, historical city layouts with high pedestrian traffic density remain inherently vulnerable to sudden, unpredictable acts of violence."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream coverage has largely concentrated on immediate tactical developments, casualty tallies, and the police apprehension of the suspect. However, the broader structural question concerns how municipal authorities intend to balance open civic access with heightened defensive readiness.",
+            "The second-order consequence of such incidents typically involves a rapid push toward expanded surveillance infrastructure and stricter municipal policing, altering the character of public spaces across Central European cities."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Advocates for enhanced urban monitoring and security technology providers stand to gain institutional influence as municipalities reevaluate risk management strategies.",
+            "Conversely, local businesses, tourism operators, and civil liberties advocates bear the cost as public spaces face mounting calls for increased regulation and restricted access."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Observe upcoming municipal council debates in Krakow and other Polish metropolitan centers regarding emergency response protocols and funding allocations for urban surveillance.",
+            "Monitor any subsequent legislative proposals concerning public space security standards across the region."
+          ]
+        }
+      ],
+      "tags": [
+        "Geopolitics",
+        "Poland",
+        "Security",
+        "Europe",
+        "Blindspot"
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "title": "Five killed and at least 10 injured in Krakow shooting",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss"
+        },
+        {
+          "name": "The Jerusalem Post",
+          "title": "Five killed, almost a dozen injured in Krakow shooting",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iZXZjR2dRUmlEcDd2UlpsSWNLaTdWdlVNTl9ycDUtTDUzQXNUc3Z0VEVCb0dLYmVwb3VSYmZJNnhJcXBJelJ6Vkxia3h2N1NzSFlKclAxUFctcFY0cDJr?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "title": "Five killed in shooting in main square of Polish city of Krakow, police say",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Five people killed, multiple injured in Poland market shooting",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XLU1MQnRhZXVkS3JYQW1icjAtdDFfR0tBcTF3TzBoeEZRZ3BhSWR4MGlTNGdOTHNzTHFheHlLM0U0UHM3dkVlOHJFUDBrVFFiTGZjUXFTLWRGZ3RQYnRPVEh6MkZ1TzUtMGhQMGVnNTlLTGwyMWNNZEVR?oc=5"
+        },
+        {
+          "name": "CBS News",
+          "title": "Mass shooting in Krakow, Poland market leaves at least 5 dead, a dozen injured",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hNmVNc21wVVZlVi1OM3l4VTV0bGo5SjNyVTNOck4yUmgySzgwRlEydmRONG43YzlPaUY0Y0VpZUF6TkFoZ01kenNhWVBlZnlXenFfOUdNSzlrUE9BMzg5TzZndTJaRFk2akxIeHJOVUpkR2E4ZndwYVE5NA?oc=5"
+        }
+      ],
+      "wordCount": 308
+    },
+    "blindSpot": "While mainstream coverage focuses strictly on the immediate tactical response and local casualty counts, the underlying systemic vulnerability of historic European urban centers to sudden armed violence remains unexamined. Public squares designed for open commerce present persistent security deficits that standard law enforcement architectures struggle to mitigate without eroding civil liberties."
+  },
+  {
     "slug": "guatemalan-lawmaker-murder-highlights-rising-political-8hdh",
     "path": "noticias/guatemalan-lawmaker-murder-highlights-rising-political-8hdh/",
     "title": "Guatemalan Lawmaker Murder Highlights Rising Political Risk Ahead of National Elections",

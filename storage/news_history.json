@@ -1,8 +1,32 @@
 {
   "seenUrls": [
-    "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss"
+    "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
+    "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "FIVE KILLED IN ARMED ATTACK IN KRAKOW",
+      "normalizedTokens": [
+        "five",
+        "killed",
+        "armed",
+        "attack",
+        "krakow"
+      ],
+      "date": "2026-11-07T17:01:54.519Z"
+    },
+    {
+      "title": "Five killed and at least 10 injured in Krakow shooting",
+      "normalizedTokens": [
+        "five",
+        "killed",
+        "least",
+        "injured",
+        "krakow",
+        "shooting"
+      ],
+      "date": "2026-11-07T17:01:54.518Z"
+    },
     {
       "title": "GUATEMALAN LAWMAKER AND POLICE OFFICERS KILLED IN ZACAPA ATTACK",
       "normalizedTokens": [
