@@ -48,5 +48,10 @@
     "relevant": false,
     "reason": "The image depicts a scene in Zagreb, Croatia (as indicated by the street signs and license plates), not a mass shooting in Krakow, Poland.",
     "at": "2026-11-07T20:22:20.090Z"
+  },
+  "308e674e34133037:cycuny54c": {
+    "relevant": true,
+    "reason": "The photo shows Santiago Peña, the main subject of the headline.",
+    "at": "2026-11-07T21:56:16.813Z"
   }
 }
