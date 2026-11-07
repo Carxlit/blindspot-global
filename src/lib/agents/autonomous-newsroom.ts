@@ -44,6 +44,28 @@ export interface AutonomousConfig {
   preferStats?: boolean; // Pruebas a mano: prefiere una noticia con cifras clave (para ver las gráficas del Reel)
   requireVideo?: boolean; // Solo historias con video libre (Creative Commons) del hecho (pruebas a mano; no gasta IA en las que no tienen)
   activeChannels: {
+    facebook: boolean;
+    telegram: boolean;
+    bluesky: boolean;
+    linkedIn: boolean;
+    instagram?: boolean;
+    facebookReel?: boolean;
+    mastodon?: boolean;
+    threads?: boolean;
+    youtube?: boolean;
+  };
+}
+
+export const DEFAULT_AUTONOMOUS_CONFIG: AutonomousConfig = {
+  maxDailyPosts: 16,
+  minSpacingHours: 0.75,
+  maxPendingInQueue: 3,
+  activeHoursStart: 6,
+  activeHoursEnd: 23,
+  breakingThreshold: 90,
+  maxBreakingPerDay: 4,
+  maxArticleAgeHours: 24,
+  activeChannels: {
     facebook: true,
     telegram: false,
     bluesky: false,
