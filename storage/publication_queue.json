@@ -1303,12 +1303,13 @@
         "close": "Read the full analysis at the link in bio."
       },
       "rawImageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/745298",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-07T18:56:29.261Z",
       "cardImageUrl": "/news-cards/news-0x4qzikew-1794077789262.jpg",
       "reelCoverUrl": "/news-cards/news-0x4qzikew-1794077789839-cover.jpg",
       "instagramCardUrl": "/news-cards/news-0x4qzikew-1794077790350-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/noticias/syria-denies-troop-deployments-yemen-military-df4o/"
+      "articleUrl": "https://blindspotglobal.pages.dev/noticias/syria-denies-troop-deployments-yemen-military-df4o/",
+      "publishedAt": "2026-11-07T23:36:12.078Z"
     },
     "channels": {
       "facebook": true,
@@ -1322,10 +1323,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-07T23:33:48.437Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-07T18:56:31.344Z"
+    "createdAt": "2026-11-07T18:56:31.344Z",
+    "lastAttemptAt": "2026-11-07T23:34:03.774Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122101572345539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18135693469667056",
+        "permalink": "https://www.instagram.com/reel/DfdYAA7ghxa/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-07T23:36:12.078Z"
   },
   {
     "id": "queue-1794082944383-wbz96",
