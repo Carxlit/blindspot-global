@@ -7,9 +7,34 @@
     "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc3dhRUNwSGJWV1dTZnk5T1FMX29yUFI2NzF6RFNYcmU4ZExfYlY5aVMtMnJZZFpNOXRyNTNfV0V3VmM2VGNsODVYVmJmWlQyQ0Z4QzRIdnQzUTFBTFc1U1JJTjVoU3pha1prNjJnc1BFc3JKYWc5WWVoeGgtdXhJU1Z3?oc=5",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdWFoalVjYUd5cFBzeWxSX3pKY1o0eG8wczAtaHYtSW5FckxtSkNoTXExWXlUY09ETUM3ZGVGS3lyRGFfeDh4bVJ0eER2YXp3dm1hclg3RzRHaktReWwxb1Zzdl9JWTJ0WVhpYWgxeUd6RWV4SkFUWU5DMDI0N0tYS3hMd1hIQU1kb3dCMUZzdng5VVlBUVhERlFMT0FvSldhcERMQ3ZXNHhPTkprenZKYW5waUxodHFTZFE?oc=5"
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdWFoalVjYUd5cFBzeWxSX3pKY1o0eG8wczAtaHYtSW5FckxtSkNoTXExWXlUY09ETUM3ZGVGS3lyRGFfeDh4bVJ0eER2YXp3dm1hclg3RzRHaktReWwxb1Zzdl9JWTJ0WVhpYWgxeUd6RWV4SkFUWU5DMDI0N0tYS3hMd1hIQU1kb3dCMUZzdng5VVlBUVhERlFMT0FvSldhcERMQ3ZXNHhPTkprenZKYW5waUxodHFTZFE?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxONEFvcW0yMFZtXzY2UHp6SVc1cHZLTGh6NzhfdUFZSU5zMTRaWVFXYzZUQWc5RkVMcFJfQU1nQjFwTDZZS2lDTFZSWmFIOFEwZ3A2QTVoRkV4RXZBSGRwOF95OHgxbWx3Z0pXWTd0Nm50Yzd4bnRNTktFTDRXZXdJVnc2M2w?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "GUNMAN KILLS SIX PEOPLE IN POLISH CITY OF KRAKOW",
+      "normalizedTokens": [
+        "gunman",
+        "kills",
+        "six",
+        "people",
+        "polish",
+        "city",
+        "krakow"
+      ],
+      "date": "2026-11-07T20:22:24.384Z"
+    },
+    {
+      "title": "Gunman kills six in Kraków shooting",
+      "normalizedTokens": [
+        "gunman",
+        "kills",
+        "six",
+        "krakow",
+        "shooting"
+      ],
+      "date": "2026-11-07T20:22:24.384Z"
+    },
     {
       "title": "SYRIA DENIES DEPLOYING TROOPS TO YEMEN AMID SAUDI RAPPROCHEMENT",
       "normalizedTokens": [

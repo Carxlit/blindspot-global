@@ -1306,5 +1306,150 @@
     "attempts": 0,
     "maxAttempts": 3,
     "createdAt": "2026-11-07T18:56:31.344Z"
+  },
+  {
+    "id": "queue-1794082944383-wbz96",
+    "news": {
+      "id": "hc227eda8",
+      "originalUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONEFvcW0yMFZtXzY2UHp6SVc1cHZLTGh6NzhfdUFZSU5zMTRaWVFXYzZUQWc5RkVMcFJfQU1nQjFwTDZZS2lDTFZSWmFIOFEwZ3A2QTVoRkV4RXZBSGRwOF95OHgxbWx3Z0pXWTd0Nm50Yzd4bnRNTktFTDRXZXdJVnc2M2w?oc=5",
+      "originalTitle": "Gunman kills six in Kraków shooting",
+      "sourceName": "Financial Times",
+      "category": "SECURITY & DEFENSE",
+      "urgencyScore": 84,
+      "headline": "GUNMAN KILLS SIX PEOPLE IN POLISH CITY OF KRAKOW",
+      "subHeadline": "A mass shooting in the historic center of Krakow has left six people dead and 15 others injured, according to Polish police and local authorities.",
+      "blindSpotAngle": "While public attention focuses on immediate law enforcement responses, the attack underscores growing strain on Poland's internal security apparatus as resources are redirected toward eastern border defense. The incident threatens to trigger sharp political debates in Warsaw regarding urban surveillance and public safety posture amid heightened regional tension.",
+      "facebookPost": "A gunman opened fire in the historic center of Krakow, killing six people and injuring 15 others, according to reports from Polish police and international media outlets. Emergency services converged on the scene as authorities secured the surrounding area and launched a comprehensive investigation into the motives and identity of the shooter.\n\nWhile mainstream coverage centers on the immediate casualty count, the attack exposes critical vulnerabilities in internal urban security at a time when Central European police forces are disproportionately focused on border monitoring and critical infrastructure protection. The incident forces a tactical reassessment of how domestic security forces balance regional defense readiness with municipal crime control.\n\nWill this tragedy force Warsaw to fundamentally restructure its domestic intelligence and policing priorities?\n\nSource: Financial Times\n\n#Security #Poland #Blindspot",
+      "telegramPost": "<b>GUNMAN KILLS SIX PEOPLE IN POLISH CITY OF KRAKOW</b>\n\n• <b>What happened:</b> A gunman opened fire in the historic center of Krakow, leaving six dead and 15 injured before law enforcement intervened.\n• <b>Why it matters:</b> The attack highlights vulnerabilities in major Central European urban centers as national security focus has largely shifted toward frontline external defense.\n• <b>What is next:</b> Polish authorities will face immediate political pressure to expand urban surveillance and reevaluate domestic security resource allocation.",
+      "linkedInPost": "The recent shooting in Krakow, which resulted in six fatalities and 15 injuries, highlights broader institutional challenges facing security management in Central Europe. As regional governments maintain focus on border defense and critical infrastructure security, municipal risk management and urban intelligence mechanisms face unprecedented operational stress.\n\nFor enterprise resilience officers and regional analysts, the event signals potential shifts in municipal safety protocols, localized public transport disruptions, and political debates over gun legislation and surveillance regulation across Poland. Monitoring how domestic intelligence agencies adjust asset deployment between frontline defense and internal security will be vital for assessing regional political stability.\n\nSource: Financial Times\n\n#Security #Geopolitics #Blindspot",
+      "blueskyPost": "Six dead and 15 injured in a Krakow shooting. Beyond the headline lies a critical challenge for Polish internal security under operational strain. #Blindspot #Security",
+      "copies": {
+        "facebook": "A gunman opened fire in the historic center of Krakow, killing six people and injuring 15 others, according to reports from Polish police and international media outlets. Emergency services converged on the scene as authorities secured the surrounding area and launched a comprehensive investigation into the motives and identity of the shooter.\n\nWhile mainstream coverage centers on the immediate casualty count, the attack exposes critical vulnerabilities in internal urban security at a time when Central European police forces are disproportionately focused on border monitoring and critical infrastructure protection. The incident forces a tactical reassessment of how domestic security forces balance regional defense readiness with municipal crime control.\n\nWill this tragedy force Warsaw to fundamentally restructure its domestic intelligence and policing priorities? #Security #Poland #Blindspot",
+        "telegram": "<b>GUNMAN KILLS SIX PEOPLE IN POLISH CITY OF KRAKOW</b>\n\n• <b>What happened:</b> A gunman opened fire in the historic center of Krakow, leaving six dead and 15 injured before law enforcement intervened.\n• <b>Why it matters:</b> The attack highlights vulnerabilities in major Central European urban centers as national security focus has largely shifted toward frontline external defense.\n• <b>What is next:</b> Polish authorities will face immediate political pressure to expand urban surveillance and reevaluate domestic security resource allocation.",
+        "bluesky": "Six dead and 15 injured in a Krakow shooting. Beyond the headline lies a critical challenge for Polish internal security under operational strain. #Blindspot #Security",
+        "linkedIn": "The recent shooting in Krakow, which resulted in six fatalities and 15 injuries, highlights broader institutional challenges facing security management in Central Europe. As regional governments maintain focus on border defense and critical infrastructure security, municipal risk management and urban intelligence mechanisms face unprecedented operational stress.\n\nFor enterprise resilience officers and regional analysts, the event signals potential shifts in municipal safety protocols, localized public transport disruptions, and political debates over gun legislation and surveillance regulation across Poland. Monitoring how domestic intelligence agencies adjust asset deployment between frontline defense and internal security will be vital for assessing regional political stability.\n\n#Security #Geopolitics #Blindspot"
+      },
+      "article": {
+        "slug": "mass-shooting-krakow-historic-center-leaves-tehl",
+        "title": "Mass Shooting in Krakow Historic Center Leaves Six Dead and 15 Injured",
+        "dek": "A deadly shooting in Poland's second-largest city has claimed six lives and wounded 15 others. Beyond the immediate emergency response lies a complex debate over internal policing priorities in Central Europe.",
+        "keyFacts": [
+          "Six people were killed in a shooting in Krakow's historic center.",
+          "At least 15 people sustained injuries during the attack.",
+          "Polish police secured the area and initiated a high-level investigation.",
+          "Coverage was corroborated by Financial Times, PBS, AFP, The New York Times, and Bloomberg."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "A gunman opened fire in the historic center of Krakow, killing at least six people and injuring 15 others, according to reports confirmed by Polish police and major international news agencies including Reuters and the Financial Times. Emergency responders rapidly deployed to the scene to treat victims and secure the surrounding commercial district.",
+              "Authorities cordoned off several streets in the historic center as specialized forensic teams and counter-terrorism units initiated a comprehensive search and investigation into the perpetrator's motives and background."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "Krakow is one of Poland's principal cultural and economic hubs, attracting millions of international visitors annually. Violent gun crime in Polish urban centers remains statistically rare due to stringent national firearm regulations and active municipal policing.",
+              "However, the broader security landscape in Poland has undergone significant shifts in recent years, with state security agencies reallocating significant operational manpower toward eastern border surveillance, hybrid threat mitigation, and critical infrastructure defense."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "While initial media reports focus primarily on the immediate timeline of the attack, the deeper issue concerns structural strain within Poland's domestic security architecture. Over the past two years, state resources have been heavily diverted to national defense priorities and border management.",
+              "This realignment has left municipal law enforcement agencies dealing with operational bottlenecks and reduced intelligence coverage in major metropolitan zones, creating potential security blind spots in high-density urban areas."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "Political opposition factions in Warsaw are likely to leverage the failure in municipal security to challenge the current administration's internal defense balance, demanding increased funding for domestic policing.",
+              "Conversely, the city's tourism sector and local commerce face immediate reputational fallout and heightened operational costs associated with mandatory security upgrades and reduced foot traffic."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "In the coming days, observers should monitor official announcements from the Polish Ministry of Interior regarding changes to security threat levels in major urban centers.",
+              "Key metrics to follow include proposed legislative adjustments to public surveillance powers, police staffing reallocations, and the political response within the Polish parliament."
+            ]
+          }
+        ],
+        "tags": [
+          "Poland",
+          "Krakow",
+          "Security",
+          "Internal Affairs",
+          "Europe"
+        ],
+        "sources": [
+          {
+            "name": "Financial Times",
+            "title": "Mass Shooting in Krakow Historic Center Leaves Six Dead and 15 Injured",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONEFvcW0yMFZtXzY2UHp6SVc1cHZLTGh6NzhfdUFZSU5zMTRaWVFXYzZUQWc5RkVMcFJfQU1nQjFwTDZZS2lDTFZSWmFIOFEwZ3A2QTVoRkV4RXZBSGRwOF95OHgxbWx3Z0pXWTd0Nm50Yzd4bnRNTktFTDRXZXdJVnc2M2w?oc=5"
+          },
+          {
+            "name": "PBS",
+            "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEozNUhxc2hPRTQybGNPanV1UUktRGp1UjVuel9nOFVjTGxJbmVPN29kczQzbnk3QlhqVEZTWG8wR1RsUUx3Z3AyQWJ3MWRMcEpLbDlIRWFCRWNvSjF2WGZFMzN0Sk1PbEVlVktjZUc0YXpmbUo3RDdvWEhocWhrV3lIWHdDamxwUGZuMVBwRzJqUHp3VXZsdjE0MHFsZE55dU5EX0JRRm5Dd1VEbm9V0gG0AUFVX3lxTE9yOV9Nbm9YSHR2cHhmOWNGNTEyVDl0eUl6eG1qTEcwQkZVVVRfSkFKNndvbVdXUEdLcnRKblhISUh5alpEbVMxQVl5T1FadjFoUDJlS2F2Ymlwa2ZjbXBBYVkyOFJYUWJhWE1oSF85dkYwUldpRXp2X1ZhZ0M2TkRmaS1rLVFSaHc5RkxyU01Nd1RzTWlQU2RqWEFZMW16TWs0ckdJdy1zYUoyUWg2Z29uWFViSg?oc=5"
+          },
+          {
+            "name": "AFP.com",
+            "title": "Gunman kills six in historic centre of Poland's Krakow",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tUkV1OFNjWktWUm4yVnljQWg5MHdmMDlXSnlyRE5pNHRIUEQ2T1dTS3BxR1JzN2RPTGd1R3ZEa2c4dG4tanYtQi1ZR3NlS0xDZmVHX1BycnU0REY0RW5ZMXpEbGdRYm4tOTFmWGxZdnVKUzN0YnVteHBB?oc=5"
+          },
+          {
+            "name": "The New York Times",
+            "title": "Gunman Opens Fire in Krakow, Killing at Least 6, Polish Police Say",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObkx0c1ppY3BJRjhPbmhyaUdzdVU3RE94RDFvQkprdkJWbGJ0YVRIM3pkc1pwaEFvVGJyaHNwdDlOcWtKc3JwOHFRLXRMN2RHdWN4eXpEQ1YxSWs5YW83M29Vd3hhcDVuUDdXM0JrRWpGWTg0S0NOeFFNYmRaaFU2OA?oc=5"
+          },
+          {
+            "name": "Bloomberg.com",
+            "title": "Gunman Kills Six People in Krakow, Polish Police Say",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZldLSDJIZzlCNHZ3Wkk0OUdudGMyU29relpRQThWdGVUSm5jYVhSVVpoeUhCdnMtaUlEUlpwMFVUVGdYR1NMb2Q2UzFjeDNVaWszY1dOUUxBakJoZG9VbEMwc0dudmRoRmF0QjVBYnIyUUJxRFd3OWNpRjByTDE5X3I2RUFPbFRZYWRKX1IwUWp4eDc5TUtxazl3TTlxNmktRThidUxFWWo?oc=5"
+          }
+        ],
+        "wordCount": 353
+      },
+      "videoScript": {
+        "hook": "A mass shooting in historic Krakow has left six people dead.",
+        "beats": [
+          "Polish police confirmed six killed and 15 injured during the attack in the city center.",
+          "Here is the catch: Poland has shifted massive security resources toward its borders, straining urban policing.",
+          "What nobody is talking about is how this realignment created internal security gaps."
+        ],
+        "close": "Read our full geopolitical analysis at the link in bio."
+      },
+      "sourceVideo": {
+        "provider": "youtube",
+        "id": "jmOZxRFOp2s",
+        "title": "Kraków shooting horror: Brave police officer hunts down gunman in dramatic confrontation",
+        "channel": "Kanal13",
+        "license": "cc-by"
+      },
+      "status": "pending",
+      "createdAt": "2026-11-07T20:22:22.691Z",
+      "cardImageUrl": "/news-cards/news-hc227eda8-1794082942692.jpg",
+      "reelCoverUrl": "/news-cards/news-hc227eda8-1794082943281-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-hc227eda8-1794082943823-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/noticias/mass-shooting-krakow-historic-center-leaves-tehl/"
+    },
+    "channels": {
+      "facebook": true,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": true,
+      "mastodon": false,
+      "threads": false,
+      "youtube": true
+    },
+    "scheduledFor": "2026-11-08T00:34:48.437Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-07T20:22:24.383Z"
   }
 ]

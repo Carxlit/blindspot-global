@@ -43,5 +43,10 @@
     "relevant": true,
     "reason": "The image shows an armed combatant in Yemen, visually representing the conflict zone where troop deployments are being discussed.",
     "at": "2026-11-07T18:56:27.284Z"
+  },
+  "6fca7cd259b8f20b:hc227eda8": {
+    "relevant": false,
+    "reason": "The image depicts a scene in Zagreb, Croatia (as indicated by the street signs and license plates), not a mass shooting in Krakow, Poland.",
+    "at": "2026-11-07T20:22:20.090Z"
   }
 }

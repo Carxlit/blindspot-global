@@ -1,5 +1,107 @@
 [
   {
+    "slug": "mass-shooting-krakow-historic-center-leaves-tehl",
+    "path": "noticias/mass-shooting-krakow-historic-center-leaves-tehl/",
+    "title": "Mass Shooting in Krakow Historic Center Leaves Six Dead and 15 Injured",
+    "headline": "GUNMAN KILLS SIX PEOPLE IN POLISH CITY OF KRAKOW",
+    "dek": "A deadly shooting in Poland's second-largest city has claimed six lives and wounded 15 others. Beyond the immediate emergency response lies a complex debate over internal policing priorities in Central Europe.",
+    "category": "SECURITY & DEFENSE",
+    "sourceName": "Financial Times",
+    "image": "img/mass-shooting-krakow-historic-center-leaves-tehl.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "jmOZxRFOp2s",
+      "title": "Kraków shooting horror: Brave police officer hunts down gunman in dramatic confrontation",
+      "channel": "Kanal13",
+      "license": "cc-by"
+    },
+    "publishedAt": "2026-11-07T20:22:24.355Z",
+    "article": {
+      "slug": "mass-shooting-krakow-historic-center-leaves-tehl",
+      "title": "Mass Shooting in Krakow Historic Center Leaves Six Dead and 15 Injured",
+      "dek": "A deadly shooting in Poland's second-largest city has claimed six lives and wounded 15 others. Beyond the immediate emergency response lies a complex debate over internal policing priorities in Central Europe.",
+      "keyFacts": [
+        "Six people were killed in a shooting in Krakow's historic center.",
+        "At least 15 people sustained injuries during the attack.",
+        "Polish police secured the area and initiated a high-level investigation.",
+        "Coverage was corroborated by Financial Times, PBS, AFP, The New York Times, and Bloomberg."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "A gunman opened fire in the historic center of Krakow, killing at least six people and injuring 15 others, according to reports confirmed by Polish police and major international news agencies including Reuters and the Financial Times. Emergency responders rapidly deployed to the scene to treat victims and secure the surrounding commercial district.",
+            "Authorities cordoned off several streets in the historic center as specialized forensic teams and counter-terrorism units initiated a comprehensive search and investigation into the perpetrator's motives and background."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Krakow is one of Poland's principal cultural and economic hubs, attracting millions of international visitors annually. Violent gun crime in Polish urban centers remains statistically rare due to stringent national firearm regulations and active municipal policing.",
+            "However, the broader security landscape in Poland has undergone significant shifts in recent years, with state security agencies reallocating significant operational manpower toward eastern border surveillance, hybrid threat mitigation, and critical infrastructure defense."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While initial media reports focus primarily on the immediate timeline of the attack, the deeper issue concerns structural strain within Poland's domestic security architecture. Over the past two years, state resources have been heavily diverted to national defense priorities and border management.",
+            "This realignment has left municipal law enforcement agencies dealing with operational bottlenecks and reduced intelligence coverage in major metropolitan zones, creating potential security blind spots in high-density urban areas."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Political opposition factions in Warsaw are likely to leverage the failure in municipal security to challenge the current administration's internal defense balance, demanding increased funding for domestic policing.",
+            "Conversely, the city's tourism sector and local commerce face immediate reputational fallout and heightened operational costs associated with mandatory security upgrades and reduced foot traffic."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "In the coming days, observers should monitor official announcements from the Polish Ministry of Interior regarding changes to security threat levels in major urban centers.",
+            "Key metrics to follow include proposed legislative adjustments to public surveillance powers, police staffing reallocations, and the political response within the Polish parliament."
+          ]
+        }
+      ],
+      "tags": [
+        "Poland",
+        "Krakow",
+        "Security",
+        "Internal Affairs",
+        "Europe"
+      ],
+      "sources": [
+        {
+          "name": "Financial Times",
+          "title": "Mass Shooting in Krakow Historic Center Leaves Six Dead and 15 Injured",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONEFvcW0yMFZtXzY2UHp6SVc1cHZLTGh6NzhfdUFZSU5zMTRaWVFXYzZUQWc5RkVMcFJfQU1nQjFwTDZZS2lDTFZSWmFIOFEwZ3A2QTVoRkV4RXZBSGRwOF95OHgxbWx3Z0pXWTd0Nm50Yzd4bnRNTktFTDRXZXdJVnc2M2w?oc=5"
+        },
+        {
+          "name": "PBS",
+          "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEozNUhxc2hPRTQybGNPanV1UUktRGp1UjVuel9nOFVjTGxJbmVPN29kczQzbnk3QlhqVEZTWG8wR1RsUUx3Z3AyQWJ3MWRMcEpLbDlIRWFCRWNvSjF2WGZFMzN0Sk1PbEVlVktjZUc0YXpmbUo3RDdvWEhocWhrV3lIWHdDamxwUGZuMVBwRzJqUHp3VXZsdjE0MHFsZE55dU5EX0JRRm5Dd1VEbm9V0gG0AUFVX3lxTE9yOV9Nbm9YSHR2cHhmOWNGNTEyVDl0eUl6eG1qTEcwQkZVVVRfSkFKNndvbVdXUEdLcnRKblhISUh5alpEbVMxQVl5T1FadjFoUDJlS2F2Ymlwa2ZjbXBBYVkyOFJYUWJhWE1oSF85dkYwUldpRXp2X1ZhZ0M2TkRmaS1rLVFSaHc5RkxyU01Nd1RzTWlQU2RqWEFZMW16TWs0ckdJdy1zYUoyUWg2Z29uWFViSg?oc=5"
+        },
+        {
+          "name": "AFP.com",
+          "title": "Gunman kills six in historic centre of Poland's Krakow",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tUkV1OFNjWktWUm4yVnljQWg5MHdmMDlXSnlyRE5pNHRIUEQ2T1dTS3BxR1JzN2RPTGd1R3ZEa2c4dG4tanYtQi1ZR3NlS0xDZmVHX1BycnU0REY0RW5ZMXpEbGdRYm4tOTFmWGxZdnVKUzN0YnVteHBB?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Gunman Opens Fire in Krakow, Killing at Least 6, Polish Police Say",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObkx0c1ppY3BJRjhPbmhyaUdzdVU3RE94RDFvQkprdkJWbGJ0YVRIM3pkc1pwaEFvVGJyaHNwdDlOcWtKc3JwOHFRLXRMN2RHdWN4eXpEQ1YxSWs5YW83M29Vd3hhcDVuUDdXM0JrRWpGWTg0S0NOeFFNYmRaaFU2OA?oc=5"
+        },
+        {
+          "name": "Bloomberg.com",
+          "title": "Gunman Kills Six People in Krakow, Polish Police Say",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZldLSDJIZzlCNHZ3Wkk0OUdudGMyU29relpRQThWdGVUSm5jYVhSVVpoeUhCdnMtaUlEUlpwMFVUVGdYR1NMb2Q2UzFjeDNVaWszY1dOUUxBakJoZG9VbEMwc0dudmRoRmF0QjVBYnIyUUJxRFd3OWNpRjByTDE5X3I2RUFPbFRZYWRKX1IwUWp4eDc5TUtxazl3TTlxNmktRThidUxFWWo?oc=5"
+        }
+      ],
+      "wordCount": 353
+    },
+    "blindSpot": "While public attention focuses on immediate law enforcement responses, the attack underscores growing strain on Poland's internal security apparatus as resources are redirected toward eastern border defense. The incident threatens to trigger sharp political debates in Warsaw regarding urban surveillance and public safety posture amid heightened regional tension."
+  },
+  {
     "slug": "syria-denies-troop-deployments-yemen-military-df4o",
     "path": "noticias/syria-denies-troop-deployments-yemen-military-df4o/",
     "title": "Syria denies troop deployments to Yemen as military channels with Saudi Arabia open",
