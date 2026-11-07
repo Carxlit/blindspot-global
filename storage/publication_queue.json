@@ -303,12 +303,13 @@
         "title": "Five killed and at least 10 injured in Krakow shooting | #AJ shorts",
         "channel": "Al Jazeera English"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-07T17:01:52.294Z",
       "cardImageUrl": "/news-cards/news-v50b6puwa-1794070912295.jpg",
       "reelCoverUrl": "/news-cards/news-v50b6puwa-1794070912858-cover.jpg",
       "instagramCardUrl": "/news-cards/news-v50b6puwa-1794070913407-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/noticias/armed-attack-krakow-exposes-security-vulnerabilities-0hjw/"
+      "articleUrl": "https://blindspotglobal.pages.dev/noticias/armed-attack-krakow-exposes-security-vulnerabilities-0hjw/",
+      "publishedAt": "2026-11-07T17:09:03.458Z"
     },
     "channels": {
       "facebook": true,
@@ -322,10 +323,54 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-07T17:01:54.519Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-07T17:01:54.518Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-07T17:06:31.847Z",
+    "results": {
+      "telegram": {
+        "success": false,
+        "skipped": true,
+        "error": "Canal sin credenciales configuradas (omitido)"
+      },
+      "bluesky": {
+        "success": false,
+        "skipped": true,
+        "error": "Canal sin credenciales configuradas (omitido)"
+      },
+      "mastodon": {
+        "success": false,
+        "skipped": true,
+        "error": "Canal sin credenciales configuradas (omitido)"
+      },
+      "threads": {
+        "success": false,
+        "skipped": true,
+        "error": "Canal sin credenciales configuradas (omitido)"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Canal sin credenciales configuradas (omitido)"
+      },
+      "facebook": {
+        "success": true,
+        "postId": "122101356225539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17877590703586303",
+        "permalink": "https://www.instagram.com/reel/DfcrtOlCbtD/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      }
+    },
+    "publishedAt": "2026-11-07T17:09:03.458Z"
   }
 ]
