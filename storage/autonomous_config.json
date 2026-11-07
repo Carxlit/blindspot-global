@@ -1,7 +1,7 @@
 {
   "maxDailyPosts": 16,
   "minSpacingHours": 0.75,
-  "maxPendingInQueue": 3,
+  "maxPendingInQueue": 2,
   "activeHoursStart": 6,
   "activeHoursEnd": 23,
   "activeChannels": {

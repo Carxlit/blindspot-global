@@ -66,9 +66,9 @@ export const SCOUT_FEEDS: ExpandedFeedConfig[] = [
   { url: 'https://www.thehindu.com/news/international/feeder/default.rss', sourceName: 'The Hindu', category: 'GEOPOLITICS', weight: 7 },
   { url: 'https://www.japantimes.co.jp/feed/', sourceName: 'The Japan Times', category: 'GEOPOLITICS', weight: 8 },
   { url: gnews('site:asia.nikkei.com when:1d'), sourceName: 'Nikkei Asia', category: 'GLOBAL ECONOMY', weight: 9 },
-  { url: 'https://kyivindependent.com/feed/', sourceName: 'The Kyiv Independent', category: 'SECURITY & DEFENSE', weight: 8 },
-  { url: 'https://www.timesofisrael.com/feed/', sourceName: 'The Times of Israel', category: 'GEOPOLITICS', weight: 8 },
-  { url: 'https://www.middleeasteye.net/rss', sourceName: 'Middle East Eye', category: 'GEOPOLITICS', weight: 7 },
+  { url: gnews('site:kyivindependent.com when:1d', 'en-US', 'US:en'), sourceName: 'The Kyiv Independent', category: 'SECURITY & DEFENSE', weight: 8 },
+  { url: gnews('site:timesofisrael.com when:1d', 'en-US', 'US:en'), sourceName: 'The Times of Israel', category: 'GEOPOLITICS', weight: 8 },
+  { url: gnews('site:middleeasteye.net when:1d', 'en-US', 'US:en'), sourceName: 'Middle East Eye', category: 'GEOPOLITICS', weight: 7 },
   { url: 'https://www.africanews.com/feed/rss', sourceName: 'Africanews', category: 'POWER & SOCIETY', weight: 7 },
 
   // ============================================================================
@@ -144,7 +144,6 @@ export const SCOUT_FEEDS: ExpandedFeedConfig[] = [
   { url: 'https://www.lasillavacia.com/feed/', sourceName: 'La Silla Vacía', category: 'POWER & SOCIETY', weight: 8 },
   { url: 'https://www.clarin.com/rss/mundo/', sourceName: 'Clarín', category: 'POWER & SOCIETY', weight: 7 },
   { url: 'https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml', sourceName: 'La Nación', category: 'GLOBAL ECONOMY', weight: 7 },
-  { url: 'https://www.reforma.com/rss/internacional.xml', sourceName: 'Reforma', category: 'GEOPOLITICS', weight: 7 },
   { url: 'https://elcomercio.pe/arc/outboundfeeds/rss/category/mundo/?outputType=xml', sourceName: 'El Comercio', category: 'GEOPOLITICS', weight: 7 },
   { url: 'https://www.ciperchile.cl/feed/', sourceName: 'CIPER Chile', category: 'POWER & SOCIETY', weight: 8 },
   { url: gnews('México OR Brasil OR Argentina OR Colombia OR Venezuela OR Chile OR Perú OR Ecuador OR Cuba OR El Salvador when:1d', 'es-419', 'US:es-419'), sourceName: 'Latin America Radar', category: 'GEOPOLITICS', weight: 8 },
@@ -152,7 +151,7 @@ export const SCOUT_FEEDS: ExpandedFeedConfig[] = [
 
 /** Severe events in the headline (deaths, disasters, war, coups, attacks), in English and Spanish */
 export const SEVERE_EVENT = new RegExp(
-  '\\b(plane crash|crashes|killed|dead|dies|death toll|massacre|terror attack|terrorist attack|attack|earthquake|tsunami|hurricane|eruption|invasion|declares war|coup|explosion|hostages|assassination|assassinated|shooting|airstrike|bombing|' +
+  '\\b(plane crash|crashes|killed|kills|killing|gunman|dead|dies|death toll|massacre|terror attack|terrorist attack|attack|earthquake|tsunami|hurricane|eruption|invasion|declares war|coup|explosion|hostages|assassination|assassinated|shooting|airstrike|bombing|' +
     'muertos?|fallecid|mueren|muri[oó]|masacre|atentado|terremoto|sismo|tsunami|hurac[aá]n|erupci[oó]n|invasi[oó]n|declara la guerra|golpe de estado|explosi[oó]n|bombardeo|rehenes|se estrell[oó]|accidente a[eé]reo)\\b',
   'i'
 );
@@ -335,6 +334,31 @@ function matchesStoryCorpus(candidateTitle: string, storyTitles: string[]): bool
   return false;
 }
 
+
+/**
+ * Hechos graves en el mismo lugar con redacción distinta ("Five killed in armed attack in Krakow" vs
+ * "Gunman kills six people in Polish city of Krakow"): comparten un nombre propio poco común y ambos son graves.
+ * Solo dentro de 24 h del original; después hay que exigir novedad igualmente (la exige el llamador).
+ */
+function matchesSevereSamePlace(candidateTitle: string, storyTitles: string[], now: number, item: any): boolean {
+  if (!SEVERE_EVENT.test(candidateTitle)) return false;
+  const origText = storyTitles.join(' ');
+  if (!SEVERE_EVENT.test(origText)) return false;
+  const refMs = new Date(item.publishedAt || item.createdAt || 0).getTime();
+  if (!Number.isFinite(refMs) || now - refMs > 24 * 3_600_000) return false;
+  const specific = (text: string) =>
+    new Set(extractEventTokens(text).filter((t) => t.length >= 5 && !/^\d+$/.test(t) && !GENERIC_EVENT_TOKENS.has(t) && !SEVERE_TOKEN_ROOTS.has(t)));
+  const a = specific(candidateTitle);
+  const b = specific(origText);
+  return Array.from(a).some((t) => b.has(t));
+}
+
+const SEVERE_TOKEN_ROOTS = new Set([
+  'killed', 'kills', 'killin', 'attack', 'people', 'deadly', 'shooti', 'gunman', 'police', 'wounde', 'injure',
+  'armed', 'dozens', 'least', 'leaves', 'opens', 'fire', 'strike', 'airstr', 'explos', 'bombin', 'toll',
+  'muerto', 'heridos', 'ataque', 'armado', 'deja',
+]);
+
 export interface MatchUpdateOptions {
   now?: number;
   queue?: any[];
@@ -371,7 +395,8 @@ export function matchStoryUpdate(candidateTitle: string, opts: MatchUpdateOption
     const storyTitles = [news.originalTitle, news.headline, news.article?.title].filter(Boolean) as string[];
     const matchesByTitle =
       (opts.matchedTitle && storyTitles.some((t) => t.trim() === opts.matchedTitle!.trim())) ||
-      matchesStoryCorpus(candidateTitle, storyTitles);
+      matchesStoryCorpus(candidateTitle, storyTitles) ||
+      matchesSevereSamePlace(candidateTitle, storyTitles, now, item);
     if (!matchesByTitle) continue;
 
     const pubMs = new Date(item.publishedAt || news.publishedAt || item.createdAt).getTime();

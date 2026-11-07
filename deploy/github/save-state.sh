@@ -2,7 +2,7 @@
 # Guarda en el repositorio el estado de la redacción (cola, historial, sitio, tarjetas).
 # Escribe site=true|false en $GITHUB_OUTPUT para decidir si hay que republicar el sitio.
 set -e
-git config user.name "punto-ciego-bot"
+git config user.name "blindspot-bot"
 git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 git add storage/*.json site public/news-cards
 if [ -f storage/.ai-cooldown.json ]; then git add -f storage/.ai-cooldown.json; fi

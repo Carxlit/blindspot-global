@@ -1492,7 +1492,7 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-08T00:34:48.437Z",
-    "status": "queued",
+    "status": "expired",
     "attempts": 0,
     "maxAttempts": 3,
     "createdAt": "2026-11-07T20:22:24.383Z"

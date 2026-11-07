@@ -59,7 +59,7 @@ export interface AutonomousConfig {
 export const DEFAULT_AUTONOMOUS_CONFIG: AutonomousConfig = {
   maxDailyPosts: 16,
   minSpacingHours: 0.75,
-  maxPendingInQueue: 3,
+  maxPendingInQueue: 2,
   activeHoursStart: 6,
   activeHoursEnd: 23,
   breakingThreshold: 90,
@@ -265,7 +265,7 @@ export function calculateNextPostSchedule(config: AutonomousConfig = getAutonomo
   // se concentra cuando más gente está conectada en Latinoamérica
   const nextHour = new Date(reference + config.minSpacingHours * 3_600_000).getHours();
   const peak = PEAK_HOURS.some(([from, to]) => nextHour >= from && nextHour < to);
-  const spacingMinutes = Math.floor(config.minSpacingHours * 60 * (peak ? 1 : 1.9)) + Math.floor(Math.random() * 25);
+  const spacingMinutes = Math.floor(config.minSpacingHours * 60 * (peak ? 1 : 1.3)) + Math.floor(Math.random() * 25);
   const fromReference = reference + spacingMinutes * 60 * 1000;
   // Si no hay nada reciente, salir en 10-25 minutos
   const soonest = now + (Math.floor(Math.random() * 15) + 10) * 60 * 1000;
