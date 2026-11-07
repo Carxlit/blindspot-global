@@ -848,12 +848,13 @@
         "close": "Read the full analysis at the link in our bio."
       },
       "rawImageUrl": "https://shattered.io/wp-content/uploads/2026/11/us-cleared-nvidia-h200-chips-new-matrix-empty-office-17-months-2026.webp",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-07T18:01:38.304Z",
       "cardImageUrl": "/news-cards/news-hm0epg68x-1794074498305.jpg",
       "reelCoverUrl": "/news-cards/news-hm0epg68x-1794074498883-cover.jpg",
       "instagramCardUrl": "/news-cards/news-hm0epg68x-1794074499418-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/noticias/us-export-controls-fail-nvidia-ai-4yos/"
+      "articleUrl": "https://blindspotglobal.pages.dev/noticias/us-export-controls-fail-nvidia-ai-4yos/",
+      "publishedAt": "2026-11-07T18:54:47.285Z"
     },
     "channels": {
       "facebook": true,
@@ -867,10 +868,29 @@
       "youtube": false
     },
     "scheduledFor": "2026-11-07T18:52:48.437Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-07T18:01:40.456Z"
+    "createdAt": "2026-11-07T18:01:40.456Z",
+    "lastAttemptAt": "2026-11-07T18:53:03.751Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122101421019539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18088819628316346",
+        "permalink": "https://www.instagram.com/reel/Dfc3zj9mFEh/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      }
+    },
+    "publishedAt": "2026-11-07T18:54:47.285Z"
   },
   {
     "id": "queue-1794075373097-uzznc",
