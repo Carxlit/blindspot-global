@@ -9,9 +9,43 @@
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc3dhRUNwSGJWV1dTZnk5T1FMX29yUFI2NzF6RFNYcmU4ZExfYlY5aVMtMnJZZFpNOXRyNTNfV0V3VmM2VGNsODVYVmJmWlQyQ0Z4QzRIdnQzUTFBTFc1U1JJTjVoU3pha1prNjJnc1BFc3JKYWc5WWVoeGgtdXhJU1Z3?oc=5",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdWFoalVjYUd5cFBzeWxSX3pKY1o0eG8wczAtaHYtSW5FckxtSkNoTXExWXlUY09ETUM3ZGVGS3lyRGFfeDh4bVJ0eER2YXp3dm1hclg3RzRHaktReWwxb1Zzdl9JWTJ0WVhpYWgxeUd6RWV4SkFUWU5DMDI0N0tYS3hMd1hIQU1kb3dCMUZzdng5VVlBUVhERlFMT0FvSldhcERMQ3ZXNHhPTkprenZKYW5waUxodHFTZFE?oc=5",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxONEFvcW0yMFZtXzY2UHp6SVc1cHZLTGh6NzhfdUFZSU5zMTRaWVFXYzZUQWc5RkVMcFJfQU1nQjFwTDZZS2lDTFZSWmFIOFEwZ3A2QTVoRkV4RXZBSGRwOF95OHgxbWx3Z0pXWTd0Nm50Yzd4bnRNTktFTDRXZXdJVnc2M2w?oc=5",
-    "https://www.eltiempo.com/mundo/latinoamerica/fiscalia-de-paraguay-imputa-y-pide-prision-para-expresidente-pena-por-crisis-bancaria-3599271"
+    "https://www.eltiempo.com/mundo/latinoamerica/fiscalia-de-paraguay-imputa-y-pide-prision-para-expresidente-pena-por-crisis-bancaria-3599271",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT0ZpbFlMQ1c0aUdqYzRvblJSaWtBV2JYeHdsT09uM2JzUlVEMUZ5XzAzUE1iNklJN0hrWnczZzJ0M1ItVl9zR2NwNHRjX1RkV21jdE1fUEtPZDJtSFFTWGczT0hmR1dwYUZqVmYtd0NtTHlHUkZlT2JrZDBqTkIxd3ZPRnhwMks0ZENNRldhQnZ1ekdURUpkdXpTbGI2bnM?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "POPE LEO XIV BEGINS SOUTH AMERICAN TOUR IN URUGUAY",
+      "normalizedTokens": [
+        "pope",
+        "leo",
+        "xiv",
+        "begins",
+        "south",
+        "american",
+        "tour",
+        "uruguay"
+      ],
+      "date": "2026-11-07T23:38:29.450Z"
+    },
+    {
+      "title": "Pope Leo XIV arrives in Uruguay at start of South American tour less than a month after lung surgery",
+      "normalizedTokens": [
+        "pope",
+        "leo",
+        "xiv",
+        "arrives",
+        "uruguay",
+        "start",
+        "south",
+        "american",
+        "tour",
+        "less",
+        "month",
+        "lung",
+        "surgery"
+      ],
+      "date": "2026-11-07T23:38:29.450Z"
+    },
     {
       "title": "PARAGUAY PROSECUTORS CHARGE FORMER PRESIDENT PEÑA OVER BANK COLLAPSE",
       "normalizedTokens": [

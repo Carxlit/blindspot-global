@@ -53,5 +53,15 @@
     "relevant": true,
     "reason": "The photo shows Santiago Peña, the main subject of the headline.",
     "at": "2026-11-07T21:56:16.813Z"
+  },
+  "a6897e933beab175:m4yo96syg": {
+    "relevant": false,
+    "reason": "The image shows another Catholic prelate and does not depict the Pope mentioned in the headline.",
+    "at": "2026-11-07T23:38:20.242Z"
+  },
+  "d4603e7ef9a5802b:m4yo96syg": {
+    "relevant": true,
+    "reason": "The image clearly shows Pope Leo XIV waving from a popemobile amidst large crowds, directly illustrating his tour and public appearance in Uruguay.",
+    "at": "2026-11-07T23:38:25.949Z"
   }
 }
