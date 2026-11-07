@@ -74,7 +74,7 @@ export const DEFAULT_AUTONOMOUS_CONFIG: AutonomousConfig = {
     facebookReel: true,
     mastodon: false,
     threads: false,
-    youtube: false,
+    youtube: true,
   },
 };
 

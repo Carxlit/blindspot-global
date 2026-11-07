@@ -13,6 +13,6 @@
     "facebookReel": true,
     "mastodon": false,
     "threads": false,
-    "youtube": false
+    "youtube": true
   }
 }
