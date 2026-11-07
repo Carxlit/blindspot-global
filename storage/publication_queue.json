@@ -1015,12 +1015,13 @@
         "channel": "HUM News International",
         "license": "cc-by"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-07T18:16:10.846Z",
       "cardImageUrl": "/news-cards/news-qimymvsx0-1794075370846.jpg",
       "reelCoverUrl": "/news-cards/news-qimymvsx0-1794075371469-cover.jpg",
       "instagramCardUrl": "/news-cards/news-qimymvsx0-1794075372025-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/noticias/structural-realities-behind-2026-u-s-apcw/"
+      "articleUrl": "https://blindspotglobal.pages.dev/noticias/structural-realities-behind-2026-u-s-apcw/",
+      "publishedAt": "2026-11-07T20:20:49.898Z"
     },
     "channels": {
       "facebook": true,
@@ -1034,10 +1035,29 @@
       "youtube": false
     },
     "scheduledFor": "2026-11-07T20:18:48.437Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-07T18:16:13.097Z"
+    "createdAt": "2026-11-07T18:16:13.097Z",
+    "lastAttemptAt": "2026-11-07T20:19:03.837Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122101474335539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18128182688302032",
+        "permalink": "https://www.instagram.com/reel/DfdBpfJgNOf/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Reel no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      }
+    },
+    "publishedAt": "2026-11-07T20:20:49.898Z"
   },
   {
     "id": "queue-1794077002949-rp5tl",
