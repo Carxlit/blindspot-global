@@ -1146,11 +1146,12 @@
         ],
         "close": "Read the full analysis at the link in bio."
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-07T18:43:21.089Z",
       "cardImageUrl": "/news-cards/news-f1z0engly-1794077001089.jpg",
       "reelCoverUrl": "/news-cards/news-f1z0engly-1794077001757-cover.jpg",
-      "instagramCardUrl": "/news-cards/news-f1z0engly-1794077002347-ig.jpg"
+      "instagramCardUrl": "/news-cards/news-f1z0engly-1794077002347-ig.jpg",
+      "publishedAt": "2026-11-07T21:54:27.126Z"
     },
     "channels": {
       "facebook": true,
@@ -1164,10 +1165,29 @@
       "youtube": false
     },
     "scheduledFor": "2026-11-07T21:52:48.437Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-07T18:43:22.949Z"
+    "createdAt": "2026-11-07T18:43:22.949Z",
+    "lastAttemptAt": "2026-11-07T21:53:03.540Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122101522167539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18100611110556755",
+        "permalink": "https://www.instagram.com/reel/DfdMYa8CVbr/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      }
+    },
+    "publishedAt": "2026-11-07T21:54:27.126Z"
   },
   {
     "id": "queue-1794077791344-kjtzf",
