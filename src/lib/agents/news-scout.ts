@@ -678,6 +678,15 @@ export async function runNewsScout(limitPerFeed: number = 3): Promise<RawArticle
     }
   }
 
+  // Redacción en inglés: los titulares en español solo entran si son importantes (hecho grave, urgencia alta o agencia de primer nivel)
+  const SPANISH_TITLE = new RegExp('[áéíóúñ¿¡]|\\b(el|la|los|las|del|por|para|con|una|tras|sobre|ante|entre|segun|dice|gobierno|contra)\\b', 'i');
+  for (let i = candidates.length - 1; i >= 0; i--) {
+    const c = candidates[i];
+    if (SPANISH_TITLE.test(c.title) && !(SEVERE_EVENT.test(c.title) || (c.urgencyScore || 0) >= 85 || c.tier1)) {
+      candidates.splice(i, 1);
+    }
+  }
+
   candidates.sort((a, b) => (b.urgencyScore || 0) - (a.urgencyScore || 0));
   const unique: RawArticle[] = [];
   const seenUpdateSlugs = new Set<string>();

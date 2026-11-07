@@ -289,8 +289,8 @@ function appendPublishedHistory(news: ProcessedNews) {
 function currentSiteArticleUrl(url?: string): string | undefined {
   const base = getPublicSiteUrl();
   if (!url || !base) return url;
-  const i = url.indexOf('/noticias/');
-  return i >= 0 ? `${base}${url.slice(i)}` : url;
+  const i = url.search(new RegExp('/(noticias|news)/'));
+  return i >= 0 ? `${base}${url.slice(i).replace('/noticias/', '/news/')}` : url;
 }
 
 /**

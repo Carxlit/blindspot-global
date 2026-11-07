@@ -4,7 +4,7 @@ import { SITE_CATEGORIES, categoryLabel, categoryPath } from './categories';
 
 export interface SiteEntry {
   slug: string;
-  path: string; // relativo a la raíz del sitio, p. ej. "noticias/<slug>/"
+  path: string; // relativo a la raíz del sitio, p. ej. "news/<slug>/"
   title: string;
   headline: string;
   dek: string;
@@ -37,7 +37,7 @@ export function esc(text: unknown): string {
 }
 
 /**
- * Formatea el <title> al formato "Titular | Punto Ciego" (máximo 60 caracteres, recorta con "…")
+ * Formatea el <title> al formato "Titular | Blindspot" (máximo 60 caracteres, recorta con "…")
  */
 export function formatPageTitle(headline: string, siteName = SITE_NAME, maxLen = 60): string {
   const suffix = ` | ${siteName}`;
@@ -428,7 +428,7 @@ function footer(root: string, config: SiteConfig) {
 <div class="cols3">
 <div><div class="logo">Blind<span>spot</span></div><p>${esc(config.siteDescription || DEFAULT_DESCRIPTION)}</p></div>
 <div><h4>Sections</h4><nav aria-label="Sections">${sections}</nav></div>
-<div><h4>About</h4><nav aria-label="About"><a href="${root}quienes-somos/">About Us</a><a href="${root}contacto/">Contact</a><a href="${root}aviso-legal/">Legal Notice</a><a href="${root}privacidad/">Privacy</a><a href="${root}cookies/">Cookies</a><a href="${root}rss.xml">RSS</a>${
+<div><h4>About</h4><nav aria-label="About"><a href="${root}about/">About Us</a><a href="${root}contact/">Contact</a><a href="${root}legal-notice/">Legal Notice</a><a href="${root}privacy/">Privacy</a><a href="${root}cookies/">Cookies</a><a href="${root}rss.xml">RSS</a>${
     config.donationUrl ? `<a href="${esc(config.donationUrl)}" rel="noopener" target="_blank">Support Us</a>` : ''
   }</nav>${socialLinks ? `<h4 style="margin-top:18px">Follow Us</h4><nav aria-label="Social">${socialLinks}</nav>` : ''}</div>
 </div>
@@ -585,7 +585,7 @@ export function renderArticlePage(entry: SiteEntry, baseUrl: string, ctx: Articl
   const originalHref = originalEntry
     ? `${root}${esc(originalEntry.path)}`
     : entry.updateOf
-      ? `${root}noticias/${esc(entry.updateOf)}/`
+      ? `${root}news/${esc(entry.updateOf)}/`
       : undefined;
 
   const updateEntry =
@@ -594,7 +594,7 @@ export function renderArticlePage(entry: SiteEntry, baseUrl: string, ctx: Articl
   const updateHref = updateEntry
     ? `${root}${esc(updateEntry.path)}`
     : entry.updatedBy
-      ? `${root}noticias/${esc(entry.updatedBy)}/`
+      ? `${root}news/${esc(entry.updatedBy)}/`
       : undefined;
 
   const updateNotices = [

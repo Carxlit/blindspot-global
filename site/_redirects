@@ -1,0 +1,5 @@
+/noticias/* /news/:splat 301
+/quienes-somos/* /about/ 301
+/contacto/* /contact/ 301
+/aviso-legal/* /legal-notice/ 301
+/privacidad/* /privacy/ 301

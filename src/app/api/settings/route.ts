@@ -19,7 +19,7 @@ export async function GET() {
         telegramChatId: creds.telegramChatId || '',
         blueskyHandle: creds.blueskyHandle || '',
         blueskyPassword: creds.blueskyPassword || '',
-        brandName: creds.brandName || 'Punto Ciego',
+        brandName: creds.brandName || 'Blindspot',
       },
     });
   } catch (error: any) {

@@ -97,7 +97,7 @@ export default function AutoNewsDashboard() {
 
   const [telegramToken, setTelegramToken] = useState('');
   const [telegramChatId, setTelegramChatId] = useState('');
-  const [blueskyHandle, setBlueskyHandle] = useState('puntociegoglobal.bsky.social');
+  const [blueskyHandle, setBlueskyHandle] = useState('blindspotglobal.bsky.social');
   const [blueskyPassword, setBlueskyPassword] = useState('');
 
   const [isSettingsOpen, setIsSettingsOpen] = useState(false);
@@ -140,7 +140,7 @@ export default function AutoNewsDashboard() {
           ...prev,
           facebookPageId: c.facebookPageId || '1418440394683304',
           facebookAccessToken: c.facebookAccessToken || '',
-          brandName: c.brandName || 'Punto Ciego',
+          brandName: c.brandName || 'Blindspot',
         }));
         if (c.telegramToken) setTelegramToken(c.telegramToken);
         if (c.telegramChatId) setTelegramChatId(c.telegramChatId);
@@ -677,7 +677,7 @@ export default function AutoNewsDashboard() {
             <div>
               <div className="flex items-center gap-2">
                 <h1 className="text-xl font-black tracking-tight text-white uppercase font-sans">
-                  Punto Ciego
+                  Blindspot
                 </h1>
                 <span className="text-[10px] font-mono font-bold bg-red-950 text-red-400 border border-red-800/80 px-2 py-0.5 rounded-full tracking-wider">
                   PIPELINE MULTI-AGENTE
@@ -1162,13 +1162,13 @@ export default function AutoNewsDashboard() {
                     )}
                   </div>
 
-                  {/* Resumen del "Punto Ciego" detectado por el Agente 2 */}
+                  {/* Resumen del "Blindspot" detectado por el Agente 2 */}
                   {currentNews.blindSpotAngle && (
                     <div className="mt-3 p-3 rounded-xl bg-slate-950 border border-red-950/80 flex items-start gap-2.5">
                       <ShieldAlert className="h-4 w-4 text-red-400 shrink-0 mt-0.5" />
                       <div>
                         <div className="text-[11px] font-bold uppercase text-red-400 tracking-wider">
-                          El "Punto Ciego" Identificado
+                          El "Blindspot" Identificado
                         </div>
                         <p className="text-xs text-slate-300 mt-0.5 leading-relaxed">
                           {currentNews.blindSpotAngle}
@@ -1449,7 +1449,7 @@ export default function AutoNewsDashboard() {
                 <div className="p-2.5 rounded-lg bg-blue-950/40 border border-blue-900/60 text-[11px] text-blue-200 leading-relaxed">
                   <p className="font-bold text-white mb-1">💡 ¿Cómo generar el token correcto en Meta?</p>
                   <ol className="list-decimal pl-4 space-y-0.5 text-slate-300">
-                    <li>En Graph API Explorer, en el desplegable <b>&quot;User or Page&quot;</b>, selecciona <b>Punto Ciego</b> (Token de Página, no de usuario).</li>
+                    <li>En Graph API Explorer, en el desplegable <b>&quot;User or Page&quot;</b>, selecciona <b>Blindspot</b> (Token de Página, no de usuario).</li>
                     <li>Permisos requeridos: <code className="bg-slate-900 px-1 py-0.2 rounded text-blue-300 font-mono">pages_manage_posts</code>, <code className="bg-slate-900 px-1 py-0.2 rounded text-blue-300 font-mono">pages_read_engagement</code>.</li>
                     <li>Copia el token y pulsa <b>Probar Token en Vivo</b>. <i>(Si pegas un Token de Usuario administrador, intentaremos convertirlo a Token de Página automáticamente).</i></li>
                   </ol>
@@ -1515,7 +1515,7 @@ export default function AutoNewsDashboard() {
                   )}
 
                   <p className="text-[10px] text-slate-500 mt-1.5">
-                    Página verificada: Punto Ciego (ID: 1418440394683304).
+                    Página verificada: Blindspot (ID: 1418440394683304).
                   </p>
                 </div>
               </div>
@@ -1569,7 +1569,7 @@ export default function AutoNewsDashboard() {
                     type="text"
                     value={blueskyHandle}
                     onChange={(e) => setBlueskyHandle(e.target.value)}
-                    placeholder="puntociegoglobal.bsky.social"
+                    placeholder="blindspotglobal.bsky.social"
                     className="w-full bg-slate-900 border border-slate-800 rounded-lg px-3 py-2 text-xs text-white font-mono"
                   />
                 </div>
@@ -1584,7 +1584,7 @@ export default function AutoNewsDashboard() {
                     className="w-full bg-slate-900 border border-slate-800 rounded-lg px-3 py-2 text-xs text-white font-mono"
                   />
                   <p className="text-[10px] text-slate-500 mt-1">
-                    Cuenta: @puntociegoglobal.bsky.social (Publica automáticamente con tarjeta de imagen).
+                    Cuenta: @blindspotglobal.bsky.social (Publica automáticamente con tarjeta de imagen).
                   </p>
                 </div>
               </div>
@@ -1594,7 +1594,7 @@ export default function AutoNewsDashboard() {
                 <div className="flex items-center justify-between">
                   <h4 className="text-xs font-bold uppercase tracking-wider text-indigo-400 flex items-center gap-2">
                     <span className="h-2 w-2 rounded-full bg-indigo-500" />
-                    LinkedIn Página de Empresa (Punto Ciego)
+                    LinkedIn Página de Empresa (Blindspot)
                   </h4>
                   <span className="text-[10px] text-emerald-400 font-mono">Playwright CDP (Puerto 9222)</span>
                 </div>
@@ -1608,7 +1608,7 @@ export default function AutoNewsDashboard() {
                     className="w-full bg-slate-900 border border-slate-800 rounded-lg px-3 py-2 text-xs text-slate-300 font-mono cursor-not-allowed"
                   />
                   <p className="text-[10px] text-slate-500 mt-1">
-                    Página oficial: <b>Punto Ciego (ID: 146916345)</b>. Publica en modo empresa con copy estratégico e imagen split-screen, manteniendo seguros tus perfiles personales.
+                    Página oficial: <b>Blindspot (ID: 146916345)</b>. Publica en modo empresa con copy estratégico e imagen split-screen, manteniendo seguros tus perfiles personales.
                   </p>
                 </div>
               </div>

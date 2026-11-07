@@ -10,7 +10,7 @@ export interface CardGenerationOptions {
 
 /**
  * Agente 4: Director de Arte / Card Studio
- * Mantiene la probada composición visual split-screen de Punto Ciego (62% foto limpia, 38% editorial)
+ * Mantiene la probada composición visual split-screen de Blindspot (62% foto limpia, 38% editorial)
  * con renderizado de alta velocidad y fidelidad en Playwright.
  */
 export async function runVisualEngine(

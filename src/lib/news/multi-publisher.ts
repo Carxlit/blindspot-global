@@ -389,7 +389,7 @@ export async function publishOmnichannel(
     );
   }
 
-  // 5. LinkedIn (Página de Empresa Punto Ciego vía CDP)
+  // 5. LinkedIn (Página de Empresa Blindspot vía CDP)
   if (config?.linkedIn?.enabled) {
     results.linkedIn = await publishToLinkedInCompany(news);
   }

@@ -117,7 +117,7 @@ export interface PipelineOptions {
 }
 
 /**
- * Orquestador Central del Pipeline Multi-Agente "Punto Ciego"
+ * Orquestador Central del Pipeline Multi-Agente "Blindspot"
  * Coordina la ejecución secuencial y paralela de los 5 agentes especializados.
  */
 export async function runEditorialPipeline(

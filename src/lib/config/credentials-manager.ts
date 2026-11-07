@@ -42,7 +42,7 @@ export function getStoredCredentials(): StoredCredentials {
         telegramChatId: data.telegramChatId || process.env.TELEGRAM_CHAT_ID,
         blueskyHandle: data.blueskyHandle || process.env.BLUESKY_HANDLE,
         blueskyPassword: data.blueskyPassword || process.env.BLUESKY_APP_PASSWORD,
-        brandName: data.brandName || process.env.PAGE_BRAND_NAME || 'Punto Ciego',
+        brandName: data.brandName || process.env.PAGE_BRAND_NAME || 'Blindspot',
         updatedAt: data.updatedAt,
       };
     }
@@ -57,7 +57,7 @@ export function getStoredCredentials(): StoredCredentials {
     telegramChatId: process.env.TELEGRAM_CHAT_ID,
     blueskyHandle: process.env.BLUESKY_HANDLE,
     blueskyPassword: process.env.BLUESKY_APP_PASSWORD,
-    brandName: process.env.PAGE_BRAND_NAME || 'Punto Ciego',
+    brandName: process.env.PAGE_BRAND_NAME || 'Blindspot',
   };
 }
 
@@ -118,7 +118,7 @@ export function saveStoredCredentials(updates: Partial<StoredCredentials>): Stor
 
 /**
  * Valida un token contra la API de Meta Graph y, si es un token de usuario,
- * extrae automáticamente el Page Access Token oficial de "Punto Ciego"
+ * extrae automáticamente el Page Access Token oficial de "Blindspot"
  */
 export async function validateFacebookToken(
   token: string,
@@ -142,7 +142,7 @@ export async function validateFacebookToken(
         valid: true,
         isPageToken: true,
         pageId: pageData.id,
-        pageName: pageData.name || 'Punto Ciego',
+        pageName: pageData.name || 'Blindspot',
         resolvedToken: cleanToken,
       };
     }
@@ -188,7 +188,7 @@ export async function validateFacebookToken(
         return {
           valid: false,
           isPageToken: false,
-          error: `El usuario (${meData.name}) no administra la página con ID ${targetPageId}. Páginas encontradas: ${availablePages || 'ninguna'}. Asegúrate de otorgar permisos a la aplicación sobre Punto Ciego.`,
+          error: `El usuario (${meData.name}) no administra la página con ID ${targetPageId}. Páginas encontradas: ${availablePages || 'ninguna'}. Asegúrate de otorgar permisos a la aplicación sobre Blindspot.`,
         };
       }
     }

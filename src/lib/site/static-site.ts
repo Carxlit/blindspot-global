@@ -28,7 +28,7 @@ import { SITE_CATEGORIES, categoryPath } from './categories';
  * lo despliega con el comando configurado y devuelve la URL pública para adjuntarla en los posts.
  *
  * Configuración (.env.local):
- * - PUBLIC_SITE_URL: dominio público del sitio (p. ej. https://puntociego.pages.dev). Vacío = sin enlace en posts.
+ * - PUBLIC_SITE_URL: dominio público del sitio (p. ej. https://blindspotglobal.pages.dev). Vacío = sin enlace en posts.
  * - SITE_DEPLOY_COMMAND: comando que sube la carpeta site/ (p. ej. un deploy de Cloudflare Pages o un git push).
  * Monetización, analítica, contacto y redes: storage/site_config.json (ver site_config.example.json).
  */
@@ -52,7 +52,7 @@ export function getSiteEntries(): SiteEntry[] {
 }
 
 function articlePath(slug: string) {
-  return `noticias/${slug}/`;
+  return `news/${slug}/`;
 }
 
 const sortLatest = (entries: SiteEntry[]) => [...entries].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
@@ -117,6 +117,11 @@ export function rebuildSiteIndex(entries: SiteEntry[] = getSiteEntries()) {
   fs.writeFileSync(
     path.join(SITE_DIR, 'robots.txt'),
     `User-agent: *\nAllow: /\n${baseUrl ? `Sitemap: ${baseUrl}/sitemap.xml\nSitemap: ${baseUrl}/news-sitemap.xml\n` : ''}`
+  );
+  // Enlaces ya publicados en redes con las rutas antiguas en español
+  fs.writeFileSync(
+    path.join(SITE_DIR, '_redirects'),
+    ['/noticias/* /news/:splat 301', '/quienes-somos/* /about/ 301', '/contacto/* /contact/ 301', '/aviso-legal/* /legal-notice/ 301', '/privacidad/* /privacy/ 301', ''].join('\n')
   );
   const adsTxtPath = path.join(SITE_DIR, 'ads.txt');
   if (config.adsTxt) fs.writeFileSync(adsTxtPath, `${config.adsTxt}\n`);
@@ -241,7 +246,7 @@ export async function publishArticleToSite(news: ProcessedNews): Promise<string 
   try {
     const baseUrl = getPublicSiteUrl();
     const relPath = articlePath(article.slug);
-    const dir = path.join(SITE_DIR, 'noticias', article.slug);
+    const dir = path.join(SITE_DIR, 'news', article.slug);
     fs.mkdirSync(dir, { recursive: true });
 
     // Copiar la tarjeta como imagen del artículo y de la vista previa social (og:image)

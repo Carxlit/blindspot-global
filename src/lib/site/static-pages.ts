@@ -28,7 +28,7 @@ export function getStaticPages(config: SiteConfig = {}): StaticPage[] {
 
   return [
     {
-      rel: 'quienes-somos/',
+      rel: 'about/',
       title: 'About Us',
       description: `What ${SITE_NAME} is, our editorial approach, and how we produce each piece.`,
       updated,
@@ -48,7 +48,7 @@ export function getStaticPages(config: SiteConfig = {}): StaticPage[] {
 ${contactLine}`,
     },
     {
-      rel: 'contacto/',
+      rel: 'contact/',
       title: 'Contact',
       description: `Contact the ${SITE_NAME} editorial team: corrections, press inquiries, and questions.`,
       updated,
@@ -66,7 +66,7 @@ ${
 <p>When writing to request a correction, please include the article link and the verifiable source supporting the correction.</p>`,
     },
     {
-      rel: 'aviso-legal/',
+      rel: 'legal-notice/',
       title: 'Legal Notice',
       description: `Terms of use, intellectual property, and limitation of liability for ${SITE_NAME}.`,
       updated,
@@ -85,7 +85,7 @@ ${contactLine}
 <p>Content is informational and analytical in nature; it does not constitute financial, legal, or any other professional advice. ${SITE_NAME} is not responsible for the content of external sites linked as reference sources.</p>`,
     },
     {
-      rel: 'privacidad/',
+      rel: 'privacy/',
       title: 'Privacy Policy',
       description: `How we handle personal data, cookies, and third-party services on ${SITE_NAME}.`,
       updated,

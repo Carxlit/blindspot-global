@@ -60,7 +60,7 @@ async function dismissLinkedInOverlays(page: any) {
 }
 
 /**
- * Publica una noticia con texto e imagen en la Página de Empresa oficial de Punto Ciego
+ * Publica una noticia con texto e imagen en la Página de Empresa oficial de Blindspot
  * en LinkedIn mediante Playwright CDP sobre el navegador en ejecución (puerto 9222).
  * 
  * GARANTÍA DE PRIVACIDAD Y SEGURIDAD:
@@ -107,7 +107,7 @@ export async function publishToLinkedInCompany(
 
     // Doble verificación de seguridad de URL: SOLO publicar en la página de empresa
     if (!page.url().includes(PUNTO_CIEGO_COMPANY_ID)) {
-      throw new Error(`[Seguridad] La página actual (${page.url()}) no pertenece a la empresa Punto Ciego (${PUNTO_CIEGO_COMPANY_ID}). Operación abortada.`);
+      throw new Error(`[Seguridad] La página actual (${page.url()}) no pertenece a la empresa Blindspot (${PUNTO_CIEGO_COMPANY_ID}). Operación abortada.`);
     }
 
     // Ruta de la imagen de portada
@@ -182,7 +182,7 @@ export async function publishToLinkedInCompany(
       throw new Error('El editor de LinkedIn siguió abierto tras pulsar "Publicar"; no se confirma la publicación.');
     }
 
-    console.log('[LinkedIn] Noticia publicada con éxito en la Página de Empresa Punto Ciego.');
+    console.log('[LinkedIn] Noticia publicada con éxito en la Página de Empresa Blindspot.');
 
     return {
       success: true,
