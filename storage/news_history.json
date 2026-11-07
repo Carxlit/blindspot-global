@@ -1,9 +1,38 @@
 {
   "seenUrls": [
     "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
-    "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss"
+    "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01Z21MaS1UMnZrUWRfSE8zM2x0NnVrVkRaYXJiQ1lMVWJJWjZtRGpLWm9rcFljaWVNVm9VRWExbUxOZUV3WUJQNEd0Sm5ZZXBFdnkwRldXTTN3OTA?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "SAUDI AIRSTRIKES IN YEMEN REVIVE DORMANT WAR AS REGIONAL CONFLICT EXPANDS",
+      "normalizedTokens": [
+        "saudi",
+        "airstrikes",
+        "yemen",
+        "revive",
+        "dormant",
+        "war",
+        "regional",
+        "conflict",
+        "expands"
+      ],
+      "date": "2026-11-07T17:41:46.540Z"
+    },
+    {
+      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "normalizedTokens": [
+        "houthis",
+        "say",
+        "least",
+        "killed",
+        "saudi",
+        "air",
+        "strike"
+      ],
+      "date": "2026-11-07T17:41:46.540Z"
+    },
     {
       "title": "FIVE KILLED IN ARMED ATTACK IN KRAKOW",
       "normalizedTokens": [

@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+Sitemap: https://blindspotglobal.pages.dev/sitemap.xml
+Sitemap: https://blindspotglobal.pages.dev/news-sitemap.xml
