@@ -114,12 +114,13 @@
         "close": "Read the complete geopolitical analysis at the link in our bio."
       },
       "rawImageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aef4b9de861a-1794067357.jpg?resize=1920%2C1440",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-07T17:01:29.649Z",
       "cardImageUrl": "/news-cards/news-anyyfkj17-1794070889649.jpg",
       "reelCoverUrl": "/news-cards/news-anyyfkj17-1794070890477-cover.jpg",
       "instagramCardUrl": "/news-cards/news-anyyfkj17-1794070891117-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/noticias/guatemalan-lawmaker-murder-highlights-rising-political-8hdh/"
+      "articleUrl": "https://blindspotglobal.pages.dev/noticias/guatemalan-lawmaker-murder-highlights-rising-political-8hdh/",
+      "publishedAt": "2026-11-07T17:15:38.978Z"
     },
     "channels": {
       "facebook": true,
@@ -133,12 +134,12 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-07T17:04:37.864Z",
-    "status": "queued",
-    "attempts": 1,
+    "status": "published",
+    "attempts": 2,
     "maxAttempts": 3,
     "createdAt": "2026-11-07T17:01:32.440Z",
     "isBreaking": true,
-    "lastAttemptAt": "2026-11-07T17:01:33.171Z",
+    "lastAttemptAt": "2026-11-07T17:13:06.840Z",
     "results": {
       "telegram": {
         "success": false,
@@ -176,11 +177,12 @@
         "simulated": false
       },
       "instagram": {
-        "success": false,
-        "error": "Instagram: Only photo or video can be accepted as media type."
+        "success": true,
+        "mediaId": "17992328106070728",
+        "permalink": "https://www.instagram.com/reel/Dfcsdp8iRTk/"
       }
     },
-    "error": "Reintento 1/3: instagram: Instagram: Only photo or video can be accepted as media type."
+    "publishedAt": "2026-11-07T17:15:38.978Z"
   },
   {
     "id": "queue-1794070914518-xa3tw",
