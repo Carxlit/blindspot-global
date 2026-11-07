@@ -1,1 +1,34 @@
-{"seenUrls":[],"processedSignatures":[]}
+{
+  "seenUrls": [
+    "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss"
+  ],
+  "processedSignatures": [
+    {
+      "title": "GUATEMALAN LAWMAKER AND POLICE OFFICERS KILLED IN ZACAPA ATTACK",
+      "normalizedTokens": [
+        "guatemalan",
+        "lawmaker",
+        "police",
+        "officers",
+        "killed",
+        "zacapa",
+        "attack"
+      ],
+      "date": "2026-11-07T17:01:32.440Z"
+    },
+    {
+      "title": "Guatemalan lawmaker and three police officers killed in armed attack",
+      "normalizedTokens": [
+        "guatemalan",
+        "lawmaker",
+        "three",
+        "police",
+        "officers",
+        "killed",
+        "armed",
+        "attack"
+      ],
+      "date": "2026-11-07T17:01:32.440Z"
+    }
+  ]
+}
