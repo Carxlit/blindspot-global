@@ -6,9 +6,39 @@
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdy03MThZT2Q5VW9VY2Fid2VucU1HMlJ1MkZRUVZ4RHdXSFhmc1RGZnhBTGRNcnVRUTF1TnQ2RzBZSjh6ZUtJd1QxS3Z4Y2wyRGdHTEloVEhOQVR5ckxhckM0Y2p1Yk1qQnpfcW1MSW5tcUNLeHcydmZRYXowbmVWNG5uRThpLXBFZl8tdlZVUlQ5cDNsdGNhSmZpQjJrWUZnTUYta1FkcEFpMXhyT29VOHRrQV9hTmV4SDY00gHAAUFVX3lxTE4yWk5OZ1NNMGE0TVBKd2Iwd2Q3ei1HM0c2VGM4WWFvdEFYcFVTVUZUS2ZWZkpXc3Fkb21PR2RtTG1palRtRks1eDVDOW5aTEExWDB0ZnhXY0JHV29jdW1SNmtIQUtWUTVMakhkQnV5aDdXM1FjTGp3MjNvZkdqOUpGbEVLM0l5clJlejNGSzU0YWNlMmJMM0o4Nm5rYU95Vmw0ODBSLW0yZnluRWVtMUJDOEdveXJGM3NJa3NmRzI2bg?oc=5",
     "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc3dhRUNwSGJWV1dTZnk5T1FMX29yUFI2NzF6RFNYcmU4ZExfYlY5aVMtMnJZZFpNOXRyNTNfV0V3VmM2VGNsODVYVmJmWlQyQ0Z4QzRIdnQzUTFBTFc1U1JJTjVoU3pha1prNjJnc1BFc3JKYWc5WWVoeGgtdXhJU1Z3?oc=5"
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc3dhRUNwSGJWV1dTZnk5T1FMX29yUFI2NzF6RFNYcmU4ZExfYlY5aVMtMnJZZFpNOXRyNTNfV0V3VmM2VGNsODVYVmJmWlQyQ0Z4QzRIdnQzUTFBTFc1U1JJTjVoU3pha1prNjJnc1BFc3JKYWc5WWVoeGgtdXhJU1Z3?oc=5",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdWFoalVjYUd5cFBzeWxSX3pKY1o0eG8wczAtaHYtSW5FckxtSkNoTXExWXlUY09ETUM3ZGVGS3lyRGFfeDh4bVJ0eER2YXp3dm1hclg3RzRHaktReWwxb1Zzdl9JWTJ0WVhpYWgxeUd6RWV4SkFUWU5DMDI0N0tYS3hMd1hIQU1kb3dCMUZzdng5VVlBUVhERlFMT0FvSldhcERMQ3ZXNHhPTkprenZKYW5waUxodHFTZFE?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "SYRIA DENIES DEPLOYING TROOPS TO YEMEN AMID SAUDI RAPPROCHEMENT",
+      "normalizedTokens": [
+        "syria",
+        "denies",
+        "deploying",
+        "troops",
+        "yemen",
+        "saudi",
+        "rapprochement"
+      ],
+      "date": "2026-11-07T18:56:31.346Z"
+    },
+    {
+      "title": "Syria denies plans to send troops to Yemen as Saudi military ties deepen",
+      "normalizedTokens": [
+        "syria",
+        "denies",
+        "plans",
+        "send",
+        "troops",
+        "yemen",
+        "saudi",
+        "military",
+        "ties",
+        "deepen"
+      ],
+      "date": "2026-11-07T18:56:31.346Z"
+    },
     {
       "title": "NAVARRO SIGNALS MASSIVE ESCALATION IN TRADE TARIFFS",
       "normalizedTokens": [

@@ -38,5 +38,10 @@
     "relevant": false,
     "reason": "The image is a podcast or media logo featuring a stylized train and text, not a visual representation of Peter Navarro or trade tariff escalation.",
     "at": "2026-11-07T18:43:19.425Z"
+  },
+  "f8108430741071c4:0x4qzikew": {
+    "relevant": true,
+    "reason": "The image shows an armed combatant in Yemen, visually representing the conflict zone where troop deployments are being discussed.",
+    "at": "2026-11-07T18:56:27.284Z"
   }
 }
