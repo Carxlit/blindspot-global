@@ -734,5 +734,142 @@
       }
     },
     "publishedAt": "2026-11-07T17:44:40.160Z"
+  },
+  {
+    "id": "queue-1794074500456-4q1w2",
+    "news": {
+      "id": "hm0epg68x",
+      "originalUrl": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "originalTitle": "The US let Nvidia sell chips to an empty office in China",
+      "sourceName": "The Verge",
+      "category": "TECHNOLOGY & AI",
+      "urgencyScore": 92,
+      "headline": "US EXPORT CONTROLS FAIL AS NVIDIA CHIPS REACH EMPTY CHINESE SHELL FIRMS",
+      "subHeadline": "Federal regulators cleared high-end Nvidia H200 AI chips for distribution to Chinese entities with empty offices and direct ties to blacklisted private equity.",
+      "blindSpotAngle": "The real story is not merely a bureaucratic oversight, but the transactional nature of the new export regime. By taking a 15-percent cut of sales, the government has financial incentives to maximize export volume rather than enforce stringent national security vetting.",
+      "facebookPost": "The federal government has approved the sale of advanced Nvidia H200 AI chips to Chinese firms, bypassing existing trade restrictions. Yet investigations reveal that one approved buyer, New Matrix, operates out of an empty office with dangling wires and has direct ties to a firm blacklisted by the US since 2024.\n\nWhile officials relaxed previous bans after securing a 15-percent cut of all sales and navigating intense lobbying, the vetting process appears to be little more than a rubber stamp for opaque shell companies.\n\nHow can national security controls remain credible when revenue-sharing models incentivize regulatory blind eyes?\n\nSource: The Verge\n\n#TechnologyAndAI #Semiconductors #Blindspot",
+      "telegramPost": "<b>US EXPORT CONTROLS FAIL AS NVIDIA CHIPS REACH EMPTY CHINESE SHELL FIRMS</b>\n\n• <b>What happened:</b> The US government approved the sale of Nvidia H200 AI chips to Chinese firms with direct ties to blacklisted entities, including a company whose listed office is an empty shell with no corporate record.\n• <b>Why it matters:</b> The administration relaxed prior restrictions after striking a deal for a 15-percent cut of sales, creating a fundamental conflict of interest between enforcement and revenue generation.\n• <b>What is next:</b> Expect mounting bipartisan scrutiny over Commerce Department vetting procedures as advanced computing hardware routinely bypasses containment barriers.",
+      "linkedInPost": "The recent approval of Nvidia H200 chip sales to opaque Chinese entities exposes critical vulnerabilities in modern tech export controls. When high-end semiconductor licenses are granted to 17-month-old shell firms with empty offices and links to blacklisted private equity, the integrity of national security vetting collapses. By tying regulatory leniency to a 15-percent government cut of sales, policymakers have misaligned financial incentives with strategic containment. Supply chain risk management cannot function when revenue generation supersedes due diligence.\n\nSource: The Verge\n\n#TechnologyAndAI #GlobalEconomy #Blindspot",
+      "blueskyPost": "US regulators cleared Nvidia H200 chips for a Chinese firm with an empty office and ties to a blacklisted entity. Security enforcement meets revenue sharing. #Blindspot #TechnologyAndAI",
+      "copies": {
+        "facebook": "The federal government has approved the sale of advanced Nvidia H200 AI chips to Chinese firms, bypassing existing trade restrictions. Yet investigations reveal that one approved buyer, New Matrix, operates out of an empty office with dangling wires and has direct ties to a firm blacklisted by the US since 2024.\n\nWhile officials relaxed previous bans after securing a 15-percent cut of all sales and navigating intense lobbying, the vetting process appears to be little more than a rubber stamp for opaque shell companies.\n\nHow can national security controls remain credible when revenue-sharing models incentivize regulatory blind eyes?\n\n#TechnologyAndAI #Semiconductors #Blindspot",
+        "telegram": "<b>US EXPORT CONTROLS FAIL AS NVIDIA CHIPS REACH EMPTY CHINESE SHELL FIRMS</b>\n\n• <b>What happened:</b> The US government approved the sale of Nvidia H200 AI chips to Chinese firms with direct ties to blacklisted entities, including a company whose listed office is an empty shell with no corporate record.\n• <b>Why it matters:</b> The administration relaxed prior restrictions after striking a deal for a 15-percent cut of sales, creating a fundamental conflict of interest between enforcement and revenue generation.\n• <b>What is next:</b> Expect mounting bipartisan scrutiny over Commerce Department vetting procedures as advanced computing hardware routinely bypasses containment barriers.",
+        "bluesky": "US regulators cleared Nvidia H200 chips for a Chinese firm with an empty office and ties to a blacklisted entity. Security enforcement meets revenue sharing. #Blindspot #TechnologyAndAI",
+        "linkedIn": "The recent approval of Nvidia H200 chip sales to opaque Chinese entities exposes critical vulnerabilities in modern tech export controls. When high-end semiconductor licenses are granted to 17-month-old shell firms with empty offices and links to blacklisted private equity, the integrity of national security vetting collapses. By tying regulatory leniency to a 15-percent government cut of sales, policymakers have misaligned financial incentives with strategic containment. Supply chain risk management cannot function when revenue generation supersedes due diligence. #TechnologyAndAI #GlobalEconomy #Blindspot"
+      },
+      "article": {
+        "slug": "us-export-controls-fail-nvidia-ai-4yos",
+        "title": "US Export Controls Fail as Nvidia AI Chips Reach Empty Chinese Shell Firms",
+        "dek": "Federal regulators have cleared advanced Nvidia processors for distribution to Chinese entities with empty offices and blacklisted backers. The lapse highlights the structural conflicts of a revenue-sharing export model.",
+        "keyFacts": [
+          "New Matrix was created 17 months ago and maintains an empty office with dangling wires.",
+          "The US government takes a 15-percent cut of all Nvidia sales to China.",
+          "Owners of approved firms have ties to a Chinese private equity firm blacklisted since 2024."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "According to reports from The New York Times and The Verge, the United States government has approved the sale of advanced Nvidia H200 AI chips to Chinese firms connected to blacklisted entities. Investigations into approved buyers revealed alarming operational vacuums.",
+              "One approved entity, New Matrix, was established 17 months ago. Investigators found that its listed office address contained no corporate directory listing, and property management staff had no record of the firm, describing the space as an empty shell with wires dangling from the ceiling."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "During the Biden presidency, strict limits barred Nvidia from selling its high-performance AI hardware to the Chinese market. However, the subsequent administration relaxed those restrictions following an intense lobbying campaign led by Nvidia CEO Jensen Huang, who also faced an alleged spying plot by China’s Ministry of State Security.",
+              "The revised framework permitted sales under a specific fiscal arrangement: Nvidia agreed to give the federal government a 15-percent cut of all transactions."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "Mainstream coverage has framed the incident as a simple bureaucratic oversight by the Commerce Department. The deeper structural reality is far more transactional.",
+              "When the state derives a direct financial percentage from high-value technology exports, the institutional incentive shifts from strict containment to maximizing transaction volume. Due diligence naturally degrades when regulatory gatekeepers become financial beneficiaries of the trade they are mandated to restrict."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "Nvidia and the US Treasury capture immediate financial upside from the high-margin hardware sales. Concurrently, Chinese intermediaries gain access to critical computing infrastructure despite existing trade prohibitions.",
+              "The losers are national security architects and allied states attempting to maintain a technological chokehold on Beijing, as containment protocols are hollowed out by profit motives."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "Congressional oversight committees are expected to demand transparency regarding the Commerce Department licensing criteria. Observers will monitor whether the administration adjusts its vetting procedures or maintains the revenue-sharing export pipeline."
+            ]
+          }
+        ],
+        "tags": [
+          "Nvidia",
+          "Semiconductors",
+          "China",
+          "ExportControls",
+          "ArtificialIntelligence"
+        ],
+        "sources": [
+          {
+            "name": "The Verge",
+            "title": "The US let Nvidia sell chips to an empty office in China",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+          },
+          {
+            "name": "shattered.io",
+            "title": "Nvidia H200 Firm Was 17 Months Old, Office Empty [2026]",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLVhjZDZQMzRId3NpZlF5bkxjeGNfZTYxbkdoTW4zdzY5dTdTaWdqS1JWTWhYUGFJOEdOeE9uTXRKeFJjQ0VZM3pLZTIxd2I3c2lQN2VBQ2JSdE5pUUhONkRtaUZFaUpLVVU0OWc0blBxVHJ6TmFFVlR0ZzExa29Id2lwMlg2NlhlalktanNsYThwTG8?oc=5"
+          },
+          {
+            "name": "The New York Times",
+            "title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRlJEVDBTejg0VUNTOGFiekp4MFdyWVkxaWg3OFpBR0Q1QW1FTTNkU2t6YzllLTlhM0hxbFUzS3VuUzhOdi1vNURJOXBzZHI4eHZ0WURLcmljcTQ3ZEM4b2c1YVRPd3hoS3phLVVtbE5YcHA5MXExajJCQUl5R2VnOFZlSGNfbUxKNjlF?oc=5"
+          },
+          {
+            "name": "Pasquale Pillitteri",
+            "title": "Report reveals Nvidia H200 China licenses went to two firms with empty offices",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaVJGOTc2Y3p1OVVwSnBtcExYMXFSY29iVk5UVjM5WThaWHN0b0NJS1otemFaNTB5SFZVZlJxX0hlY0REZTBFQjF6dDNicWNTaFFMaE1kR0Q5bnpZWEUzLUhBTkx3ejhQVndFVDFqdjRPUVYtZEtpNEVJY2ZKQ2RPdHpsaTI5RE5BVGR6djF2SG9SdEl0N0FXS2Vn?oc=5"
+          },
+          {
+            "name": "ShiftDelete.Net",
+            "title": "Nvidia H200 China Licenses Went to Firms With Empty Offices",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sUkxJaVhWcS1ZeHZ6UHg3SDdVdHFKMDRJMkRLeV85WkNKUjJ0WVk3VHdET3hqZC02QjAxU3RmaTdkX1RKVnVHOGUxRFhNUFNmS0tJWU9MRQ?oc=5"
+          }
+        ],
+        "wordCount": 333
+      },
+      "videoScript": {
+        "hook": "Why did the US government approve advanced AI chip sales to an empty office?",
+        "beats": [
+          "Washington cleared Nvidia H200 chips for Chinese firms with direct ties to blacklisted private equity.",
+          "One approved buyer, New Matrix, is a seventeen-month-old shell company with no corporate records and dangling ceiling wires.",
+          "The administration relaxed export bans after securing a fifteen percent cut of all sales."
+        ],
+        "close": "Read the full analysis at the link in our bio."
+      },
+      "rawImageUrl": "https://shattered.io/wp-content/uploads/2026/11/us-cleared-nvidia-h200-chips-new-matrix-empty-office-17-months-2026.webp",
+      "status": "pending",
+      "createdAt": "2026-11-07T18:01:38.304Z",
+      "cardImageUrl": "/news-cards/news-hm0epg68x-1794074498305.jpg",
+      "reelCoverUrl": "/news-cards/news-hm0epg68x-1794074498883-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-hm0epg68x-1794074499418-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/noticias/us-export-controls-fail-nvidia-ai-4yos/"
+    },
+    "channels": {
+      "facebook": true,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": true,
+      "mastodon": false,
+      "threads": false,
+      "youtube": false
+    },
+    "scheduledFor": "2026-11-07T18:52:48.437Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-07T18:01:40.456Z"
   }
 ]
