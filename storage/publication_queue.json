@@ -663,12 +663,13 @@
         "title": "GOP ERUPTS: Trump Elevates Stephen Miller to Chief of Staff After Midterm Massacre!",
         "channel": "Arbor Extortion"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-07T17:42:16.266Z",
       "cardImageUrl": "/news-cards/news-wj8j1zroq-1794073336266.jpg",
       "reelCoverUrl": "/news-cards/news-wj8j1zroq-1794073336875-cover.jpg",
       "instagramCardUrl": "/news-cards/news-wj8j1zroq-1794073337616-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/noticias/inside-house-gop-revolt-stephen-miller-12jg/"
+      "articleUrl": "https://blindspotglobal.pages.dev/noticias/inside-house-gop-revolt-stephen-miller-12jg/",
+      "publishedAt": "2026-11-07T17:44:40.160Z"
     },
     "channels": {
       "facebook": true,
@@ -682,10 +683,54 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-07T17:42:18.789Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-07T17:42:18.788Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-07T17:42:55.746Z",
+    "results": {
+      "telegram": {
+        "success": false,
+        "skipped": true,
+        "error": "Canal sin credenciales configuradas (omitido)"
+      },
+      "bluesky": {
+        "success": false,
+        "skipped": true,
+        "error": "Canal sin credenciales configuradas (omitido)"
+      },
+      "mastodon": {
+        "success": false,
+        "skipped": true,
+        "error": "Canal sin credenciales configuradas (omitido)"
+      },
+      "threads": {
+        "success": false,
+        "skipped": true,
+        "error": "Canal sin credenciales configuradas (omitido)"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Canal sin credenciales configuradas (omitido)"
+      },
+      "facebook": {
+        "success": true,
+        "postId": "122101378131539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18097807979661093",
+        "permalink": "https://www.instagram.com/reel/Dfcvx0mjO9H/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      }
+    },
+    "publishedAt": "2026-11-07T17:44:40.160Z"
   }
 ]
