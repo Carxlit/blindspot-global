@@ -3,5 +3,16 @@
   "minSpacingHours": 0.75,
   "maxPendingInQueue": 3,
   "activeHoursStart": 6,
-  "activeHoursEnd": 23
+  "activeHoursEnd": 23,
+  "activeChannels": {
+    "facebook": true,
+    "telegram": false,
+    "bluesky": false,
+    "linkedIn": false,
+    "instagram": true,
+    "facebookReel": true,
+    "mastodon": false,
+    "threads": false,
+    "youtube": false
+  }
 }

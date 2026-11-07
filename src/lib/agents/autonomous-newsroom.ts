@@ -44,38 +44,15 @@ export interface AutonomousConfig {
   preferStats?: boolean; // Pruebas a mano: prefiere una noticia con cifras clave (para ver las gráficas del Reel)
   requireVideo?: boolean; // Solo historias con video libre (Creative Commons) del hecho (pruebas a mano; no gasta IA en las que no tienen)
   activeChannels: {
-    facebook: boolean;
-    telegram: boolean;
-    bluesky: boolean;
-    linkedIn: boolean;
-    instagram?: boolean;
-    facebookReel?: boolean;
-    mastodon?: boolean;
-    threads?: boolean;
-    youtube?: boolean;
-  };
-}
-
-export const DEFAULT_AUTONOMOUS_CONFIG: AutonomousConfig = {
-  maxDailyPosts: 16, // Lo máximo sostenible con la cuota gratis de IA (Gemini + respaldos) y sin saturar las redes
-  minSpacingHours: 0.75, // 45-70 min en horas pico; fuera de ellas casi el doble
-  maxPendingInQueue: 3,
-  activeHoursStart: 6,
-  activeHoursEnd: 23,
-  breakingThreshold: 90, // con el refuerzo por cobertura y hechos graves del Scout, 90 deja pasar los accidentes y tragedias con varios medios detrás
-  maxBreakingPerDay: 4,
-  maxArticleAgeHours: 24,
-  activeChannels: {
     facebook: true,
-    telegram: true,
-    bluesky: true,
-    linkedIn: false, // Desactivado: publicar en páginas de empresa exige una app aprobada o Make
-    // Se usan solo si tienen credenciales (INSTAGRAM_USER_ID / MASTODON_*); si no, se omiten
+    telegram: false,
+    bluesky: false,
+    linkedIn: false,
     instagram: true,
     facebookReel: true,
-    mastodon: true,
-    threads: true,
-    youtube: true, // solo con YOUTUBE_* configurados y video real de la noticia
+    mastodon: false,
+    threads: false,
+    youtube: false,
   },
 };
 
@@ -277,7 +254,7 @@ export function calculateNextPostSchedule(config: AutonomousConfig = getAutonomo
 /**
  * Selecciona la mejor noticia del radar aplicando estrictamente la diversidad temática
  */
-const LATAM_PATTERN = /\b(colombia|colombian[oa]s?|bogot[aá]|petro|latinoam[eé]rica|am[eé]rica latina|m[eé]xico|venezuela|argentina|brasil|chile|per[uú]|ecuador|bolivia|panam[aá]|cuba|caribe|centroam[eé]rica|mercosur|celac)\b/i;
+const TIER1_GLOBAL_PATTERN = /\b(u\.?s\.?|united states|washington|white house|pentagon|congress|senate|supreme court|federal reserve|wall street|nasdaq|uk|britain|british|london|eu|european union|nato|china|beijing|taiwan|russia|moscow|ukraine|israel|iran|middle east|openai|nvidia|apple|microsoft|google|meta|tesla)\b/i;
 
 /**
  * Como selectBestDiverseArticle, pero mira los primeros candidatos (en el mismo orden de prioridad) buscando
@@ -374,9 +351,9 @@ export function selectBestDiverseArticle(
     }
 
     // 6. Audiencia latinoamericana: los hechos de la región se comparten más
-    if (LATAM_PATTERN.test(`${article.title} ${article.contentSnippet || ''}`)) {
+    if (TIER1_GLOBAL_PATTERN.test(`${article.title} ${article.contentSnippet || ''}`)) {
       score += 8;
-      rationaleParts.push('+8 (Relevante para Latinoamérica)');
+      rationaleParts.push('+8 (High-interest US/UK/Global power topic)');
     }
 
     if (score > highestScore) {
@@ -480,7 +457,7 @@ async function runCycleUnlocked(config: AutonomousConfig): Promise<CycleResult> 
   console.log('[AutonomousNewsroom] Iniciando ciclo de redacción autónoma...');
 
   // 1. Despachar la publicación en cola cuyo horario ya haya llegado
-  const dispatchResult = await dispatchDueItems();
+  const dispatchResult = process.env.CLOUD_DEFER_PUBLISH === 'true' ? { processed: 0, items: [] } : await dispatchDueItems();
   const dispatchedCount = dispatchResult.processed;
   if (dispatchedCount > 0) {
     console.log(`[AutonomousNewsroom] Se despachó ${dispatchedCount} publicación vencida a las redes.`);

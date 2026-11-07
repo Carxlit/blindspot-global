@@ -122,22 +122,20 @@ export async function auditChannelsConnectivity(force = false): Promise<Record<C
     }
   }
 
-  // 4. LinkedIn CDP (navegador con --remote-debugging-port=9222)
-  let liHealth: ChannelHealth = { channel: 'linkedIn', status: 'degraded', latencyMs: 0, configured: true, message: 'Puerto 9222 no responde. Abre Brave con --remote-debugging-port=9222' };
+  // 4. LinkedIn (disabled unless explicitly configured via webhook or LINKEDIN_ENABLED=true)
+  let liHealth: ChannelHealth = { channel: 'linkedIn', status: 'offline', latencyMs: 0, configured: false, message: 'Not configured' };
   if (process.env.LINKEDIN_WEBHOOK_URL) {
-    liHealth = { channel: 'linkedIn', status: 'online', latencyMs: 0, configured: true, message: 'Publicación vía webhook de Make' };
-  } else if (process.env.LINKEDIN_ENABLED === 'false') {
-    liHealth = { channel: 'linkedIn', status: 'offline', latencyMs: 0, configured: false, message: 'Desactivado (LINKEDIN_ENABLED=false)' };
-  } else {
+    liHealth = { channel: 'linkedIn', status: 'online', latencyMs: 0, configured: true, message: 'Make webhook active' };
+  } else if (process.env.LINKEDIN_ENABLED === 'true') {
     const t0 = Date.now();
     try {
       const res = await fetch('http://127.0.0.1:9222/json/version', { signal: AbortSignal.timeout(3000) });
       const data = await res.json();
-      if (data && data.Browser) {
-        liHealth = { channel: 'linkedIn', status: 'online', latencyMs: Date.now() - t0, configured: true, message: `Navegador CDP activo: ${data.Browser}` };
-      }
+      liHealth = data && data.Browser
+        ? { channel: 'linkedIn', status: 'online', latencyMs: Date.now() - t0, configured: true, message: `CDP Browser active: ${data.Browser}` }
+        : { channel: 'linkedIn', status: 'degraded', latencyMs: 0, configured: true, message: 'Port 9222 not responding' };
     } catch {
-      // Se queda en 'degraded'
+      liHealth = { channel: 'linkedIn', status: 'degraded', latencyMs: 0, configured: true, message: 'Port 9222 not responding' };
     }
   }
 
@@ -214,7 +212,7 @@ export async function auditAndHealQueue(): Promise<{
       continue;
     }
 
-    if (item.status !== 'failed') continue;
+    if (item.status !== 'failed' || process.env.CLOUD_DEFER_PUBLISH === 'true') continue;
 
     const age = now - new Date(item.createdAt).getTime();
     const healAttempts = item.healAttempts || 0;
