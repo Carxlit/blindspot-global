@@ -1,0 +1,161 @@
+# Redacción autónoma de Punto Ciego en GitHub Actions (gratis en repositorio público).
+# Cada ejecución: auditoría + publicar lo que toque + buscar/encolar una historia, guarda
+# el estado (cola, historial, sitio) en el repositorio y publica el sitio en GitHub Pages.
+name: Blindspot Global Newsroom
+
+on:
+  schedule:
+    # Minutos "raros": en :00/:15/:30/:45 GitHub está saturado y descarta ejecuciones programadas
+    - cron: '7,22,37,52 * * * *'
+  workflow_dispatch:
+    inputs:
+      historias_extra:
+        description: 'Historias nuevas extra para publicar YA (0-5), sin topes de cola ni cupo'
+        required: false
+        default: '0'
+      solo_con_video:
+        description: 'La primera historia extra debe tener video libre (Creative Commons) del hecho'
+        type: boolean
+        required: false
+        default: false
+      con_cifras:
+        description: 'La primera historia extra debe traer una cifra clave (para ver las gráficas del Reel)'
+        type: boolean
+        required: false
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Nunca dos ciclos a la vez (publicarían doble)
+concurrency:
+  group: redaccion
+  cancel-in-progress: false
+
+jobs:
+  ciclo:
+    runs-on: ubuntu-latest
+    # Hasta 25 min de espera si una publicación vence pronto + el ciclo
+    timeout-minutes: 45
+    environment:
+      name: github-pages
+    env:
+      TZ: America/Bogota
+      LINKEDIN_ENABLED: 'false'
+      GOOGLE_GENERATIVE_AI_API_KEY: ${{ secrets.GOOGLE_GENERATIVE_AI_API_KEY }}
+      GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+      # IAs de respaldo gratis cuando Gemini se queda sin cuota (CLAVES_IA.bat)
+      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+      MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+      CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
+      OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+      FACEBOOK_PAGE_ID: ${{ secrets.FACEBOOK_PAGE_ID }}
+      FACEBOOK_ACCESS_TOKEN: ${{ secrets.FACEBOOK_ACCESS_TOKEN }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      # Tu chat personal con el bot: recibe el reporte diario (REPORTE_TELEGRAM.bat lo configura)
+      TELEGRAM_REPORT_CHAT_ID: ${{ secrets.TELEGRAM_REPORT_CHAT_ID }}
+      BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+      BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+      PAGE_BRAND_NAME: Blindspot
+      # Canales opcionales: si el secreto/variable está vacío, el canal se omite
+      LINKEDIN_WEBHOOK_URL: ${{ secrets.LINKEDIN_WEBHOOK_URL }}
+      INSTAGRAM_USER_ID: ${{ vars.INSTAGRAM_USER_ID }}
+      MASTODON_INSTANCE: ${{ vars.MASTODON_INSTANCE }}
+      MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
+      # Threads (THREADS_TOKEN.bat): el token se renueva solo y se guarda cifrado con THREADS_ENC_KEY
+      THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+      THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+      THREADS_ENC_KEY: ${{ secrets.THREADS_ENC_KEY }}
+      # YouTube Shorts (YOUTUBE.bat)
+      YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+      YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+      YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+      # https://puntociegoglobal.pages.dev (Cloudflare Pages construye site/ en cada push; GitHub Pages queda
+      # como copia). Los posts solo llevan el enlace cuando la página ya responde.
+      PUBLIC_SITE_URL: ${{ vars.PUBLIC_SITE_URL }}
+    steps:
+      # ref: main → el estado MÁS RECIENTE al empezar (un ciclo en espera no debe trabajar con la cola vieja)
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Dependencias
+        run: npm ci --no-fund --no-audit
+
+      - name: Caché de Chromium
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+
+      - name: Chromium (tarjetas y enlaces de Google News)
+        run: npx playwright install --with-deps chromium
+
+
+      # 1) Producir: escribe la historia y su artículo; lo nuevo queda en cola SIN publicar
+      - name: Ciclo de redacción
+        run: npm run cloud:build --silent && node dist/cloud-run.js produce
+        env:
+          EXTRA_STORIES: ${{ github.event.inputs.historias_extra || '0' }}
+          EXTRA_REQUIRE_VIDEO: ${{ github.event.inputs.solo_con_video || 'false' }}
+          EXTRA_PREFER_STATS: ${{ github.event.inputs.con_cifras || 'false' }}
+
+      - name: Guardar estado en el repositorio
+        id: estado
+        if: always()
+        run: bash deploy/github/save-state.sh "Estado de la redacción"
+
+      # 2) Desplegar el sitio solo si cambió (o al lanzar el workflow a mano)
+      - name: Preparar sitio
+        if: always() && (steps.estado.outputs.site == 'true' || github.event_name == 'workflow_dispatch')
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: GitHub Pages
+        if: always() && (steps.estado.outputs.site == 'true' || github.event_name == 'workflow_dispatch')
+        uses: actions/deploy-pages@v4
+
+      # Voz en español para los Reels (Edge TTS neuronal; Piper de respaldo sin red), yt-dlp para el video libre
+      # de la noticia (Creative Commons) + ffmpeg para montar el video
+      - uses: actions/setup-python@v5
+        if: always() && steps.estado.outcome == 'success'
+        with:
+          python-version: '3.12'
+
+      - name: Caché de la voz
+        if: always() && steps.estado.outcome == 'success'
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/piper
+          key: piper-en_US-lessac-high-v1
+
+      - name: Voz y ffmpeg para Reels
+        if: always() && steps.estado.outcome == 'success'
+        run: |
+          pip install --quiet --disable-pip-version-check edge-tts piper-tts "yt-dlp[default]"
+          mkdir -p ~/.cache/piper
+          [ -f ~/.cache/piper/en_US-lessac-high.onnx ] || python -m piper.download_voices --download-dir ~/.cache/piper en_US-lessac-high
+          command -v ffmpeg >/dev/null || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
+
+      # 3) Publicar en redes cuando el artículo ya está en línea (así el post lleva el enlace)
+      # Solo si el estado se guardó: con una cola desactualizada podría publicar dos veces
+      - name: Publicar en redes
+        if: always() && steps.estado.outcome == 'success'
+        run: node dist/cloud-run.js dispatch
+        env:
+          REELS_ENABLED: 'true'
+          PIPER_PYTHON: python
+          PIPER_DATA_DIR: /home/runner/.cache/piper
+
+      - name: Guardar publicaciones
+        if: always()
+        run: bash deploy/github/save-state.sh "Publicaciones"

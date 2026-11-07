@@ -1,0 +1,33 @@
+{
+  "name": "Blindspot",
+  "short_name": "Blindspot",
+  "description": "Independent, rigorous analysis of geopolitics, global economy, security, technology, and power. What mainstream coverage leaves out.",
+  "lang": "en",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0c0e11",
+  "theme_color": "#d0021b",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "48x48 96x96",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

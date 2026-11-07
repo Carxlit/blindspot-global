@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://carxlit.github.io/blindspot-global/sitemap.xml
+Sitemap: https://carxlit.github.io/blindspot-global/news-sitemap.xml
