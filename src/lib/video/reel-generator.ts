@@ -55,8 +55,8 @@ export function getNewsReel(news: ProcessedNews, opts: { allowAi?: boolean } = {
 const FIRST_LOWER = new RegExp('^([¿¡"«]?)(\\p{Ll})', 'u');
 
 const sentenceCase = (s: string) => {
-  const lower = s.toLocaleLowerCase('es');
-  return lower.charAt(0).toLocaleUpperCase('es') + lower.slice(1);
+  const lower = s.toLocaleLowerCase('en-US');
+  return lower.charAt(0).toLocaleUpperCase('en-US') + lower.slice(1);
 };
 
 /** Guion de la IA; si la noticia es anterior a esta función, se arma con el titular y los datos clave */
@@ -295,27 +295,27 @@ function reelHtml(news: ProcessedNews, sections: Section[], total: number, photo
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;900&family=Playfair+Display:wght@900&display=block">
 <style>
   *{margin:0;padding:0;box-sizing:border-box}
-  body{width:${W}px;height:${H}px;overflow:hidden;background:#050811;color:#fff;font-family:Montserrat,"DejaVu Sans",Arial,sans-serif}
-  .scene{position:absolute;inset:0;opacity:0;overflow:hidden;background:radial-gradient(circle at 50% 30%,#1e293b 0%,#050811 75%)}
+  body{width:${W}px;height:${H}px;overflow:hidden;background:#07090e;color:#f8f6f0;font-family:Montserrat,"DejaVu Sans",Arial,sans-serif}
+  .scene{position:absolute;inset:0;opacity:0;overflow:hidden;background:radial-gradient(circle at 50% 30%,#162038 0%,#07090e 78%)}
   .full{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 30%}
   .shade{position:absolute;inset:0;background:linear-gradient(to bottom,rgba(5,8,17,.55) 0%,rgba(5,8,17,.05) 22%,rgba(5,8,17,.25) 50%,rgba(5,8,17,.92) 78%,#050811 100%)}
-  .tag{position:absolute;top:190px;left:70px;background:#dc2626;color:#fff;font-weight:900;font-size:30px;letter-spacing:.14em;padding:12px 24px;border-radius:8px}
+  .tag{position:absolute;top:190px;left:70px;background:#e11d48;color:#fff;font-weight:900;font-size:30px;letter-spacing:.14em;padding:12px 24px;border-radius:8px}
   .blur{position:absolute;inset:-80px;width:calc(100% + 160px);height:calc(100% + 160px);object-fit:cover;filter:blur(44px) saturate(1.2)}
   .dim{position:absolute;inset:0;background:rgba(5,8,17,.62)}
-  .card{position:absolute;left:60px;right:60px;top:250px;height:760px;border-radius:28px;overflow:hidden;box-shadow:0 30px 80px rgba(0,0,0,.6);background:#111827}
+  .card{position:absolute;left:60px;right:60px;top:250px;height:760px;border-radius:26px;border:2px solid rgba(255,255,255,.14);overflow:hidden;box-shadow:0 34px 84px rgba(0,0,0,.68);background:#0d131f}
   .sharp{width:100%;height:100%;object-fit:cover}
   .card .qt{height:100%;display:flex;align-items:center;padding:56px;font-size:62px;font-weight:800;line-height:1.2;color:#f1f5f9;background:linear-gradient(135deg,#1e293b,#0f172a)}
   .step{position:absolute;top:1050px;left:0;right:0;text-align:center;font-size:30px;font-weight:700;letter-spacing:.2em;color:rgba(255,255,255,.65)}
   .step b{color:#f43f5e}
   .close{display:flex;flex-direction:column;align-items:center;padding-top:330px;text-align:center}
   .logo{font-family:"Playfair Display",Georgia,serif;font-size:132px;font-weight:900;line-height:1}
-  .logo b{color:#dc2626}
-  .rule{width:150px;height:7px;background:#dc2626;margin:56px auto 0}
+  .logo b{color:#e11d48}
+  .rule{width:150px;height:7px;background:#e11d48;margin:56px auto 0}
   .cta{position:absolute;top:1560px;left:50%;transform:translateX(-50%);border:4px solid #f43f5e;color:#f43f5e;border-radius:999px;padding:22px 48px;font-size:40px;font-weight:900;letter-spacing:.06em;white-space:nowrap}
   .site{position:absolute;top:1690px;left:0;right:0;color:#94a3b8;font-size:34px;font-weight:700}
   .brand{position:absolute;top:96px;left:70px;font-family:"Playfair Display",Georgia,serif;font-size:42px;font-weight:900;text-shadow:0 2px 12px rgba(0,0,0,.6)}
-  .brand b{color:#dc2626}
-  .bar{position:absolute;top:0;left:0;height:10px;background:#dc2626;width:0}
+  .brand b{color:#e11d48}
+  .bar{position:absolute;top:0;left:0;height:10px;background:#e11d48;width:0}
   #cap{position:absolute;left:60px;right:60px;top:1170px;height:420px;display:flex;align-items:center;justify-content:center;text-align:center}
   #cap .line{font-size:96px;line-height:1.12;font-weight:900;letter-spacing:-.01em;transform-origin:50% 60%;
     text-shadow:0 6px 0 rgba(0,0,0,.55),0 0 30px rgba(0,0,0,.65)}
@@ -326,7 +326,7 @@ function reelHtml(news: ProcessedNews, sections: Section[], total: number, photo
   .box #cap .line{font-size:84px;line-height:1.3;text-transform:uppercase;letter-spacing:0;
     text-shadow:-4px -4px 0 #000,4px -4px 0 #000,-4px 4px 0 #000,4px 4px 0 #000,0 10px 24px rgba(0,0,0,.6)}
   .box #cap span{padding:2px 18px;margin:4px 2px;border-radius:14px}
-  .box #cap span.on{color:#fff;background:#dc2626;text-shadow:0 4px 10px rgba(0,0,0,.35);box-shadow:0 10px 30px rgba(220,38,38,.45)}
+  .box #cap span.on{color:#fff;background:#e11d48;text-shadow:0 4px 10px rgba(0,0,0,.35);box-shadow:0 10px 30px rgba(220,38,38,.45)}
   .box #cap span.next{color:#fff}
   .footage{background:transparent}
   .footage .scene.hook,.footage .scene.beat{background:transparent}

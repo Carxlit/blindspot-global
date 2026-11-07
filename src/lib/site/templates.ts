@@ -717,7 +717,7 @@ export function renderArticlePage(entry: SiteEntry, baseUrl: string, ctx: Articl
   ${adSlot(config.adSlots?.articleBottom, 'bottom')}
   ${
     config.donationUrl
-      ? `<div class="donate">${esc(config.donationLabel || `Apoya el periodismo de ${SITE_NAME}`)}<br><a href="${esc(config.donationUrl)}" rel="noopener" target="_blank">Hacer un aporte</a></div>`
+      ? `<div class="donate">${esc(config.donationLabel || `Support independent journalism at ${SITE_NAME}`)}<br><a href="${esc(config.donationUrl)}" rel="noopener" target="_blank">Support Us</a></div>`
       : ''
   }
   ${next ? `<a class="next" href="${root}${esc(next.path)}">${thumb(root, next).replace(/^<a /, '<span ').replace(/<\/a>$/, '</span>')}<div><div class="lbl">Next Story →</div><h3>${esc(next.title)}</h3></div></a>` : ''}
@@ -757,7 +757,7 @@ function pager(root: string, page: number, totalPages: number, pageRel: (n: numb
     }
   }
   if (page < totalPages) items.push(`<a href="${root}${pageRel(page + 1)}" rel="next">Older →</a>`);
-  return `<nav class="pager" aria-label="Páginas">${items.join('')}</nav>`;
+  return `<nav class="pager" aria-label="Pagination">${items.join('')}</nav>`;
 }
 
 /** Ruta relativa de la página n de la portada ("" para la 1) */
@@ -989,7 +989,7 @@ ${fresh
 </urlset>`;
 }
 
-export const FAVICON_SVG = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#0c0e11"/><circle cx="32" cy="32" r="17" fill="none" stroke="#f6f3ec" stroke-width="5"/><circle cx="32" cy="32" r="7" fill="#d0021b"/></svg>`;
+export const FAVICON_SVG = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#07090e"/><circle cx="32" cy="32" r="22" fill="none" stroke="rgba(248,246,240,0.16)" stroke-width="1.5" stroke-dasharray="3 3"/><circle cx="32" cy="32" r="15" fill="none" stroke="#f8f6f0" stroke-width="5"/><circle cx="32" cy="32" r="6.5" fill="#e11d48"/></svg>`;
 
 export function renderManifest(): string {
   return JSON.stringify(

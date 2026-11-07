@@ -113,6 +113,15 @@ jobs:
         if: always()
         run: bash deploy/github/save-state.sh "Estado de la redacción"
 
+      - name: Cloudflare Pages Deploy Hook
+        if: always() && (steps.estado.outputs.site == 'true' || github.event_name == 'workflow_dispatch')
+        env:
+          CF_DEPLOY_HOOK_URL: ${{ secrets.CF_DEPLOY_HOOK_URL }}
+        run: |
+          if [ -n "$CF_DEPLOY_HOOK_URL" ]; then
+            curl -fsS -X POST "$CF_DEPLOY_HOOK_URL" >/dev/null || true
+          fi
+
       # 2) Desplegar el sitio solo si cambió (o al lanzar el workflow a mano)
       - name: Preparar sitio
         if: always() && (steps.estado.outputs.site == 'true' || github.event_name == 'workflow_dispatch')
@@ -157,5 +166,15 @@ jobs:
           PIPER_DATA_DIR: /home/runner/.cache/piper
 
       - name: Guardar publicaciones
+        id: pub
         if: always()
         run: bash deploy/github/save-state.sh "Publicaciones"
+
+      - name: Actualizar Cloudflare Pages (Reel incrustado)
+        if: always() && steps.pub.outputs.site == 'true'
+        env:
+          CF_DEPLOY_HOOK_URL: ${{ secrets.CF_DEPLOY_HOOK_URL }}
+        run: |
+          if [ -n "$CF_DEPLOY_HOOK_URL" ]; then
+            curl -fsS -X POST "$CF_DEPLOY_HOOK_URL" >/dev/null || true
+          fi

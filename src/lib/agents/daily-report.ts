@@ -48,7 +48,7 @@ export function buildDailyReport(auditLine: string, now = new Date(), metrics?: 
   }
 
   const lines = [
-    `<b>📊 Punto Ciego · Reporte del ${now.toLocaleDateString('es-CO', { weekday: 'long', day: 'numeric', month: 'long' })}</b>`,
+    `<b>📊 Blindspot · Reporte del ${now.toLocaleDateString('es-CO', { weekday: 'long', day: 'numeric', month: 'long' })}</b>`,
     '',
     `✅ Publicadas hoy: <b>${published.length}</b>${reels ? ` · 🎬 Reels: ${reels}` : ''}${withVideo ? ` · 🎥 con video: ${withVideo}` : ''}`,
     `⏳ En cola: ${waiting.length}${failed.length ? ` · ❌ Fallidas: ${failed.length}` : ''}`,

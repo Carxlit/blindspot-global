@@ -127,11 +127,11 @@ export const ACCENTS: Record<string, string> = {
   'TECHNOLOGY & AI': '#38bdf8',
   'SECURITY & DEFENSE': '#f59e0b',
   'POWER & SOCIETY': '#a78bfa',
-  GEOPOLITICS: '#ef4444',
+  GEOPOLITICS: '#e11d48',
 };
 
 export function infographicHtml({ news, sections, total, fade, W, H, photos }: Opts): string {
-  const accent = ACCENTS[String(news.category)] || '#ef4444';
+  const accent = ACCENTS[String(news.category)] || '#e11d48';
   const pics = photos.filter((p) => p && p.src);
   const pic = (k: number) => (pics.length ? pics[k % pics.length] : null);
   const imgTag = (p: Pic | null, pos: string) =>
@@ -215,14 +215,14 @@ export function infographicHtml({ news, sections, total, fade, W, H, photos }: O
   :root{--accent:${accent}}
   *{margin:0;padding:0;box-sizing:border-box}
   body{width:${W}px;height:${H}px;overflow:hidden;color:#fff;font-family:Montserrat,"DejaVu Sans",Arial,sans-serif;
-    background:radial-gradient(ellipse at 50% 28%,#16264d 0%,#0a1330 55%,#050a1c 100%)}
+    background:radial-gradient(ellipse at 50% 28%,#15223e 0%,#0b1224 55%,#060911 100%)}
   body:before{content:"";position:absolute;inset:0;background:repeating-linear-gradient(115deg,rgba(255,255,255,.04) 0 110px,rgba(255,255,255,0) 110px 220px)}
   .scene{position:absolute;inset:0;opacity:0;overflow:hidden}
   .mark{position:absolute;top:108px;right:64px;font-family:"Playfair Display",Georgia,serif;font-size:40px;font-weight:900;letter-spacing:.01em;opacity:.95}
-  .mark b{color:#ef4444}
+  .mark b{color:#e11d48}
   .kick{position:absolute;left:70px;right:70px;top:250px;font-size:60px;font-weight:900;letter-spacing:.01em;display:flex;align-items:center;gap:22px;text-transform:uppercase}
   .kick i{display:block;width:14px;height:64px;background:var(--accent);border-radius:4px;flex:none}
-  .frame{position:absolute;left:80px;right:80px;top:410px;height:640px;border:12px solid #fff;border-radius:8px;overflow:hidden;background:#1e293b;
+  .frame{position:absolute;left:80px;right:80px;top:410px;height:640px;border:10px solid #f8f6f0;border-radius:12px;overflow:hidden;background:#1e293b;
     box-shadow:0 34px 80px rgba(0,0,0,.55);will-change:transform}
   .frame.hookf{top:380px;height:700px}
   .frame img{width:100%;height:100%;object-fit:cover;display:block}
@@ -246,16 +246,16 @@ export function infographicHtml({ news, sections, total, fade, W, H, photos }: O
   .dot{display:block;width:38px;height:38px;border-radius:50%;background:var(--accent);opacity:0;box-shadow:0 0 18px var(--accent)}
   .close{display:flex;flex-direction:column;align-items:center;padding-top:330px;text-align:center}
   .logo{font-family:"Playfair Display",Georgia,serif;font-size:132px;font-weight:900;line-height:1}
-  .logo b{color:#ef4444}
-  .rule{width:150px;height:7px;background:#ef4444;margin:56px auto 0}
+  .logo b{color:#e11d48}
+  .rule{width:150px;height:7px;background:#e11d48;margin:56px auto 0}
   .cta{position:absolute;top:1560px;left:50%;transform:translateX(-50%);border:4px solid #f87171;color:#f87171;border-radius:999px;padding:22px 48px;font-size:40px;font-weight:900;letter-spacing:.06em;white-space:nowrap}
   .site{position:absolute;top:1690px;left:0;right:0;color:#94a3b8;font-size:34px;font-weight:700}
-  .bar{position:absolute;top:0;left:0;height:10px;background:#ef4444;width:0}
+  .bar{position:absolute;top:0;left:0;height:10px;background:#e11d48;width:0}
   #cap{position:absolute;left:60px;right:60px;top:1170px;height:420px;display:flex;align-items:center;justify-content:center;text-align:center}
   #cap .line{font-size:84px;line-height:1.3;font-weight:900;text-transform:uppercase;transform-origin:50% 60%;
     text-shadow:-4px -4px 0 #000,4px -4px 0 #000,-4px 4px 0 #000,4px 4px 0 #000,0 10px 24px rgba(0,0,0,.6)}
   #cap span{display:inline-block;padding:2px 18px;margin:4px 2px;border-radius:14px;color:#fff;transform-origin:50% 70%}
-  #cap span.on{background:#dc2626;text-shadow:0 4px 10px rgba(0,0,0,.35);box-shadow:0 10px 30px rgba(220,38,38,.45)}
+  #cap span.on{background:#e11d48;text-shadow:0 4px 10px rgba(0,0,0,.35);box-shadow:0 10px 30px rgba(220,38,38,.45)}
 </style></head><body>
 ${layers}
 <div class="mark" id="mark">BLINDSPOT<b>.</b></div>
