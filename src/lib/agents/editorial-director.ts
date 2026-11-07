@@ -52,16 +52,16 @@ export const EditorialBriefSchema = z.object({
     "One of: 'GEOPOLITICS', 'SECURITY & DEFENSE', 'GLOBAL ECONOMY', 'POWER & SOCIETY', 'TECHNOLOGY & AI'"
   ),
   headline: z.string().describe(
-    'Rigorous press headline in ALL CAPS, 6 to 10 words. Direct to the facts, no exclamation marks or sensationalism.'
+    'Rigorous press headline in English in ALL CAPS, 6 to 10 words. Direct to the facts, no exclamation marks or sensationalism. Always translate non-English headlines into English.'
   ),
   subHeadline: z.string().describe(
-    'Journalistic subheadline of one or two full sentences with hard context and a verifiable fact from the dossier.'
+    'Journalistic subheadline in English of one or two full sentences with hard context and a verifiable fact from the dossier.'
   ),
   blindSpotAngle: z.string().describe(
-    'The SPECIFIC "Blind Spot" of this story (2-3 sentences): strategic subtext, undisclosed interests, precedents, or second-order consequences mainstream coverage is missing. Never generic.'
+    'The SPECIFIC "Blind Spot" of this story in English (2-3 sentences): strategic subtext, undisclosed interests, precedents, or second-order consequences mainstream coverage is missing. Never generic.'
   ),
   geopoliticalImplication: z.string().describe(
-    'Direct implication: who gains power or capital, who bears the cost, and what shifts on the board.'
+    'Direct implication in English: who gains power or capital, who bears the cost, and what shifts on the board.'
   ),
   urgencyScore: z.coerce.number().describe('Urgency and impact from 60 to 99 (integer).'),
 });

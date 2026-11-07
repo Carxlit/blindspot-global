@@ -10,104 +10,166 @@ const parser = new Parser({
   customFields: {
     item: [
       ['media:content', 'mediaContent'],
-      ['enclosure', 'enclosure'],
       ['media:thumbnail', 'mediaThumbnail'],
+      ['enclosure', 'enclosure'],
       ['image', 'image'],
     ],
   },
 });
 
-export interface ExpandedFeedConfig {
+interface ExpandedFeedConfig {
   url: string;
   sourceName: string;
   category: EditorialCategory;
   weight: number;
 }
 
-/** Google News search as RSS feed (default US English) */
-function gnews(query: string, hl = 'en-US', ceid = 'US:en'): string {
-  return `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=${hl}&gl=${ceid.split(':')[0]}&ceid=${ceid}`;
-}
+const gnews = (q: string, hl = 'en-US', ceid = 'US:en') => {
+  const gl = ceid.split(':')[0] || 'US';
+  return `https://news.google.com/rss/search?q=${encodeURIComponent(q)}&hl=${hl}&gl=${gl}&ceid=${ceid}`;
+};
 
-/**
- * International wire agencies and high-rigor global English outlets
- */
 export const SCOUT_FEEDS: ExpandedFeedConfig[] = [
-  // --- TECHNOLOGY & AI ---
-  {
-    url: 'https://news.google.com/rss/headlines/section/topic/SCITECH?hl=en-US&gl=US&ceid=US:en',
-    sourceName: 'Google Tech & AI',
-    category: 'TECHNOLOGY & AI',
-    weight: 10,
-  },
+  // ============================================================================
+  // 1. GLOBAL TIER-1 WIRES & INTERNATIONAL REFERENCE (ENGLISH)
+  // ============================================================================
+  { url: gnews('site:reuters.com world when:1d'), sourceName: 'Reuters', category: 'GEOPOLITICS', weight: 10 },
+  { url: gnews('site:apnews.com world OR international when:1d'), sourceName: 'Associated Press', category: 'GEOPOLITICS', weight: 10 },
+  { url: gnews('site:apnews.com politics OR washington OR white house when:1d'), sourceName: 'AP Politics', category: 'POWER & SOCIETY', weight: 10 },
+  { url: gnews('site:reuters.com business OR markets OR economy when:1d'), sourceName: 'Reuters Business', category: 'GLOBAL ECONOMY', weight: 10 },
+  { url: gnews('site:apnews.com business OR economy OR markets when:1d'), sourceName: 'AP Business', category: 'GLOBAL ECONOMY', weight: 9 },
   { url: gnews('site:reuters.com technology OR AI OR chips when:1d'), sourceName: 'Reuters Technology', category: 'TECHNOLOGY & AI', weight: 10 },
+  { url: gnews('site:reuters.com defense OR military OR war when:1d'), sourceName: 'Reuters Defense', category: 'SECURITY & DEFENSE', weight: 10 },
+  { url: 'https://feeds.bbci.co.uk/news/world/rss.xml', sourceName: 'BBC News', category: 'GEOPOLITICS', weight: 10 },
+  { url: 'https://feeds.bbci.co.uk/news/business/rss.xml', sourceName: 'BBC Business', category: 'GLOBAL ECONOMY', weight: 9 },
+  { url: 'https://feeds.bbci.co.uk/news/technology/rss.xml', sourceName: 'BBC Technology', category: 'TECHNOLOGY & AI', weight: 9 },
+  { url: 'https://feeds.bbci.co.uk/news/science_and_environment/rss.xml', sourceName: 'BBC Science', category: 'TECHNOLOGY & AI', weight: 8 },
+  { url: 'https://www.aljazeera.com/xml/rss/all.xml', sourceName: 'Al Jazeera', category: 'GEOPOLITICS', weight: 9 },
+  { url: 'https://www.theguardian.com/world/rss', sourceName: 'The Guardian', category: 'GEOPOLITICS', weight: 9 },
+  { url: 'https://www.theguardian.com/uk/technology/rss', sourceName: 'The Guardian Tech', category: 'TECHNOLOGY & AI', weight: 8 },
+  { url: 'https://www.theguardian.com/uk/business/rss', sourceName: 'The Guardian Business', category: 'GLOBAL ECONOMY', weight: 8 },
+  { url: 'https://feeds.npr.org/1004/rss.xml', sourceName: 'NPR World', category: 'GEOPOLITICS', weight: 8 },
+  { url: 'https://feeds.npr.org/1001/rss.xml', sourceName: 'NPR News', category: 'POWER & SOCIETY', weight: 8 },
+  { url: 'https://www.pbs.org/newshour/feeds/rss/world', sourceName: 'PBS NewsHour', category: 'GEOPOLITICS', weight: 8 },
+  { url: 'https://rss.dw.com/rdf/rss-en-all', sourceName: 'DW News', category: 'GEOPOLITICS', weight: 8 },
+  { url: 'https://www.france24.com/en/rss', sourceName: 'France 24', category: 'GEOPOLITICS', weight: 8 },
+  { url: 'https://www.euronews.com/rss?format=mrss&level=theme&name=news', sourceName: 'Euronews', category: 'GEOPOLITICS', weight: 8 },
+  { url: 'https://www.politico.eu/feed/', sourceName: 'Politico Europe', category: 'GEOPOLITICS', weight: 8 },
+  { url: 'https://rss.politico.com/politics-news.xml', sourceName: 'Politico US', category: 'POWER & SOCIETY', weight: 8 },
+  { url: 'https://foreignpolicy.com/feed/', sourceName: 'Foreign Policy', category: 'GEOPOLITICS', weight: 9 },
+
+  // ============================================================================
+  // 2. REGIONAL ENGLISH OUTLETS (ASIA-PACIFIC, MIDDLE EAST, EASTERN EUROPE, AFRICA)
+  // ============================================================================
+  { url: 'https://www.channelnewsasia.com/rssfeeds/8395986', sourceName: 'CNA (Asia)', category: 'GEOPOLITICS', weight: 8 },
+  { url: 'https://www.scmp.com/rss/91/feed', sourceName: 'South China Morning Post', category: 'GEOPOLITICS', weight: 8 },
+  { url: 'https://www.thehindu.com/news/international/feeder/default.rss', sourceName: 'The Hindu', category: 'GEOPOLITICS', weight: 7 },
+  { url: 'https://www.japantimes.co.jp/feed/', sourceName: 'The Japan Times', category: 'GEOPOLITICS', weight: 8 },
+  { url: gnews('site:asia.nikkei.com when:1d'), sourceName: 'Nikkei Asia', category: 'GLOBAL ECONOMY', weight: 9 },
+  { url: 'https://kyivindependent.com/feed/', sourceName: 'The Kyiv Independent', category: 'SECURITY & DEFENSE', weight: 8 },
+  { url: 'https://www.timesofisrael.com/feed/', sourceName: 'The Times of Israel', category: 'GEOPOLITICS', weight: 8 },
+  { url: 'https://www.middleeasteye.net/rss', sourceName: 'Middle East Eye', category: 'GEOPOLITICS', weight: 7 },
+  { url: 'https://www.africanews.com/feed/rss', sourceName: 'Africanews', category: 'POWER & SOCIETY', weight: 7 },
+
+  // ============================================================================
+  // 3. TECHNOLOGY, AI, SCIENCE, DEFENSE & CYBERSECURITY (ENGLISH)
+  // ============================================================================
   { url: 'https://techcrunch.com/feed/', sourceName: 'TechCrunch', category: 'TECHNOLOGY & AI', weight: 9 },
   { url: 'https://www.theverge.com/rss/index.xml', sourceName: 'The Verge', category: 'TECHNOLOGY & AI', weight: 9 },
   { url: 'https://feeds.arstechnica.com/arstechnica/index', sourceName: 'Ars Technica', category: 'TECHNOLOGY & AI', weight: 9 },
   { url: 'https://www.wired.com/feed/rss', sourceName: 'Wired', category: 'TECHNOLOGY & AI', weight: 8 },
-  { url: gnews('OpenAI OR Anthropic OR Nvidia OR TSMC OR "Artificial Intelligence" when:1d'), sourceName: 'AI & Semiconductors Radar', category: 'TECHNOLOGY & AI', weight: 9 },
-  { url: 'https://news.google.com/rss/headlines/section/topic/SCIENCE?hl=en-US&gl=US&ceid=US:en', sourceName: 'Google Science', category: 'TECHNOLOGY & AI', weight: 7 },
+  { url: 'https://www.technologyreview.com/feed/', sourceName: 'MIT Technology Review', category: 'TECHNOLOGY & AI', weight: 9 },
+  { url: 'https://www.nature.com/nature.rss', sourceName: 'Nature', category: 'TECHNOLOGY & AI', weight: 8 },
+  { url: 'https://www.bleepingcomputer.com/feed/', sourceName: 'BleepingComputer', category: 'SECURITY & DEFENSE', weight: 8 },
+  { url: 'https://feeds.feedburner.com/TheHackersNews', sourceName: 'The Hacker News', category: 'SECURITY & DEFENSE', weight: 8 },
+  { url: 'https://krebsonsecurity.com/feed/', sourceName: 'Krebs on Security', category: 'SECURITY & DEFENSE', weight: 8 },
+  { url: 'https://www.defenseone.com/rss/all/', sourceName: 'Defense One', category: 'SECURITY & DEFENSE', weight: 8 },
+  { url: 'https://warontherocks.com/feed/', sourceName: 'War on the Rocks', category: 'SECURITY & DEFENSE', weight: 8 },
 
-  // --- GEOPOLITICS ---
-  { url: gnews('site:reuters.com world when:1d'), sourceName: 'Reuters', category: 'GEOPOLITICS', weight: 10 },
-  { url: gnews('site:apnews.com when:1d'), sourceName: 'Associated Press', category: 'GEOPOLITICS', weight: 10 },
-  { url: 'https://feeds.bbci.co.uk/news/world/rss.xml', sourceName: 'BBC News', category: 'GEOPOLITICS', weight: 10 },
-  { url: 'https://www.aljazeera.com/xml/rss/all.xml', sourceName: 'Al Jazeera', category: 'GEOPOLITICS', weight: 9 },
-  { url: 'https://www.theguardian.com/world/rss', sourceName: 'The Guardian', category: 'GEOPOLITICS', weight: 9 },
-  { url: 'https://feeds.npr.org/1004/rss.xml', sourceName: 'NPR', category: 'GEOPOLITICS', weight: 9 },
-  { url: 'https://rss.dw.com/rdf/rss-en-all', sourceName: 'DW News', category: 'GEOPOLITICS', weight: 8 },
-  { url: 'https://www.france24.com/en/rss', sourceName: 'France 24', category: 'GEOPOLITICS', weight: 8 },
-  { url: 'https://www.euronews.com/rss?format=mrss&level=theme&name=news', sourceName: 'Euronews', category: 'GEOPOLITICS', weight: 8 },
-  { url: 'https://www.channelnewsasia.com/rssfeeds/8395986', sourceName: 'CNA (Asia)', category: 'GEOPOLITICS', weight: 8 },
-  { url: 'https://www.scmp.com/rss/91/feed', sourceName: 'South China Morning Post', category: 'GEOPOLITICS', weight: 8 },
-  { url: 'https://www.thehindu.com/news/international/feeder/default.rss', sourceName: 'The Hindu', category: 'GEOPOLITICS', weight: 7 },
-  { url: 'https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en', sourceName: 'Google World News', category: 'GEOPOLITICS', weight: 9 },
-  { url: gnews('China OR Japan OR India OR Taiwan OR Korea OR Philippines when:1d'), sourceName: 'Asia-Pacific Radar', category: 'GEOPOLITICS', weight: 8 },
-  { url: gnews('Israel OR Iran OR Gaza OR Lebanon OR Syria OR Saudi Arabia when:1d'), sourceName: 'Middle East Radar', category: 'GEOPOLITICS', weight: 9 },
-  { url: gnews('Ukraine OR Russia OR NATO OR "European Union" OR UK when:1d'), sourceName: 'Europe Radar', category: 'GEOPOLITICS', weight: 9 },
-  { url: gnews('UN OR diplomacy OR sanctions OR summit OR treaty when:2d'), sourceName: 'Global Diplomacy Radar', category: 'GEOPOLITICS', weight: 8 },
-
-  // --- GLOBAL ECONOMY ---
-  { url: gnews('site:reuters.com business OR markets OR economy when:1d'), sourceName: 'Reuters Business', category: 'GLOBAL ECONOMY', weight: 10 },
-  { url: 'https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en', sourceName: 'Bloomberg / Global Markets', category: 'GLOBAL ECONOMY', weight: 9 },
-  { url: 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114', sourceName: 'CNBC', category: 'GLOBAL ECONOMY', weight: 9 },
+  // ============================================================================
+  // 4. GLOBAL ECONOMY, MARKETS & CENTRAL BANKS (ENGLISH)
+  // ============================================================================
+  { url: 'https://www.cnbc.com/id/100727362/device/rss/rss.html', sourceName: 'CNBC World', category: 'GLOBAL ECONOMY', weight: 9 },
+  { url: 'https://www.cnbc.com/id/20910258/device/rss/rss.html', sourceName: 'CNBC Economy', category: 'GLOBAL ECONOMY', weight: 9 },
+  { url: 'https://feeds.content.dowjones.io/public/rss/mw_topstories', sourceName: 'MarketWatch', category: 'GLOBAL ECONOMY', weight: 8 },
+  { url: gnews('site:ft.com world OR economy OR markets when:1d'), sourceName: 'Financial Times', category: 'GLOBAL ECONOMY', weight: 9 },
+  { url: gnews('site:wsj.com economy OR markets OR world when:1d'), sourceName: 'Wall Street Journal', category: 'GLOBAL ECONOMY', weight: 9 },
   { url: 'https://www.ecb.europa.eu/rss/press.html', sourceName: 'European Central Bank', category: 'GLOBAL ECONOMY', weight: 9 },
   { url: 'https://www.federalreserve.gov/feeds/press_all.xml', sourceName: 'Federal Reserve', category: 'GLOBAL ECONOMY', weight: 9 },
-  { url: gnews('"Federal Reserve" OR ECB OR IMF OR "World Bank" OR OPEC OR tariffs OR inflation when:1d'), sourceName: 'Central Banks & Energy Radar', category: 'GLOBAL ECONOMY', weight: 9 },
-
-  // --- SECURITY & DEFENSE ---
-  { url: gnews('site:reuters.com defense OR military OR war when:1d'), sourceName: 'Reuters Defense', category: 'SECURITY & DEFENSE', weight: 10 },
-  { url: 'https://news.google.com/rss/headlines/section/topic/NATION?hl=en-US&gl=US&ceid=US:en', sourceName: 'Associated Press (US)', category: 'SECURITY & DEFENSE', weight: 9 },
-  { url: gnews('NATO OR Pentagon OR Kremlin OR military OR missile OR defense when:1d'), sourceName: 'Defense & Alliances Radar', category: 'SECURITY & DEFENSE', weight: 9 },
-  { url: gnews('cyberattack OR ransomware OR hack OR data breach OR intelligence when:2d'), sourceName: 'Cybersecurity Radar', category: 'SECURITY & DEFENSE', weight: 8 },
-
-  // --- POWER & SOCIETY ---
   { url: 'https://news.un.org/feed/subscribe/en/news/all/rss.xml', sourceName: 'UN News', category: 'POWER & SOCIETY', weight: 9 },
-  { url: 'https://www.africanews.com/feed/rss', sourceName: 'Africanews', category: 'POWER & SOCIETY', weight: 7 },
-  { url: 'https://theconversation.com/us/articles.atom', sourceName: 'The Conversation', category: 'POWER & SOCIETY', weight: 8 },
   { url: 'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_week.atom', sourceName: 'USGS Earthquakes', category: 'POWER & SOCIETY', weight: 10 },
-  { url: gnews('"White House" OR Congress OR Senate OR "Supreme Court" when:1d'), sourceName: 'Washington Radar', category: 'POWER & SOCIETY', weight: 9 },
-  { url: gnews('earthquake OR hurricane OR tsunami OR wildfire OR flood OR eruption when:1d'), sourceName: 'Global Disasters Radar', category: 'POWER & SOCIETY', weight: 9 },
-  { url: gnews('outbreak OR epidemic OR pandemic OR WHO OR vaccine when:2d'), sourceName: 'Global Health Radar', category: 'POWER & SOCIETY', weight: 8 },
+
+  // ============================================================================
+  // 5. GLOBAL THEMATIC & REGIONAL RADARS (ENGLISH GOOGLE NEWS)
+  // ============================================================================
+  { url: gnews('OpenAI OR Anthropic OR Google DeepMind OR Nvidia OR TSMC OR semiconductor when:1d'), sourceName: 'AI & Chips Radar', category: 'TECHNOLOGY & AI', weight: 9 },
+  { url: gnews('cyberattack OR ransomware OR data breach OR zero-day OR state hackers when:2d'), sourceName: 'Cybersecurity Radar', category: 'SECURITY & DEFENSE', weight: 8 },
+  { url: gnews('Pentagon OR NATO OR missile strike OR military exercises OR nuclear deterrence when:1d'), sourceName: 'Global Defense Radar', category: 'SECURITY & DEFENSE', weight: 9 },
+  { url: gnews('China OR Japan OR India OR South Korea OR Taiwan OR Philippines when:1d'), sourceName: 'Asia-Pacific Radar', category: 'GEOPOLITICS', weight: 8 },
+  { url: gnews('Israel OR Iran OR Gaza OR Lebanon OR Syria OR Yemen OR Saudi Arabia when:1d'), sourceName: 'Middle East Radar', category: 'GEOPOLITICS', weight: 9 },
+  { url: gnews('Ukraine OR Russia OR NATO OR European Union OR United Kingdom when:1d'), sourceName: 'Europe & NATO Radar', category: 'GEOPOLITICS', weight: 9 },
+  { url: gnews('Sudan OR Congo OR Nigeria OR Ethiopia OR Sahel OR South Africa when:2d'), sourceName: 'Africa Radar', category: 'POWER & SOCIETY', weight: 8 },
+  { url: gnews('Brazil OR Mexico OR Argentina OR Colombia OR Venezuela OR Chile when:2d'), sourceName: 'Americas Radar', category: 'GEOPOLITICS', weight: 8 },
+  { url: gnews('White House OR Congress OR Senate OR Supreme Court OR Justice Department when:1d'), sourceName: 'US Power Radar', category: 'POWER & SOCIETY', weight: 9 },
+  { url: gnews('earthquake OR hurricane OR tsunami OR wildfire OR volcanic eruption OR plane crash when:1d'), sourceName: 'Global Disasters Radar', category: 'POWER & SOCIETY', weight: 9 },
+  { url: gnews('outbreak OR epidemic OR pandemic OR WHO OR avian flu OR Ebola when:2d'), sourceName: 'Global Health Radar', category: 'POWER & SOCIETY', weight: 9 },
+  { url: gnews('climate change OR heatwave OR drought OR COP OR emissions when:2d'), sourceName: 'Climate Radar', category: 'POWER & SOCIETY', weight: 7 },
+  { url: gnews('Federal Reserve OR ECB OR IMF OR World Bank OR OPEC OR oil prices OR tariffs when:1d'), sourceName: 'Central Banks & Energy Radar', category: 'GLOBAL ECONOMY', weight: 9 },
+  { url: 'https://news.google.com/rss/headlines/section/topic/SCIENCE?hl=en-US&gl=US&ceid=US:en', sourceName: 'Google Science', category: 'TECHNOLOGY & AI', weight: 7 },
+
+  // ============================================================================
+  // 6. INTERNATIONAL & LATIN AMERICAN SPANISH FEEDS
+  //    (Automatically translated and synthesized into English by the Editorial Desk)
+  // ============================================================================
+  { url: 'https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada', sourceName: 'El País', category: 'GEOPOLITICS', weight: 9 },
+  { url: 'https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada', sourceName: 'El País América', category: 'POWER & SOCIETY', weight: 9 },
+  { url: 'https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada', sourceName: 'El País Economía', category: 'GLOBAL ECONOMY', weight: 8 },
+  { url: 'https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada', sourceName: 'El País Tecnología', category: 'TECHNOLOGY & AI', weight: 8 },
+  { url: 'https://feeds.bbci.co.uk/mundo/rss.xml', sourceName: 'BBC Mundo', category: 'GEOPOLITICS', weight: 9 },
+  { url: 'https://rss.dw.com/rdf/rss-sp-all', sourceName: 'DW Español', category: 'GEOPOLITICS', weight: 8 },
+  { url: 'https://www.france24.com/es/rss', sourceName: 'France 24 Español', category: 'GEOPOLITICS', weight: 8 },
+  { url: 'https://www.rfi.fr/es/rss', sourceName: 'RFI Español', category: 'GEOPOLITICS', weight: 8 },
+  { url: 'https://es.euronews.com/rss?format=mrss&level=theme&name=news', sourceName: 'Euronews Español', category: 'GEOPOLITICS', weight: 8 },
+  { url: 'https://www.europapress.es/rss/rss.aspx?ch=00069', sourceName: 'Europa Press', category: 'GEOPOLITICS', weight: 8 },
+  { url: 'https://www.infobae.com/arc/outboundfeeds/rss/', sourceName: 'Infobae', category: 'GEOPOLITICS', weight: 7 },
+  { url: 'https://www.infobae.com/arc/outboundfeeds/rss/category/america/?outputType=xml', sourceName: 'Infobae América', category: 'POWER & SOCIETY', weight: 7 },
+  { url: 'https://www.bloomberglinea.com/arc/outboundfeeds/rss/?outputType=xml', sourceName: 'Bloomberg Línea', category: 'GLOBAL ECONOMY', weight: 9 },
+  { url: 'https://feeds.elpais.com/mrss-s/pages/ep/site/cincodias.elpais.com/portada', sourceName: 'Cinco Días', category: 'GLOBAL ECONOMY', weight: 8 },
+  { url: 'https://e00-expansion.uecdn.es/rss/economia.xml', sourceName: 'Expansión', category: 'GLOBAL ECONOMY', weight: 8 },
+  { url: 'https://www.xataka.com/feedburner.xml', sourceName: 'Xataka', category: 'TECHNOLOGY & AI', weight: 8 },
+  { url: 'https://www.defensa.com/rss', sourceName: 'Defensa.com', category: 'SECURITY & DEFENSE', weight: 8 },
+  { url: 'https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml', sourceName: 'El Mundo', category: 'GEOPOLITICS', weight: 7 },
+  { url: 'https://www.lavanguardia.com/rss/internacional.xml', sourceName: 'La Vanguardia', category: 'GEOPOLITICS', weight: 7 },
+  { url: 'https://www.eltiempo.com/rss/mundo.xml', sourceName: 'El Tiempo', category: 'POWER & SOCIETY', weight: 7 },
+  { url: 'https://www.lasillavacia.com/feed/', sourceName: 'La Silla Vacía', category: 'POWER & SOCIETY', weight: 8 },
+  { url: 'https://www.clarin.com/rss/mundo/', sourceName: 'Clarín', category: 'POWER & SOCIETY', weight: 7 },
+  { url: 'https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml', sourceName: 'La Nación', category: 'GLOBAL ECONOMY', weight: 7 },
+  { url: 'https://www.reforma.com/rss/internacional.xml', sourceName: 'Reforma', category: 'GEOPOLITICS', weight: 7 },
+  { url: 'https://elcomercio.pe/arc/outboundfeeds/rss/category/mundo/?outputType=xml', sourceName: 'El Comercio', category: 'GEOPOLITICS', weight: 7 },
+  { url: 'https://www.ciperchile.cl/feed/', sourceName: 'CIPER Chile', category: 'POWER & SOCIETY', weight: 8 },
+  { url: gnews('México OR Brasil OR Argentina OR Colombia OR Venezuela OR Chile OR Perú OR Ecuador OR Cuba OR El Salvador when:1d', 'es-419', 'US:es-419'), sourceName: 'Latin America Radar', category: 'GEOPOLITICS', weight: 8 },
 ];
 
-/** Severe events in headlines (deaths, disasters, war, coups, attacks) */
+/** Severe events in the headline (deaths, disasters, war, coups, attacks), in English and Spanish */
 export const SEVERE_EVENT = new RegExp(
-  '\\b(plane crash|crashes|killed|dead|dies|death toll|massacre|attack|earthquake|tsunami|hurricane|eruption|invasion|declares war|coup|explosion|hostages|bombing|assassination|shooting|' +
-    'muertos?|fallecid|mueren|muri[oó]|masacre|atentado|terremoto|sismo|explosi[oó]n|bombardeo|rehenes)\\b',
+  '\\b(plane crash|crashes|killed|dead|dies|death toll|massacre|terror attack|terrorist attack|attack|earthquake|tsunami|hurricane|eruption|invasion|declares war|coup|explosion|hostages|assassination|assassinated|shooting|airstrike|bombing|' +
+    'muertos?|fallecid|mueren|muri[oó]|masacre|atentado|terremoto|sismo|tsunami|hurac[aá]n|erupci[oó]n|invasi[oó]n|declara la guerra|golpe de estado|explosi[oó]n|bombardeo|rehenes|se estrell[oó]|accidente a[eé]reo)\\b',
   'i'
 );
 
-/** Novelty markers allowing an update to an already covered severe event */
+/** Novelty markers that allow publishing an update to a previously covered severe story (English & Spanish) */
 export const UPDATE_NOVELTY_MARKERS = new RegExp(
-  '\\b(death\\s+toll\\s+rises|toll\\s+rises|toll\\s+climbs|rises\\s+to|climbs\\s+to|identified|identifies|identify|victims|causes?|investigators|investigation|' +
-    'black\\s+box|flight\\s+recorder|charged|arrested|sentenced|convicted|confirmed|confirms|reveals?|rescued|new\\s+details|preliminary\\s+report|survivors?|autopsy)\\b',
+  '\\b(death\\s+toll\\s+rises|toll\\s+rises|toll\\s+climbs|rises\\s+to|climbs\\s+to|identified|identifies|identify|identity|identities|victims|causes?|investigators|investigation|black\\s+box|flight\\s+recorder|charged|indicted|arrested|detained|captured|sentenced|convicted|confirmed|confirms|new\\s+details|preliminary\\s+report|survivors?|autopsy|rescued|' +
+    'identifican|identific[oó]|identificad[oa]s?|identidad(?:es)?|causas?|investigaci[oó]n|investigadores|investigan|peritajes?|caja\\s+negra|cajas\\s+negras|' +
+    'balance|asciende(?:n)?|sube\\s+a|eleva(?:n)?\\s+a|aumenta(?:n)?\\s+a|v[ií]ctimas|arrestan|arrestad[oa]s?|detienen|detenid[oa]s?|capturan|capturad[oa]s?|' +
+    'imputan|imputad[oa]s?|sentencian|sentenciad[oa]s?|condenan|condenad[oa]s?|confirman|confirmad[oa]s?|revelan|hallan|encuentran|rescatan|sobrevivientes?|' +
+    'supervivientes?|autopsias?|informe\\s+preliminar|nuevos\\s+detalles)\\b',
   'gi'
 );
 
-/** Tier-1 wire agencies and reference outlets */
+/** Tier-1 wires and reference outlets (English & Spanish) */
 export const TIER1_SOURCES = new RegExp(
-  '^(reuters|associated press|ap news|ap|afp|bbc|bbc news|al jazeera|the guardian|the new york times|the washington post|cnn|dw|dw news|deutsche welle|france 24|bloomberg|cnbc|npr|usgs|un news|euronews)\\b',
+  '^(reuters|associated press|ap news|ap|afp|efe|europa press|bbc|bbc news|bbc business|bbc technology|bbc science|bbc mundo|al jazeera|the guardian|the new york times|the washington post|financial times|the economist|wall street journal|wsj|cnbc|politico|foreign policy|cnn|cnn en espa[nñ]ol|dw|dw news|dw espa[nñ]ol|deutsche welle|france 24|rfi|el pa[ií]s|bloomberg|bloomberg l[ií]nea|npr|pbs|cna|south china morning post|scmp|kyiv independent|nikkei|the japan times|usgs|un news|noticias de la onu|euronews|federal reserve|european central bank|ecb)\\b',
   'i'
 );
 
@@ -126,14 +188,18 @@ const stripAccents = (s: string) => s.toLowerCase().normalize('NFD').replace(/[\
 
 export function extractSemanticTokens(text: string): string[] {
   const stopwords = new Set([
-    'the', 'a', 'an', 'of', 'in', 'on', 'at', 'to', 'for', 'with', 'by', 'from', 'as', 'is', 'are',
-    'was', 'were', 'be', 'been', 'being', 'have', 'has', 'had', 'do', 'does', 'did', 'but', 'and',
-    'or', 'if', 'because', 'until', 'while', 'about', 'against', 'between', 'into', 'through',
-    'during', 'before', 'after', 'above', 'below', 'up', 'down', 'out', 'off', 'over', 'under',
-    'again', 'further', 'then', 'once', 'here', 'there', 'when', 'where', 'why', 'how', 'all',
-    'any', 'both', 'each', 'few', 'more', 'most', 'other', 'some', 'such', 'no', 'nor', 'not',
-    'only', 'own', 'same', 'so', 'than', 'too', 'very', 'can', 'will', 'just', 'should', 'now',
-    'says', 'said', 'amid', 'update', 'breaking'
+    // English stopwords
+    'the', 'and', 'for', 'that', 'this', 'with', 'from', 'your', 'have', 'more', 'will', 'about',
+    'after', 'into', 'over', 'amid', 'says', 'said', 'are', 'was', 'were', 'has', 'had', 'not',
+    'but', 'what', 'all', 'when', 'where', 'who', 'why', 'how', 'new', 'out', 'off', 'its', 'his',
+    'her', 'their', 'our', 'can', 'may', 'just', 'now', 'than', 'then', 'also', 'been', 'being',
+    'could', 'would', 'should', 'between', 'during', 'before', 'under', 'against', 'while',
+    // Spanish stopwords
+    'de', 'la', 'que', 'el', 'en', 'y', 'a', 'los', 'del', 'se', 'las', 'por', 'un', 'para',
+    'con', 'no', 'una', 'su', 'al', 'lo', 'como', 'mas', 'pero', 'sus', 'le', 'ya', 'o', 'este',
+    'si', 'porque', 'esta', 'son', 'entre', 'cuando', 'muy', 'sin', 'sobre', 'ser', 'tiene',
+    'tambien', 'me', 'hasta', 'hay', 'donde', 'quien', 'desde', 'todo', 'nos', 'durante',
+    'todos', 'uno', 'les', 'ni', 'contra', 'otros', 'fueron', 'tras', 'dice', 'segun', 'ante'
   ]);
 
   return stripAccents(text)
@@ -143,11 +209,18 @@ export function extractSemanticTokens(text: string): string[] {
 }
 
 const NUMBER_WORDS: Record<string, string> = {
+  // English
   one: '1', two: '2', three: '3', four: '4', five: '5', six: '6', seven: '7', eight: '8',
   nine: '9', ten: '10', eleven: '11', twelve: '12', thirteen: '13', fourteen: '14', fifteen: '15',
   sixteen: '16', seventeen: '17', eighteen: '18', nineteen: '19', twenty: '20', thirty: '30',
   forty: '40', fifty: '50', sixty: '60', seventy: '70', eighty: '80', ninety: '90',
   hundred: '100', thousand: '1000',
+  // Spanish
+  uno: '1', una: '1', dos: '2', tres: '3', cuatro: '4', cinco: '5', seis: '6', siete: '7', ocho: '8',
+  nueve: '9', diez: '10', once: '11', doce: '12', trece: '13', catorce: '14', quince: '15',
+  dieciseis: '16', diecisiete: '17', dieciocho: '18', diecinueve: '19', veinte: '20', treinta: '30',
+  cuarenta: '40', cincuenta: '50', sesenta: '60', setenta: '70', ochenta: '80', noventa: '90',
+  cien: '100', ciento: '100', mil: '1000',
 };
 
 export function extractEventTokens(text: string): string[] {
@@ -230,6 +303,8 @@ export function hasUpdateNovelty(
 const GENERIC_EVENT_TOKENS = new Set([
   'united', 'states', 'govern', 'presid', 'minist', 'police', 'forces', 'attack', 'crisis',
   'killed', 'people', 'countr', 'global', 'world', 'report', 'official', 'agency', 'alert',
+  'estado', 'unidos', 'gobier', 'polici', 'fuerza', 'ataque', 'guerra', 'muerto', 'fallec',
+  'accide', 'incend', 'explos', 'pais', 'paises', 'ciudad', 'mundo',
 ]);
 
 function matchesStoryCorpus(candidateTitle: string, storyTitles: string[]): boolean {
@@ -458,13 +533,20 @@ export function scoreNewsImpact(title: string, snippet: string, feedWeight: numb
   const text = ` ${stripAccents(`${title} ${snippet}`).replace(/[^a-z0-9\s]/g, ' ')} `;
 
   const highImpactKeywords = [
+    // English
     'war', 'missile', 'strike', 'nuclear', 'sanctions', 'oil', 'central bank', 'tariffs', 'nato', 'kremlin', 'pentagon',
     'taiwan', 'coup', 'election', 'elections', 'crisis', 'inflation', 'federal reserve', 'imf', 'debt', 'sovereignty',
     'cyberattack', 'resigns', 'treaty', 'armed forces', 'invasion', 'ceasefire', 'artificial intelligence', 'openai',
     'nvidia', 'semiconductors', 'microchips', 'algorithm', 'tsmc', 'supercomputer', 'quantum', 'silicon valley',
     'deepfake', 'cybersecurity', 'espionage', 'monopoly', 'big tech', 'earthquake', 'tsunami', 'hurricane', 'outbreak',
     'pandemic', 'ebola', 'killed', 'death toll', 'explosion', 'hostages', 'shutdown', 'default', 'recession', 'emergency',
-    'massacre'
+    'massacre', 'assassination', 'indicted', 'supreme court',
+    // Spanish
+    'guerra', 'misil', 'ataque', 'sanciones', 'petróleo', 'banco central', 'aranceles', 'otan', 'pentágono',
+    'golpe de estado', 'elecciones', 'inflación', 'reserva federal', 'cepa', 'fmi', 'deuda', 'soberanía', 'ciberataque',
+    'renuncia', 'tratado', 'fuerzas armadas', 'invasión', 'alto el fuego', 'inteligencia artificial', 'semiconductores',
+    'algoritmo', 'supercomputadora', 'cuántica', 'ciberseguridad', 'espionaje digital', 'monopolio',
+    'estado de emergencia', 'terremoto', 'huracán', 'brote', 'pandemia', 'muertos', 'masacre', 'rehenes', 'recesión'
   ];
 
   let matches = 0;

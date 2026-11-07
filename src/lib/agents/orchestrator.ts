@@ -152,7 +152,7 @@ export async function runEditorialPipeline(
       sourceImageUrl: article.imageUrl,
       sourceLink: article.link,
       outletLinks,
-      searchQueries: [article.title, fullArticle.title || ''],
+      searchQueries: [fullArticle.title || '', article.title],
     })) || updateInfo?.rawImageUrl;
 
   // Video real del hecho: si el titular original no lo encontró, se prueba con el del artículo (más concreto)

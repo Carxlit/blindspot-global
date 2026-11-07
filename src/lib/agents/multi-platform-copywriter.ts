@@ -3,16 +3,16 @@ import { MultiPlatformCopies } from '@/types/news';
 
 export const MultiPlatformCopySchema = z.object({
   facebookPost: z.string().describe(
-    'Facebook post: 2 to 3 paragraphs of incisive, contextual analysis with sharp, human prose. Close with a thought-provoking question that invites debate, followed by 3 thematic hashtags.'
+    'Facebook post in English: 2 to 3 paragraphs of incisive, contextual analysis with sharp, human prose. Close with a thought-provoking question that invites debate, followed by 3 thematic hashtags.'
   ),
   telegramPost: z.string().describe(
-    'Telegram post: intelligence memo using ONLY <b> and <i> HTML tags. Open with the headline in <b>, followed by 3 bullets: • What happened, • Why it matters, • What is next.'
+    'Telegram post in English: intelligence memo using ONLY <b> and <i> HTML tags. Open with the headline in <b>, followed by 3 bullets: • What happened, • Why it matters, • What is next.'
   ),
   linkedInPost: z.string().describe(
-    'LinkedIn post: executive-level strategic analysis on economic repercussions, geopolitical risk, and supply chains. Sober prose, zero clichés. 3 hashtags at the end.'
+    'LinkedIn post in English: executive-level strategic analysis on economic repercussions, geopolitical risk, and supply chains. Sober prose, zero clichés. 3 hashtags at the end.'
   ),
   blueskyPost: z.string().describe(
-    'Bluesky post: max 230 characters including hashtags (a link will be appended). Direct hook, revealing "blind spot" fact, and 2 hashtags: #Blindspot and one matching the category.'
+    'Bluesky post in English: max 230 characters including hashtags (a link will be appended). Direct hook, revealing "blind spot" fact, and 2 hashtags: #Blindspot and one matching the category.'
   ),
 });
 

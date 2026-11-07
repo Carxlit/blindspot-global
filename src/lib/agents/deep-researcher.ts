@@ -30,6 +30,7 @@ export function extractInvestigationKeywords(title: string): string {
     .trim();
 
   const stopwords = new Set([
+    // English stopwords
     'the', 'a', 'an', 'of', 'in', 'on', 'at', 'to', 'for', 'with', 'by', 'from', 'as', 'is', 'are',
     'was', 'were', 'be', 'been', 'being', 'have', 'has', 'had', 'do', 'does', 'did', 'but', 'and',
     'or', 'if', 'because', 'until', 'while', 'about', 'against', 'between', 'into', 'through',
@@ -37,7 +38,19 @@ export function extractInvestigationKeywords(title: string): string {
     'again', 'further', 'then', 'once', 'here', 'there', 'when', 'where', 'why', 'how', 'all',
     'any', 'both', 'each', 'few', 'more', 'most', 'other', 'some', 'such', 'no', 'nor', 'not',
     'only', 'own', 'same', 'so', 'than', 'too', 'very', 'can', 'will', 'just', 'should', 'now',
-    'says', 'said', 'amid', 'new', 'report', 'reports'
+    'says', 'said', 'amid', 'new', 'report', 'reports',
+    // Spanish stopwords
+    'el', 'la', 'los', 'las', 'un', 'una', 'unos', 'unas', 'de', 'del', 'al', 'en', 'por', 'para',
+    'con', 'sin', 'sobre', 'entre', 'hacia', 'hasta', 'desde', 'contra', 'ante', 'bajo', 'tras',
+    'durante', 'mediante', 'segun', 'según', 'que', 'qué', 'como', 'cómo', 'cuando', 'cuándo',
+    'donde', 'dónde', 'quien', 'quién', 'pero', 'mas', 'más', 'sino', 'aunque', 'porque', 'pues',
+    'este', 'esta', 'estos', 'estas', 'ese', 'esa', 'esos', 'esas', 'aquel', 'aquella', 'esto',
+    'eso', 'su', 'sus', 'mi', 'mis', 'tu', 'tus', 'nuestro', 'nuestra', 'se', 'le', 'les', 'lo',
+    'nos', 'me', 'te', 'ya', 'no', 'si', 'sí', 'tambien', 'también', 'solo', 'sólo', 'muy', 'tan',
+    'todo', 'toda', 'todos', 'todas', 'otro', 'otra', 'otros', 'otras', 'mismo', 'misma', 'cada',
+    'ser', 'es', 'son', 'fue', 'fueron', 'era', 'eran', 'sea', 'sido', 'estar', 'está', 'están',
+    'estuvo', 'haber', 'ha', 'han', 'había', 'hay', 'tener', 'tiene', 'tienen', 'tuvo', 'hacer',
+    'hace', 'hizo', 'dice', 'dicen', 'dijo', 'asegura', 'afirma', 'anuncia', 'advierte', 'tras'
   ]);
 
   const tokens = clean
@@ -65,7 +78,7 @@ export async function fetchArticlePage(url: string): Promise<{ text: string; htm
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
         Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-        'Accept-Language': 'en-US,en;q=0.9',
+        'Accept-Language': 'en-US,en;q=0.9,es;q=0.8',
       },
     });
 
@@ -113,42 +126,44 @@ export async function findCorroboratingCoverage(
   const keywords = extractInvestigationKeywords(title);
   if (!keywords) return [];
 
-  const searchUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(keywords)}+when:3d&hl=en-US&gl=US&ceid=US:en`;
+  const collectFromFeed = async (hl: string, ceid: string, target: CorroboratingSource[]) => {
+    const gl = ceid.split(':')[0] || 'US';
+    const searchUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(keywords)}+when:3d&hl=${hl}&gl=${gl}&ceid=${ceid}`;
+    try {
+      const parsed = await parser.parseURL(searchUrl);
+      const items = (parsed.items || []).slice(0, 8);
+      for (const item of items) {
+        if (target.length >= 4) break;
+        let sourceName = 'International Outlet';
+        let cleanHeadline = item.title || '';
 
-  try {
-    const parsed = await parser.parseURL(searchUrl);
-    const items = (parsed.items || []).slice(0, 8);
-    const corroborating: CorroboratingSource[] = [];
+        if (cleanHeadline.includes(' - ')) {
+          const parts = cleanHeadline.split(' - ');
+          sourceName = parts.pop()?.trim() || sourceName;
+          cleanHeadline = parts.join(' - ').trim();
+        }
 
-    for (const item of items) {
-      let sourceName = 'International Outlet';
-      let cleanHeadline = item.title || '';
+        if (sourceName.toLowerCase() === primarySource.toLowerCase()) continue;
+        if (target.some((c) => c.sourceName.toLowerCase() === sourceName.toLowerCase())) continue;
 
-      if (cleanHeadline.includes(' - ')) {
-        const parts = cleanHeadline.split(' - ');
-        sourceName = parts.pop()?.trim() || sourceName;
-        cleanHeadline = parts.join(' - ').trim();
+        target.push({
+          sourceName,
+          title: cleanHeadline,
+          snippet: (item.contentSnippet || item.content || cleanHeadline).replace(/\s+/g, ' ').trim(),
+          link: item.link || '',
+        });
       }
-
-      if (sourceName.toLowerCase() === primarySource.toLowerCase()) {
-        continue;
-      }
-
-      corroborating.push({
-        sourceName,
-        title: cleanHeadline,
-        snippet: (item.contentSnippet || item.content || cleanHeadline).replace(/\s+/g, ' ').trim(),
-        link: item.link || '',
-      });
-
-      if (corroborating.length >= 4) break;
+    } catch (err: any) {
+      console.warn('[DeepResearcher] Error tracking corroborating sources:', err?.message);
     }
+  };
 
-    return corroborating;
-  } catch (err: any) {
-    console.warn('[DeepResearcher] Error tracking corroborating sources:', err?.message);
-    return [];
+  const corroborating: CorroboratingSource[] = [];
+  await collectFromFeed('en-US', 'US:en', corroborating);
+  if (corroborating.length < 2) {
+    await collectFromFeed('es-419', 'US:es-419', corroborating);
   }
+  return corroborating;
 }
 
 export async function buildMultiSourceDossier(article: RawArticle): Promise<ResearchDossier> {

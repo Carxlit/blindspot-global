@@ -276,7 +276,7 @@ export function calculateNextPostSchedule(config: AutonomousConfig = getAutonomo
 /**
  * Selecciona la mejor noticia del radar aplicando estrictamente la diversidad temática
  */
-const TIER1_GLOBAL_PATTERN = /\b(u\.?s\.?|united states|washington|white house|pentagon|congress|senate|supreme court|federal reserve|wall street|nasdaq|uk|britain|british|london|eu|european union|nato|china|beijing|taiwan|russia|moscow|ukraine|israel|iran|middle east|openai|nvidia|apple|microsoft|google|meta|tesla)\b/i;
+const TIER1_GLOBAL_PATTERN = /\b(u\.?s\.?|united states|estados unidos|washington|white house|casa blanca|pentagon|pent[aá]gono|congress|congreso|senate|senado|supreme court|supremo|federal reserve|reserva federal|wall street|nasdaq|uk|britain|british|reino unido|london|londres|eu|european union|uni[oó]n europea|nato|otan|china|beijing|pek[ií]n|taiwan|taiw[aá]n|russia|rusia|moscow|mosc[uú]|ukraine|ucrania|israel|iran|ir[aá]n|middle east|oriente medio|medio oriente|openai|nvidia|apple|microsoft|google|meta|tesla)\b/i;
 
 /**
  * Como selectBestDiverseArticle, pero mira los primeros candidatos (en el mismo orden de prioridad) buscando

@@ -57,7 +57,7 @@ function properTokens(title: string): Set<string> | undefined {
   return new Set(proper.flatMap((w) => extractEventTokens(w)));
 }
 
-const STOP = new Set('the a an of in on at to for with by from as is are was were be been being have has had do does did but and or if because until while about against between into through during before after over under says said amid'.split(' '));
+const STOP = new Set('the a an of in on at to for with by from as is are was were be been being have has had do does did but and or if because until while about against between into through during before after over under says said amid el la los las un una de del al en por para con sin sobre entre hasta desde contra ante tras durante segun que como cuando donde pero mas este esta su sus se lo ya no si tambien todo todos ser son fue fueron esta estan ha han hay tiene dice'.split(' '));
 
 /** Búsqueda corta y concreta: nombres propios, cifras y las primeras palabras con peso ("avión ejecutivo West Palm Beach") */
 function searchQueryFor(title: string): string {

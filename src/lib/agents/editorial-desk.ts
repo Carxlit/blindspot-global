@@ -10,9 +10,9 @@ import { ArticleSchema, ARTICLE_SYSTEM_PROMPT, finalizeArticle } from './article
 
 /** Reel script: each line is a scene and is narrated aloud (no dubious figures or obscure acronyms) */
 const VideoScriptSchema = z.object({
-  hook: z.string().describe('Opening hook sentence, max 14 words, no all-caps'),
-  beats: z.array(z.string()).describe('3 short sentences (max 22 words each) with key facts and the blind spot'),
-  close: z.string().describe('Closing line of max 14 words inviting viewers to read the full analysis at the link in bio'),
+  hook: z.string().describe('Opening hook sentence in English, max 14 words, no all-caps'),
+  beats: z.array(z.string()).describe('3 short sentences in English (max 22 words each) with key facts and the blind spot'),
+  close: z.string().describe('Closing line in English of max 14 words inviting viewers to read the full analysis at the link in bio'),
 });
 
 const DeskSchema = z.object({
@@ -29,9 +29,9 @@ export interface DeskOutput {
   video?: VideoScript;
 }
 
-const VIDEO_SYSTEM_PROMPT = `ROLE 4 - REEL SCRIPTWRITER ("video"): 25 to 40-second script for a narrated vertical video.
+const VIDEO_SYSTEM_PROMPT = `ROLE 4 - REEL SCRIPTWRITER ("video"): 25 to 40-second script for a narrated vertical video in English.
 - "hook": open with the most surprising fact or the question nobody is asking. Never start with "In this story...".
-- "beats":/exactly 3 sentences, one idea per sentence, clear spoken language; the last one reveals the blind spot.
+- "beats": exactly 3 sentences, one idea per sentence, clear spoken English; the last one reveals the blind spot.
 - "close": invite viewers to read the full analysis at the link in our bio.
 - FIGURES: if the dossier contains a real key figure (percentage, count, dollar amount), include it in ONE of the sentences using digits and the unit attached ("62%", "435 seats", "2.5 million people"): the video displays it in large type. Use ONLY figures present in the dossier; never invent or round on your own.
 - Conversational, sharp human tone—like an informed analyst explaining the story to a friend: natural transitions ("here is the catch", "what nobody is talking about is"), zero press-release jargon.
@@ -51,6 +51,12 @@ function finalizeVideoScript(raw: any): VideoScript | undefined {
 }
 
 const SLUG_STOPWORDS = new Set(['the', 'a', 'an', 'of', 'in', 'on', 'at', 'to', 'for', 'with', 'by', 'from', 'as', 'is', 'are', 'was', 'were', 'and', 'or', 'but', 'that', 'this', 'its', 'update']);
+
+/** Detects whether a raw source headline is in Spanish so we display the translated English headline on the website */
+const SPANISH_TEXT_RE = new RegExp(
+  '[áéíóúñ¿¡]|\\b(el|la|los|las|del|por|para|con|una|tras|sobre|ante|entre|segun|dice|gobierno|contra|mundo|pais|estado|anos|millones|horas|muertos|ataque|guerra|presidente)\\b',
+  'i'
+);
 
 /**
  * Short, readable slug for the article URL: title keywords + unique suffix
@@ -120,7 +126,7 @@ export function buildEditorialDeskPrompt(article: RawArticle, dossier?: Research
 MANDATORY EDITORIAL INSTRUCTION: we already covered the initial event; report ONLY what is new without repeating old background. The brief headline (brief.headline) MUST start with "UPDATE:".`
     : '';
 
-  return `Story to cover:
+  return `Story to cover (NOTE: if the source headline or dossier text is in Spanish or another language, translate all facts, quotes, and titles into 100% natural, idiomatic English):
 Received headline: "${article.title}"
 Primary source: ${article.sourceName}
 Suggested radar category: ${article.category}
@@ -143,7 +149,7 @@ export async function runEditorialDesk(article: RawArticle, dossier?: ResearchDo
       COPYWRITER_SYSTEM_PROMPT,
       ARTICLE_SYSTEM_PROMPT,
       VIDEO_SYSTEM_PROMPT,
-      'LANGUAGE: write EVERYTHING in clear, sharp International/American English (headline, copies, article, and video script), even if a source is in another language. GLOBAL ACCURACY RULE: use only facts, figures, and names present in the dossier. Analysis may be interpretive; facts are never invented.',
+      'MANDATORY TRANSLATION & ENGLISH-ONLY RULE: Sources in the dossier may be in English, Spanish, or other languages. Write EVERYTHING in clear, sharp, idiomatic International/American English (headline, subHeadline, blindSpotAngle, copies, article title, dek, keyFacts, sections, tags, and video script). NEVER leave any headline, quote, tag, or sentence in Spanish. GLOBAL ACCURACY RULE: use only facts, figures, and names present in the dossier. Analysis may be interpretive; facts are never invented.',
     ].join('\n\n'),
     prompt,
   });
@@ -151,10 +157,19 @@ export async function runEditorialDesk(article: RawArticle, dossier?: ResearchDo
   const brief = finalizeBrief(raw.brief, article);
   const copies = finalizeCopies(raw.copies);
   const draft = finalizeArticle(raw.article);
+  const englishTitle = draft.title || brief.headline;
 
   const sources = [
-    { name: article.sourceName, title: article.title, url: article.link },
-    ...(dossier?.corroboratingSources || []).map((s) => ({ name: s.sourceName, title: s.title, url: s.link })),
+    {
+      name: article.sourceName,
+      title: SPANISH_TEXT_RE.test(article.title) ? englishTitle : article.title,
+      url: article.link,
+    },
+    ...(dossier?.corroboratingSources || []).map((s) => ({
+      name: s.sourceName,
+      title: SPANISH_TEXT_RE.test(s.title) ? `${englishTitle} (${s.sourceName})` : s.title,
+      url: s.link,
+    })),
   ].filter((s, i, arr) => s.url && arr.findIndex((o) => o.url === s.url) === i);
 
   const wordCount = [draft.dek, ...draft.sections.flatMap((s) => s.paragraphs)].join(' ').split(/\s+/).length;
@@ -164,9 +179,9 @@ export async function runEditorialDesk(article: RawArticle, dossier?: ResearchDo
     copies,
     video: finalizeVideoScript(raw.video),
     article: {
-      slug: buildSlug(draft.title || brief.headline),
+      slug: buildSlug(englishTitle),
       ...draft,
-      title: draft.title || brief.headline,
+      title: englishTitle,
       sources,
       wordCount,
     },
