@@ -11,9 +11,39 @@
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxONEFvcW0yMFZtXzY2UHp6SVc1cHZLTGh6NzhfdUFZSU5zMTRaWVFXYzZUQWc5RkVMcFJfQU1nQjFwTDZZS2lDTFZSWmFIOFEwZ3A2QTVoRkV4RXZBSGRwOF95OHgxbWx3Z0pXWTd0Nm50Yzd4bnRNTktFTDRXZXdJVnc2M2w?oc=5",
     "https://www.eltiempo.com/mundo/latinoamerica/fiscalia-de-paraguay-imputa-y-pide-prision-para-expresidente-pena-por-crisis-bancaria-3599271",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT0ZpbFlMQ1c0aUdqYzRvblJSaWtBV2JYeHdsT09uM2JzUlVEMUZ5XzAzUE1iNklJN0hrWnczZzJ0M1ItVl9zR2NwNHRjX1RkV21jdE1fUEtPZDJtSFFTWGczT0hmR1dwYUZqVmYtd0NtTHlHUkZlT2JrZDBqTkIxd3ZPRnhwMks0ZENNRldhQnZ1ekdURUpkdXpTbGI2bnM?oc=5",
-    "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos"
+    "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMV9yYXBHcG8tbzdLTG85N2NjSlNJTmgwUlVFSmU5eEM2WVdpQUtfY2U1SXJ0VkxJSWV6RXpDVnEtR0dHdzZQWnlmd2ZnRjZjdnZndzlOMzJqUjNwNmN1Y2tGQVBSUkdualpEdnNaRWRVbzV2cnR2YnJYaVR2amdURkZ4WHdGbENYN2QyYUd6UjlDTGZVUTVFQ0lKdExaZkNrM2NJYlhSZXRjY0N1aFNjcGJqVjM5ZlpfaHg2OXdCWmF0OHYwd0FndXo1dXI?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "SOFTBANK AND ABB EXPLORE CHINA CARVE-OUT FOR DEAL",
+      "normalizedTokens": [
+        "softbank",
+        "abb",
+        "explore",
+        "china",
+        "carve",
+        "deal"
+      ],
+      "date": "2026-11-08T02:39:46.651Z"
+    },
+    {
+      "title": "SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports",
+      "normalizedTokens": [
+        "softbank",
+        "abb",
+        "explore",
+        "china",
+        "carve",
+        "salvage",
+        "robotics",
+        "deal",
+        "bloomberg",
+        "news",
+        "reports"
+      ],
+      "date": "2026-11-08T02:39:46.650Z"
+    },
     {
       "title": "ARTIFICIAL INTELLIGENCE ACCELERATES CYBERSECURITY VULNERABILITIES AS ATTACKS ESCALATE",
       "normalizedTokens": [
