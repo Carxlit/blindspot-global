@@ -25,9 +25,39 @@
     "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
     "http://www.africanews.com/2026/11/08/anc-leads-south-africas-local-polls-but-records-all-time-election-low-final-results/",
     "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlFnYVBkWHBXdnhJcHBhOTM4U0t0WnZHVkYwY3FQc3lUd3hpallTaHFGN1BuaVFWUEtITnVDSWFaWUdTZktXdjg5MUk0bWtsSkFsYk9xS21Lc2N0cnpPeHBEeVZDdW5RZ1h0NUs3Sk8wbGhiTmtTQjVjSjRrcEVsdTNjMk8wTDRuaDUxSlFrT0FvS2VsVkZVVVNYUmpXaW9jbUZZZGVzVzBDWE0?oc=5"
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlFnYVBkWHBXdnhJcHBhOTM4U0t0WnZHVkYwY3FQc3lUd3hpallTaHFGN1BuaVFWUEtITnVDSWFaWUdTZktXdjg5MUk0bWtsSkFsYk9xS21Lc2N0cnpPeHBEeVZDdW5RZ1h0NUs3Sk8wbGhiTmtTQjVjSjRrcEVsdTNjMk8wTDRuaDUxSlFrT0FvS2VsVkZVVVNYUmpXaW9jbUZZZGVzVzBDWE0?oc=5",
+    "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia"
   ],
   "processedSignatures": [
+    {
+      "title": "EUROPE FORCES WAY INTO ABU DHABI UKRAINE TALKS",
+      "normalizedTokens": [
+        "europe",
+        "forces",
+        "way",
+        "abu",
+        "dhabi",
+        "ukraine",
+        "talks"
+      ],
+      "date": "2026-11-08T19:50:43.587Z"
+    },
+    {
+      "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+      "normalizedTokens": [
+        "europe",
+        "join",
+        "brokered",
+        "ukraine",
+        "talks",
+        "abu",
+        "dhabi",
+        "defying",
+        "kremlin",
+        "objections"
+      ],
+      "date": "2026-11-08T19:50:43.585Z"
+    },
     {
       "title": "RUSSIAN DOUBLE-TAP STRIKES TARGET UKRAINIAN EMERGENCY CREWS IN SOUTH",
       "normalizedTokens": [

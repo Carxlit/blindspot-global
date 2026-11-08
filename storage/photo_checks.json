@@ -148,5 +148,15 @@
     "relevant": true,
     "reason": "The image depicts grieving people in Ukraine, which fits the context of casualties from an attack in the region.",
     "at": "2026-11-08T18:46:47.542Z"
+  },
+  "83a0600eee285fa7:bkturx8co": {
+    "relevant": false,
+    "reason": "The image shows war damage in Ukraine, but the story is about diplomatic peace talks in Abu Dhabi.",
+    "at": "2026-11-08T19:50:22.106Z"
+  },
+  "3a911f27e763ef0e:bkturx8co": {
+    "relevant": true,
+    "reason": "The image displays a map centered on Abu Dhabi and explicitly mentions the Ukraine talks and European representation, directly matching the news context.",
+    "at": "2026-11-08T19:50:37.005Z"
   }
 }
