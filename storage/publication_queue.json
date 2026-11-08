@@ -2741,12 +2741,13 @@
         "close": "Read our full geopolitical intelligence analysis at the link in our bio."
       },
       "rawImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-08T05:31:28.535Z",
       "cardImageUrl": "/news-cards/news-995ifrvnm-1794115888535.jpg",
       "reelCoverUrl": "/news-cards/news-995ifrvnm-1794115889343-cover.jpg",
       "instagramCardUrl": "/news-cards/news-995ifrvnm-1794115889945-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/far-right-attack-krakow-exposes-growing-domestic-ow6a/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/far-right-attack-krakow-exposes-growing-domestic-ow6a/",
+      "publishedAt": "2026-11-08T05:34:23.463Z"
     },
     "channels": {
       "facebook": true,
@@ -2760,10 +2761,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-08T05:31:31.180Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-08T05:31:31.180Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-08T05:32:10.586Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122101757109539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17953878339294363",
+        "permalink": "https://www.instagram.com/reel/DfeA_j8iAQD/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-08T05:34:23.463Z"
   }
 ]
