@@ -3127,12 +3127,13 @@
         "title": "Donald Trump offers UFC boss Dana White White House press secretary job | 9 News Australia",
         "channel": "9 News Australia"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-08T11:28:09.418Z",
       "cardImageUrl": "/news-cards/news-e0sjjoe0p-1794137289418.jpg",
       "reelCoverUrl": "/news-cards/news-e0sjjoe0p-1794137290019-cover.jpg",
       "instagramCardUrl": "/news-cards/news-e0sjjoe0p-1794137290597-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/donald-trump-offers-ufc-chief-dana-itnn/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/donald-trump-offers-ufc-chief-dana-itnn/",
+      "publishedAt": "2026-11-08T13:25:18.424Z"
     },
     "channels": {
       "facebook": true,
@@ -3146,10 +3147,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-08T13:23:00.000Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-08T11:28:11.635Z"
+    "createdAt": "2026-11-08T11:28:11.635Z",
+    "lastAttemptAt": "2026-11-08T13:23:15.356Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122102061375539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17936412741143511",
+        "permalink": "https://www.instagram.com/reel/Dfe25OXEY-N/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-08T13:25:18.424Z"
   },
   {
     "id": "queue-1794141254569-ohbim",
