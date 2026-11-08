@@ -2575,12 +2575,13 @@
         "close": "Read our full strategic analysis at the link in our bio."
       },
       "rawImageUrl": "https://imagenes.elpais.com/resizer/v2/JSONNDQQ25E7JBFSPBSCY2AIIY.jpg?auth=8edbfe33b2c3a31344fb8dc81c86284d8012135fb3c4988ff385976e30102d43",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-08T05:16:33.880Z",
       "cardImageUrl": "/news-cards/news-hdb774xgx-1794114993881.jpg",
       "reelCoverUrl": "/news-cards/news-hdb774xgx-1794114995306-cover.jpg",
       "instagramCardUrl": "/news-cards/news-hdb774xgx-1794114995843-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/asymmetric-aerial-attacks-escalating-rural-colombia-lo5f/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/asymmetric-aerial-attacks-escalating-rural-colombia-lo5f/",
+      "publishedAt": "2026-11-08T05:19:10.463Z"
     },
     "channels": {
       "facebook": true,
@@ -2594,10 +2595,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-08T05:16:36.978Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-08T05:16:36.978Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-08T05:17:20.250Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122101748121539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17927519628204238",
+        "permalink": "https://www.instagram.com/reel/Dfd_QuwGwh4/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-08T05:19:10.463Z"
   }
 ]
