@@ -2907,12 +2907,13 @@
         "close": "Read our complete analysis on Japan's industrial supply chain risk at the link in bio."
       },
       "rawImageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6aeff4aa83-1794110634.jpg?resize=1920%2C1440",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-08T05:46:43.197Z",
       "cardImageUrl": "/news-cards/news-pe6ze2640-1794116803197.jpg",
       "reelCoverUrl": "/news-cards/news-pe6ze2640-1794116804028-cover.jpg",
       "instagramCardUrl": "/news-cards/news-pe6ze2640-1794116804728-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/seismic-stress-japan-central-economic-spine-b08h/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/seismic-stress-japan-central-economic-spine-b08h/",
+      "publishedAt": "2026-11-08T05:49:25.732Z"
     },
     "channels": {
       "facebook": true,
@@ -2926,10 +2927,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-08T05:46:45.832Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-08T05:46:45.832Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-08T05:47:26.947Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122101764981539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18358639630266223",
+        "permalink": "https://www.instagram.com/reel/DfeCuPkDimk/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-08T05:49:25.732Z"
   }
 ]
