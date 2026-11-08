@@ -1,5 +1,100 @@
 [
   {
+    "slug": "how-us-midterms-put-datacentres-ai-4q1x",
+    "path": "news/how-us-midterms-put-datacentres-ai-4q1x/",
+    "title": "How the US midterms put datacentres, AI, and the broligarchy on trial",
+    "headline": "US MIDTERM ELECTIONS PUNCTURE THE UNCHECKED AI INFRASTRUCTURE BOOM",
+    "dek": "Recent midterm election results show voters pushing back against Silicon Valley expansion through ballot measures restricting datacentres. This grassroots friction threatens the financial narrative sustaining the AI market boom.",
+    "category": "GLOBAL ECONOMY",
+    "sourceName": "The Guardian Business",
+    "image": "img/how-us-midterms-put-datacentres-ai-4q1x.jpg",
+    "photo": "img/how-us-midterms-put-datacentres-ai-4q1x-foto.jpg",
+    "publishedAt": "2026-11-08T14:40:22.097Z",
+    "article": {
+      "slug": "how-us-midterms-put-datacentres-ai-4q1x",
+      "title": "How the US midterms put datacentres, AI, and the broligarchy on trial",
+      "dek": "Recent midterm election results show voters pushing back against Silicon Valley expansion through ballot measures restricting datacentres. This grassroots friction threatens the financial narrative sustaining the AI market boom.",
+      "keyFacts": [
+        "Dozens of measures calling for limits on datacentre expansion were passed during the US midterms.",
+        "56% of observers cited data centers as a major issue in midterms coverage according to shattered.io data.",
+        "Texas senator-elect James Talarico campaigned on local complaints regarding blinding lights from neighboring datacentres.",
+        "Elon Musk poured billions of dollars into trying to buy the electorate in Texas."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Last week's midterm elections brought a wave of anti-tech sentiment directly to the ballot box across the United States. While political analysts primarily focused on the Democrat wave driven by the cost of living squeeze from the war in Iran, AI infrastructure was unexpectedly on trial.",
+            "Dozens of measures calling for strict limits on datacentre expansion were passed by voters. Across multiple jurisdictions, reining in the unchecked growth of power-hungry mega-sheds became a rallying cry that resonated deeply with local electorates."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Every financial bubble requires a compelling narrative, and the current artificial intelligence boom has relied heavily on the prospect of carpeting the United States in debt-funded datacentres. These massive facilities were framed by market promoters as inevitable and essential as computational demand scales upward.",
+            "However, public relations for the sector have deteriorated. Tech firms have insisted on shoehorning chatbots and generative tools unbidden into every platform, device, and application—a phenomenon dubbed enshittification by industry critics—while average consumers continue to battle persistent inflation and soaring utility demands from nearby server farms."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream coverage tends to treat the local opposition to datacentres as simple NIMBYism or secondary noise against broader national economic trends. Blindspot analysis indicates that these ballot measures represent the first structural, democratic containment of tech capital in decades.",
+            "When citizens watch the leaders of big tech firms amass unprecedented fortunes while their own neighborhoods deal with severe light pollution, grid strain, and relentless digital noise, the social contract underpinning the tech economy fractures. The assumption that the public would indefinitely tolerate massive industrial footprints for abstract technological gains has proven false."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Local communities, municipal governments, and grassroots organizers emerge as unexpected victors, regaining regulatory teeth over corporate actors who previously operated with minimal friction. State legislators are finding that opposing unchecked tech sprawl is a potent populist message.",
+            "Conversely, the losers include venture capitalists, real estate developers specializing in tech infrastructure, and big tech executives who relied on unhindered physical scaling. Elon Musk's heavy financial intervention in Texas politics backfired by giving the opposition a clear target against billionaire political influence."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Observers should monitor whether the recent tech stock sell-off deepens as institutional investors reprice the regulatory risk of future datacentre projects. If municipal resistance spreads from isolated ballot measures to state-level moratoria, the entire capital expenditure model of the AI boom will require fundamental restructuring."
+          ]
+        }
+      ],
+      "tags": [
+        "Global Economy",
+        "Artificial Intelligence",
+        "Infrastructure",
+        "Datacentres",
+        "Blindspot"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian Business",
+          "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
+          "url": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash"
+        },
+        {
+          "name": "The Guardian",
+          "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOU42NkxfMUowd0R4X0xFeGVvQmM3ZTZ1NDRwVzdOVUFHOXJGTENpV2lvbm9EdmExMVg2WWpuR3Nza2hsOVp1WXNZR0sxd0NqNFBkSDhOQzI1MnVCeUhzUVVsVUt4WGpXcFlYeWo2OXI1dUlTVFV2OV9SdDRNc2pQNGZGSTZVaHA3VmlDTkhjYUgzVXdzNFIzTFpXVVVsWDA4WUF4UQ?oc=5"
+        },
+        {
+          "name": "shattered.io",
+          "title": "Midterms Put AI on Trial: 56% Cite Data Centers [2026]",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLWNsQVhjdGYyRWZLc2l5dTdscXhjM1V4c2tYYWxZb1o0RDNvVFhfQ1A0UEdpVklELVFXOFFjWkZuNllkQndEOXdTYVFUbF9UZkxZX2t5RVBqczZxWVBPMnlxcDNCTDJKZURvMEdQemg4eEZZc3c0RHFNQ0w3bWJwNnY3YUZQQXM?oc=5"
+        },
+        {
+          "name": "USA Today",
+          "title": "Data centers were on the ballot across the nation. They got crushed.",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc2Z4bm1fQ1NLcEVzNG56SjNjQVRnVVdsSmpqVFMtczBJdGhyYVctQk5laDhObk9qSjBCM29MTnU0TDM4ZmxSc01kNl85djJqRGRPZXdETFhXaEV0YldSV00zd0NUYlZrMkZRNkNyMi00UFNweFY0bF80SjRqRGJ1X2dSZm9NYkR1Rm10S3AtMEtqem9ubjB0Z1pfV3Rodw?oc=5"
+        },
+        {
+          "name": "BBC",
+          "title": "Could the US midterms put a pin in the AI bubble?",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vd2Y0cG1paUI2cC1oS0VBTmJlemxzN3Jtd1VBaHFRZldINGZtY25HNTVFSWtYN1NRekp5b1EybWVSZTRaUXcxUjZaVWtUVjVSZlNFU3M3RmZvQ3pFY2c?oc=5"
+        }
+      ],
+      "wordCount": 417
+    },
+    "blindSpot": "While mainstream financial commentary frames the midterms as a straightforward referendum on inflation and the war in Iran, the widespread local resistance to power-hungry tech infrastructure exposes a deeper structural vulnerability. The debt-funded model of carpeting the country in mega-sheds is colliding with raw municipal anger over energy grid strain and deteriorating local quality of life."
+  },
+  {
     "slug": "climate-change-fundamentally-altering-colors-we-u3m6",
     "path": "news/climate-change-fundamentally-altering-colors-we-u3m6/",
     "title": "Climate change is fundamentally altering the colors we see across the world",
