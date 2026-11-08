@@ -19,9 +19,37 @@
     "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
     "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people?traffic_source=rss",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ2FyWVhVOHdId05JN1ZCTzFidHJyRktaVjg5NkM2WVV2ZFlrLWFrLXlWSHFkQlZ6a1BUSWV2Zzk4cWlmTHdTOFNWc3FpenFDYVpkYnQ1ZXYtdWdLRlFTVldySXU2c0VuTlhvWFZDVDRZenIzOGtNOUdSZWplX3FDaFdjdmpsa2xtLTQtbHFpQ3I4OGFEU1IwRkhsS0Y?oc=5",
-    "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic"
+    "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+    "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes"
   ],
   "processedSignatures": [
+    {
+      "title": "CLIMATE INDUCED COLOR SHIFTS ALTER GLOBAL ECOSYSTEMS",
+      "normalizedTokens": [
+        "climate",
+        "induced",
+        "color",
+        "shifts",
+        "alter",
+        "global",
+        "ecosystems"
+      ],
+      "date": "2026-11-08T13:27:06.287Z"
+    },
+    {
+      "title": "Climate change is altering the colors we see in the world: an illustrated journey",
+      "normalizedTokens": [
+        "climate",
+        "change",
+        "altering",
+        "colors",
+        "see",
+        "world",
+        "illustrated",
+        "journey"
+      ],
+      "date": "2026-11-08T13:27:06.286Z"
+    },
     {
       "title": "AI ACCELERATES CYBERATTACKS AS INFRASTRUCTURE VULNERABILITIES MULTIPLY GLOBALLY",
       "normalizedTokens": [
