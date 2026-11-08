@@ -1,5 +1,106 @@
 [
   {
+    "slug": "anc-leads-south-africa-local-polls-cwd1",
+    "path": "news/anc-leads-south-africa-local-polls-cwd1/",
+    "title": "ANC leads South Africa local polls but records historic low amid fragmentation",
+    "headline": "ANC SURVIVES SOUTH AFRICAN LOCAL POLLS WITH RECORD LOW VOTE",
+    "dek": "The African National Congress secured first place in South Africa's municipal elections with 32.5% of the vote, triggering complex coalition talks across major metropolitan areas. The historic decline highlights a deeply fractured political landscape where fragile municipal alliances threaten basic service delivery.",
+    "category": "POWER & SOCIETY",
+    "sourceName": "Africanews",
+    "image": "img/anc-leads-south-africa-local-polls-cwd1.jpg",
+    "photo": "img/anc-leads-south-africa-local-polls-cwd1-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "DFTiLNd-Xl4",
+      "title": "ANC leads South Africa's local polls but records all-time election low: final results",
+      "channel": "africanews"
+    },
+    "publishedAt": "2026-11-08T16:58:03.320Z",
+    "article": {
+      "slug": "anc-leads-south-africa-local-polls-cwd1",
+      "title": "ANC leads South Africa local polls but records historic low amid fragmentation",
+      "dek": "The African National Congress secured first place in South Africa's municipal elections with 32.5% of the vote, triggering complex coalition talks across major metropolitan areas. The historic decline highlights a deeply fractured political landscape where fragile municipal alliances threaten basic service delivery.",
+      "keyFacts": [
+        "The ANC won 32.5% of the vote in the final municipal election results.",
+        "The result marks a drop of roughly 14 percentage points compared to the 2021 local elections.",
+        "The centre-right Democratic Alliance secured about 22.9% of the vote, coming first in Nelson Mandela Bay and Tshwane while winning a majority in Cape Town.",
+        "Former president Jacob Zuma's MK party finished third nationally with around 9.9% of the vote and won the eThekrini metro."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "The African National Congress came in first place in South Africa's local elections but suffered its worst-ever electoral setback, according to final results released on Saturday. While still the country's largest political force, the once-dominant liberation movement secured just 32.5% of the vote.",
+            "Frustrated voters turned toward opposition lists, resulting in a drop of roughly 14 percentage points from the ANC's performance in the 2021 local elections. The ruling party failed to win an outright majority in any of the eight metropolitan municipalities, though it finished ahead in four of them, including Johannesburg, Mangaung, and Buffalo City."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The centre-right Democratic Alliance finished as the second-largest party nationally, capturing about 22.9% of the vote. The DA secured first place in Nelson Mandela Bay and Tshwane, while successfully maintaining an outright majority in Cape Town.",
+            "Meanwhile, former president Jacob Zuma's MK party finished in third place nationally with around 9.9% of the vote, claiming a notable victory by coming first in the crucial eThekwini metro. These outcomes underscore a deeply fragmented political reality across the nation's key economic centers."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While public commentary fixates on the national decline of the ANC, mainstream coverage overlooks the systemic institutional paralysis that these local results guarantee. With outright majorities absent in several major cities, political actors are forced into complex coalition negotiations to assemble governing alliances.",
+            "Political analyst Daniel Silke noted to AFP that these marriages of convenience have historically proved unstable, often leaving local administrations entirely consumed by internal wrangling. In Gauteng province, encompassing Johannesburg and Pretoria, voters might prefer the DA to govern alongside centre-right ActionSA, but intense political animosity between those factions makes functional cooperation extremely difficult."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The primary loser of the cycle is the ANC, which has seen its democratic mandate shrink dramatically across urban centers that once served as unshakeable strongholds. The party's inability to secure outright majorities in any major metro signals a permanent erosion of its hegemonic status.",
+            "On the opposing side, the Democratic Alliance and Jacob Zuma's MK party emerge as structural beneficiaries, expanding their territorial control and leverage. However, translating electoral gains into stable governance remains an acute challenge for all participants."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Observers must monitor the final formation of municipal executive committees and the operational viability of coalition agreements in key economic hubs. If political infighting paralyzes city councils, basic municipal service delivery will deteriorate further, fueling public disillusionment with the democratic process as a whole."
+          ]
+        }
+      ],
+      "tags": [
+        "South Africa",
+        "ANC",
+        "Elections",
+        "Governance",
+        "Coalitions"
+      ],
+      "sources": [
+        {
+          "name": "Africanews",
+          "title": "ANC leads South Africa's local polls but records all-time election low: final results",
+          "url": "http://www.africanews.com/2026/11/08/anc-leads-south-africas-local-polls-but-records-all-time-election-low-final-results/"
+        },
+        {
+          "name": "The Guardian",
+          "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNejUxbmtfN2l5WmpaNzUyQ3VJbmZ3UkNNdUNtQXgyUjNjUEFIY3M5SW93bWNVZlVkaEpiTVVvNmRQNmgydkJkU0lLR2pQOFNkTFliNHNNNzM5NjdacDVnanpJVDRReHFBd2t6WXgtUkxIYmExNThpb0k5OXJ1QWU3b00wSDhabWtubnNwMEloeWhOYXdWWHpv?oc=5"
+        },
+        {
+          "name": "NewsCord",
+          "title": "ANC Leads South Africa Municipal Election Results With 21% Counted: 13 outlets compared",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVzFVZ09fRTU2WnBrVERkb01lVlZKaEhmTnNtS1l4dHh6ekZQTU9IRHpwajZDaDAtYW5FMmR2NnBObEx0YnhXRF93cDFOSzhmejYxSTZ4SEJONzNJR2FjaUNiWGtvaXhoeDJjbWJWMUQtT0pCYV9uMFZUUDB6QlRnV2FIODZXaDFxd05rcmlwR25OOFdHek5iT0VINlRmZHNaQVRXVDhNY21NTmJxNnNBSUJYM0pJZTZQcDlhRGZHS2xPVjhRMGZVcTRwY0tzemNKempsMjFn?oc=5"
+        },
+        {
+          "name": "Mail & Guardian",
+          "title": "The ANC is still the largest party, but its mandate is shrinking",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSHltZ3Q2czNJbFRJVTZ1QlpSLTVnandQNzdhQklGTTRmQmdOZFBqSXFIeWQ0cFZzVElMQk1HcnM3alFLZXhjRFpCTUZlczdoVzNrNGg4Y0JTZm9PSHJWMG90d1RrR1VvOUszSjQtVmw0SURVY0RCaGo5Z0daUU54RnkwbUUtVnZkX1k2czhQNmE4ZjFfRWVxbkhuQ1FhMG4wcHJoNzBnQm1CeHM?oc=5"
+        },
+        {
+          "name": "IOL",
+          "title": "97% of votes counted as ANC leads nationally in local elections",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM1VER1dYYURFMFd1SUlWcDR4bDZtUW1LejYtNG9MN2p5TUg5U0ZRclVCYTlJS3NMVlVPbjlnc1JMMS1MNnk2ZEk0czVZVDBEeDNqZ0NVdkRfa0RtZmhsdzFFWThLU3gyeHFBU3g2S0J0R0VsZkhIcmFNQ1pCUDFwUWkzS1VwQ3VoVlR2WE1ibDNUSFRnNnNqbTFQTkNqa1oyMEVoRWsxY2hBUQ?oc=5"
+        }
+      ],
+      "wordCount": 441
+    },
+    "blindSpot": "While mainstream coverage focuses on the historic decline of the ANC, it largely ignores the structural paralysis that unstable municipal coalitions will impose on basic service delivery. Marriages of convenience between bitter rivals like the Democratic Alliance and ActionSA threaten to leave South Africa's major urban centers ungovernable."
+  },
+  {
     "slug": "ai-clog-how-chatbot-generated-correspondence-paralyzing-bk0k",
     "path": "news/ai-clog-how-chatbot-generated-correspondence-paralyzing-bk0k/",
     "title": "The AI clog: how chatbot-generated correspondence is paralyzing UK public bodies",
