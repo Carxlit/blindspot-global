@@ -3932,12 +3932,13 @@
         "title": "ANC leads South Africa's local polls but records all-time election low: final results",
         "channel": "africanews"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-08T16:58:01.231Z",
       "cardImageUrl": "/news-cards/news-noiunug1y-1794157081232.jpg",
       "reelCoverUrl": "/news-cards/news-noiunug1y-1794157081822-cover.jpg",
       "instagramCardUrl": "/news-cards/news-noiunug1y-1794157082328-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/anc-leads-south-africa-local-polls-cwd1/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/anc-leads-south-africa-local-polls-cwd1/",
+      "publishedAt": "2026-11-08T18:45:08.324Z"
     },
     "channels": {
       "facebook": true,
@@ -3951,10 +3952,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-08T18:43:00.000Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-08T16:58:03.370Z"
+    "createdAt": "2026-11-08T16:58:03.370Z",
+    "lastAttemptAt": "2026-11-08T18:43:15.363Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122102262705539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17882503158543759",
+        "permalink": "https://www.instagram.com/reel/DffbfcXAp9L/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-08T18:45:08.324Z"
   },
   {
     "id": "queue-1794160631324-8by33",
