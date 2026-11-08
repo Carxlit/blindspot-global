@@ -1788,12 +1788,13 @@
         "title": "Pope Leo XIV begins 12-day South America trip",
         "channel": "CBS Chicago"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-07T23:38:27.287Z",
       "cardImageUrl": "/news-cards/news-m4yo96syg-1794094707287.jpg",
       "reelCoverUrl": "/news-cards/news-m4yo96syg-1794094707863-cover.jpg",
       "instagramCardUrl": "/news-cards/news-m4yo96syg-1794094708399-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/pope-leo-xiv-begins-south-american-f426/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/pope-leo-xiv-begins-south-american-f426/",
+      "publishedAt": "2026-11-08T02:38:01.877Z"
     },
     "channels": {
       "facebook": true,
@@ -1807,10 +1808,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-08T02:35:48.437Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-07T23:38:29.449Z"
+    "createdAt": "2026-11-07T23:38:29.449Z",
+    "lastAttemptAt": "2026-11-08T02:36:03.886Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122101672917539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18134071834686380",
+        "permalink": "https://www.instagram.com/reel/Dfds0dZH5xP/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-08T02:38:01.877Z"
   },
   {
     "id": "queue-1794101752159-45qkq",
