@@ -18,9 +18,38 @@
     "https://elpais.com/america-colombia/2026-11-07/al-menos-tres-militares-muertos-y-16-heridos-graves-en-un-ataque-con-drones.html",
     "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
     "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people?traffic_source=rss",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ2FyWVhVOHdId05JN1ZCTzFidHJyRktaVjg5NkM2WVV2ZFlrLWFrLXlWSHFkQlZ6a1BUSWV2Zzk4cWlmTHdTOFNWc3FpenFDYVpkYnQ1ZXYtdWdLRlFTVldySXU2c0VuTlhvWFZDVDRZenIzOGtNOUdSZWplX3FDaFdjdmpsa2xtLTQtbHFpQ3I4OGFEU1IwRkhsS0Y?oc=5"
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ2FyWVhVOHdId05JN1ZCTzFidHJyRktaVjg5NkM2WVV2ZFlrLWFrLXlWSHFkQlZ6a1BUSWV2Zzk4cWlmTHdTOFNWc3FpenFDYVpkYnQ1ZXYtdWdLRlFTVldySXU2c0VuTlhvWFZDVDRZenIzOGtNOUdSZWplX3FDaFdjdmpsa2xtLTQtbHFpQ3I4OGFEU1IwRkhsS0Y?oc=5",
+    "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic"
   ],
   "processedSignatures": [
+    {
+      "title": "AI ACCELERATES CYBERATTACKS AS INFRASTRUCTURE VULNERABILITIES MULTIPLY GLOBALLY",
+      "normalizedTokens": [
+        "accelerates",
+        "cyberattacks",
+        "infrastructure",
+        "vulnerabilities",
+        "multiply",
+        "globally"
+      ],
+      "date": "2026-11-08T12:34:14.572Z"
+    },
+    {
+      "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+      "normalizedTokens": [
+        "hot",
+        "fridges",
+        "fake",
+        "nuclear",
+        "alert",
+        "6bn",
+        "heist",
+        "foothills",
+        "hacking",
+        "epidemic"
+      ],
+      "date": "2026-11-08T12:34:14.572Z"
+    },
     {
       "title": "TRUMP OFFERS UFC BOSS DANA WHITE PRESS SECRETARY ROLE",
       "normalizedTokens": [
