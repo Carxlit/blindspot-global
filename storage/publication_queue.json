@@ -2412,11 +2412,12 @@
         "channel": "DawnNews English"
       },
       "updateOf": "how-wider-iran-war-shattered-yemen-bwnm",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-08T05:01:23.903Z",
       "cardImageUrl": "/news-cards/news-p1tnc87ac-1794114083903.jpg",
       "reelCoverUrl": "/news-cards/news-p1tnc87ac-1794114084624-cover.jpg",
-      "instagramCardUrl": "/news-cards/news-p1tnc87ac-1794114085219-ig.jpg"
+      "instagramCardUrl": "/news-cards/news-p1tnc87ac-1794114085219-ig.jpg",
+      "publishedAt": "2026-11-08T05:03:35.647Z"
     },
     "channels": {
       "facebook": true,
@@ -2430,10 +2431,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-08T05:01:25.763Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-08T05:01:25.763Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-08T05:02:05.920Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122101737885539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17921140173465155",
+        "permalink": "https://www.instagram.com/reel/Dfd9epKk2I6/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-08T05:03:35.647Z"
   }
 ]
