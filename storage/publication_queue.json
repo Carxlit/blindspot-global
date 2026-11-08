@@ -3763,12 +3763,13 @@
         "close": "Read the full analysis at the link in our bio."
       },
       "rawImageUrl": "https://i.guim.co.uk/img/media/82c6e92cb6cbcabc717462a79d11fbaac898da2c/0_0_5906_4724/master/5906.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=24093d84f3247813e3ad06a6fc554b98",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-08T15:46:54.934Z",
       "cardImageUrl": "/news-cards/news-5qfovc8c1-1794152814934.jpg",
       "reelCoverUrl": "/news-cards/news-5qfovc8c1-1794152815601-cover.jpg",
       "instagramCardUrl": "/news-cards/news-5qfovc8c1-1794152816237-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/ai-clog-how-chatbot-generated-correspondence-paralyzing-bk0k/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/ai-clog-how-chatbot-generated-correspondence-paralyzing-bk0k/",
+      "publishedAt": "2026-11-08T17:55:29.665Z"
     },
     "channels": {
       "facebook": true,
@@ -3782,10 +3783,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-08T17:52:00.000Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-08T15:46:57.415Z"
+    "createdAt": "2026-11-08T15:46:57.415Z",
+    "lastAttemptAt": "2026-11-08T17:52:15.259Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122102230845539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18108774707573566",
+        "permalink": "https://www.instagram.com/reel/DffVzxFjDI0/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-08T17:55:29.665Z"
   },
   {
     "id": "queue-1794157083369-795kx",
