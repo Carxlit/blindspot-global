@@ -3289,12 +3289,13 @@
         "close": "Read the full intelligence analysis at the link in our bio."
       },
       "rawImageUrl": "https://i.guim.co.uk/img/media/09d27a91ac5dc51fcea6ef2db11a85053e40bb50/0_158_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b0b47f8cdb45df26b32c9c29fda88e1f",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-08T12:34:12.335Z",
       "cardImageUrl": "/news-cards/news-57gkf78k0-1794141252335.jpg",
       "reelCoverUrl": "/news-cards/news-57gkf78k0-1794141252926-cover.jpg",
       "instagramCardUrl": "/news-cards/news-57gkf78k0-1794141253515-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/automated-exploits-infrastructure-breaches-signal-new-xf9q/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/automated-exploits-infrastructure-breaches-signal-new-xf9q/",
+      "publishedAt": "2026-11-08T14:38:45.152Z"
     },
     "channels": {
       "facebook": true,
@@ -3308,11 +3309,11 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-08T14:36:28.200Z",
-    "status": "queued",
-    "attempts": 1,
+    "status": "published",
+    "attempts": 2,
     "maxAttempts": 3,
     "createdAt": "2026-11-08T12:34:14.569Z",
-    "lastAttemptAt": "2026-11-08T14:29:15.318Z",
+    "lastAttemptAt": "2026-11-08T14:36:43.389Z",
     "results": {
       "facebook": {
         "success": true,
@@ -3320,8 +3321,9 @@
         "simulated": false
       },
       "instagram": {
-        "success": false,
-        "error": "Reel de Instagram: subida: Request processing failed (se reintenta como Reel)"
+        "success": true,
+        "mediaId": "18147569425599300",
+        "permalink": "https://www.instagram.com/reel/Dfe_SctjMGh/"
       },
       "facebookReel": {
         "success": false,
@@ -3334,7 +3336,7 @@
         "error": "Noticia sin video libre: no se sube a YouTube"
       }
     },
-    "error": "Reintento 1/3: instagram: Reel de Instagram: subida: Request processing failed (se reintenta como Reel)"
+    "publishedAt": "2026-11-08T14:38:45.152Z"
   },
   {
     "id": "queue-1794144426285-j64pq",
