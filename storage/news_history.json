@@ -15,9 +15,36 @@
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMV9yYXBHcG8tbzdLTG85N2NjSlNJTmgwUlVFSmU5eEM2WVdpQUtfY2U1SXJ0VkxJSWV6RXpDVnEtR0dHdzZQWnlmd2ZnRjZjdnZndzlOMzJqUjNwNmN1Y2tGQVBSUkdualpEdnNaRWRVbzV2cnR2YnJYaVR2amdURkZ4WHdGbENYN2QyYUd6UjlDTGZVUTVFQ0lKdExaZkNrM2NJYlhSZXRjY0N1aFNjcGJqVjM5ZlpfaHg2OXdCWmF0OHYwd0FndXo1dXI?oc=5",
     "https://www.channelnewsasia.com/world/israel-president-taps-eisenkot-form-new-government-6533711",
     "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-    "https://elpais.com/america-colombia/2026-11-07/al-menos-tres-militares-muertos-y-16-heridos-graves-en-un-ataque-con-drones.html"
+    "https://elpais.com/america-colombia/2026-11-07/al-menos-tres-militares-muertos-y-16-heridos-graves-en-un-ataque-con-drones.html",
+    "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "FAR RIGHT KRAKOW ATTACK EXPOSES DEEPENING DOMESTIC SECURITY VULNERABILITIES",
+      "normalizedTokens": [
+        "far",
+        "right",
+        "krakow",
+        "attack",
+        "exposes",
+        "deepening",
+        "domestic",
+        "security",
+        "vulnerabilities"
+      ],
+      "date": "2026-11-08T05:31:31.182Z"
+    },
+    {
+      "title": "What we know so far after Krakow gun attack",
+      "normalizedTokens": [
+        "know",
+        "far",
+        "krakow",
+        "gun",
+        "attack"
+      ],
+      "date": "2026-11-08T05:31:31.181Z"
+    },
     {
       "title": "COLOMBIAN MILITARY BASE SUFFERS DEADLY EXPLOSIVE DRONE ATTACK",
       "normalizedTokens": [
