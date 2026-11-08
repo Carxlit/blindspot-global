@@ -3614,12 +3614,13 @@
         "close": "Read the full analysis at the link in our bio."
       },
       "rawImageUrl": "https://i.guim.co.uk/img/media/2ea7dda4257fc43543719a2d375cd85a1ce8cdb4/0_0_7157_5728/master/7157.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=263827498bd4c64475d5e2a50c48fe5d",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-08T14:40:19.970Z",
       "cardImageUrl": "/news-cards/news-ge81xg49g-1794148819970.jpg",
       "reelCoverUrl": "/news-cards/news-ge81xg49g-1794148820547-cover.jpg",
       "instagramCardUrl": "/news-cards/news-ge81xg49g-1794148821125-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/how-us-midterms-put-datacentres-ai-4q1x/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/how-us-midterms-put-datacentres-ai-4q1x/",
+      "publishedAt": "2026-11-08T16:56:13.860Z"
     },
     "channels": {
       "facebook": true,
@@ -3633,10 +3634,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-08T16:54:00.000Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-08T14:40:22.152Z"
+    "createdAt": "2026-11-08T14:40:22.152Z",
+    "lastAttemptAt": "2026-11-08T16:54:15.347Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122102193759539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18165849745522288",
+        "permalink": "https://www.instagram.com/reel/DffPCCIAVd-/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-08T16:56:13.860Z"
   },
   {
     "id": "queue-1794152817415-xy9sf",
