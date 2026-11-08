@@ -98,5 +98,10 @@
     "relevant": true,
     "reason": "Shows emergency response vehicles and personnel mobilized after the earthquake described in the context.",
     "at": "2026-11-08T05:46:41.636Z"
+  },
+  "445029612c2f5267:e0sjjoe0p": {
+    "relevant": true,
+    "reason": "The image clearly depicts Donald Trump and Dana White together at a presidential balcony, featuring the two key figures named in the main headline.",
+    "at": "2026-11-08T11:28:08.212Z"
   }
 }

@@ -17,9 +17,42 @@
     "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
     "https://elpais.com/america-colombia/2026-11-07/al-menos-tres-militares-muertos-y-16-heridos-graves-en-un-ataque-con-drones.html",
     "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-    "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people?traffic_source=rss"
+    "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people?traffic_source=rss",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ2FyWVhVOHdId05JN1ZCTzFidHJyRktaVjg5NkM2WVV2ZFlrLWFrLXlWSHFkQlZ6a1BUSWV2Zzk4cWlmTHdTOFNWc3FpenFDYVpkYnQ1ZXYtdWdLRlFTVldySXU2c0VuTlhvWFZDVDRZenIzOGtNOUdSZWplX3FDaFdjdmpsa2xtLTQtbHFpQ3I4OGFEU1IwRkhsS0Y?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "TRUMP OFFERS UFC BOSS DANA WHITE PRESS SECRETARY ROLE",
+      "normalizedTokens": [
+        "trump",
+        "offers",
+        "ufc",
+        "boss",
+        "dana",
+        "white",
+        "press",
+        "secretary",
+        "role"
+      ],
+      "date": "2026-11-08T11:28:11.637Z"
+    },
+    {
+      "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
+      "normalizedTokens": [
+        "ufc",
+        "dana",
+        "white",
+        "meet",
+        "trump",
+        "monday",
+        "offer",
+        "white",
+        "house",
+        "press",
+        "secretary"
+      ],
+      "date": "2026-11-08T11:28:11.637Z"
+    },
     {
       "title": "MAGNITUDE 5.7 EARTHQUAKE STRIKES CENTRAL JAPAN INDUSTRIAL CORRIDOR",
       "normalizedTokens": [
