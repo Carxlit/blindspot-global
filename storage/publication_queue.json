@@ -3307,11 +3307,34 @@
       "threads": false,
       "youtube": true
     },
-    "scheduledFor": "2026-11-08T14:29:00.000Z",
+    "scheduledFor": "2026-11-08T14:36:28.200Z",
     "status": "queued",
-    "attempts": 0,
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-08T12:34:14.569Z"
+    "createdAt": "2026-11-08T12:34:14.569Z",
+    "lastAttemptAt": "2026-11-08T14:29:15.318Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122102101155539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": false,
+        "error": "Reel de Instagram: subida: Request processing failed (se reintenta como Reel)"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "error": "Reintento 1/3: instagram: Reel de Instagram: subida: Request processing failed (se reintenta como Reel)"
   },
   {
     "id": "queue-1794144426285-j64pq",
