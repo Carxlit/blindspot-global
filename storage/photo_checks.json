@@ -133,5 +133,20 @@
     "relevant": true,
     "reason": "The image clearly shows a severe train collision and wreckage with people gathered around, directly illustrating the news story about the Egyptian train crash.",
     "at": "2026-11-08T17:57:07.232Z"
+  },
+  "9cb0dcd2b8648c45:zuegg7x2e": {
+    "relevant": false,
+    "reason": "The image shows grieving individuals rather than Ukrainian emergency crews or the scene of the double-tap strike.",
+    "at": "2026-11-08T18:46:34.139Z"
+  },
+  "bc064f2e5334034f:zuegg7x2e": {
+    "relevant": false,
+    "reason": "The image shows a funeral with caskets draped in Ukrainian flags and mourning relatives, whereas the headline refers to a specific military attack targeting emergency crews in sout",
+    "at": "2026-11-08T18:46:40.840Z"
+  },
+  "66eddc54deeeeb6d:zuegg7x2e": {
+    "relevant": true,
+    "reason": "The image depicts grieving people in Ukraine, which fits the context of casualties from an attack in the region.",
+    "at": "2026-11-08T18:46:47.542Z"
   }
 }
