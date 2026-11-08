@@ -26,9 +26,37 @@
     "http://www.africanews.com/2026/11/08/anc-leads-south-africas-local-polls-but-records-all-time-election-low-final-results/",
     "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlFnYVBkWHBXdnhJcHBhOTM4U0t0WnZHVkYwY3FQc3lUd3hpallTaHFGN1BuaVFWUEtITnVDSWFaWUdTZktXdjg5MUk0bWtsSkFsYk9xS21Lc2N0cnpPeHBEeVZDdW5RZ1h0NUs3Sk8wbGhiTmtTQjVjSjRrcEVsdTNjMk8wTDRuaDUxSlFrT0FvS2VsVkZVVVNYUmpXaW9jbUZZZGVzVzBDWE0?oc=5",
-    "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia"
+    "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbV96cm81eEtLUU91T0xKaWxycHdBV3c4VGNZb2dCbzA0M2M0V2ZPZXp2R1NRcmJ1Wl9TLUxZZWtQRDRtazg2dHVzRWlIdGpmWVRJTUl3cU95cUNheHJtMFJFU2lKM2c2cndGc2ZTbmFqZUpaT0hWRFRyZ1VPYzFFbXlSZUVCR1NuLWFqM0dFaUo2UHI4dWFKZlRoUHEwZ2UwNF95T0NzUGNHME15MFQtMWpMeXZaWDhGQnNkZDNRYnQyTjlQcUE?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "TRUMP SIGNALS UNLIKELIHOOD OF NEW IRAN STRIKES AMID TALKS",
+      "normalizedTokens": [
+        "trump",
+        "signals",
+        "unlikelihood",
+        "iran",
+        "strikes",
+        "talks"
+      ],
+      "date": "2026-11-08T20:56:58.561Z"
+    },
+    {
+      "title": "Trump says he is unlikely to order Iran attack if talks progress, CNN reports",
+      "normalizedTokens": [
+        "trump",
+        "unlikely",
+        "order",
+        "iran",
+        "attack",
+        "talks",
+        "progress",
+        "cnn",
+        "reports"
+      ],
+      "date": "2026-11-08T20:56:58.558Z"
+    },
     {
       "title": "EUROPE FORCES WAY INTO ABU DHABI UKRAINE TALKS",
       "normalizedTokens": [

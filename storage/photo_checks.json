@@ -158,5 +158,10 @@
     "relevant": true,
     "reason": "The image displays a map centered on Abu Dhabi and explicitly mentions the Ukraine talks and European representation, directly matching the news context.",
     "at": "2026-11-08T19:50:37.005Z"
+  },
+  "50be25a6a3cadc61:o459i7zo8": {
+    "relevant": true,
+    "reason": "The image clearly portrays Donald Trump, who is the central subject of the news headline.",
+    "at": "2026-11-08T20:56:54.799Z"
   }
 }
