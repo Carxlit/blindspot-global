@@ -3451,12 +3451,13 @@
         "close": "Read the full analysis at the link in bio."
       },
       "rawImageUrl": "https://www.metoffice.gov.uk/binaries/content/gallery/metofficegovuk/images/weather/learn-about/climate/drivers-of-climate-change.jpg",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-08T13:27:03.967Z",
       "cardImageUrl": "/news-cards/news-t6wvutu65-1794144423967.jpg",
       "reelCoverUrl": "/news-cards/news-t6wvutu65-1794144424558-cover.jpg",
       "instagramCardUrl": "/news-cards/news-t6wvutu65-1794144425228-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/climate-change-fundamentally-altering-colors-we-u3m6/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/climate-change-fundamentally-altering-colors-we-u3m6/",
+      "publishedAt": "2026-11-08T15:44:02.604Z"
     },
     "channels": {
       "facebook": true,
@@ -3470,10 +3471,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-08T15:42:00.000Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-08T13:27:06.285Z"
+    "createdAt": "2026-11-08T13:27:06.285Z",
+    "lastAttemptAt": "2026-11-08T15:42:15.330Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122102142159539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17932862115422808",
+        "permalink": "https://www.instagram.com/reel/DffGxGiiZz9/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-08T15:44:02.604Z"
   },
   {
     "id": "queue-1794148822152-i0czz",
