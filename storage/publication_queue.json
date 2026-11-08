@@ -4611,12 +4611,13 @@
         "title": "US signals progress in talks with Iran to avert renewed war",
         "channel": "CNA"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-08T20:56:56.210Z",
       "cardImageUrl": "/news-cards/news-o459i7zo8-1794171416210.jpg",
       "reelCoverUrl": "/news-cards/news-o459i7zo8-1794171416819-cover.jpg",
       "instagramCardUrl": "/news-cards/news-o459i7zo8-1794171417527-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/trump-signals-renewed-iran-strikes-unlikely-rh4g/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/trump-signals-renewed-iran-strikes-unlikely-rh4g/",
+      "publishedAt": "2026-11-08T23:37:03.437Z"
     },
     "channels": {
       "facebook": true,
@@ -4630,9 +4631,33 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-08T23:35:00.000Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-08T20:56:58.555Z"
+    "createdAt": "2026-11-08T20:56:58.555Z",
+    "lastAttemptAt": "2026-11-08T23:35:15.321Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122102433639539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18149631214494008",
+        "permalink": "https://www.instagram.com/reel/Dff86DDlhjy/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-08T23:37:03.437Z"
   }
 ]
