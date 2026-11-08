@@ -14,9 +14,38 @@
     "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMV9yYXBHcG8tbzdLTG85N2NjSlNJTmgwUlVFSmU5eEM2WVdpQUtfY2U1SXJ0VkxJSWV6RXpDVnEtR0dHdzZQWnlmd2ZnRjZjdnZndzlOMzJqUjNwNmN1Y2tGQVBSUkdualpEdnNaRWRVbzV2cnR2YnJYaVR2amdURkZ4WHdGbENYN2QyYUd6UjlDTGZVUTVFQ0lKdExaZkNrM2NJYlhSZXRjY0N1aFNjcGJqVjM5ZlpfaHg2OXdCWmF0OHYwd0FndXo1dXI?oc=5",
     "https://www.channelnewsasia.com/world/israel-president-taps-eisenkot-form-new-government-6533711",
-    "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+    "https://elpais.com/america-colombia/2026-11-07/al-menos-tres-militares-muertos-y-16-heridos-graves-en-un-ataque-con-drones.html"
   ],
   "processedSignatures": [
+    {
+      "title": "COLOMBIAN MILITARY BASE SUFFERS DEADLY EXPLOSIVE DRONE ATTACK",
+      "normalizedTokens": [
+        "colombian",
+        "military",
+        "base",
+        "suffers",
+        "deadly",
+        "explosive",
+        "drone",
+        "attack"
+      ],
+      "date": "2026-11-08T05:16:36.980Z"
+    },
+    {
+      "title": "Al menos tres militares muertos y 16 heridos graves en un ataque con drones",
+      "normalizedTokens": [
+        "menos",
+        "tres",
+        "militares",
+        "muertos",
+        "heridos",
+        "graves",
+        "ataque",
+        "drones"
+      ],
+      "date": "2026-11-08T05:16:36.980Z"
+    },
     {
       "title": "UPDATE: SAUDI AIRSTRIKES IN YEMEN KILL 33 NEAR SANAA",
       "normalizedTokens": [
