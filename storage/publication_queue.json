@@ -1952,12 +1952,13 @@
         "close": "Read our full analysis on the AI security threat at the link in bio."
       },
       "rawImageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-08T01:35:49.617Z",
       "cardImageUrl": "/news-cards/news-qf9p2c3bz-1794101749618.jpg",
       "reelCoverUrl": "/news-cards/news-qf9p2c3bz-1794101750274-cover.jpg",
       "instagramCardUrl": "/news-cards/news-qf9p2c3bz-1794101750959-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/automated-offensive-tools-trigger-systemic-crisis-28tb/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/automated-offensive-tools-trigger-systemic-crisis-28tb/",
+      "publishedAt": "2026-11-08T03:38:52.997Z"
     },
     "channels": {
       "facebook": true,
@@ -1971,10 +1972,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-08T03:36:48.437Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-08T01:35:52.159Z"
+    "createdAt": "2026-11-08T01:35:52.159Z",
+    "lastAttemptAt": "2026-11-08T03:37:03.793Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122101700571539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17899597773457868",
+        "permalink": "https://www.instagram.com/reel/DfdzyEbAOJo/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-08T03:38:52.997Z"
   },
   {
     "id": "queue-1794105586649-jgs38",
