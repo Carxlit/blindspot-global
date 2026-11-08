@@ -4442,12 +4442,13 @@
         "title": "Zelenskyy Visits Spain Ahead Of Ukraine-Russia Peace Talks In Abu Dhabi",
         "channel": "India Today Global"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-08T19:50:38.380Z",
       "cardImageUrl": "/news-cards/news-bkturx8co-1794167438381.jpg",
       "reelCoverUrl": "/news-cards/news-bkturx8co-1794167439463-cover.jpg",
       "instagramCardUrl": "/news-cards/news-bkturx8co-1794167440494-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/europe-forces-way-into-abu-dhabi-p57w/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/europe-forces-way-into-abu-dhabi-p57w/",
+      "publishedAt": "2026-11-08T22:15:08.516Z"
     },
     "channels": {
       "facebook": true,
@@ -4461,10 +4462,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-08T22:13:00.000Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-08T19:50:43.583Z"
+    "createdAt": "2026-11-08T19:50:43.583Z",
+    "lastAttemptAt": "2026-11-08T22:13:15.396Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122102385705539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18234801370322909",
+        "permalink": "https://www.instagram.com/reel/Dffzh6vjqb1/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-08T22:15:08.516Z"
   },
   {
     "id": "queue-1794171418555-nseak",
