@@ -4273,12 +4273,13 @@
         "channel": "Kanal13",
         "license": "cc-by"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-08T18:46:47.543Z",
       "cardImageUrl": "/news-cards/news-zuegg7x2e-1794163607543.jpg",
       "reelCoverUrl": "/news-cards/news-zuegg7x2e-1794163608085-cover.jpg",
       "instagramCardUrl": "/news-cards/news-zuegg7x2e-1794163608570-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/russian-double-tap-strikes-systematically-target-rescue-i2ho/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/russian-double-tap-strikes-systematically-target-rescue-i2ho/",
+      "publishedAt": "2026-11-08T20:55:22.558Z"
     },
     "channels": {
       "facebook": true,
@@ -4292,10 +4293,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-08T20:53:00.000Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-08T18:46:49.582Z"
+    "createdAt": "2026-11-08T18:46:49.582Z",
+    "lastAttemptAt": "2026-11-08T20:53:15.363Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122102339871539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18120327082793193",
+        "permalink": "https://www.instagram.com/reel/DffqZIwjxCp/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Reel no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Short no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      }
+    },
+    "publishedAt": "2026-11-08T20:55:22.558Z"
   },
   {
     "id": "queue-1794167443583-46jsc",
