@@ -13,9 +13,36 @@
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT0ZpbFlMQ1c0aUdqYzRvblJSaWtBV2JYeHdsT09uM2JzUlVEMUZ5XzAzUE1iNklJN0hrWnczZzJ0M1ItVl9zR2NwNHRjX1RkV21jdE1fUEtPZDJtSFFTWGczT0hmR1dwYUZqVmYtd0NtTHlHUkZlT2JrZDBqTkIxd3ZPRnhwMks0ZENNRldhQnZ1ekdURUpkdXpTbGI2bnM?oc=5",
     "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMV9yYXBHcG8tbzdLTG85N2NjSlNJTmgwUlVFSmU5eEM2WVdpQUtfY2U1SXJ0VkxJSWV6RXpDVnEtR0dHdzZQWnlmd2ZnRjZjdnZndzlOMzJqUjNwNmN1Y2tGQVBSUkdualpEdnNaRWRVbzV2cnR2YnJYaVR2amdURkZ4WHdGbENYN2QyYUd6UjlDTGZVUTVFQ0lKdExaZkNrM2NJYlhSZXRjY0N1aFNjcGJqVjM5ZlpfaHg2OXdCWmF0OHYwd0FndXo1dXI?oc=5",
-    "https://www.channelnewsasia.com/world/israel-president-taps-eisenkot-form-new-government-6533711"
+    "https://www.channelnewsasia.com/world/israel-president-taps-eisenkot-form-new-government-6533711",
+    "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "UPDATE: SAUDI AIRSTRIKES IN YEMEN KILL 33 NEAR SANAA",
+      "normalizedTokens": [
+        "update",
+        "saudi",
+        "airstrikes",
+        "yemen",
+        "kill",
+        "near",
+        "sanaa"
+      ],
+      "date": "2026-11-08T05:01:25.765Z"
+    },
+    {
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "normalizedTokens": [
+        "houthis",
+        "say",
+        "least",
+        "killed",
+        "saudi",
+        "air",
+        "strike"
+      ],
+      "date": "2026-11-08T05:01:25.764Z"
+    },
     {
       "title": "ISRAEL PRESIDENT TAPS GADI EISENKOT TO FORM GOVERNMENT",
       "normalizedTokens": [
