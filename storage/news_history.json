@@ -21,9 +21,35 @@
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ2FyWVhVOHdId05JN1ZCTzFidHJyRktaVjg5NkM2WVV2ZFlrLWFrLXlWSHFkQlZ6a1BUSWV2Zzk4cWlmTHdTOFNWc3FpenFDYVpkYnQ1ZXYtdWdLRlFTVldySXU2c0VuTlhvWFZDVDRZenIzOGtNOUdSZWplX3FDaFdjdmpsa2xtLTQtbHFpQ3I4OGFEU1IwRkhsS0Y?oc=5",
     "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
     "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
-    "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash"
+    "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
+    "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence"
   ],
   "processedSignatures": [
+    {
+      "title": "THE AI CLOG THREATENS UK PUBLIC SECTOR OPERATIONS",
+      "normalizedTokens": [
+        "clog",
+        "threatens",
+        "public",
+        "sector",
+        "operations"
+      ],
+      "date": "2026-11-08T15:46:57.418Z"
+    },
+    {
+      "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
+      "normalizedTokens": [
+        "clog",
+        "public",
+        "bodies",
+        "battle",
+        "onslaught",
+        "chatbot",
+        "generated",
+        "complaints"
+      ],
+      "date": "2026-11-08T15:46:57.417Z"
+    },
     {
       "title": "US MIDTERM ELECTIONS PUNCTURE THE UNCHECKED AI INFRASTRUCTURE BOOM",
       "normalizedTokens": [
