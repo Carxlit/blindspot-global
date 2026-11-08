@@ -12,9 +12,35 @@
     "https://www.eltiempo.com/mundo/latinoamerica/fiscalia-de-paraguay-imputa-y-pide-prision-para-expresidente-pena-por-crisis-bancaria-3599271",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT0ZpbFlMQ1c0aUdqYzRvblJSaWtBV2JYeHdsT09uM2JzUlVEMUZ5XzAzUE1iNklJN0hrWnczZzJ0M1ItVl9zR2NwNHRjX1RkV21jdE1fUEtPZDJtSFFTWGczT0hmR1dwYUZqVmYtd0NtTHlHUkZlT2JrZDBqTkIxd3ZPRnhwMks0ZENNRldhQnZ1ekdURUpkdXpTbGI2bnM?oc=5",
     "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMV9yYXBHcG8tbzdLTG85N2NjSlNJTmgwUlVFSmU5eEM2WVdpQUtfY2U1SXJ0VkxJSWV6RXpDVnEtR0dHdzZQWnlmd2ZnRjZjdnZndzlOMzJqUjNwNmN1Y2tGQVBSUkdualpEdnNaRWRVbzV2cnR2YnJYaVR2amdURkZ4WHdGbENYN2QyYUd6UjlDTGZVUTVFQ0lKdExaZkNrM2NJYlhSZXRjY0N1aFNjcGJqVjM5ZlpfaHg2OXdCWmF0OHYwd0FndXo1dXI?oc=5"
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMV9yYXBHcG8tbzdLTG85N2NjSlNJTmgwUlVFSmU5eEM2WVdpQUtfY2U1SXJ0VkxJSWV6RXpDVnEtR0dHdzZQWnlmd2ZnRjZjdnZndzlOMzJqUjNwNmN1Y2tGQVBSUkdualpEdnNaRWRVbzV2cnR2YnJYaVR2amdURkZ4WHdGbENYN2QyYUd6UjlDTGZVUTVFQ0lKdExaZkNrM2NJYlhSZXRjY0N1aFNjcGJqVjM5ZlpfaHg2OXdCWmF0OHYwd0FndXo1dXI?oc=5",
+    "https://www.channelnewsasia.com/world/israel-president-taps-eisenkot-form-new-government-6533711"
   ],
   "processedSignatures": [
+    {
+      "title": "ISRAEL PRESIDENT TAPS GADI EISENKOT TO FORM GOVERNMENT",
+      "normalizedTokens": [
+        "israel",
+        "president",
+        "taps",
+        "gadi",
+        "eisenkot",
+        "form",
+        "government"
+      ],
+      "date": "2026-11-08T03:40:52.938Z"
+    },
+    {
+      "title": "Israel president taps Eisenkot to form new government",
+      "normalizedTokens": [
+        "israel",
+        "president",
+        "taps",
+        "eisenkot",
+        "form",
+        "government"
+      ],
+      "date": "2026-11-08T03:40:52.937Z"
+    },
     {
       "title": "SOFTBANK AND ABB EXPLORE CHINA CARVE-OUT FOR DEAL",
       "normalizedTokens": [

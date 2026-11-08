@@ -73,5 +73,10 @@
     "relevant": true,
     "reason": "The image displays the SoftBank logo, which directly represents one of the main companies involved in the transaction mentioned in the headline.",
     "at": "2026-11-08T02:39:43.010Z"
+  },
+  "7903f681102f113f:3dzfqxjoy": {
+    "relevant": true,
+    "reason": "The image shows an Israeli political event featuring Gadi Eisenkot on the background screen and an Israeli flag.",
+    "at": "2026-11-08T03:40:49.001Z"
   }
 }
