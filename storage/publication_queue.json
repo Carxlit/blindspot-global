@@ -1619,12 +1619,13 @@
         "title": "Paraguay's Former President Santiago Peña Under House Arrest Amid Bank Crisis | RA15",
         "channel": "DWS News"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-07T21:56:18.304Z",
       "cardImageUrl": "/news-cards/news-cycuny54c-1794088578304.jpg",
       "reelCoverUrl": "/news-cards/news-cycuny54c-1794088579008-cover.jpg",
       "instagramCardUrl": "/news-cards/news-cycuny54c-1794088579643-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/paraguay-prosecutors-indict-former-president-santiago-b1yx/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/paraguay-prosecutors-indict-former-president-santiago-b1yx/",
+      "publishedAt": "2026-11-08T01:34:00.263Z"
     },
     "channels": {
       "facebook": true,
@@ -1638,10 +1639,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-08T01:30:48.437Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-07T21:56:20.837Z"
+    "createdAt": "2026-11-07T21:56:20.837Z",
+    "lastAttemptAt": "2026-11-08T01:31:03.959Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122101626573539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17916908973515924",
+        "permalink": "https://www.instagram.com/reel/DfdlfaigeCN/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-08T01:34:00.263Z"
   },
   {
     "id": "queue-1794094709449-blyyp",
