@@ -2121,12 +2121,13 @@
         "title": "China Blocks SoftBank's $5.4B ABB Robotics Deal, Carve-Out Talks #Shorts #AI",
         "channel": "TEKTHRILL"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-08T02:39:44.153Z",
       "cardImageUrl": "/news-cards/news-v9aqq2hs2-1794105584153.jpg",
       "reelCoverUrl": "/news-cards/news-v9aqq2hs2-1794105584826-cover.jpg",
       "instagramCardUrl": "/news-cards/news-v9aqq2hs2-1794105585377-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/softbank-abb-explore-china-carve-out-salvage-6sw8/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/softbank-abb-explore-china-carve-out-salvage-6sw8/",
+      "publishedAt": "2026-11-08T11:26:08.247Z"
     },
     "channels": {
       "facebook": true,
@@ -2140,10 +2141,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-08T11:24:00.000Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-08T02:39:46.649Z"
+    "createdAt": "2026-11-08T02:39:46.649Z",
+    "lastAttemptAt": "2026-11-08T11:24:15.380Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122101979187539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18650983291028419",
+        "permalink": "https://www.instagram.com/reel/DfepQOOAiwR/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-08T11:26:08.247Z"
   },
   {
     "id": "queue-1794109252936-vppqq",
