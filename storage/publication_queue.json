@@ -4103,12 +4103,13 @@
         "title": "Deadly train collision in Egypt kills four",
         "channel": "CGTN Africa"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-08T17:57:08.510Z",
       "cardImageUrl": "/news-cards/news-f75bmn244-1794160628510.jpg",
       "reelCoverUrl": "/news-cards/news-f75bmn244-1794160629432-cover.jpg",
       "instagramCardUrl": "/news-cards/news-f75bmn244-1794160630178-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/deadly-train-collision-egypt-lays-bare-vhnr/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/deadly-train-collision-egypt-lays-bare-vhnr/",
+      "publishedAt": "2026-11-08T19:48:55.701Z"
     },
     "channels": {
       "facebook": true,
@@ -4122,10 +4123,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-08T19:47:00.000Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-08T17:57:11.324Z"
+    "createdAt": "2026-11-08T17:57:11.324Z",
+    "lastAttemptAt": "2026-11-08T19:47:15.298Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122102299689539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18082643090377602",
+        "permalink": "https://www.instagram.com/reel/DffizDEjzWp/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-08T19:48:55.701Z"
   },
   {
     "id": "queue-1794163609582-bzdf5",
