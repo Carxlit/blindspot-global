@@ -5296,12 +5296,13 @@
         "title": "Choque de trenes en Egipto: siete muertos y 112 heridos en la provincia de Giza",
         "channel": "RADAR · Prensa 3.0"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-09T06:01:38.754Z",
       "cardImageUrl": "/news-cards/news-pk73408m4-1794204098755.jpg",
       "reelCoverUrl": "/news-cards/news-pk73408m4-1794204099514-cover.jpg",
       "instagramCardUrl": "/news-cards/news-pk73408m4-1794204100116-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/fatal-train-crash-egypt-highlights-deep-3wwz/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/fatal-train-crash-egypt-highlights-deep-3wwz/",
+      "publishedAt": "2026-11-09T06:04:23.956Z"
     },
     "channels": {
       "facebook": true,
@@ -5315,10 +5316,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-09T06:01:41.158Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-09T06:01:41.158Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-09T06:02:23.575Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122102637585539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18106630439023165",
+        "permalink": "https://www.instagram.com/reel/DfgpPETEcj8/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-09T06:04:23.956Z"
   }
 ]
