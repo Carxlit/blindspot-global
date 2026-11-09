@@ -38,9 +38,41 @@
     "https://www.npr.org/2026/11/09/nx-s1-6030830/democrats-grocery-bill-affordability",
     "https://www.theverge.com/cs/features/1027614/torrent-movies-file-sharing-download-piracy",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEdIVXlJc2RaUEw2RmFrR2FZcXYzYlBKUG9Cdl9WUVFfalVxT0hGcGFCdW1DS3JMT2daanhDYktBeXVGNGt5TGlsOGZJVWVSMFpnT3ZVa2RBUjZYakRlVlQ3SXd1ZkpTQVNXVkpoNUZoemdycWY0MG02dVk0cWRuWG4taG5VMm9kbEluSHctTVZVMXJwWXNWSWdVcmxQeWtRSW1EWDQ2dTJ6QVV2TzhoeQ?oc=5",
-    "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced"
+    "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0pwQmJtMVdmZDY2NVhWalgxSHZ0d0NvUzJ4cldzTHFQUmdHSERzZENUOXljYldMbFpRa3J5d0VhbkNtZGJVM1paVkFWZ1ZHZTFOQlNkNm5xZ2tkc0FYQkxvQkU3RHc5cm9lcjFXSzdCNlE5QjNXNnRoZktjUHhGRTRGOXZYbWZtUXlTaFBXN096VFZrTDBQQll5ZDJaZDlPdUlueEtHaGMyQ1ZnWHdxQll3UWI3WHdYZmc?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "TRUMP MEETS QATAR PREMIER AS IRAN WAR TALKS STALL",
+      "normalizedTokens": [
+        "trump",
+        "meets",
+        "qatar",
+        "premier",
+        "iran",
+        "war",
+        "talks",
+        "stall"
+      ],
+      "date": "2026-11-09T16:10:04.074Z"
+    },
+    {
+      "title": "Trump to meet Iran war mediator Qatar, no imminent deal seen to end the war",
+      "normalizedTokens": [
+        "trump",
+        "meet",
+        "iran",
+        "war",
+        "mediator",
+        "qatar",
+        "imminent",
+        "deal",
+        "seen",
+        "end",
+        "war"
+      ],
+      "date": "2026-11-09T16:10:04.073Z"
+    },
     {
       "title": "BRITISH COMEDIAN RUSSELL BRAND SENTENCED TO PRISON",
       "normalizedTokens": [
