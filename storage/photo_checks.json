@@ -163,5 +163,10 @@
     "relevant": true,
     "reason": "The image clearly portrays Donald Trump, who is the central subject of the news headline.",
     "at": "2026-11-08T20:56:54.799Z"
+  },
+  "ec2b927871a74bff:eze0pwrdt": {
+    "relevant": true,
+    "reason": "The image shows emergency responders and paramedics treating a victim on a stretcher in a Polish square, illustrating the medical intervention following the incident in Krakow.",
+    "at": "2026-11-09T05:01:09.276Z"
   }
 }
