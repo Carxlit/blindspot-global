@@ -4953,12 +4953,13 @@
         "channel": "Al Arabiya English"
       },
       "updateOf": "far-right-attack-krakow-exposes-growing-domestic-ow6a",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-09T05:16:44.117Z",
       "cardImageUrl": "/news-cards/news-djmv2wis0-1794201404117.jpg",
       "reelCoverUrl": "/news-cards/news-djmv2wis0-1794201406119-cover.jpg",
       "instagramCardUrl": "/news-cards/news-djmv2wis0-1794201406650-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/krakow-mourns-reopens-questions-linger-over-xhb0/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/krakow-mourns-reopens-questions-linger-over-xhb0/",
+      "publishedAt": "2026-11-09T05:19:38.871Z"
     },
     "channels": {
       "facebook": true,
@@ -4972,10 +4973,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-09T05:16:47.667Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-09T05:16:47.667Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-09T05:17:37.851Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122102607993539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18104268722377115",
+        "permalink": "https://www.instagram.com/reel/DfgkGXlgeRE/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-09T05:19:38.871Z"
   }
 ]
