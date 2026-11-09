@@ -5126,12 +5126,13 @@
         "title": "At least 21 killed after migrant boat sinks off Senegal",
         "channel": "WorldNewsin60"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-09T05:31:33.704Z",
       "cardImageUrl": "/news-cards/news-zni7cmgf7-1794202293704.jpg",
       "reelCoverUrl": "/news-cards/news-zni7cmgf7-1794202294559-cover.jpg",
       "instagramCardUrl": "/news-cards/news-zni7cmgf7-1794202295249-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/senegal-shipwreck-highlights-limits-externalized-european-9ip9/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/senegal-shipwreck-highlights-limits-externalized-european-9ip9/",
+      "publishedAt": "2026-11-09T05:35:04.272Z"
     },
     "channels": {
       "facebook": true,
@@ -5145,10 +5146,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-09T05:31:36.419Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-09T05:31:36.419Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-09T05:32:20.837Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122102617191539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17922075051243016",
+        "permalink": "https://www.instagram.com/reel/Dfgl4GjDhJg/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-09T05:35:04.272Z"
   }
 ]
