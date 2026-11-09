@@ -4782,12 +4782,13 @@
         "title": "KRAKOW, POLAND — Poland Shooting: Surgeon's Actions 'Undoubtedly Saved Officer's Life'",
         "channel": "WilluChill"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-09T05:01:09.277Z",
       "cardImageUrl": "/news-cards/news-eze0pwrdt-1794200469278.jpg",
       "reelCoverUrl": "/news-cards/news-eze0pwrdt-1794200470070-cover.jpg",
       "instagramCardUrl": "/news-cards/news-eze0pwrdt-1794200470833-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/surgeons-security-untold-layers-krakow-mass-01jl/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/surgeons-security-untold-layers-krakow-mass-01jl/",
+      "publishedAt": "2026-11-09T05:03:42.867Z"
     },
     "channels": {
       "facebook": true,
@@ -4801,10 +4802,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-09T05:01:11.888Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-09T05:01:11.888Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-09T05:01:51.887Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122102597283539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18236594194323733",
+        "permalink": "https://www.instagram.com/reel/DfgiSJMik3V/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-09T05:03:42.867Z"
   }
 ]
