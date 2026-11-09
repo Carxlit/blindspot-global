@@ -33,9 +33,38 @@
     "https://www.dw.com/en/many-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf",
     "https://www.dw.com/es/siete-muertos-y-112-heridos-en-accidente-de-trenes-en-egipto/a-79893139?maca=spa-rss-sp-all-1122-rdf",
     "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-    "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html"
+    "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRkdzMDFwVFNGNEFRbmVXNUZ4MG5RTDExMlVPcmIxek5OaEpFOFp2c0NVUEhzcWt5TWVVb3NhUDQ5SzJQZjhqaU41ZnVEMldQRGNNTk1CWm9pS2h6WmxHdlpKMHlqZ3BFaXBDaXdRTzIyNlNTY19FY0MxelZ6bEh3MjFB?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "UAE URGES BALANCE BETWEEN DETERRENCE AND DIPLOMACY IN IRAN WAR",
+      "normalizedTokens": [
+        "uae",
+        "urges",
+        "balance",
+        "deterrence",
+        "diplomacy",
+        "iran",
+        "war"
+      ],
+      "date": "2026-11-09T11:33:32.292Z"
+    },
+    {
+      "title": "Middle East latest: 'We need both': No choice between deterrence and diplomacy, says Dr Gargash",
+      "normalizedTokens": [
+        "middle",
+        "east",
+        "latest",
+        "need",
+        "both",
+        "choice",
+        "deterrence",
+        "diplomacy",
+        "gargash"
+      ],
+      "date": "2026-11-09T11:33:32.292Z"
+    },
     {
       "title": "CHINA PRODUCER PRICES SURGE AS DOMESTIC CONSUMPTION FALTERS",
       "normalizedTokens": [
