@@ -5804,12 +5804,13 @@
         "close": "Read the full analysis at the link in our bio."
       },
       "rawImageUrl": "https://www.thenationalnews.com/resizer/v2/NNE7BE5OGNCP5KG23KQG75SCMI.jpg?auth=390aa45442bd42669b11750f6a0de20e88e07e941a21fc38f76cd38e53c07635&smart=true&width=1200&height=630",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-09T11:33:29.830Z",
       "cardImageUrl": "/news-cards/news-hxacggljs-1794224009831.jpg",
       "reelCoverUrl": "/news-cards/news-hxacggljs-1794224010505-cover.jpg",
       "instagramCardUrl": "/news-cards/news-hxacggljs-1794224011161-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/navigating-fracture-between-deterrence-diplomacy-iran-lxtw/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/navigating-fracture-between-deterrence-diplomacy-iran-lxtw/",
+      "publishedAt": "2026-11-09T13:10:40.508Z"
     },
     "channels": {
       "facebook": true,
@@ -5823,10 +5824,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-09T13:08:27.852Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-09T11:33:32.289Z"
+    "createdAt": "2026-11-09T11:33:32.289Z",
+    "lastAttemptAt": "2026-11-09T13:08:43.141Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122102957025539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18127171240683558",
+        "permalink": "https://www.instagram.com/reel/DfhaALZD49j/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-09T13:10:40.508Z"
   },
   {
     "id": "queue-1794226190059-a197m",
