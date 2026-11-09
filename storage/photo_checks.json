@@ -233,5 +233,10 @@
     "relevant": true,
     "reason": "The image depicts Russell Brand, the subject of the news story, appearing outside.",
     "at": "2026-11-09T18:36:38.167Z"
+  },
+  "0004401594893082:6xrm6ic4y": {
+    "relevant": true,
+    "reason": "The image clearly shows Pete Hegseth, the Pentagon chief mentioned in the headline, alongside Donald Trump.",
+    "at": "2026-11-09T19:47:05.700Z"
   }
 }

@@ -41,9 +41,38 @@
     "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0pwQmJtMVdmZDY2NVhWalgxSHZ0d0NvUzJ4cldzTHFQUmdHSERzZENUOXljYldMbFpRa3J5d0VhbkNtZGJVM1paVkFWZ1ZHZTFOQlNkNm5xZ2tkc0FYQkxvQkU3RHc5cm9lcjFXSzdCNlE5QjNXNnRoZktjUHhGRTRGOXZYbWZtUXlTaFBXN096VFZrTDBQQll5ZDJaZDlPdUlueEtHaGMyQ1ZnWHdxQll3UWI3WHdYZmc?oc=5",
     "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss",
-    "https://www.dw.com/es/russell-brand-es-condenado-a-más-de-10-años-de-cárcel-por-violación-y-agresiones-sexuales/a-79903582?maca=spa-rss-sp-all-1122-rdf"
+    "https://www.dw.com/es/russell-brand-es-condenado-a-más-de-10-años-de-cárcel-por-violación-y-agresiones-sexuales/a-79903582?maca=spa-rss-sp-all-1122-rdf",
+    "https://www.france24.com/en/americas/20261109-republican-congressman-launches-impeachment-bid-against-pentagon-chief-hegseth"
   ],
   "processedSignatures": [
+    {
+      "title": "REPUBLICAN CONGRESSMAN LAUNCHES IMPEACHMENT BID AGAINST PENTAGON CHIEF HEGSETH",
+      "normalizedTokens": [
+        "republican",
+        "congressman",
+        "launches",
+        "impeachment",
+        "bid",
+        "pentagon",
+        "chief",
+        "hegseth"
+      ],
+      "date": "2026-11-09T19:47:09.342Z"
+    },
+    {
+      "title": "Republican congressman launches impeachment bid against Pentagon chief Hegseth",
+      "normalizedTokens": [
+        "republican",
+        "congressman",
+        "launches",
+        "impeachment",
+        "bid",
+        "pentagon",
+        "chief",
+        "hegseth"
+      ],
+      "date": "2026-11-09T19:47:09.342Z"
+    },
     {
       "title": "RUSSELL BRAND SENTENCED TO PRISON FOR SEXUAL OFFENSES",
       "normalizedTokens": [
