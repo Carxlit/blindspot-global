@@ -19,5 +19,26 @@
     "facebook": {
       "followers": 0
     }
+  },
+  {
+    "date": "2026-11-08",
+    "at": "2026-11-09T02:00:41.307Z",
+    "facebook": {
+      "followers": 0
+    },
+    "instagram": {
+      "followers": 10,
+      "posts": 27,
+      "likes": 53,
+      "comments": 6,
+      "reels": 27
+    },
+    "topPost": {
+      "url": "https://www.instagram.com/reel/Dfcvx0mjO9H/",
+      "likes": 14,
+      "comments": 4,
+      "type": "REELS",
+      "at": "2026-11-07T17:44:32+0000"
+    }
   }
 ]
