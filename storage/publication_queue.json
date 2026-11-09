@@ -5827,5 +5827,143 @@
     "attempts": 0,
     "maxAttempts": 3,
     "createdAt": "2026-11-09T11:33:32.289Z"
+  },
+  {
+    "id": "queue-1794226190059-a197m",
+    "news": {
+      "id": "irm08a7s3",
+      "originalUrl": "https://www.npr.org/2026/11/09/nx-s1-6030830/democrats-grocery-bill-affordability",
+      "originalTitle": "Democrats won big. Can they lower your grocery bill?",
+      "sourceName": "NPR News",
+      "category": "POWER & SOCIETY",
+      "urgencyScore": 88,
+      "headline": "DEMOCRATS WIN CONGRESS BUT FACE STALEMATE ON GROCERY PRICES",
+      "subHeadline": "Voters delivered control of both houses to Democrats on Tuesday amid widespread anger over food costs. However, legislative power is split with a Republican White House holding veto authority.",
+      "blindSpotAngle": "While the public expects immediate relief from Washington, structural drivers like ongoing tariffs, the Iran war, and agricultural labor shortages remain under executive control. The newly empowered congressional majority has few direct levers to force presidential compliance on these core inflationary engines.",
+      "facebookPost": "Voters handed Democrats control of both houses of Congress on Tuesday, driven by acute frustration over soaring grocery bills, Trump administration tariffs, and the economic fallout of the Iran war. House Democratic Leader Hakeem Jeffries promised incoming action to tackle high consumer prices, capitalizing on a wave of economic populism.\n\nYet the structural reality is stark: President Trump retains veto power in the Oval Office and full control over trade, energy, and immigration policies. Rolling back tariffs or reopening fertilizer routes through the Strait of Hormuz requires executive cooperation that may not materialize, setting up a high-stakes legislative deadlock.\n\nHow can an incoming legislative majority deliver consumer relief when the primary levers of inflation remain anchored in the executive branch?\n\nSource: NPR News\n\n#PowerAndSociety #Economy #Blindspot",
+      "telegramPost": "<b>DEMOCRATS WIN CONGRESS BUT FACE STALEMATE ON GROCERY PRICES</b>\n\n• <b>What happened:</b> Democrats won control of both houses of Congress in the midterms, fueled by voter anger over high grocery bills driven by tariffs, the Iran war, and immigration enforcement.\n• <b>Why it matters:</b> Incoming leaders promise relief, but President Trump holds veto power and executive control over the exact policies fueling inflation, creating an immediate governance roadblock.\n• <b>What is next:</b> Lawmakers will push localized bans on dynamic pricing and defend food assistance programs, while state-level Democratic governors explore targeted sales tax suspensions.",
+      "linkedInPost": "The recent midterms delivered congressional majorities to the Democratic party on a platform of consumer affordability and grocery price relief. However, an analysis of the policy mechanisms reveals a severe structural disconnect.\n\nThe primary drivers of food inflation—tariffs on imported goods and machine parts, energy shocks from the Iran conflict, and agricultural labor shortages tied to immigration enforcement—are controlled almost entirely by the executive branch. With a divided government and no filibuster-proof Senate majority, incoming lawmakers face profound institutional constraints.\n\nCorporate strategy and retail compliance teams must monitor state-level interventions, including proposed bans on dynamic pricing and local sales tax exemptions, rather than relying on federal legislative overhauls.\n\nSource: NPR News\n\n#PowerAndSociety #GlobalEconomy #Blindspot",
+      "blueskyPost": "Democrats won Congress on a promise to lower grocery bills, but Trump still holds veto power over the tariffs and energy shocks driving food inflation. #Blindspot #PowerAndSociety",
+      "copies": {
+        "facebook": "Voters handed Democrats control of both houses of Congress on Tuesday, driven by acute frustration over soaring grocery bills, Trump administration tariffs, and the economic fallout of the Iran war. House Democratic Leader Hakeem Jeffries promised incoming action to tackle high consumer prices, capitalizing on a wave of economic populism.\n\nYet the structural reality is stark: President Trump retains veto power in the Oval Office and full control over trade, energy, and immigration policies. Rolling back tariffs or reopening fertilizer routes through the Strait of Hormuz requires executive cooperation that may not materialize, setting up a high-stakes legislative deadlock.\n\nHow can an incoming legislative majority deliver consumer relief when the primary levers of inflation remain anchored in the executive branch? #PowerAndSociety #Economy #Blindspot",
+        "telegram": "<b>DEMOCRATS WIN CONGRESS BUT FACE STALEMATE ON GROCERY PRICES</b>\n\n• <b>What happened:</b> Democrats won control of both houses of Congress in the midterms, fueled by voter anger over high grocery bills driven by tariffs, the Iran war, and immigration enforcement.\n• <b>Why it matters:</b> Incoming leaders promise relief, but President Trump holds veto power and executive control over the exact policies fueling inflation, creating an immediate governance roadblock.\n• <b>What is next:</b> Lawmakers will push localized bans on dynamic pricing and defend food assistance programs, while state-level Democratic governors explore targeted sales tax suspensions.",
+        "bluesky": "Democrats won Congress on a promise to lower grocery bills, but Trump still holds veto power over the tariffs and energy shocks driving food inflation. #Blindspot #PowerAndSociety",
+        "linkedIn": "The recent midterms delivered congressional majorities to the Democratic party on a platform of consumer affordability and grocery price relief. However, an analysis of the policy mechanisms reveals a severe structural disconnect.\n\nThe primary drivers of food inflation—tariffs on imported goods and machine parts, energy shocks from the Iran conflict, and agricultural labor shortages tied to immigration enforcement—are controlled almost entirely by the executive branch. With a divided government and no filibuster-proof Senate majority, incoming lawmakers face profound institutional constraints.\n\nCorporate strategy and retail compliance teams must monitor state-level interventions, including proposed bans on dynamic pricing and local sales tax exemptions, rather than relying on federal legislative overhauls. #PowerAndSociety #GlobalEconomy #Blindspot"
+      },
+      "article": {
+        "slug": "democrats-won-big-grocery-affordability-math-wqad",
+        "title": "Democrats won big on grocery affordability, but the math does not add up",
+        "dek": "Voters handed Democrats control of Congress following intense frustration over high food costs. Yet executive control over tariffs and foreign conflicts leaves the new majority with limited power to deliver rapid relief.",
+        "keyFacts": [
+          "Democrats won control of both houses of Congress in the midterms.",
+          "At least 28 states will have Democratic governors beginning next year.",
+          "Ten state legislative chambers flipped to Democrats following Tuesday's vote."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "Affordability concerns and high food costs dominated voter sentiment heading into the midterms, according to coverage from NPR News. Driven by public anger over economic strain tied to administration tariffs and the war in Iran, Democrats secured control of both houses of Congress on Tuesday.",
+              "House Democratic Leader Hakeem Jeffries told NPR on Friday that tackling high prices will be a top priority when the new majority takes office in January, calling the electoral outcome a strong rebuke of Republican economic policies."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "The electoral surge builds on widespread dissatisfaction with the cost of living. According to Lael Brainard of The Kitchen Table Project, Americans feel squeezed by prices that remain artificially inflated.",
+              "Economic pressure stems from multiple compounding factors. Administration tariffs have raised the cost of imported foods, drinks, machine parts, and packaging. Meanwhile, the war in Iran has spiked global energy prices and disrupted transport, while closures around the Strait of Hormuz have choked off the international fertilizer trade."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "Mainstream coverage focuses heavily on the electoral victory, but glosses over the institutional hurdles facing the new congressional majority. President Trump retains the veto pen and control over trade and immigration policy.",
+              "Senate Democrats lack a filibuster-proof majority, and political analysts like Lehigh University professor Chris Borick note that a significant gap exists between presidential priorities and congressional proposals. Rolling back tariffs, addressing farm labor shortages caused by immigration crackdowns, or reversing course on foreign conflicts will require executive buy-in that may not materialize."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "Democratic candidates and incoming governors emerged as political winners, expanding their footprint to at least 28 statehouses and flipping ten state legislative chambers.",
+              "Conversely, everyday consumers and retail shoppers bear the cost of the ongoing policy stalemate. While incoming lawmakers float proposals such as national bans on dynamic pricing and the protection of WIC and SNAP programs, substantive relief in the grocery aisle remains constrained by federal gridlock."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "Observers should monitor state-level policy implementations, such as Keisha Lance Bottoms' proposal allowing Georgia municipalities to suspend local sales taxes on groceries and baby formula. Similar state initiatives by figures like Texas governor-elect Gina Hinojosa will serve as alternative battlegrounds for consumer relief.",
+              "At the federal level, watch for legislative clashes over SNAP program overhauls and proposed blocks on food industry mergers."
+            ]
+          }
+        ],
+        "tags": [
+          "Elections",
+          "Economy",
+          "Congress",
+          "Inflation",
+          "Agriculture"
+        ],
+        "sources": [
+          {
+            "name": "NPR News",
+            "title": "Democrats won big. Can they lower your grocery bill?",
+            "url": "https://www.npr.org/2026/11/09/nx-s1-6030830/democrats-grocery-bill-affordability"
+          },
+          {
+            "name": "NPR",
+            "title": "Democrats won big. Can they lower your grocery bill?",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeW9zVGhzTlVWbTlDSXN2LXREX29CN2ZvYjE3S2NTcTgtYlQyVWpyVENsTkFMZEZLemlYWlZHb1UzWmdrYWl1RktDRnY2Y0w1N3I1NnB5Qzk3c3FZel9PeHpvLTQ5eS13UVhxZ2ZweC1jdUhjTk1CS2w5NGZPZjZFTmJPTDJ6TzJC?oc=5"
+          },
+          {
+            "name": "Ocean State Media",
+            "title": "Democrats won big on issues like immigration. But ICE still has the money",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ3k5QVpSTlBvOTNYcThWWWdiQ0J4RnpFNUFLWERnb3Jjckh4OGV2MlFNcmJXNm85dzlCUTlFTWJTVUtXdXNzM0JtMTh5NGRHUXBQUXdyWHZicV9oTnVmaGFlbUpTNC1iaVBqSWppb2JNX3Z1a1RvclhMWURCUGRHVlJEZW5INlljV3E3STBaVEV5UmpDUDRIRlRjc1FrSUpQcWNZTkZmWEZQYlhtcFBhbzRaYmw5aENkcjhVRzhFLTdlQQ?oc=5"
+          },
+          {
+            "name": "Brookings",
+            "title": "How Democrats won big, and why 2028 remains an open question",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUWl2NmlmcHBsU202cFdhOW9LanE4UG1XUVEzVk5fcThDTW9hc2ItWnc5b2tmbFUwNkRQc2RfNHlKazRINEkteU5YNGRPek16UFJBNDlNRFlOaUJzdTdzMWRzZXlNdENCZFo5enR2UEFlQVhoQzZ2MFR4WHN2Yy1wYzAzNHhoWF82bVVHWGZMbjNLT2EtSGlSaTVsQQ?oc=5"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Democrats won big in Ohio on working-class issues. Can they deliver?",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSzZZNUt6elh5LXBiMmlxTlBja0NUeHJXVzM5dExnMmwxVW4wZTBjT0JWMUxjU2V2TTNxLW0xYlJXbEpjZF91TUhTdkx4SEExWTJvNHVpUHhZbmJXdHNENzVfYi13VktTYlhiMXNWUDFwR2JkVUFkOTBQQ1hmRnJYbW9CVWg4NktER3ljTmNrUElPRlJpcVE?oc=5"
+          }
+        ],
+        "wordCount": 406
+      },
+      "videoScript": {
+        "hook": "Democrats just won control of Congress by promising to lower your grocery bill.",
+        "beats": [
+          "Voters handed Democrats a major victory on Tuesday fueled by anger over soaring food prices.",
+          "Tariffs and the Iran war continue to drive up costs for energy, transport, and fertilizer.",
+          "Trump still holds veto power in the Oval Office over the exact policies causing inflation."
+        ],
+        "close": "Read the full analysis at the link in our bio."
+      },
+      "rawImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7404x4165+0+386/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2Fc1%2F21e723b44cb190bd1f5376a9bcb0%2Fgettyimages-2302583788.jpg",
+      "status": "pending",
+      "createdAt": "2026-11-09T12:09:47.780Z",
+      "cardImageUrl": "/news-cards/news-irm08a7s3-1794226187780.jpg",
+      "reelCoverUrl": "/news-cards/news-irm08a7s3-1794226188416-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-irm08a7s3-1794226188979-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/democrats-won-big-grocery-affordability-math-wqad/"
+    },
+    "channels": {
+      "facebook": true,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": true,
+      "mastodon": false,
+      "threads": false,
+      "youtube": true
+    },
+    "scheduledFor": "2026-11-09T14:01:27.852Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-09T12:09:50.059Z"
   }
 ]

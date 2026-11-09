@@ -34,9 +34,36 @@
     "https://www.dw.com/es/siete-muertos-y-112-heridos-en-accidente-de-trenes-en-egipto/a-79893139?maca=spa-rss-sp-all-1122-rdf",
     "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
     "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRkdzMDFwVFNGNEFRbmVXNUZ4MG5RTDExMlVPcmIxek5OaEpFOFp2c0NVUEhzcWt5TWVVb3NhUDQ5SzJQZjhqaU41ZnVEMldQRGNNTk1CWm9pS2h6WmxHdlpKMHlqZ3BFaXBDaXdRTzIyNlNTY19FY0MxelZ6bEh3MjFB?oc=5"
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRkdzMDFwVFNGNEFRbmVXNUZ4MG5RTDExMlVPcmIxek5OaEpFOFp2c0NVUEhzcWt5TWVVb3NhUDQ5SzJQZjhqaU41ZnVEMldQRGNNTk1CWm9pS2h6WmxHdlpKMHlqZ3BFaXBDaXdRTzIyNlNTY19FY0MxelZ6bEh3MjFB?oc=5",
+    "https://www.npr.org/2026/11/09/nx-s1-6030830/democrats-grocery-bill-affordability"
   ],
   "processedSignatures": [
+    {
+      "title": "DEMOCRATS WIN CONGRESS BUT FACE STALEMATE ON GROCERY PRICES",
+      "normalizedTokens": [
+        "democrats",
+        "win",
+        "congress",
+        "face",
+        "stalemate",
+        "grocery",
+        "prices"
+      ],
+      "date": "2026-11-09T12:09:50.063Z"
+    },
+    {
+      "title": "Democrats won big. Can they lower your grocery bill?",
+      "normalizedTokens": [
+        "democrats",
+        "won",
+        "big",
+        "they",
+        "lower",
+        "grocery",
+        "bill"
+      ],
+      "date": "2026-11-09T12:09:50.062Z"
+    },
     {
       "title": "UAE URGES BALANCE BETWEEN DETERRENCE AND DIPLOMACY IN IRAN WAR",
       "normalizedTokens": [
