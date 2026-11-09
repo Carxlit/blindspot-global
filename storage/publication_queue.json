@@ -7116,12 +7116,13 @@
         "title": "Pete Hegseth defiant amid impeachment rumors",
         "channel": "NBC News"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-09T19:47:07.014Z",
       "cardImageUrl": "/news-cards/news-6xrm6ic4y-1794253627014.jpg",
       "reelCoverUrl": "/news-cards/news-6xrm6ic4y-1794253627807-cover.jpg",
       "instagramCardUrl": "/news-cards/news-6xrm6ic4y-1794253628309-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/political-calculus-behind-impeachment-bid-against-kiy3/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/political-calculus-behind-impeachment-bid-against-kiy3/",
+      "publishedAt": "2026-11-09T22:02:56.676Z"
     },
     "channels": {
       "facebook": true,
@@ -7135,10 +7136,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-09T22:00:58.575Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-09T19:47:09.338Z"
+    "createdAt": "2026-11-09T19:47:09.338Z",
+    "lastAttemptAt": "2026-11-09T22:01:13.982Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122103420273539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18045898265842178",
+        "permalink": "https://www.instagram.com/reel/DfiW7kRgPcV/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-09T22:02:56.676Z"
   },
   {
     "id": "queue-1794257461447-3otdp",
