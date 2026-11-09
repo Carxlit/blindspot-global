@@ -31,9 +31,38 @@
     "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
     "https://www.euronews.com/video/2026/11/08/poland-krakow-mourns-six-victims-as-shooting-site-reopens",
     "https://www.dw.com/en/many-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf",
-    "https://www.dw.com/es/siete-muertos-y-112-heridos-en-accidente-de-trenes-en-egipto/a-79893139?maca=spa-rss-sp-all-1122-rdf"
+    "https://www.dw.com/es/siete-muertos-y-112-heridos-en-accidente-de-trenes-en-egipto/a-79893139?maca=spa-rss-sp-all-1122-rdf",
+    "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
   ],
   "processedSignatures": [
+    {
+      "title": "NVIDIA INVESTIGATES CEO JENSEN HUANG OVER CHINESE ESPIONAGE ALLEGATIONS",
+      "normalizedTokens": [
+        "nvidia",
+        "investigates",
+        "ceo",
+        "jensen",
+        "huang",
+        "chinese",
+        "espionage",
+        "allegations"
+      ],
+      "date": "2026-11-09T11:01:59.481Z"
+    },
+    {
+      "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
+      "normalizedTokens": [
+        "nvidia",
+        "investigating",
+        "jensen",
+        "huang",
+        "relationship",
+        "alleged",
+        "chinese",
+        "spy"
+      ],
+      "date": "2026-11-09T11:01:59.481Z"
+    },
     {
       "title": "EGYPTIAN TRAIN CRASH LEAVES SEVEN DEAD NEAR CAIRO",
       "normalizedTokens": [

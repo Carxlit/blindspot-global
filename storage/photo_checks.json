@@ -183,5 +183,10 @@
     "relevant": true,
     "reason": "The image shows a major train crash scene with derailed carriages and crowds of people, directly matching the headline about a train crash near Cairo.",
     "at": "2026-11-09T06:01:38.753Z"
+  },
+  "7b98fbd18ab0be96:rxyauwhvh": {
+    "relevant": true,
+    "reason": "The image clearly depicts Nvidia CEO Jensen Huang, who is the primary subject of the headline, against an Nvidia-branded background.",
+    "at": "2026-11-09T11:01:56.719Z"
   }
 }

@@ -1,5 +1,110 @@
 [
   {
+    "slug": "nvidia-board-launches-probe-into-ceo-8dpm",
+    "path": "news/nvidia-board-launches-probe-into-ceo-8dpm/",
+    "title": "Nvidia Board Launches Probe into CEO Jensen Huang Amid Chinese Intelligence Concerns",
+    "headline": "NVIDIA INVESTIGATES CEO JENSEN HUANG OVER CHINESE ESPIONAGE ALLEGATIONS",
+    "dek": "Nvidia has opened an independent investigation into founder Jensen Huang's relationship with an executive linked to Chinese intelligence. The inquiry puts a spotlight on silicon security, executive access, and Beijing's espionage tactics.",
+    "category": "TECHNOLOGY & AI",
+    "sourceName": "The Verge",
+    "image": "img/nvidia-board-launches-probe-into-ceo-8dpm.jpg",
+    "photo": "img/nvidia-board-launches-probe-into-ceo-8dpm-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "ETc7Prw8TFk",
+      "title": "Nvidia расследует отношения гендиректора Дженсена Хуанга с возможным #DeepTech",
+      "channel": "ALTHEA Research Brief",
+      "license": "cc-by"
+    },
+    "publishedAt": "2026-11-09T11:01:59.421Z",
+    "article": {
+      "slug": "nvidia-board-launches-probe-into-ceo-8dpm",
+      "title": "Nvidia Board Launches Probe into CEO Jensen Huang Amid Chinese Intelligence Concerns",
+      "dek": "Nvidia has opened an independent investigation into founder Jensen Huang's relationship with an executive linked to Chinese intelligence. The inquiry puts a spotlight on silicon security, executive access, and Beijing's espionage tactics.",
+      "keyFacts": [
+        "Nvidia's board of directors launched an independent investigation into CEO Jensen Huang led by a committee of independent directors and outside counsel.",
+        "The probe follows reports of Huang's romantic relationship with Alice Huang, an executive at Nvidia customer Megaspeed.",
+        "U.S. officials suspect Alice Huang was recruited by China's Ministry of State Security to feed intelligence to Beijing.",
+        "Megaspeed is under investigation by the U.S. Commerce Department for allegedly smuggling restricted AI chips into China.",
+        "Export controls established across both the Biden and Trump administrations restrict the sale of Nvidia's most powerful AI chips to Chinese firms."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Nvidia's board of directors announced an independent investigation into founder and Chief Executive Officer Jensen Huang following disclosures regarding his relationship with an executive linked to Chinese state intelligence. The board stated that a committee of independent directors, assisted by outside counsel, will oversee the inquiry to review all available information.",
+            "The announcement follows reporting by the New York Times detailing a relationship between Jensen Huang and Alice Huang, a senior executive at Megaspeed. In an internal corporate memo, Jensen Huang admitted the relationship was romantic. U.S. government officials believe Alice Huang was recruited by China's Ministry of State Security to gather intelligence on the semiconductor giant."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The inquiry emerges amidst intense geopolitical friction surrounding microchip technology. Nvidia's hardware is widely considered essential to national security and artificial intelligence supremacy. Consequently, both the Biden and Trump administrations placed strict export bans on high-performance silicon shipped to Chinese entities.",
+            "Megaspeed, an Nvidia customer, is currently the target of a U.S. Department of Commerce probe examining whether the company engaged in illicit transactions to smuggle restricted AI microprocessors directly into mainland China in violation of federal restrictions."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While mainstream coverage centers on executive misconduct, the strategic blind spot involves human intelligence targeting of key nodes within technology supply chains. Intelligence agencies often focus on intermediate corporate customers and supply chain intermediaries to bypass formal corporate perimeter defenses.",
+            "Furthermore, Jensen Huang has maintained close access to top U.S. government leadership, participating in confidential deliberations regarding domestic AI subsidies, hardware sanctions, and federal tech policy. The potential risk that executive insights into U.S. administrative strategy were exposed represents a critical intelligence concern."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Beijing's intelligence apparatus gains actionable insight into U.S. supply chain enforcement boundaries if confidential policy details were compromised. Rival chip manufacturers may also capitalize on the corporate governance disruption to seek government procurement contracts.",
+            "Nvidia faces immediate reputational pressure, potential regulatory sanctions, and legal oversight. The inquiry directly challenges Jensen Huang's standing in Washington as a trusted advisor on national technological strategy."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Outside counsel will evaluate internal communications and data records to verify whether proprietary technology or national security discussions were compromised. Simultaneously, the Department of Commerce's final findings on Megaspeed will dictate potential federal legal actions.",
+            "Lawmakers in Washington are expected to demand stricter counterintelligence protocols and security clearance requirements for executive leadership handling dual-use technologies."
+          ]
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Artificial Intelligence",
+        "China",
+        "Semiconductors",
+        "Espionage"
+      ],
+      "sources": [
+        {
+          "name": "The Verge",
+          "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdZZkpucG9aOVF5R2JPeHljWV85XzlhbUxnbUREYWlKQzBiR1UzeWxwaF9EMnpDajI1aXlmMlo0aENzeGdyRzJDSEtJR0xVanhFSkN3bXE0R1FYV2VWZHdIV1A1MmFlczN4VnRZcVZ5QV9xdUlxZXVlZVl3eHRqVWxsVmE1dktHZzdnelB0ZjUwejJj?oc=5"
+        },
+        {
+          "name": "NPR",
+          "title": "Nvidia launches investigation into CEO’s alleged relationship with Chinese spy",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaGxWZXVRNEFmOUg1TF8tbG8tYmlTSGNwXzFzUE56VGYwUVdxUE93XzBXczNyVFVNbGZDS3l5OTgxMHU3WmhpYVIyNExuZWxRR1h3dkdqTnhLY0JzY0txaWRRc0daUlgyQ3lJREZBT3NSOFJWaGJvQ1ZyVjRhVHJwcm51a3JHSUR0OTVSNmUtVWJJSkhHVldZRXRHYjV0R1RacDJVTi1hZ19rNkxkSDdmZjlaeGJWX2pOU2ZSRm5Kaw?oc=5"
+        },
+        {
+          "name": "CNBC",
+          "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd1BJNjAwTmc1dWhNWkFEblREai1hbkhYZFBjT2MxaWV1b283RXNKTnk1emdfY2p5LWlXOEo5M0hLWWhjTG1UVmdVV2xvS09sb0tlelBpalV1Z1lTdUZ1VWJ5Uzl4cFJqeXV2ZUF5WVpTSWFGeGU4eldfdHpScTMySHpZQk9fWGc?oc=5"
+        },
+        {
+          "name": "Al Jazeera",
+          "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM2c5MDNuN29vR3VHTlVkZ1QyNXd4RWRmLWx1V2VXalh3MzhaWDBIQTF1VnlBTm4yQXpIbDNXUWtnQ2RDYXJ5eUZEdVhkdmR2YkRBYUFaQmlMaDdFTC1FVjdlU290aFZheDJwUmZoNFVIUC1uRUF1WF9XclVGZVFwVm5MWm5SRnZtOVZMLVNBSGUwZ1RHMlB5QjNYYW5zMFVqeDFiR9IBqgFBVV95cUxOMDJtdWpZYVVFTlNxWEdQWlYyR1l6eVlqNGpmSlBnQUZkWDFERVQycEo1WlV5UFZIcWJVODRfZDN4Vlh4NzNjUG1QX1lQSnFRUEdMRWVZWkhCeUdicDhpbGF4VTNCRk5RZFlvUmF0TEszaXo3U1Y4bVV5M21Cbl9OQ19FeEpwa0d0QVF2cktNVWFzRW9tbUVWM1g5cUljOG9JN3pYZjRuajh4Zw?oc=5"
+        }
+      ],
+      "wordCount": 417
+    },
+    "blindSpot": "Beyond corporate governance, the story reveals how state intelligence agencies exploit human vectors within third-party hardware distributors to breach national tech barriers. Huang's proximity to senior U.S. officials raises critical concerns that high-level executive discussions regarding American AI strategy may have been indirectly exposed to Beijing."
+  },
+  {
     "slug": "fatal-train-crash-egypt-highlights-deep-3wwz",
     "path": "news/fatal-train-crash-egypt-highlights-deep-3wwz/",
     "title": "Fatal Train Crash in Egypt Highlights Deep Infrastructure Deficits",
