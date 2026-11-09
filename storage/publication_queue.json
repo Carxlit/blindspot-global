@@ -6622,12 +6622,13 @@
         "title": "President Trump Meets Qatar PM: Can Doha Broker A Deal Between US And Iran? | West Asia | News18",
         "channel": "CNN-News18"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-09T16:10:01.556Z",
       "cardImageUrl": "/news-cards/news-tbjgzddaw-1794240601557.jpg",
       "reelCoverUrl": "/news-cards/news-tbjgzddaw-1794240602201-cover.jpg",
       "instagramCardUrl": "/news-cards/news-tbjgzddaw-1794240602920-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/trump-meets-qatar-prime-minister-washington-0rta/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/trump-meets-qatar-prime-minister-washington-0rta/",
+      "publishedAt": "2026-11-09T18:35:09.051Z"
     },
     "channels": {
       "facebook": true,
@@ -6641,10 +6642,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-09T18:32:58.575Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-09T16:10:04.069Z"
+    "createdAt": "2026-11-09T16:10:04.069Z",
+    "lastAttemptAt": "2026-11-09T18:33:14.026Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122103262827539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18015781892988786",
+        "permalink": "https://www.instagram.com/reel/Dfh_JcpCVvl/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-09T18:35:09.051Z"
   },
   {
     "id": "queue-1794245270129-3ho7q",
