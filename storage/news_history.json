@@ -37,9 +37,37 @@
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRkdzMDFwVFNGNEFRbmVXNUZ4MG5RTDExMlVPcmIxek5OaEpFOFp2c0NVUEhzcWt5TWVVb3NhUDQ5SzJQZjhqaU41ZnVEMldQRGNNTk1CWm9pS2h6WmxHdlpKMHlqZ3BFaXBDaXdRTzIyNlNTY19FY0MxelZ6bEh3MjFB?oc=5",
     "https://www.npr.org/2026/11/09/nx-s1-6030830/democrats-grocery-bill-affordability",
     "https://www.theverge.com/cs/features/1027614/torrent-movies-file-sharing-download-piracy",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEdIVXlJc2RaUEw2RmFrR2FZcXYzYlBKUG9Cdl9WUVFfalVxT0hGcGFCdW1DS3JMT2daanhDYktBeXVGNGt5TGlsOGZJVWVSMFpnT3ZVa2RBUjZYakRlVlQ3SXd1ZkpTQVNXVkpoNUZoemdycWY0MG02dVk0cWRuWG4taG5VMm9kbEluSHctTVZVMXJwWXNWSWdVcmxQeWtRSW1EWDQ2dTJ6QVV2TzhoeQ?oc=5"
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEdIVXlJc2RaUEw2RmFrR2FZcXYzYlBKUG9Cdl9WUVFfalVxT0hGcGFCdW1DS3JMT2daanhDYktBeXVGNGt5TGlsOGZJVWVSMFpnT3ZVa2RBUjZYakRlVlQ3SXd1ZkpTQVNXVkpoNUZoemdycWY0MG02dVk0cWRuWG4taG5VMm9kbEluSHctTVZVMXJwWXNWSWdVcmxQeWtRSW1EWDQ2dTJ6QVV2TzhoeQ?oc=5",
+    "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced"
   ],
   "processedSignatures": [
+    {
+      "title": "BRITISH COMEDIAN RUSSELL BRAND SENTENCED TO PRISON",
+      "normalizedTokens": [
+        "british",
+        "comedian",
+        "russell",
+        "brand",
+        "sentenced",
+        "prison"
+      ],
+      "date": "2026-11-09T15:00:38.718Z"
+    },
+    {
+      "title": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault",
+      "normalizedTokens": [
+        "british",
+        "comedian",
+        "russell",
+        "brand",
+        "sentenced",
+        "years",
+        "rape",
+        "sexual",
+        "assault"
+      ],
+      "date": "2026-11-09T15:00:38.717Z"
+    },
     {
       "title": "GOLD RALLIES AS FALLING OIL PRICES EASE INFLATION CONCERNS",
       "normalizedTokens": [
