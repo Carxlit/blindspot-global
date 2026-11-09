@@ -7270,12 +7270,13 @@
         "close": "Read the full analysis of Wall Street's rotation at the link in bio."
       },
       "rawImageUrl": "https://images.mktw.net/im-59679463",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-09T20:50:58.845Z",
       "cardImageUrl": "/news-cards/news-aaf8fute6-1794257458845.jpg",
       "reelCoverUrl": "/news-cards/news-aaf8fute6-1794257459547-cover.jpg",
       "instagramCardUrl": "/news-cards/news-aaf8fute6-1794257460200-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/market-rotation-away-big-tech-faces-c85g/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/market-rotation-away-big-tech-faces-c85g/",
+      "publishedAt": "2026-11-09T23:08:20.094Z"
     },
     "channels": {
       "facebook": true,
@@ -7289,9 +7290,33 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-09T23:04:58.575Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-09T20:51:01.447Z"
+    "createdAt": "2026-11-09T20:51:01.447Z",
+    "lastAttemptAt": "2026-11-09T23:05:13.959Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122103459339539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18104886974164699",
+        "permalink": "https://www.instagram.com/reel/DfieZ8MkWZ6/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-09T23:08:20.094Z"
   }
 ]
