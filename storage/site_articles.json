@@ -1,5 +1,99 @@
 [
   {
+    "slug": "france-accuses-iran-orchestrating-unprecedented-supermarket-lnzc",
+    "path": "news/france-accuses-iran-orchestrating-unprecedented-supermarket-lnzc/",
+    "title": "France accuses Iran of orchestrating unprecedented supermarket refrigeration cyberattacks",
+    "headline": "FRANCE ACCUSES IRAN OF CYBERATTACK ON SUPERMARKET FRIDGES",
+    "dek": "French authorities have blamed an Islamic Revolutionary Guard Corps cyber unit for remote hacks that weaponized commercial refrigeration units. The operation highlights critical vulnerabilities in civilian retail logistics.",
+    "category": "SECURITY & DEFENSE",
+    "sourceName": "Al Jazeera",
+    "image": "img/france-accuses-iran-orchestrating-unprecedented-supermarket-lnzc.jpg",
+    "photo": "img/france-accuses-iran-orchestrating-unprecedented-supermarket-lnzc-foto.jpg",
+    "publishedAt": "2026-11-09T17:27:50.054Z",
+    "article": {
+      "slug": "france-accuses-iran-orchestrating-unprecedented-supermarket-lnzc",
+      "title": "France accuses Iran of orchestrating unprecedented supermarket refrigeration cyberattacks",
+      "dek": "French authorities have blamed an Islamic Revolutionary Guard Corps cyber unit for remote hacks that weaponized commercial refrigeration units. The operation highlights critical vulnerabilities in civilian retail logistics.",
+      "keyFacts": [
+        "The cyberattacks occurred on October 11 and 12, according to Foreign Minister Jean-Noel Barrot.",
+        "Hackers gained internet access to refrigeration systems and raised temperatures to 50C.",
+        "At least 300 Intermarche stores, 100 Cooperative U supermarkets, 80 Carrefour locations, and roughly 5 percent of Monoprix stores were affected.",
+        "The Paris prosecutor's office requested international arrest warrants for the leader of Shahid Kaveh and two deputies."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "French authorities announced that they have opened a formal investigation into a cyber unit affiliated with the Islamic Revolutionary Guard Corps following coordinated attacks on supermarket refrigeration units. According to statements by Foreign Minister Jean-Noel Barrot, hackers infiltrated internet-connected cooling systems during the night of October 11 and 12, remotely raising temperatures to 50C.",
+            "Retailers reported millions of euros worth of spoiled food, alongside equipment melting and localized fires sparked by the extreme heat. Major supermarket groups including E-Leclerc, Intermarche, Carrefour, Monoprix, and Cooperative U were directly targeted across the country."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The fallout from the breach has triggered immediate diplomatic and legal maneuvers in Paris. The Paris prosecutor’s office has requested international arrest warrants against the leader of Shahid Kaveh, an offensive cyber unit linked to the Revolutionary Guards, alongside two of his deputies.",
+            "Foreign Minister Barrot confirmed that the Iranian ambassador had been summoned to the Ministry of Europe and Foreign Affairs. Paris is now preparing to introduce targeted sanctions against all involved individuals at a European level, describing the incident as unprecedented in scale and aggression."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While official reports focus heavily on diplomatic fallout and attribution to state actors, mainstream coverage frequently overlooks the structural fragility of commercial Internet of Things infrastructure. Refrigeration systems are rarely classified as critical national infrastructure, yet their remote exploitation demonstrates how easily adversaries can disrupt civilian populations and retail food security.",
+            "The incident reveals a dangerous blind spot in corporate cybersecurity investments, which traditionally prioritize financial databases and intellectual property over physical operational technology managed by third-party vendors."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "European cybersecurity firms and defense contractors stand to gain increased funding and advisory contracts as retail conglomerates scramble to audit their connected hardware. Conversely, major supermarket chains and commercial insurers absorb immediate losses from destroyed inventory and face rising compliance costs to secure vulnerable supply chains."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Monitor the implementation and severity of proposed European Union sanctions against the Islamic Revolutionary Guard Corps. Additional indicators to follow include potential retaliatory cyber measures and whether other European nations report similar anomalies in their retail logistics networks."
+          ]
+        }
+      ],
+      "tags": [
+        "Cybersecurity",
+        "France",
+        "Iran",
+        "SupplyChain",
+        "Geopolitics"
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "title": "France accuses Iran of cyberattack on supermarket fridges",
+          "url": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss"
+        },
+        {
+          "name": "BBC",
+          "title": "France accuses Iran of supermarket fridge hacking",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzeFI0SDNQMm9ieHFIWGNtSFV6cEliY0dwOUhXNE9NODFkSTZKUktramxLV0ZHS1BaN3RZX1pTWEtsNmZxSVlBQTNfN2I0Rlk4NTlCdnRnUElYbUE?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "title": "EXCLUSIVE: French officials accuse Iran of being behind refrigerator hacks",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQam51ejNqNThjR0wtTnFjaTNObkVoS25CUzUySnBhRVc5bWlIZnhpM0ZleDhuSnJ2Z19xcWd3Q1Z3bnJkQmo1NmlJZGZnYUhEQ3ZCNHF6Y1hKM3BHZlpYOUZGTDA4WjhyaEZXcVU1NzM3YUxsUWJvRl9tYS1YSU1WSEpCN3h0eWx5SU1ReU1pRUlzaFNJd2N1YS1PNDFsbndESXV1ODJTaUE4YldYVzFicWln?oc=5"
+        },
+        {
+          "name": "CNN",
+          "title": "France blames Iran for ‘unprecedented’ supermarket fridge cyberattack",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSlRxSTdyTjA2NlJiREQ5bDNBMTZKclhFQVI0SFdCb1NyQWM3THlEeWRlNlZ0bWVzTmFRekZmOVFWWk9Mb2lrX1lqTkVvSUNvYXhKYmt1ektteFRTZ2swQ25YamFCZDRVQlM5ckF1MHZMNGVuWkNiUGtMVjdDN3lxMU51cEQyQQ?oc=5"
+        },
+        {
+          "name": "Le Monde.fr",
+          "title": "France accuses Iran's Guards of cyberattacks on supermarket fridges",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcXB5Snh0Wk95V3RiOGN3N0RiZDZuMVJ5VzN0R2lhd0s2UFN3OU1KVFc2aFdQTGM4SHlueHdSODRKMGNOeEtldktPbHRYTkUtaG5ocjJxS0hVYVBFdnFzLXZoRmMwR0daWFEyaG90a29qZ2RFUld5azdkQUd4NmpING00cGpGaUhzWnRZMGtaLUVfaXF2YzYzUkhLRDZwSzVMclNwc1ZEaDZUMnhfTi1GQ2Vnc2hrN3B1YXNCR0VVV3NUUFJlTkZLTVRoN0lZWTA?oc=5"
+        }
+      ],
+      "wordCount": 368
+    },
+    "blindSpot": "While mainstream coverage frames this purely as state-sponsored sabotage, the incident exposes a critical vulnerability in the civilian Internet of Things infrastructure across Western Europe. Direct cyber interference in basic retail cold chains demonstrates that modern asymmetrical warfare bypasses traditional critical infrastructure to target everyday commercial logistics."
+  },
+  {
     "slug": "trump-meets-qatar-prime-minister-washington-0rta",
     "path": "news/trump-meets-qatar-prime-minister-washington-0rta/",
     "title": "Trump meets Qatar prime minister in Washington amid stalled Iran war talks",
