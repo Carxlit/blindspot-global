@@ -5967,12 +5967,13 @@
         "close": "Read the full analysis at the link in our bio."
       },
       "rawImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7404x4165+0+386/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2Fc1%2F21e723b44cb190bd1f5376a9bcb0%2Fgettyimages-2302583788.jpg",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-09T12:09:47.780Z",
       "cardImageUrl": "/news-cards/news-irm08a7s3-1794226187780.jpg",
       "reelCoverUrl": "/news-cards/news-irm08a7s3-1794226188416-cover.jpg",
       "instagramCardUrl": "/news-cards/news-irm08a7s3-1794226188979-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/democrats-won-big-grocery-affordability-math-wqad/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/democrats-won-big-grocery-affordability-math-wqad/",
+      "publishedAt": "2026-11-09T14:03:42.621Z"
     },
     "channels": {
       "facebook": true,
@@ -5986,10 +5987,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-09T14:01:27.852Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-09T12:09:50.059Z"
+    "createdAt": "2026-11-09T12:09:50.059Z",
+    "lastAttemptAt": "2026-11-09T14:01:43.204Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122103000759539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18361071574217892",
+        "permalink": "https://www.instagram.com/reel/DfhgFrnkVeu/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-09T14:03:42.621Z"
   },
   {
     "id": "queue-1794229938584-1vkw9",
@@ -6119,7 +6144,7 @@
       "threads": false,
       "youtube": true
     },
-    "scheduledFor": "2026-11-09T14:51:27.852Z",
+    "scheduledFor": "2026-11-09T14:56:43.199Z",
     "status": "queued",
     "attempts": 0,
     "maxAttempts": 3,
