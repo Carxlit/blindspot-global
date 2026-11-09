@@ -6291,12 +6291,13 @@
         "close": "Read the full macro analysis at the link in our bio."
       },
       "rawImageUrl": "https://image.cnbcfm.com/api/v1/image/108272851-1772555762829-gettyimages-2259128701-20090101260203-99-367219.jpeg?v=1774608087&w=1920&h=1080",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-09T14:05:40.703Z",
       "cardImageUrl": "/news-cards/news-egpdygjkg-1794233140703.jpg",
       "reelCoverUrl": "/news-cards/news-egpdygjkg-1794233141323-cover.jpg",
       "instagramCardUrl": "/news-cards/news-egpdygjkg-1794233141889-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/gold-surges-past-4-100-softening-pemk/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/gold-surges-past-4-100-softening-pemk/",
+      "publishedAt": "2026-11-09T16:07:40.935Z"
     },
     "channels": {
       "facebook": true,
@@ -6310,10 +6311,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-09T16:04:43.199Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-09T14:05:43.208Z"
+    "createdAt": "2026-11-09T14:05:43.208Z",
+    "lastAttemptAt": "2026-11-09T16:04:58.519Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122103126153539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17966639847215980",
+        "permalink": "https://www.instagram.com/reel/DfhuRepDokR/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-09T16:07:40.935Z"
   },
   {
     "id": "queue-1794236438714-oyzrs",
