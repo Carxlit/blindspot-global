@@ -32,9 +32,39 @@
     "https://www.euronews.com/video/2026/11/08/poland-krakow-mourns-six-victims-as-shooting-site-reopens",
     "https://www.dw.com/en/many-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf",
     "https://www.dw.com/es/siete-muertos-y-112-heridos-en-accidente-de-trenes-en-egipto/a-79893139?maca=spa-rss-sp-all-1122-rdf",
-    "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+    "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+    "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html"
   ],
   "processedSignatures": [
+    {
+      "title": "CHINA PRODUCER PRICES SURGE AS DOMESTIC CONSUMPTION FALTERS",
+      "normalizedTokens": [
+        "china",
+        "producer",
+        "prices",
+        "surge",
+        "domestic",
+        "consumption",
+        "falters"
+      ],
+      "date": "2026-11-09T11:21:54.979Z"
+    },
+    {
+      "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+      "normalizedTokens": [
+        "china",
+        "wholesale",
+        "inflation",
+        "hits",
+        "highest",
+        "four",
+        "years",
+        "consumer",
+        "measure",
+        "slows"
+      ],
+      "date": "2026-11-09T11:21:54.978Z"
+    },
     {
       "title": "NVIDIA INVESTIGATES CEO JENSEN HUANG OVER CHINESE ESPIONAGE ALLEGATIONS",
       "normalizedTokens": [

@@ -188,5 +188,10 @@
     "relevant": true,
     "reason": "The image clearly depicts Nvidia CEO Jensen Huang, who is the primary subject of the headline, against an Nvidia-branded background.",
     "at": "2026-11-09T11:01:56.719Z"
+  },
+  "467cebcce5ec2daa:v3d5h2za9": {
+    "relevant": true,
+    "reason": "The image shows a customer selecting produce in a supermarket, which visually represents domestic consumer activity and shopping in China related to domestic consumption.",
+    "at": "2026-11-09T11:21:50.008Z"
   }
 }
