@@ -42,9 +42,45 @@
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0pwQmJtMVdmZDY2NVhWalgxSHZ0d0NvUzJ4cldzTHFQUmdHSERzZENUOXljYldMbFpRa3J5d0VhbkNtZGJVM1paVkFWZ1ZHZTFOQlNkNm5xZ2tkc0FYQkxvQkU3RHc5cm9lcjFXSzdCNlE5QjNXNnRoZktjUHhGRTRGOXZYbWZtUXlTaFBXN096VFZrTDBQQll5ZDJaZDlPdUlueEtHaGMyQ1ZnWHdxQll3UWI3WHdYZmc?oc=5",
     "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss",
     "https://www.dw.com/es/russell-brand-es-condenado-a-más-de-10-años-de-cárcel-por-violación-y-agresiones-sexuales/a-79903582?maca=spa-rss-sp-all-1122-rdf",
-    "https://www.france24.com/en/americas/20261109-republican-congressman-launches-impeachment-bid-against-pentagon-chief-hegseth"
+    "https://www.france24.com/en/americas/20261109-republican-congressman-launches-impeachment-bid-against-pentagon-chief-hegseth",
+    "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories"
   ],
   "processedSignatures": [
+    {
+      "title": "US STOCK MARKET RALLY SPRAWS BEYOND BIG TECH AHEAD OF CPI DATA",
+      "normalizedTokens": [
+        "stock",
+        "market",
+        "rally",
+        "spraws",
+        "beyond",
+        "big",
+        "tech",
+        "ahead",
+        "cpi",
+        "data"
+      ],
+      "date": "2026-11-09T20:51:01.452Z"
+    },
+    {
+      "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
+      "normalizedTokens": [
+        "stock",
+        "market",
+        "rally",
+        "keeps",
+        "spreading",
+        "beyond",
+        "big",
+        "tech",
+        "october",
+        "inflation",
+        "data",
+        "put",
+        "test"
+      ],
+      "date": "2026-11-09T20:51:01.451Z"
+    },
     {
       "title": "REPUBLICAN CONGRESSMAN LAUNCHES IMPEACHMENT BID AGAINST PENTAGON CHIEF HEGSETH",
       "normalizedTokens": [
