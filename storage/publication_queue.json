@@ -5640,12 +5640,13 @@
         "title": "China Factory Prices Hit 4-Year High! | Short News",
         "channel": "English World TV"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-09T11:21:51.220Z",
       "cardImageUrl": "/news-cards/news-v3d5h2za9-1794223311220.jpg",
       "reelCoverUrl": "/news-cards/news-v3d5h2za9-1794223313352-cover.jpg",
       "instagramCardUrl": "/news-cards/news-v3d5h2za9-1794223313902-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/china-producer-prices-surge-four-year-high-x8rm/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/china-producer-prices-surge-four-year-high-x8rm/",
+      "publishedAt": "2026-11-09T12:07:30.174Z"
     },
     "channels": {
       "facebook": true,
@@ -5659,10 +5660,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-09T12:04:27.852Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-09T11:21:54.975Z"
+    "createdAt": "2026-11-09T11:21:54.975Z",
+    "lastAttemptAt": "2026-11-09T12:04:43.180Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122102905851539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18113174579147698",
+        "permalink": "https://www.instagram.com/reel/DfhSxjACl9K/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-09T12:07:30.174Z"
   },
   {
     "id": "queue-1794224012289-4in6e",
