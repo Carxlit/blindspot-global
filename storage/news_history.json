@@ -35,9 +35,30 @@
     "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
     "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRkdzMDFwVFNGNEFRbmVXNUZ4MG5RTDExMlVPcmIxek5OaEpFOFp2c0NVUEhzcWt5TWVVb3NhUDQ5SzJQZjhqaU41ZnVEMldQRGNNTk1CWm9pS2h6WmxHdlpKMHlqZ3BFaXBDaXdRTzIyNlNTY19FY0MxelZ6bEh3MjFB?oc=5",
-    "https://www.npr.org/2026/11/09/nx-s1-6030830/democrats-grocery-bill-affordability"
+    "https://www.npr.org/2026/11/09/nx-s1-6030830/democrats-grocery-bill-affordability",
+    "https://www.theverge.com/cs/features/1027614/torrent-movies-file-sharing-download-piracy"
   ],
   "processedSignatures": [
+    {
+      "title": "THE SHADOW ARCHIVISTS KEEPING OBSOLETE CULTURE ALIVE",
+      "normalizedTokens": [
+        "shadow",
+        "archivists",
+        "keeping",
+        "obsolete",
+        "culture",
+        "alive"
+      ],
+      "date": "2026-11-09T13:12:18.587Z"
+    },
+    {
+      "title": "Torrent underground",
+      "normalizedTokens": [
+        "torrent",
+        "underground"
+      ],
+      "date": "2026-11-09T13:12:18.587Z"
+    },
     {
       "title": "DEMOCRATS WIN CONGRESS BUT FACE STALEMATE ON GROCERY PRICES",
       "normalizedTokens": [
