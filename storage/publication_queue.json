@@ -6126,12 +6126,13 @@
         "close": "Read the full analysis at the link in our bio."
       },
       "rawImageUrl": "https://media.inquisitr.com/wp-content/uploads/2026/11/library-of-congress-2c28d6fb65-1600.webp",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-09T13:12:16.374Z",
       "cardImageUrl": "/news-cards/news-px8skk9cb-1794229936375.jpg",
       "reelCoverUrl": "/news-cards/news-px8skk9cb-1794229936972-cover.jpg",
       "instagramCardUrl": "/news-cards/news-px8skk9cb-1794229937496-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/shadow-archivists-preserving-lost-culture-through-lutv/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/shadow-archivists-preserving-lost-culture-through-lutv/",
+      "publishedAt": "2026-11-09T14:59:04.005Z"
     },
     "channels": {
       "facebook": true,
@@ -6145,10 +6146,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-09T14:56:43.199Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-09T13:12:18.584Z"
+    "createdAt": "2026-11-09T13:12:18.584Z",
+    "lastAttemptAt": "2026-11-09T14:56:58.543Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122103055023539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17877878976587768",
+        "permalink": "https://www.instagram.com/reel/DfhmamvGyKK/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-09T14:59:04.005Z"
   },
   {
     "id": "queue-1794233143208-a9lad",
