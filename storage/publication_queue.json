@@ -6784,12 +6784,13 @@
         "close": "Read the full analysis at the link in bio."
       },
       "rawImageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20260302__99JK9FE__v1__HighRes__FranceIranUsIsraelConflict-1772529099.jpg?resize=1920%2C1440",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-09T17:27:47.375Z",
       "cardImageUrl": "/news-cards/news-9ezkz9jy2-1794245267375.jpg",
       "reelCoverUrl": "/news-cards/news-9ezkz9jy2-1794245268247-cover.jpg",
       "instagramCardUrl": "/news-cards/news-9ezkz9jy2-1794245268848-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/france-accuses-iran-orchestrating-unprecedented-supermarket-lnzc/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/france-accuses-iran-orchestrating-unprecedented-supermarket-lnzc/",
+      "publishedAt": "2026-11-09T19:45:21.218Z"
     },
     "channels": {
       "facebook": true,
@@ -6803,10 +6804,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-09T19:42:58.575Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-09T17:27:50.129Z"
+    "createdAt": "2026-11-09T17:27:50.129Z",
+    "lastAttemptAt": "2026-11-09T19:43:14.001Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122103316917539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18111999488182073",
+        "permalink": "https://www.instagram.com/reel/DfiHKgmgdhg/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-09T19:45:21.218Z"
   },
   {
     "id": "queue-1794249401061-ktygy",
