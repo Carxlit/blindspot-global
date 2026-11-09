@@ -6453,12 +6453,13 @@
         "close": "Read the full analysis at the link in our bio."
       },
       "rawImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4079x2294+0+734/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdd%2F10%2Fc857c3834375bada2b4dddb35e12%2Fap26309660909871.jpg",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-09T15:00:36.186Z",
       "cardImageUrl": "/news-cards/news-e4p0ky3mw-1794236436187.jpg",
       "reelCoverUrl": "/news-cards/news-e4p0ky3mw-1794236436864-cover.jpg",
       "instagramCardUrl": "/news-cards/news-e4p0ky3mw-1794236437490-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/inside-downfall-institutional-shielding-comedian-russell-qbjr/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/inside-downfall-institutional-shielding-comedian-russell-qbjr/",
+      "publishedAt": "2026-11-09T17:26:11.461Z"
     },
     "channels": {
       "facebook": true,
@@ -6472,10 +6473,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-09T17:23:43.199Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-09T15:00:38.714Z"
+    "createdAt": "2026-11-09T15:00:38.714Z",
+    "lastAttemptAt": "2026-11-09T17:23:58.579Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122103199869539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18198425782392649",
+        "permalink": "https://www.instagram.com/reel/Dfh3QSPgTnf/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-09T17:26:11.461Z"
   },
   {
     "id": "queue-1794240604069-uxegq",
@@ -6615,7 +6640,7 @@
       "threads": false,
       "youtube": true
     },
-    "scheduledFor": "2026-11-09T18:13:43.199Z",
+    "scheduledFor": "2026-11-09T18:32:58.575Z",
     "status": "queued",
     "attempts": 0,
     "maxAttempts": 3,
