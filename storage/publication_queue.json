@@ -9431,12 +9431,13 @@
         "channel": "Kanal13",
         "license": "cc-by"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-10T17:57:11.490Z",
       "cardImageUrl": "/news-cards/news-zfog33ud2-1794333431491.jpg",
       "reelCoverUrl": "/news-cards/news-zfog33ud2-1794333432077-cover.jpg",
       "instagramCardUrl": "/news-cards/news-zfog33ud2-1794333432582-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/behind-fog-bulgaria-s-fatal-trakia-2stu/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/behind-fog-bulgaria-s-fatal-trakia-2stu/",
+      "publishedAt": "2026-11-10T20:14:45.500Z"
     },
     "channels": {
       "facebook": true,
@@ -9450,10 +9451,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-10T20:12:36.599Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-10T17:57:13.653Z"
+    "createdAt": "2026-11-10T17:57:13.653Z",
+    "lastAttemptAt": "2026-11-10T20:12:51.905Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122104425099539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17912167371592667",
+        "permalink": "https://www.instagram.com/reel/DfkvWFtCWSS/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Reel no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Short no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      }
+    },
+    "publishedAt": "2026-11-10T20:14:45.500Z"
   },
   {
     "id": "queue-1794337243041-b6dvv",
