@@ -8768,12 +8768,13 @@
         "channel": "Kanal13",
         "license": "cc-by"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-10T13:40:23.008Z",
       "cardImageUrl": "/news-cards/news-ggjwaenax-1794318023009.jpg",
       "reelCoverUrl": "/news-cards/news-ggjwaenax-1794318023674-cover.jpg",
       "instagramCardUrl": "/news-cards/news-ggjwaenax-1794318024289-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/behind-abu-dhabi-talks-washington-s-6tgw/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/behind-abu-dhabi-talks-washington-s-6tgw/",
+      "publishedAt": "2026-11-10T15:31:22.627Z"
     },
     "channels": {
       "facebook": true,
@@ -8787,10 +8788,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-10T15:29:05.875Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-10T13:40:25.472Z"
+    "createdAt": "2026-11-10T13:40:25.472Z",
+    "lastAttemptAt": "2026-11-10T15:29:21.179Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122104204491539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18644259598010822",
+        "permalink": "https://www.instagram.com/reel/DfkO5cYACKy/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Reel no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Short no generado: no se pudo descargar el video libre: \n\nERROR: ffmpeg exited with code 8\n"
+      }
+    },
+    "publishedAt": "2026-11-10T15:31:22.627Z"
   },
   {
     "id": "queue-1794321322406-8pwod",
