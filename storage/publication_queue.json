@@ -9097,12 +9097,13 @@
         ],
         "close": "Read our full analysis on the link in our bio."
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-10T15:34:04.579Z",
       "cardImageUrl": "/news-cards/news-i0k60ogfv-1794324844580.jpg",
       "reelCoverUrl": "/news-cards/news-i0k60ogfv-1794324845209-cover.jpg",
       "instagramCardUrl": "/news-cards/news-i0k60ogfv-1794324845747-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/cooling-ai-boom-analyzing-anthropic-ipo-5uq4/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/cooling-ai-boom-analyzing-anthropic-ipo-5uq4/",
+      "publishedAt": "2026-11-10T17:55:30.311Z"
     },
     "channels": {
       "facebook": true,
@@ -9116,10 +9117,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-10T17:53:21.179Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-10T15:34:06.359Z"
+    "createdAt": "2026-11-10T15:34:06.359Z",
+    "lastAttemptAt": "2026-11-10T17:53:36.604Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122104318779539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18101959598392081",
+        "permalink": "https://www.instagram.com/reel/DfkfZ5sADNb/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-10T17:55:30.311Z"
   },
   {
     "id": "queue-1794329324279-xtnhi",
@@ -9253,7 +9278,7 @@
       "threads": false,
       "youtube": true
     },
-    "scheduledFor": "2026-11-10T18:40:21.179Z",
+    "scheduledFor": "2026-11-10T18:55:36.599Z",
     "status": "queued",
     "attempts": 0,
     "maxAttempts": 3,
