@@ -323,5 +323,15 @@
     "relevant": true,
     "reason": "The image clearly shows individuals inside the cockpit of Xpeng's low-altitude flying vehicle, directly illustrating the core subject of the news story.",
     "at": "2026-11-10T19:00:37.226Z"
+  },
+  "3e10308b220f5f88:alwl3bkfh": {
+    "relevant": false,
+    "reason": "The image shows a specific Taiwanese stock trading screen (TSMC 2330), whereas the headline is about US Treasury yields and inflation in US markets.",
+    "at": "2026-11-10T20:17:10.677Z"
+  },
+  "7a3d46cfddeafd3f:alwl3bkfh": {
+    "relevant": true,
+    "reason": "The image depicts a financial trader on the stock exchange floor closely monitoring market data, which visually represents the market reaction to inflation and rate hike concerns m",
+    "at": "2026-11-10T20:17:26.210Z"
   }
 }

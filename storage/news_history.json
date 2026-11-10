@@ -57,9 +57,40 @@
     "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa25KYnV0YmpVV3hxYXM3WHU3YWR0aDlydW9XTDFvcm5mMldHaUNsc2lTdWYwU3M0UWROeEppbTBEdGJ0WU1TclZndU9xbW9PNWkwczBqZm9lQndRcWg2bkk0cjNtR0FnWkx3NFlvS21VZXo2dmQwemxoWnVPMG9NekpSNXFEZ3BaNGRaNVI3b3hfUVJxQURXNTdWdVJaUF9naWJkTWljWnhEUk0?oc=5",
     "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
-    "https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng"
+    "https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CVDNSVXJpWURQMkF1dUt1amw1WkxILXhVSjZyZkQxdGlBdWZvT0tqclhabXRKZC1xNlRIRmJSdkhINDVsYXlRdk9paVRCa085WWVKRTJFcm9CZWo2VzNaYU5lQ2RXbDdqb3QxdkY4SDFRb2JMVE8yemVJMA?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "US TREASURY YIELDS SPIKE AS INFLATION RATTLES MARKETS",
+      "normalizedTokens": [
+        "treasury",
+        "yields",
+        "spike",
+        "inflation",
+        "rattles",
+        "markets"
+      ],
+      "date": "2026-11-10T20:17:30.812Z"
+    },
+    {
+      "title": "US yields rise, stocks fall as inflation data boosts odds of larger December rate hike",
+      "normalizedTokens": [
+        "yields",
+        "rise",
+        "stocks",
+        "fall",
+        "inflation",
+        "data",
+        "boosts",
+        "odds",
+        "larger",
+        "december",
+        "rate",
+        "hike"
+      ],
+      "date": "2026-11-10T20:17:30.812Z"
+    },
     {
       "title": "XPENG PREPARES LOW-ALTITUDE VEHICLE LAUNCH FOR CHINESE MARKET",
       "normalizedTokens": [
