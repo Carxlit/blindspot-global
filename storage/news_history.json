@@ -47,9 +47,43 @@
     "https://www.euronews.com/video/2026/11/09/turkey-steel-plant-explosion-kills-17-in-izmir-province",
     "https://es.euronews.com/video/2026/11/09/explosion-en-complejo-industrial-de-esmirna-provoca-incendio-y-densa-humareda",
     "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss",
-    "https://www.france24.com/es/am%C3%A9rica-latina/20261110-la-ayuda-empieza-a-mermar-tres-meses-del-terremoto-en-colombia-la-solidaridad-desplaza-al-gobierno"
+    "https://www.france24.com/es/am%C3%A9rica-latina/20261110-la-ayuda-empieza-a-mermar-tres-meses-del-terremoto-en-colombia-la-solidaridad-desplaza-al-gobierno",
+    "https://www.xataka.com/magnet/rusia-ha-encontrado-como-atacar-ucrania-500-km-utilizar-sus-cazas-convertir-sus-helicopteros-parecido-a-pelicula-rambo"
   ],
   "processedSignatures": [
+    {
+      "title": "RUSSIA TRANSFORMS ATTACK HELICOPTERS INTO LONG-RANGE CRUISE MISSILE PLATFORMS",
+      "normalizedTokens": [
+        "russia",
+        "transforms",
+        "attack",
+        "helicopters",
+        "long",
+        "range",
+        "cruise",
+        "missile",
+        "platforms"
+      ],
+      "date": "2026-11-10T11:02:09.392Z"
+    },
+    {
+      "title": "Rusia ha encontrado cómo atacar Ucrania desde 500 km sin utilizar sus cazas: convertir sus helicópteros en lo más parecido a una película de Rambo",
+      "normalizedTokens": [
+        "rusia",
+        "encontrado",
+        "atacar",
+        "ucrania",
+        "500",
+        "utilizar",
+        "cazas",
+        "convertir",
+        "helicopteros",
+        "parecido",
+        "pelicula",
+        "rambo"
+      ],
+      "date": "2026-11-10T11:02:09.391Z"
+    },
     {
       "title": "THREE MONTHS AFTER COLOMBIA EARTHQUAKE, CITIZENS REPLACE STATE",
       "normalizedTokens": [
