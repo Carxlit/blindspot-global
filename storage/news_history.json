@@ -58,9 +58,34 @@
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa25KYnV0YmpVV3hxYXM3WHU3YWR0aDlydW9XTDFvcm5mMldHaUNsc2lTdWYwU3M0UWROeEppbTBEdGJ0WU1TclZndU9xbW9PNWkwczBqZm9lQndRcWg2bkk0cjNtR0FnWkx3NFlvS21VZXo2dmQwemxoWnVPMG9NekpSNXFEZ3BaNGRaNVI3b3hfUVJxQURXNTdWdVJaUF9naWJkTWljWnhEUk0?oc=5",
     "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
     "https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CVDNSVXJpWURQMkF1dUt1amw1WkxILXhVSjZyZkQxdGlBdWZvT0tqclhabXRKZC1xNlRIRmJSdkhINDVsYXlRdk9paVRCa085WWVKRTJFcm9CZWo2VzNaYU5lQ2RXbDdqb3QxdkY4SDFRb2JMVE8yemVJMA?oc=5"
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CVDNSVXJpWURQMkF1dUt1amw1WkxILXhVSjZyZkQxdGlBdWZvT0tqclhabXRKZC1xNlRIRmJSdkhINDVsYXlRdk9paVRCa085WWVKRTJFcm9CZWo2VzNaYU5lQ2RXbDdqb3QxdkY4SDFRb2JMVE8yemVJMA?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNjNvTUx0NVBXdXZDdXhaZXlxN0NwQWI1X29QV2hhUWlCVjRuSGo2a3ZGQW9lMVRKRUl3QU9jSEhhMXYyR1AtbUx4YWtVOTBoSzl6ZUExNVNmVnVIWmc0bVczWVh4YWl6dzlDWERYOVBaWjMwZUhFZnpUZnlmVUY4M3RmM1VMUzRteXdmcktrZUpja0ctVms4?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "US ARMY SOLDIER ARRESTED IN UK FOR RUSSIAN ESPIONAGE",
+      "normalizedTokens": [
+        "army",
+        "soldier",
+        "arrested",
+        "russian",
+        "espionage"
+      ],
+      "date": "2026-11-10T21:18:32.592Z"
+    },
+    {
+      "title": "US Army soldier arrested in UK, suspected of espionage related to Russia",
+      "normalizedTokens": [
+        "army",
+        "soldier",
+        "arrested",
+        "suspected",
+        "espionage",
+        "related",
+        "russia"
+      ],
+      "date": "2026-11-10T21:18:32.591Z"
+    },
     {
       "title": "US TREASURY YIELDS SPIKE AS INFLATION RATTLES MARKETS",
       "normalizedTokens": [
