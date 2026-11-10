@@ -7612,12 +7612,13 @@
         "title": "Explosión en complejo industrial de Esmirna provoca incendio y densa humareda",
         "channel": "euronews (en español)"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-10T05:20:14.113Z",
       "cardImageUrl": "/news-cards/news-v3l53n8jh-1794288014113.jpg",
       "reelCoverUrl": "/news-cards/news-v3l53n8jh-1794288014937-cover.jpg",
       "instagramCardUrl": "/news-cards/news-v3l53n8jh-1794288015508-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/industrial-disaster-izmir-exposes-critical-safety-gduc/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/industrial-disaster-izmir-exposes-critical-safety-gduc/",
+      "publishedAt": "2026-11-10T05:24:28.820Z"
     },
     "channels": {
       "facebook": true,
@@ -7631,10 +7632,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-10T05:20:16.706Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-10T05:20:16.706Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-10T05:21:42.995Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122103696087539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18182919433448911",
+        "permalink": "https://www.instagram.com/reel/DfjJdMSivPV/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-10T05:24:28.820Z"
   }
 ]
