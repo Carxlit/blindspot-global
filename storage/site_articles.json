@@ -1,5 +1,107 @@
 [
   {
+    "slug": "industrial-disaster-izmir-exposes-critical-safety-gduc",
+    "path": "news/industrial-disaster-izmir-exposes-critical-safety-gduc/",
+    "title": "Industrial disaster in Izmir exposes critical safety vulnerabilities in Turkish steel sector",
+    "headline": "INDUSTRIAL DISASTER IN IZMIR KILLS SIXTEEN WORKERS",
+    "dek": "An overhead crane collapse at a metallurgical facility in western Turkey triggered a massive explosion, leaving 16 dead and five detained. Behind the official narrative of mechanical failure lies a deeper crisis of industrial oversight.",
+    "category": "SECURITY & DEFENSE",
+    "sourceName": "Euronews Español",
+    "image": "img/industrial-disaster-izmir-exposes-critical-safety-gduc.jpg",
+    "photo": "img/industrial-disaster-izmir-exposes-critical-safety-gduc-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "sbhSi0Ewd54",
+      "title": "Explosión en complejo industrial de Esmirna provoca incendio y densa humareda",
+      "channel": "euronews (en español)"
+    },
+    "publishedAt": "2026-11-10T05:20:16.645Z",
+    "article": {
+      "slug": "industrial-disaster-izmir-exposes-critical-safety-gduc",
+      "title": "Industrial disaster in Izmir exposes critical safety vulnerabilities in Turkish steel sector",
+      "dek": "An overhead crane collapse at a metallurgical facility in western Turkey triggered a massive explosion, leaving 16 dead and five detained. Behind the official narrative of mechanical failure lies a deeper crisis of industrial oversight.",
+      "keyFacts": [
+        "The explosion occurred at 11:46 local time on Monday, November 9.",
+        "An overhead crane dropped approximately 120 tons of molten steel onto an electric arc furnace.",
+        "Corroborating reports confirm that 16 workers died in the disaster.",
+        "Five individuals have been detained and four prosecutors assigned to investigate.",
+        "Roughly 200 employees were in the affected zone during maintenance operations."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "An industrial complex in Izmir, Turkey, became the site of a fatal disaster when an overhead crane collapsed during maintenance operations. According to official statements from Izmir Governor Süleyman Elban, the crane failure caused it to crash directly into an electric arc furnace, severing a gas line and igniting a massive explosion and subsequent fire.",
+            "Eyewitness accounts provided to media outlets detailed the catastrophic sequence of events, noting that a snapped crane cable sent roughly 120 tons of molten steel plummeting downward. The sudden impact with the furnace triggered a violent chemical and thermal reaction. Emergency services swiftly deployed aerial units, fire crews, and ambulances to transport the wounded to nearby hospitals."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Initial reports from multiple regional outlets confirmed that the death toll reached 16 workers. Approximately 200 employees were present within the immediate zone at the time of the blast. Authorities noted that this headcount was lower than usual because active production had been temporarily suspended specifically to carry out scheduled maintenance tasks.",
+            "In the wake of the disaster, the Turkish judicial system moved rapidly. Five individuals connected to the facility or the maintenance operations have been detained, and four distinct prosecutors have been assigned to investigate the exact criminal and procedural circumstances surrounding the catastrophe."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While official investigations and media reports focus heavily on the mechanical snap of the crane cable and the immediate accountability of the detained individuals, mainstream coverage largely bypasses the systemic realities of industrial subcontracting and safety enforcement in heavy manufacturing.",
+            "Maintenance windows are frequently treated by operators as low-risk periods because primary production lines are offline. However, as this disaster demonstrates, hot-work environments involving heavy machinery, molten materials, and pressurized gas lines present severe inherent dangers that require rigorous, independent safety oversight rather than passive reliance on contractor protocols."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The immediate losers are the victims, their families, and the broader workforce of the metallurgical plant who bear the ultimate human cost of institutional safety failures. The facility operators and regional management face severe legal jeopardy, asset devaluation, and intense scrutiny from labor regulators.",
+            "On a systemic level, state regulatory bodies stand to gain renewed leverage to impose stricter compliance measures on heavy industries, though this often translates into short-term operational bottlenecks for the broader Turkish steel manufacturing sector."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Observers should monitor the findings of the four assigned prosecutors, particularly regarding whether indictments extend beyond on-site managers to corporate executives responsible for budget allocations on equipment maintenance. Additionally, watch for potential nationwide audits of industrial facilities and trade union responses demanding enhanced safety guarantees during maintenance cycles."
+          ]
+        }
+      ],
+      "tags": [
+        "Industry",
+        "Turkey",
+        "Labor",
+        "Manufacturing",
+        "Safety"
+      ],
+      "sources": [
+        {
+          "name": "Euronews Español",
+          "title": "Industrial disaster in Izmir exposes critical safety vulnerabilities in Turkish steel sector",
+          "url": "https://es.euronews.com/video/2026/11/09/explosion-en-complejo-industrial-de-esmirna-provoca-incendio-y-densa-humareda"
+        },
+        {
+          "name": "Euronews.com",
+          "title": "Industrial disaster in Izmir exposes critical safety vulnerabilities in Turkish steel sector (Euronews.com)",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVGpuc1lTbUFDWm1jYm4xUF84eXlxRVB1Z3hva1NRZWQxOEdoWWZTVE80UTVMek5NTWt1TFV4ZHhtUjgzQVkxQUpvdDJ4OEYtcWpsMXFtMFNDdjBaaVpTTk9qbVEtWlNUUWpDMHdsbzF5NGgwZzBmWjNIQWFjTXdXczBwUXI0VXY0N0s5bHNxU0ZPU1pvQXpTMXl4RFdIalFab3BGWldRVUY5aE1USDlXQ21FcXh0VDhqNVE?oc=5"
+        },
+        {
+          "name": "La Silla Rota",
+          "title": "Industrial disaster in Izmir exposes critical safety vulnerabilities in Turkish steel sector (La Silla Rota)",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUXRFVTZRWTluMG5pYXoxbWQ1MTc1d1lJQ2o0VDFjTzN4ekIwcHVWX2RMUEtkSWNYYVFHRG9fLTItNXcxMjJSV1NDSXVjZjdJVlI1MFUzZ3BSX0NTMGlNUWU0WG5rOEtBdmgteW1uUmxNVjkzZlpPcmlYUHhfZUctWFlPUnloakVDVlQ3ZTMtN043dVZ3VjUyZFJyVzZHS0ZYNHNsMVYtQXhpZ3Q3SnJGbjBmQk1iNWZxZDEw?oc=5"
+        },
+        {
+          "name": "Infobae",
+          "title": "Industrial disaster in Izmir exposes critical safety vulnerabilities in Turkish steel sector (Infobae)",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWEg0QlVMYUtDQkI5ZVdsQmlmNGk0cEstd29rQUJBRTJTNTBPQmtIbGlNa0txVV9DSkZKbnlSMlh0OFozSkQ1TkRTenNKMXFmN0lDQ0MzdGl4eDByQXY5MG5PSGlDT3Qzc3prRk1pZWkzMnlKeUhydDJYQzh6ck5rNFg0dUZZU1NuX3RxVUltMGlhaFZBMUUzeGhjYXlzWk5qZklVcjZ4WHp4OGttSUJ1TXNONklzeXNZREVsVjU1U2hYN3BUVEpSR3l4Mm1sMGJqZWNlUGZ5ZHZVRXJDNklLNmxXNXY2eUNJaFB3SlhMdlJnMWJQdzZrTUFFdkzSAfwBQVVfeXFMTVhINEJVTGFLQ0JCOWVXbEJpZjRpNHBLLXdva0FCQUUyUzUwT0JrSGxpTWtLcVVfQ0pGSm55UjJYdDhaM0pENU5EU3pzSjFxZjdJQ0NDM3RpeHgwckF2OTBuT0hpQ090M3N6a0ZNaWVpMzJ5SnlIcnQyWEM4enJOazRYNHVGWVNTbl90cVVJbTBpYWhWQTFFM3hoY2F5c1pOamZJVXI2eFh6eDhrbUlCdU1zTjZJc3lzWURFbFY1NVNoWDdwVFRKUkd5eDJtbDBiamVjZVBmeWR2VUVyQzZJSzZsVzV2NnlDSWhQd0pYTHZSZzFiUHc2a01BRXZM?oc=5"
+        },
+        {
+          "name": "Tele Urban",
+          "title": "Industrial disaster in Izmir exposes critical safety vulnerabilities in Turkish steel sector (Tele Urban)",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMHBKVkFfOHlvdEVfOFZpY3Nqc3FZNXpnMzh1Y3ZrTHh2WWd6Vll6Vmw3YnQ2c3VkWUR2dllRcWFuOWZzeHFyUUNMcTBqQjg1NFJaSkpaUTFIb1ZRbFNVT2J4eGlPeHNsTDY3THkzMEdxbF82blR6YVhUMXVHWG1tdDd2T29lMXpZdUltb2JMQ3gxOUJkeDhMbmE5c2ljQ21obV9yckZDeGoxVEF5SGhR?oc=5"
+        }
+      ],
+      "wordCount": 458
+    },
+    "blindSpot": "While mainstream reporting focuses strictly on the tragic mechanical failure and subsequent arrests, it largely ignores the structural deregulation and lax maintenance culture plaguing heavy industry sectors in the region. The fact that production was partially suspended yet still permitted contractors and skeleton staff on site highlights systemic safety compliance failures overlooked by local labor authorities."
+  },
+  {
     "slug": "izmir-steel-plant-explosion-kills-17-jelv",
     "path": "news/izmir-steel-plant-explosion-kills-17-jelv/",
     "title": "Izmir Steel Plant Explosion Kills 17 Workers Amid Industrial Safety Concerns",

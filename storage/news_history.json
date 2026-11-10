@@ -44,9 +44,36 @@
     "https://www.dw.com/es/russell-brand-es-condenado-a-más-de-10-años-de-cárcel-por-violación-y-agresiones-sexuales/a-79903582?maca=spa-rss-sp-all-1122-rdf",
     "https://www.france24.com/en/americas/20261109-republican-congressman-launches-impeachment-bid-against-pentagon-chief-hegseth",
     "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
-    "https://www.euronews.com/video/2026/11/09/turkey-steel-plant-explosion-kills-17-in-izmir-province"
+    "https://www.euronews.com/video/2026/11/09/turkey-steel-plant-explosion-kills-17-in-izmir-province",
+    "https://es.euronews.com/video/2026/11/09/explosion-en-complejo-industrial-de-esmirna-provoca-incendio-y-densa-humareda"
   ],
   "processedSignatures": [
+    {
+      "title": "INDUSTRIAL DISASTER IN IZMIR KILLS SIXTEEN WORKERS",
+      "normalizedTokens": [
+        "industrial",
+        "disaster",
+        "izmir",
+        "kills",
+        "sixteen",
+        "workers"
+      ],
+      "date": "2026-11-10T05:20:16.710Z"
+    },
+    {
+      "title": "Explosión en complejo industrial de Esmirna provoca incendio y densa humareda",
+      "normalizedTokens": [
+        "explosion",
+        "complejo",
+        "industrial",
+        "esmirna",
+        "provoca",
+        "incendio",
+        "densa",
+        "humareda"
+      ],
+      "date": "2026-11-10T05:20:16.710Z"
+    },
     {
       "title": "TURKISH STEEL PLANT BLAST EXPOSES INDUSTRIAL SAFETY CRACKS",
       "normalizedTokens": [

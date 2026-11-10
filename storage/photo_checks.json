@@ -248,5 +248,10 @@
     "relevant": true,
     "reason": "The image shows an aerial view of an industrial steel plant with smoke, matching the context of a plant explosion and maintenance accident.",
     "at": "2026-11-10T05:03:53.401Z"
+  },
+  "f193e36f10602aa6:v3l53n8jh": {
+    "relevant": true,
+    "reason": "The image shows emergency ambulances and personnel outside a Turkish industrial facility, matching the news story about an industrial disaster.",
+    "at": "2026-11-10T05:20:14.112Z"
   }
 }
