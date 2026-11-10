@@ -49,9 +49,41 @@
     "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss",
     "https://www.france24.com/es/am%C3%A9rica-latina/20261110-la-ayuda-empieza-a-mermar-tres-meses-del-terremoto-en-colombia-la-solidaridad-desplaza-al-gobierno",
     "https://www.xataka.com/magnet/rusia-ha-encontrado-como-atacar-ucrania-500-km-utilizar-sus-cazas-convertir-sus-helicopteros-parecido-a-pelicula-rambo",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelU0dnZ5Y2ROMkdrZXlYYURIcnJocXdKbWx1eTlPcENLMk1vX3ctTC1ycGlfQ0dlemFiX2pHRzRvSkd4NTZ3aEdxU3h5OW5ZeUo3cU50YTVPODlxb2lZMVBwRFU4bXlmYlJiTmdHSHcxUUdQMFptNG43Y1hsanUzbTJHMHc5eTlVeVlz?oc=5"
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelU0dnZ5Y2ROMkdrZXlYYURIcnJocXdKbWx1eTlPcENLMk1vX3ctTC1ycGlfQ0dlemFiX2pHRzRvSkd4NTZ3aEdxU3h5OW5ZeUo3cU50YTVPODlxb2lZMVBwRFU4bXlmYlJiTmdHSHcxUUdQMFptNG43Y1hsanUzbTJHMHc5eTlVeVlz?oc=5",
+    "https://news.un.org/feed/view/en/story/2026/11/1168766"
   ],
   "processedSignatures": [
+    {
+      "title": "HEAVY RAINS FLATTEN GAZA SHELTERS LEAVING FIVE DEAD INCLUDING INFANT",
+      "normalizedTokens": [
+        "heavy",
+        "rains",
+        "flatten",
+        "gaza",
+        "shelters",
+        "leaving",
+        "five",
+        "dead",
+        "including",
+        "infant"
+      ],
+      "date": "2026-11-10T11:32:50.547Z"
+    },
+    {
+      "title": "Children among the dead as heavy rains flood tents and shelters in Gaza",
+      "normalizedTokens": [
+        "children",
+        "among",
+        "dead",
+        "heavy",
+        "rains",
+        "flood",
+        "tents",
+        "shelters",
+        "gaza"
+      ],
+      "date": "2026-11-10T11:32:50.546Z"
+    },
     {
       "title": "TRUMP DECLARES IRAN CONFLICT EFFECTIVELY OVER FOLLOWING QATAR TALKS",
       "normalizedTokens": [

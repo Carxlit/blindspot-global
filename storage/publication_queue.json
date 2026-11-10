@@ -8281,5 +8281,151 @@
     "attempts": 0,
     "maxAttempts": 3,
     "createdAt": "2026-11-10T11:18:40.950Z"
+  },
+  {
+    "id": "queue-1794310370541-t5kom",
+    "news": {
+      "id": "dhbeg7r06",
+      "originalUrl": "https://news.un.org/feed/view/en/story/2026/11/1168766",
+      "originalTitle": "Children among the dead as heavy rains flood tents and shelters in Gaza",
+      "sourceName": "UN News",
+      "category": "POWER & SOCIETY",
+      "urgencyScore": 84,
+      "headline": "HEAVY RAINS FLATTEN GAZA SHELTERS LEAVING FIVE DEAD INCLUDING INFANT",
+      "subHeadline": "The first heavy rains of the season swept across Gaza over the weekend, causing sand dunes to collapse onto temporary shelters and killing five displaced civilians, including three children.",
+      "blindSpotAngle": "Mainstream reporting frames seasonal flooding in Gaza as a natural disaster layered atop conflict. The systemic blind spot is that the physical degradation of shelter materials, forced encampment in topographically unstable coastal dunes, and restriction of basic construction materials turn predictable meteorological events into fatal structural failures.",
+      "facebookPost": "The arrival of the first heavy winter rains in Gaza has produced immediate fatalities among displaced populations. According to reports from the UN Office for the Coordination of Humanitarian Affairs (OCHA) and UNICEF, five Gazans were killed—including three children and an infant who drowned—when a rain-soaked sand dune collapsed directly onto flimsy makeshift tents.\n\nWhile coverage treats this as a seasonal tragedy, the underlying reality is structural. Displaced families are confined to inadequate nylon shelters pitched on unstable terrain with zero drainage infrastructure. The denial of heavy construction equipment, structural timber, and civil defense tools transforms standard rainfall into an ongoing lethal event.\n\nWhen basic shelter materials are classified as restricted items, where does administrative negligence end and institutional liability begin?\n\nSource: UN News\n\n#Gaza #HumanitarianCrisis #Blindspot",
+      "telegramPost": "<b>HEAVY RAINS FLATTEN GAZA SHELTERS LEAVING FIVE DEAD INCLUDING INFANT</b>\n\n• <b>What happened:</b> The first heavy weekend rains swept across Gaza, causing a sand mound to collapse onto displacement tents, killing five people including three children and an infant, according to OCHA and UNICEF.\n• <b>Why it matters:</b> Displaced Gazans are forced into environmentally precarious coastal areas without drainage or structural shelter, turning seasonal weather into a predictable secondary cause of mortality.\n• <b>What is next:</b> Aid agencies will face escalating shelter destruction throughout the winter season while restricted import protocols continue to prevent structural winterization.",
+      "linkedInPost": "The death of five Gazans, including three children, following the collapse of a rain-soaked sand dune onto temporary shelters highlights a critical institutional failure in crisis management. As reported by UN News and Arab News, the initial winter rains have laid bare the structural vulnerability of millions living in temporary tents.\n\nFrom a risk and supply chain perspective, humanitarian operations are trapped in a reactive paradigm. International relief organizations are permitted to distribute tarpaulins and basic tents, but systemic blockades on structural materials prevent long-term civil engineering solutions. This creates a recurring operational deficit where aid expenditure yields zero defense against seasonal hazards.\n\nOrganizations evaluating geopolitical risk in conflict zones must recognize that humanitarian access limitations directly compound environmental risk factors, creating persistent human operational bottlenecks.\n\nSource: UN News\n\n#SupplyChain #HumanitarianLogistics #Blindspot",
+      "blueskyPost": "As winter rains hit Gaza, flimsy tent cities turn lethal: 5 displaced Gazans died when a sand dune collapsed, exposing how siege dynamics transform weather into a mortality trap. #Blindspot #PowerAndSociety",
+      "copies": {
+        "facebook": "The arrival of the first heavy winter rains in Gaza has produced immediate fatalities among displaced populations. According to reports from the UN Office for the Coordination of Humanitarian Affairs (OCHA) and UNICEF, five Gazans were killed—including three children and an infant who drowned—when a rain-soaked sand dune collapsed directly onto flimsy makeshift tents.\n\nWhile coverage treats this as a seasonal tragedy, the underlying reality is structural. Displaced families are confined to inadequate nylon shelters pitched on unstable terrain with zero drainage infrastructure. The denial of heavy construction equipment, structural timber, and civil defense tools transforms standard rainfall into an ongoing lethal event.\n\nWhen basic shelter materials are classified as restricted items, where does administrative negligence end and institutional liability begin?\n\n#Gaza #HumanitarianCrisis #Blindspot",
+        "telegram": "<b>HEAVY RAINS FLATTEN GAZA SHELTERS LEAVING FIVE DEAD INCLUDING INFANT</b>\n\n• <b>What happened:</b> The first heavy weekend rains swept across Gaza, causing a sand mound to collapse onto displacement tents, killing five people including three children and an infant, according to OCHA and UNICEF.\n• <b>Why it matters:</b> Displaced Gazans are forced into environmentally precarious coastal areas without drainage or structural shelter, turning seasonal weather into a predictable secondary cause of mortality.\n• <b>What is next:</b> Aid agencies will face escalating shelter destruction throughout the winter season while restricted import protocols continue to prevent structural winterization.",
+        "bluesky": "As winter rains hit Gaza, flimsy tent cities turn lethal: 5 displaced Gazans died when a sand dune collapsed, exposing how siege dynamics transform weather into a mortality trap. #Blindspot #PowerAndSociety",
+        "linkedIn": "The death of five Gazans, including three children, following the collapse of a rain-soaked sand dune onto temporary shelters highlights a critical institutional failure in crisis management. As reported by UN News and Arab News, the initial winter rains have laid bare the structural vulnerability of millions living in temporary tents.\n\nFrom a risk and supply chain perspective, humanitarian operations are trapped in a reactive paradigm. International relief organizations are permitted to distribute tarpaulins and basic tents, but systemic blockades on structural materials prevent long-term civil engineering solutions. This creates a recurring operational deficit where aid expenditure yields zero defense against seasonal hazards.\n\nOrganizations evaluating geopolitical risk in conflict zones must recognize that humanitarian access limitations directly compound environmental risk factors, creating persistent human operational bottlenecks.\n\n#SupplyChain #HumanitarianLogistics #Blindspot"
+      },
+      "article": {
+        "slug": "torrential-rains-expose-structural-vulnerability-displaced-lqi1",
+        "title": "Torrential Rains Expose Structural Vulnerability of Displaced Camps in Gaza",
+        "dek": "The collapse of a rain-soaked dune onto makeshift shelters killed five people, revealing how environmental hazards compound humanitarian collapse under prolonged siege.",
+        "keyFacts": [
+          "Five Gazans were killed, including three children and an infant who drowned, according to UN News and OCHA.",
+          "A sand dune collapsed directly onto temporary tents following the first heavy weekend rains.",
+          "The incidents were corroborated by reporting from UNICEF, Arab News, and Daily Sabah.",
+          "Thousands of displaced families are living in worn, non-waterproof nylon tents without drainage systems."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "The first heavy rains of the winter season swept across the Gaza Strip over the weekend, resulting in immediate loss of life among displaced residents. According to the United Nations Office for the Coordination of Humanitarian Affairs (OCHA), five Gazans were killed in shelter-related incidents triggered by the downpour.",
+              "Among the victims were three children and an infant who drowned when torrential runoff flooded lowland encampments. In a separate concurrent failure, a heavily saturated sand mound collapsed under the weight of the rain, crushing makeshift tents pitched beneath it, as confirmed by reports from UNICEF and Daily Sabah."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "Months of continuous displacement have forced over a million people into hyper-dense tent settlements, largely concentrated along sandy coastal areas and undeveloped land. Most families reside in rudimentary structures constructed of plastic sheeting, worn canvas, and scrap wood, which offer no insulation or structural integrity against severe weather.",
+              "As noted by Arab News, families across the enclave spent the days leading up to the storm attempting to patch torn shelters with scraps of fabric. However, the lack of municipal drainage, paved surfaces, or sewage systems means that localized rainfall quickly accumulates into severe surface flooding and mudslides."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "Public narrative surrounding the crisis focuses heavily on the immediate meteorological event, treating the deaths as an act of nature compounding a war zone. The critical blind spot lies in the legal and physical constraints that convert manageable weather into lethal structural collapses.",
+              "Under current blockade restrictions, essential materials required for weatherproofing—such as cement, corrugated metal sheets, timber, and heavy earth-moving equipment—are strictly controlled or prohibited from entering the enclave. Consequently, international aid agencies are limited to supplying basic tents that degrade within weeks under solar radiation and moisture, guaranteeing shelter failure when precipitation arrives."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "The primary victims are displaced civilians, particularly children and infants, who face compounding risks of hypothermia, structural burial, and waterborne illnesses as floodwaters mix with unmanaged waste.",
+              "For political and military leadership, environmental casualties alter the public accounting of the conflict. Deaths resulting from collapsing dunes and drownings dilute immediate international pressure by shifting the narrative focus to natural elements and humanitarian emergency response rather than policy decisions governing civil infrastructure access."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "As winter progresses, aid agencies warn that repeated storm fronts will cause widespread inundation across low-lying encampments. Watch for whether international pressure forces updates to allowable humanitarian import lists to include structural winterization equipment.",
+              "Additionally, monitor whether UN agencies can establish emergency drainage interventions in high-density tent sites before secondary public health crises, driven by standing contaminated water, begin to manifest across the enclave."
+            ]
+          }
+        ],
+        "tags": [
+          "Gaza",
+          "Humanitarian Emergency",
+          "Displaced Persons",
+          "Infrastructure Risk",
+          "OCHA",
+          "UNICEF"
+        ],
+        "sources": [
+          {
+            "name": "UN News",
+            "title": "Children among the dead as heavy rains flood tents and shelters in Gaza",
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168766"
+          },
+          {
+            "name": "The European Sting",
+            "title": "Children among the dead as heavy rains flood tents and shelters in Gaza",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHU4bjM3aFBSWmdSckNDWWJJUml6dEtOS244QV9DTU1nYzlCa3ZuRmFJTDdiZGJVUHpiYkxGR25WZlJMVk03TExIWnloY1JKZnpFUDVaTTROdEpaaVQzS1l1SjdQNUdoel9meXo2Nnp2NDlId1BzYmZVY2Z5ZWtYZmN3c3NxVEUtZ2VlTHlCTV9IckxoSm1FWUtRSjNVY0tzQkN0bUg0cjRmZzhuUEE?oc=5"
+          },
+          {
+            "name": "Unicef",
+            "title": "Three children killed as heavy rains batter displaced families in Gaza",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN01rU3RBcGU1V3pvY0tBdzdhNnlSZ2pRbkxKd21CbjZpYlhqdDVqdE1lLTVmWDh3VmliTkd6cm5ieXVwamZCa1NrMXEwLTVCeUg4WGZwc0Z5Zi1xa1JaTU9ibDZJYU0tWmVPbXVzZEpNaTZ2T1czSlBrZTFySnlqYXIwQWIzN1hQVk1HWGY5bk81ZzZjN3FFMVJkMmFCMEgyYnJpU3RQOHlvdWJGOVE?oc=5"
+          },
+          {
+            "name": "Arab News",
+            "title": "Families in Gaza patch torn shelters as rain exposes the misery and dangers of life in flimsy tents",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObTlOUElrUExDRmhzYVBURHhBQ01BSWxyQUlZT3FHNFNIcHdCV2NQaUlfTDlJQ3UwSkxnSzVxaUdQcFhuWGVnSlNNcjhvWDBMQ1dTN3FJWUJXZDNTNDF5cWNVU1MzcUx6NlBoTkZkQ2JQbkx0bU9VZjUzT0tpVmxXVjdOR28zMF9FSEpyY2I2Q2xnOC00VmtPZ2NheEw0NEMtekRnamVfUERRSGxvTVZqXy0wME9QRi14WGhVRGlvY09BOS1idU0tdWJmR1M4eS1MSFFENi1NQ1ZGLVV5?oc=5"
+          },
+          {
+            "name": "Daily Sabah",
+            "title": "Children among 5 killed when rain collapses mound onto Gaza tents | Daily Sabah",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMXNWVkNaODFKcHVFYm9ONFBNQmRfTVdBUEtEblpEQkhsRXB3bDh5dE50a3FNUm51a19TNXdSNXI0eHVld3ZfYm9OQWpiVTFFbHY1eFFiOU1fVzlUMkZLMHBQUW1JVG1BeVZUZWszNmNuZkVnd0ZZS3RUbGs3d3BLR1QyVTdqVGJSVUxkdVJ2TjQ3UlEzZnNzVnBvdFF6Y0NqZXZFczZ3Sk1wSVnSAbABQVVfeXFMTjdpWWZDcUJ4YnN6RDRqR0JhMWZBLThxNFBKRHZfbVBYeGgzVE8zdmEwZGtmQ3ZnTjFnbnViaEh6TTNTX1pWdXFOeXpuQlQ5cGhnMWNPYy1QQUtheUFhR2ZveEJOVTljb1pYZEpRTEh1SU1ESkpmYU9ZdHZvamEzdmt4dHJac25HRk02Ni10aHI4eElRczdaRzFKdmZYNkxQRFpHTmVJb1VZcDFseWtPVWg?oc=5"
+          }
+        ],
+        "wordCount": 448
+      },
+      "videoScript": {
+        "hook": "Heavy winter rains in Gaza have turned makeshift refugee camps into deadly traps.",
+        "beats": [
+          "The collapse of a rain-soaked sand dune killed 5 people, including 3 children and a drowned infant.",
+          "What nobody is talking about is how structural blockades make basic winterization impossible for displaced families.",
+          "Here is the catch: environmental hazards are now compounding the human toll without a single airstrike."
+        ],
+        "close": "Read our full analysis on systemic infrastructure failure at the link in bio."
+      },
+      "rawImageUrl": "https://www.unicef.org/sites/default/files/styles/open_graph_image/public/UNI1032231.webp.jpeg?itok=UbmSPT8H",
+      "sourceVideo": {
+        "provider": "youtube",
+        "id": "PVSWSsw3J68",
+        "title": "Gaza: Heavy Rains Flood Camps, Five Dead",
+        "channel": "TAM-TAM NEWS"
+      },
+      "status": "pending",
+      "createdAt": "2026-11-10T11:32:48.271Z",
+      "cardImageUrl": "/news-cards/news-dhbeg7r06-1794310368272.jpg",
+      "reelCoverUrl": "/news-cards/news-dhbeg7r06-1794310368854-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-dhbeg7r06-1794310369468-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/torrential-rains-expose-structural-vulnerability-displaced-lqi1/"
+    },
+    "channels": {
+      "facebook": true,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": true,
+      "mastodon": false,
+      "threads": false,
+      "youtube": true
+    },
+    "scheduledFor": "2026-11-10T13:33:05.875Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-10T11:32:50.541Z"
   }
 ]
