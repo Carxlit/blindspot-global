@@ -48,9 +48,38 @@
     "https://es.euronews.com/video/2026/11/09/explosion-en-complejo-industrial-de-esmirna-provoca-incendio-y-densa-humareda",
     "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss",
     "https://www.france24.com/es/am%C3%A9rica-latina/20261110-la-ayuda-empieza-a-mermar-tres-meses-del-terremoto-en-colombia-la-solidaridad-desplaza-al-gobierno",
-    "https://www.xataka.com/magnet/rusia-ha-encontrado-como-atacar-ucrania-500-km-utilizar-sus-cazas-convertir-sus-helicopteros-parecido-a-pelicula-rambo"
+    "https://www.xataka.com/magnet/rusia-ha-encontrado-como-atacar-ucrania-500-km-utilizar-sus-cazas-convertir-sus-helicopteros-parecido-a-pelicula-rambo",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelU0dnZ5Y2ROMkdrZXlYYURIcnJocXdKbWx1eTlPcENLMk1vX3ctTC1ycGlfQ0dlemFiX2pHRzRvSkd4NTZ3aEdxU3h5OW5ZeUo3cU50YTVPODlxb2lZMVBwRFU4bXlmYlJiTmdHSHcxUUdQMFptNG43Y1hsanUzbTJHMHc5eTlVeVlz?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "TRUMP DECLARES IRAN CONFLICT EFFECTIVELY OVER FOLLOWING QATAR TALKS",
+      "normalizedTokens": [
+        "trump",
+        "declares",
+        "iran",
+        "conflict",
+        "effectively",
+        "following",
+        "qatar",
+        "talks"
+      ],
+      "date": "2026-11-10T11:18:40.956Z"
+    },
+    {
+      "title": "Trump after meeting with Qatari PM says he believes war with Iran is militarily 'effectively over'",
+      "normalizedTokens": [
+        "trump",
+        "meeting",
+        "qatari",
+        "believes",
+        "war",
+        "iran",
+        "militarily",
+        "effectively"
+      ],
+      "date": "2026-11-10T11:18:40.955Z"
+    },
     {
       "title": "RUSSIA TRANSFORMS ATTACK HELICOPTERS INTO LONG-RANGE CRUISE MISSILE PLATFORMS",
       "normalizedTokens": [
