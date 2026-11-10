@@ -9760,12 +9760,13 @@
         "close": "Read the full macro breakdown at the link in our bio."
       },
       "rawImageUrl": "https://www.mcall.com/wp-content/uploads/2026/11/AP26313576632744.jpg?w=2000&#038;h=1333",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-10T20:17:28.331Z",
       "cardImageUrl": "/news-cards/news-alwl3bkfh-1794341848332.jpg",
       "reelCoverUrl": "/news-cards/news-alwl3bkfh-1794341849228-cover.jpg",
       "instagramCardUrl": "/news-cards/news-alwl3bkfh-1794341849742-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/rising-us-yields-inflation-pressure-force-34rw/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/rising-us-yields-inflation-pressure-force-34rw/",
+      "publishedAt": "2026-11-10T22:19:46.347Z"
     },
     "channels": {
       "facebook": true,
@@ -9779,10 +9780,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-10T22:17:36.599Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-10T20:17:30.808Z"
+    "createdAt": "2026-11-10T20:17:30.808Z",
+    "lastAttemptAt": "2026-11-10T22:17:51.930Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122104517763539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18444002518181297",
+        "permalink": "https://www.instagram.com/reel/Dfk9pf4D5Nw/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-10T22:19:46.347Z"
   },
   {
     "id": "queue-1794345512586-q621h",
