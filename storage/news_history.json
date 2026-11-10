@@ -50,9 +50,39 @@
     "https://www.france24.com/es/am%C3%A9rica-latina/20261110-la-ayuda-empieza-a-mermar-tres-meses-del-terremoto-en-colombia-la-solidaridad-desplaza-al-gobierno",
     "https://www.xataka.com/magnet/rusia-ha-encontrado-como-atacar-ucrania-500-km-utilizar-sus-cazas-convertir-sus-helicopteros-parecido-a-pelicula-rambo",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelU0dnZ5Y2ROMkdrZXlYYURIcnJocXdKbWx1eTlPcENLMk1vX3ctTC1ycGlfQ0dlemFiX2pHRzRvSkd4NTZ3aEdxU3h5OW5ZeUo3cU50YTVPODlxb2lZMVBwRFU4bXlmYlJiTmdHSHcxUUdQMFptNG43Y1hsanUzbTJHMHc5eTlVeVlz?oc=5",
-    "https://news.un.org/feed/view/en/story/2026/11/1168766"
+    "https://news.un.org/feed/view/en/story/2026/11/1168766",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "CHINA TRADE SURPLUS SURPASSES ONE TRILLION DOLLARS ON AI EXPORTS",
+      "normalizedTokens": [
+        "china",
+        "trade",
+        "surplus",
+        "surpasses",
+        "one",
+        "trillion",
+        "dollars",
+        "exports"
+      ],
+      "date": "2026-11-10T12:39:13.498Z"
+    },
+    {
+      "title": "China's trade surplus soars past $1 trillion as AI boom powers exports",
+      "normalizedTokens": [
+        "china",
+        "trade",
+        "surplus",
+        "soars",
+        "past",
+        "trillion",
+        "boom",
+        "powers",
+        "exports"
+      ],
+      "date": "2026-11-10T12:39:13.497Z"
+    },
     {
       "title": "HEAVY RAINS FLATTEN GAZA SHELTERS LEAVING FIVE DEAD INCLUDING INFANT",
       "normalizedTokens": [
