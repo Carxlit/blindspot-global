@@ -9596,12 +9596,13 @@
         "close": "Read the full analysis at the link in our bio."
       },
       "rawImageUrl": "https://i.guim.co.uk/img/media/8df726b5a5310c3a6db89297bbc9ba32d8cfa244/279_0_3938_3150/master/3938.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=23a0bce39a22c8002c2e02062d80136c",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-10T19:00:39.638Z",
       "cardImageUrl": "/news-cards/news-vqqdud86p-1794337239638.jpg",
       "reelCoverUrl": "/news-cards/news-vqqdud86p-1794337241494-cover.jpg",
       "instagramCardUrl": "/news-cards/news-vqqdud86p-1794337242007-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/reality-behind-promise-china-s-low-altitude-aczm/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/reality-behind-promise-china-s-low-altitude-aczm/",
+      "publishedAt": "2026-11-10T21:16:37.013Z"
     },
     "channels": {
       "facebook": true,
@@ -9615,10 +9616,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-10T21:14:36.599Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-10T19:00:43.041Z"
+    "createdAt": "2026-11-10T19:00:43.041Z",
+    "lastAttemptAt": "2026-11-10T21:14:52.013Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122104474191539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18082327757385139",
+        "permalink": "https://www.instagram.com/reel/Dfk2a_iAIOV/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-10T21:16:37.013Z"
   },
   {
     "id": "queue-1794341850807-d1685",
