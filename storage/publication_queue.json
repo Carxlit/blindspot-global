@@ -8429,12 +8429,13 @@
         "title": "Gaza: Heavy Rains Flood Camps, Five Dead",
         "channel": "TAM-TAM NEWS"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-10T11:32:48.271Z",
       "cardImageUrl": "/news-cards/news-dhbeg7r06-1794310368272.jpg",
       "reelCoverUrl": "/news-cards/news-dhbeg7r06-1794310368854-cover.jpg",
       "instagramCardUrl": "/news-cards/news-dhbeg7r06-1794310369468-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/torrential-rains-expose-structural-vulnerability-displaced-lqi1/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/torrential-rains-expose-structural-vulnerability-displaced-lqi1/",
+      "publishedAt": "2026-11-10T13:37:37.461Z"
     },
     "channels": {
       "facebook": true,
@@ -8448,10 +8449,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-10T13:33:05.875Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-10T11:32:50.541Z"
+    "createdAt": "2026-11-10T11:32:50.541Z",
+    "lastAttemptAt": "2026-11-10T13:33:21.322Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122104104513539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18104604221380145",
+        "permalink": "https://www.instagram.com/reel/DfkB5FeANmu/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-10T13:37:37.461Z"
   },
   {
     "id": "queue-1794314353492-hz02b",
