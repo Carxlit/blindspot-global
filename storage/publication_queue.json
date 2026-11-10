@@ -7938,12 +7938,13 @@
         "title": "Medicina Legal entrega balance luego de tres meses del terremoto del 10 de agosto en Colombia",
         "channel": "EL TIEMPO"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-10T05:46:51.076Z",
       "cardImageUrl": "/news-cards/news-ak798vnnj-1794289611077.jpg",
       "reelCoverUrl": "/news-cards/news-ak798vnnj-1794289611948-cover.jpg",
       "instagramCardUrl": "/news-cards/news-ak798vnnj-1794289612550-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/three-months-after-colombia-s-earthquake-vdaw/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/three-months-after-colombia-s-earthquake-vdaw/",
+      "publishedAt": "2026-11-10T05:52:47.192Z"
     },
     "channels": {
       "facebook": true,
@@ -7957,10 +7958,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-10T05:46:53.678Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-10T05:46:53.679Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-10T05:48:29.304Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122103714855539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18144138556619171",
+        "permalink": "https://www.instagram.com/reel/DfjMr0WgkQ0/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-10T05:52:47.192Z"
   }
 ]
