@@ -8933,12 +8933,13 @@
         "close": "Read the full analysis at the link in our bio."
       },
       "rawImageUrl": "https://i.guim.co.uk/img/media/a433e8218c3d7e0c11c8c431fb16b950a5b97737/0_239_2004_1605/master/2004.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4430a7baa7c88b080514045efda0668c",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-10T14:35:19.822Z",
       "cardImageUrl": "/news-cards/news-n8zqky39k-1794321319822.jpg",
       "reelCoverUrl": "/news-cards/news-n8zqky39k-1794321320660-cover.jpg",
       "instagramCardUrl": "/news-cards/news-n8zqky39k-1794321321285-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/uk-s-low-gear-labor-market-creating-tapk/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/uk-s-low-gear-labor-market-creating-tapk/",
+      "publishedAt": "2026-11-10T16:46:19.726Z"
     },
     "channels": {
       "facebook": true,
@@ -8952,10 +8953,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-10T16:43:05.875Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-10T14:35:22.406Z"
+    "createdAt": "2026-11-10T14:35:22.406Z",
+    "lastAttemptAt": "2026-11-10T16:43:21.184Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122104269903539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17982736635128950",
+        "permalink": "https://www.instagram.com/reel/DfkXfUrEyP5/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-10T16:46:19.726Z"
   },
   {
     "id": "queue-1794324846359-qrh89",
@@ -9090,7 +9115,7 @@
       "threads": false,
       "youtube": true
     },
-    "scheduledFor": "2026-11-10T17:28:05.875Z",
+    "scheduledFor": "2026-11-10T17:53:21.179Z",
     "status": "queued",
     "attempts": 0,
     "maxAttempts": 3,
