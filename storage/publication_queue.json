@@ -7783,12 +7783,13 @@
         "title": "Shocking Video Shows Houthi Missile Storm Over Riyadh, Is Saudi's Defence Shield Losing Its Edge?",
         "channel": "Hindustan Times"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-10T05:31:10.165Z",
       "cardImageUrl": "/news-cards/news-ixfakcaac-1794288670165.jpg",
       "reelCoverUrl": "/news-cards/news-ixfakcaac-1794288671041-cover.jpg",
       "instagramCardUrl": "/news-cards/news-ixfakcaac-1794288671691-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/saudi-arabia-downs-missiles-targeting-riyadh-bvyu/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/saudi-arabia-downs-missiles-targeting-riyadh-bvyu/",
+      "publishedAt": "2026-11-10T05:33:31.113Z"
     },
     "channels": {
       "facebook": true,
@@ -7802,10 +7803,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-10T05:31:14.267Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-10T05:31:14.267Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-10T05:31:54.861Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122103701895539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17968011407980828",
+        "permalink": "https://www.instagram.com/reel/DfjKfQbnfO9/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-10T05:33:31.113Z"
   }
 ]
