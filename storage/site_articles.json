@@ -1,5 +1,101 @@
 [
   {
+    "slug": "cooling-ai-boom-analyzing-anthropic-ipo-5uq4",
+    "path": "news/cooling-ai-boom-analyzing-anthropic-ipo-5uq4/",
+    "title": "The cooling of the AI boom: Analyzing the Anthropic IPO valuation",
+    "headline": "ANTHROPIC TARGETS 1.4 TRILLION DOLLAR VALUATION IN IPO",
+    "dek": "Anthropic’s push for a 1.4 trillion dollar valuation reveals a sector struggling to reconcile its massive infrastructure needs with shifting public and political sentiment.",
+    "category": "TECHNOLOGY & AI",
+    "sourceName": "The Verge",
+    "image": "img/cooling-ai-boom-analyzing-anthropic-ipo-5uq4.jpg",
+    "publishedAt": "2026-11-10T15:34:06.269Z",
+    "article": {
+      "slug": "cooling-ai-boom-analyzing-anthropic-ipo-5uq4",
+      "title": "The cooling of the AI boom: Analyzing the Anthropic IPO valuation",
+      "dek": "Anthropic’s push for a 1.4 trillion dollar valuation reveals a sector struggling to reconcile its massive infrastructure needs with shifting public and political sentiment.",
+      "keyFacts": [
+        "Anthropic expects an IPO price between 70 and 78 dollars per share.",
+        "The projected valuation of 1.4 trillion dollars is a decrease from previous 2 trillion dollar estimates.",
+        "The company will list on the Nasdaq Global Select Market under the symbol ANT.",
+        "Trading is expected to commence as early as next Thursday or Friday."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Anthropic has confirmed that its initial public offering will proceed, with the company aiming for a valuation of 1.4 trillion dollars. The shares are expected to be priced between 70 and 78 dollars, with a listing on the Nasdaq Global Select Market under the ticker symbol ANT.",
+            "Reports from the Wall Street Journal suggest that the company is moving quickly, with trading potentially beginning as soon as next Thursday or Friday. This timeline puts Anthropic on track to become one of the most valuable publicly traded companies in the world."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The valuation target, while significant, is notably lower than the 2 trillion dollar figures previously floated by analysts. This adjustment follows a period of intense scrutiny regarding AI safety and the environmental impact of data centers.",
+            "Recent midterm election results have also introduced a new variable: public opinion is increasingly souring toward AI firms. This shift is compounded by broader concerns regarding the security of the AI supply chain, particularly following reports concerning the involvement of foreign actors with key hardware providers like Nvidia."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream analysis frames this IPO as a test of Wall Street’s continued AI enthusiasm. However, the true narrative is the erosion of the 'AI-can-do-no-wrong' sentiment. The gap between the 2 trillion dollar projection and the 1.4 trillion dollar reality is a proxy for the unpriced costs of regulatory friction and public opposition.",
+            "The industry is currently facing a bottleneck that goes beyond processing power: it is a bottleneck of social license. As these companies demand more energy and influence, they are increasingly becoming the targets of populist political pressure, a risk that institutional investors are only now beginning to quantify."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Early investors stand to gain from the liquidity provided by the IPO, regardless of the valuation reset. The real losers may be the smaller AI firms that were banking on a 2 trillion dollar valuation benchmark to secure their own future funding rounds.",
+            "Furthermore, the hardware ecosystem, led by firms like Nvidia, faces potential instability. If the valuation of AI model providers continues to soften, the capital expenditure cycle that has driven growth for hardware manufacturers may face a similar, albeit delayed, adjustment."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Investors should look to the opening days of trading for signs of sustained demand. If the stock struggles at the 70 to 78 dollar price range, it will likely trigger a broader reassessment of the entire AI sector’s market cap.",
+            "Additionally, the outcome of any legislative inquiries into data center energy usage and AI safety standards will be the primary external driver of volatility for the stock in the months following its debut."
+          ]
+        }
+      ],
+      "tags": [
+        "AI",
+        "Nasdaq",
+        "IPO",
+        "Valuation",
+        "Infrastructure",
+        "Regulation"
+      ],
+      "sources": [
+        {
+          "name": "The Verge",
+          "title": "Anthropic targets $1.4 trillion IPO",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWplYjFtNjRwemt5Y0dEYV9Wem5ET3FLYXpQOFo0MWttT0hPOW5HN3BRM3hYZWU0YUYwdUJIemhKR0Q4aGw4dWxGbWZ6QlZZcHM3Sm5kMkZsaVVaOE1jOVJueHFSMERPS3lPZHptelZseENfMk0zeGlPUGtZODJEaUZuUmVYbXNucG1xVW1HZw?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "title": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5"
+        },
+        {
+          "name": "Bloomberg.com",
+          "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUTgtOV9zN3Ywb2UycWxaSlNwOGltSV91cjMtRWdlNnJibWhnTVgtQkZkd0ZYU0NweVB5MEhaMkd6ZVNpUXlra3JiQ2ltcU4xUUUta0pPV2dqb19uWWpLZWVkanNqTnlsVEo2YmdFeGw2M2dNcGtGVHdGb1hBMTN4MFRteXhkbUctZWIxSURUQjcxczZxbmdtbGQ0d3ZLWWJCcjFQQVpwb1pjNHNzWlE?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "title": "Anthropic seeks $1.4 trillion valuation in highly anticipated IPO amid AI boom",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFd6MGdLa3YwRWRsck0xaEFGNHNwYm9nSW1idFZSeWVLVzczSG5mYy1hazd3bUppeW9NNlhTM3p0Si0xZWxYd0R0QU9ReXZONmVPMHNtMTYwRG43N3FfWEJjMXltM2pGZXRJWGxiNXV5WXVndXlOQ3E4VTBTQ3gwdzhJc1l6VTh2ODJKNFMtOXRzMWJDYS05TGl0UzR2bXBkc2xB?oc=5"
+        }
+      ],
+      "wordCount": 454
+    },
+    "blindSpot": "The valuation haircut reflects a growing market skepticism regarding AI safety overhead and electoral blowback against energy-intensive data centers. While the IPO is framed as a test of AI fervor, it is actually a referendum on whether the industry can survive the coming regulatory and public utility crunch."
+  },
+  {
     "slug": "uk-s-low-gear-labor-market-creating-tapk",
     "path": "news/uk-s-low-gear-labor-market-creating-tapk/",
     "title": "The UK's low-gear labor market is creating a generation of economic outsiders",

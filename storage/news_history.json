@@ -53,9 +53,32 @@
     "https://news.un.org/feed/view/en/story/2026/11/1168766",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc21fOTJsSUt2S1FtclRIdUVUUnBmcVAyWjd2WkdvcWt4bEw4MUtmaFFoZF9EYlNCZUwzRVJtekFhMy1rWElPTUxwekhLQXRXT25pTWdLa2NGdkFteWtibmxSdUNOLWZEcUpjeVJtcTZ3S0ZWUWx4T3p1a2hwTTV5ZEp0amVHdHRsZ2hiM2E5QUQ2U2owd09vcDdKMmlZWEIyNEl3U1Fic2puR2hhendj?oc=5",
-    "https://www.theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates"
+    "https://www.theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates",
+    "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
   ],
   "processedSignatures": [
+    {
+      "title": "ANTHROPIC TARGETS 1.4 TRILLION DOLLAR VALUATION IN IPO",
+      "normalizedTokens": [
+        "anthropic",
+        "targets",
+        "trillion",
+        "dollar",
+        "valuation",
+        "ipo"
+      ],
+      "date": "2026-11-10T15:34:06.365Z"
+    },
+    {
+      "title": "Anthropic targets $1.4 trillion IPO",
+      "normalizedTokens": [
+        "anthropic",
+        "targets",
+        "trillion",
+        "ipo"
+      ],
+      "date": "2026-11-10T15:34:06.364Z"
+    },
     {
       "title": "UK LOW-GEAR LABOR MARKET TRAPS YOUNGER GENERATIONS",
       "normalizedTokens": [

@@ -293,5 +293,20 @@
     "relevant": true,
     "reason": "The image features Clare Lombardelli, the Bank of England Deputy Governor whose warning about the stagnant labor market is the central subject of the news story.",
     "at": "2026-11-10T14:35:18.019Z"
+  },
+  "7514fa1686984029:i0k60ogfv": {
+    "relevant": false,
+    "reason": "The image only shows the Anthropic logo, which is a generic graphic without relation to the financial valuation or IPO details.",
+    "at": "2026-11-10T15:33:47.504Z"
+  },
+  "263db46bf6bc9ed3:i0k60ogfv": {
+    "relevant": false,
+    "reason": "The image depicts data center servers and the text Cooling the future of AI, which is unrelated to Anthropic's financial valuation and IPO news.",
+    "at": "2026-11-10T15:34:00.272Z"
+  },
+  "dcad3a7f87d1c4ac:i0k60ogfv": {
+    "relevant": false,
+    "reason": "The image is a revenue forecast chart comparing Anthropic and Alphabet's financial trajectories, not a visualization of Anthropic's IPO valuation or share price details.",
+    "at": "2026-11-10T15:34:02.884Z"
   }
 }
