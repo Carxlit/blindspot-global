@@ -8599,12 +8599,13 @@
         "title": "China’s Imports Surge Fastest in 5 Years as Trade Surplus Crosses $1 Trillion in 2026",
         "channel": "Khichdi The News"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-10T12:39:11.137Z",
       "cardImageUrl": "/news-cards/news-kumh31mg9-1794314351137.jpg",
       "reelCoverUrl": "/news-cards/news-kumh31mg9-1794314351766-cover.jpg",
       "instagramCardUrl": "/news-cards/news-kumh31mg9-1794314352331-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/china-s-trade-surplus-crosses-1-hoos/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/china-s-trade-surplus-crosses-1-hoos/",
+      "publishedAt": "2026-11-10T14:32:21.209Z"
     },
     "channels": {
       "facebook": true,
@@ -8618,10 +8619,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-10T14:30:05.875Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-10T12:39:13.492Z"
+    "createdAt": "2026-11-10T12:39:13.492Z",
+    "lastAttemptAt": "2026-11-10T14:30:21.276Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122104156041539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18098825237411843",
+        "permalink": "https://www.instagram.com/reel/DfkIKUMEbOi/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-10T14:32:21.209Z"
   },
   {
     "id": "queue-1794318025472-v2o7g",
