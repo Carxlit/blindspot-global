@@ -56,9 +56,40 @@
     "https://www.theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates",
     "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa25KYnV0YmpVV3hxYXM3WHU3YWR0aDlydW9XTDFvcm5mMldHaUNsc2lTdWYwU3M0UWROeEppbTBEdGJ0WU1TclZndU9xbW9PNWkwczBqZm9lQndRcWg2bkk0cjNtR0FnWkx3NFlvS21VZXo2dmQwemxoWnVPMG9NekpSNXFEZ3BaNGRaNVI3b3hfUVJxQURXNTdWdVJaUF9naWJkTWljWnhEUk0?oc=5",
-    "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
+    "https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng"
   ],
   "processedSignatures": [
+    {
+      "title": "XPENG PREPARES LOW-ALTITUDE VEHICLE LAUNCH FOR CHINESE MARKET",
+      "normalizedTokens": [
+        "xpeng",
+        "prepares",
+        "low",
+        "altitude",
+        "vehicle",
+        "launch",
+        "chinese",
+        "market"
+      ],
+      "date": "2026-11-10T19:00:43.045Z"
+    },
+    {
+      "title": "‘Flying cars’ could launch in China next summer, maker of two-seat model says",
+      "normalizedTokens": [
+        "flying",
+        "cars",
+        "launch",
+        "china",
+        "next",
+        "summer",
+        "maker",
+        "two",
+        "seat",
+        "model"
+      ],
+      "date": "2026-11-10T19:00:43.045Z"
+    },
     {
       "title": "TWELVE DEAD AFTER MULTI-VEHICLE PILE-UPS ON BULGARIAN MOTORWAY",
       "normalizedTokens": [

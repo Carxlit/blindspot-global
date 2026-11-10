@@ -318,5 +318,10 @@
     "relevant": true,
     "reason": "The image shows a severe multi-vehicle crash scene with heavily damaged and burned vehicles on a highway, directly representing the pile-up described in the headline.",
     "at": "2026-11-10T17:57:11.489Z"
+  },
+  "31715c8b92451bae:vqqdud86p": {
+    "relevant": true,
+    "reason": "The image clearly shows individuals inside the cockpit of Xpeng's low-altitude flying vehicle, directly illustrating the core subject of the news story.",
+    "at": "2026-11-10T19:00:37.226Z"
   }
 }
