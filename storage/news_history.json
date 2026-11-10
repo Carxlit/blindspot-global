@@ -45,9 +45,37 @@
     "https://www.france24.com/en/americas/20261109-republican-congressman-launches-impeachment-bid-against-pentagon-chief-hegseth",
     "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
     "https://www.euronews.com/video/2026/11/09/turkey-steel-plant-explosion-kills-17-in-izmir-province",
-    "https://es.euronews.com/video/2026/11/09/explosion-en-complejo-industrial-de-esmirna-provoca-incendio-y-densa-humareda"
+    "https://es.euronews.com/video/2026/11/09/explosion-en-complejo-industrial-de-esmirna-provoca-incendio-y-densa-humareda",
+    "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "SAUDI ARABIA INTERCEPTS MISSILES AMID REGIONAL ESCALATION",
+      "normalizedTokens": [
+        "saudi",
+        "arabia",
+        "intercepts",
+        "missiles",
+        "regional",
+        "escalation"
+      ],
+      "date": "2026-11-10T05:31:14.403Z"
+    },
+    {
+      "title": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
+      "normalizedTokens": [
+        "saudi",
+        "arabia",
+        "downs",
+        "missiles",
+        "fired",
+        "riyadh",
+        "houthi",
+        "attack",
+        "pipeline"
+      ],
+      "date": "2026-11-10T05:31:14.384Z"
+    },
     {
       "title": "INDUSTRIAL DISASTER IN IZMIR KILLS SIXTEEN WORKERS",
       "normalizedTokens": [

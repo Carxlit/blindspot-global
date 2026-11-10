@@ -253,5 +253,10 @@
     "relevant": true,
     "reason": "The image shows emergency ambulances and personnel outside a Turkish industrial facility, matching the news story about an industrial disaster.",
     "at": "2026-11-10T05:20:14.112Z"
+  },
+  "e1c7fe9018264447:ixfakcaac": {
+    "relevant": true,
+    "reason": "The image shows the skyline of Riyadh, Saudi Arabia, which is the capital city targeted in the news story.",
+    "at": "2026-11-10T05:31:10.164Z"
   }
 }
