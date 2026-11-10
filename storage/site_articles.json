@@ -1,5 +1,108 @@
 [
   {
+    "slug": "behind-fog-bulgaria-s-fatal-trakia-2stu",
+    "path": "news/behind-fog-bulgaria-s-fatal-trakia-2stu/",
+    "title": "Behind the fog on Bulgaria's fatal Trakia motorway pile-ups",
+    "headline": "TWELVE DEAD AFTER MULTI-VEHICLE PILE-UPS ON BULGARIAN MOTORWAY",
+    "dek": "Twelve people died and fifty were injured in massive crashes on the Trakia motorway, exposing deep cracks in regional emergency response and infrastructure safety.",
+    "category": "GEOPOLITICS",
+    "sourceName": "BBC News",
+    "image": "img/behind-fog-bulgaria-s-fatal-trakia-2stu.jpg",
+    "photo": "img/behind-fog-bulgaria-s-fatal-trakia-2stu-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "s5AQUGxBbfo",
+      "title": "Deadly motorway pileup in Bulgaria: 12 killed, dozens injured",
+      "channel": "Kanal13",
+      "license": "cc-by"
+    },
+    "publishedAt": "2026-11-10T17:57:13.558Z",
+    "article": {
+      "slug": "behind-fog-bulgaria-s-fatal-trakia-2stu",
+      "title": "Behind the fog on Bulgaria's fatal Trakia motorway pile-ups",
+      "dek": "Twelve people died and fifty were injured in massive crashes on the Trakia motorway, exposing deep cracks in regional emergency response and infrastructure safety.",
+      "keyFacts": [
+        "Twelve people were killed in two pile-ups on the Trakia motorway in south-eastern Bulgaria.",
+        "Health Minister Katya Ivkova stated 11 people died at the scene near Zimnitsa, with one more dying in hospital.",
+        "Sliven regional governor Mihail Kasherov reported more than 70 vehicles were involved.",
+        "Yambol regional governor Georgi Chalakov noted initial reports arrived at 07:10 local time.",
+        "Prime Minister Rumen Radev declared Wednesday a day of national mourning."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Twelve people have been killed after dozens of cars and lorries were involved in two massive pile-ups on the Trakia motorway in south-eastern Bulgaria, according to Prime Minister Rumen Radev. Health Minister Katya Ivkova confirmed that 11 people died at the scene on Tuesday near the town of Zimnitsa, while another victim later succumbed to injuries in hospital.",
+            "Sliven regional governor Mihail Kasherov told journalists that more than 70 vehicles were involved in the disaster, which required rescue teams to physically remove sections of the crash barrier to reach trapped victims. About 50 others sustained injuries and were transported by ambulance to medical facilities across the Yambol, Sliven, and Burgas regions."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Official statements attribute the initial crash on the eastbound carriageway to dense fog that severely reduced visibility. A second crash on the Sofia-bound carriageway followed shortly after, compounded by drivers being distracted by the unfolding disaster.",
+            "The Trakia motorway serves as a vital economic artery running west-to-east across Bulgaria, connecting the capital Sofia to the Black Sea coast. Road administration director Galin Kostov noted that speeds were entirely unsuitable for the hazardous conditions, which included wet road surfaces."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While public discourse remains anchored on the adverse weather conditions, the incident lays bare profound structural shortcomings in emergency response execution. Yambol regional governor Georgi Chalakov admitted that heavy fog rendered evacuation helicopters entirely unusable, forcing reliance solely on ground transport through gridlocked areas.",
+            "Furthermore, the sheer magnitude of a 70-vehicle pile-up points to an underlying failure in real-time traffic management, dynamic speed regulation, and motorist compliance enforcement along high-speed corridors."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The primary losers are the civilian motorists who bear the lethal cost of inadequate transport safety margins and delayed emergency response deployments. State road authorities and regional administrators absorb reputational damage for failing to enforce speed restrictions or mitigate visibility hazards proactively.",
+            "Political actors navigate a delicate landscape, with Prime Minister Rumen Radev declaring a day of national mourning while state agencies manage public outcry over infrastructure safety standards."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "The Trakia motorway will remain closed until clearance operations conclude and damaged infrastructure is assessed. Observers should monitor whether this disaster triggers substantive regulatory overhauls in Bulgarian transport policy, particularly regarding automated speed deterrence and all-weather emergency evacuation protocols."
+          ]
+        }
+      ],
+      "tags": [
+        "Bulgaria",
+        "Infrastructure",
+        "Transport",
+        "Safety",
+        "Europe"
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
+          "url": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Reuters",
+          "title": "Twelve dead, fifty injured in Bulgarian motorway pile-up",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlFFZTl0aVRsZGZUcGswcDE0ZVdyZGsxV0pqeXg2Z2xUUDl3dDNBS2tNX3RuVUs5ZkFKaGFMbW5sV3A0SEpYMWFoQ0sxYV9Qb21uM0pmZ25xYmNKdHh2aDgyRnhDZEdNSmx0UEFDVDJSYXp6WFk1TldsMEI5Y1J6SG1BUEdKNFBD?oc=5"
+        },
+        {
+          "name": "BBC",
+          "title": "At least 11 dead after motorway pile-ups in Bulgaria fog",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1na290eG9oVXpWcUZwZ3c5R0Nod2NWYjBkdC1uV0ZCTk9STDdFLWUzT1pMZ1R3N19RblNwNDFsZXNkanFoejVGVXI0MDQweTB0RHMtWS1Na2M2d1U?oc=5"
+        },
+        {
+          "name": "Al Jazeera",
+          "title": "At least 12 people killed in motorway crash in southeastern Bulgaria",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQlMxTWQ3cHMtaTN3b0xiX0RIbjMyRV9wb3YxWmUxUWRQaWthMHloV1NoSkVCQ2dDTjdCV240N0FQUng5MHFWd3NheGxseUhVSVhBYWVfb3NBLUVhbzNJaTVlXzhITUNRUFRFbHhScVZKX1lwNnc1cDBTOF9QZ25lS1RaLVRQMFJLUkVLZjZpcDVrdFlVekduaTdqSGREZGhBWFZNNmVpajJ5X1VwZXZF0gG0AUFVX3lxTE00bHdRZExRelJLdFBZNGg5enk4a3pJUHdRbFZpZjNXNjc1TjJienJ4WXhDZkNYZE1PbFdtazdTWjdOdDR1TDNMcnFVN1lLb2dYOVhSWFF1Mjlvb0paaWdLQi1vaUo0R09hTU8td0c0dDFMT2l0UWUxc1l2eDJlRURVZEFBdGtvdm04ZHk2aHpSSEZTZEhNazhfWTlHazZsYmQ4UVB6ekhJcWY4eWhZdUF1cVo1WQ?oc=5"
+        },
+        {
+          "name": "Euronews",
+          "title": "12 dead and dozens injured in Bulgarian motorway pile-up",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOazZidm9QNlNzUFlWcHFvM3BNR0dsWlMwa1Y4bjBuVExBd21WNXJzVVE0WkRkV24tTjVTR0UyOW5XVDVMNlU0VWtUd2k0eE9ScElINmlUeUZXR0J4bk9ZeEtrT3NsZWFjY2xzaVV6bnZvU2FLVnlsWXhPNmR5bkJKNnpxWDdFQ2FuTVFOelZuTjlHZkxSbDZCU3ZnWFl5NVJzY191c2NBeXpORkFTTy1kZm9FRlB5VzI3?oc=5"
+        }
+      ],
+      "wordCount": 392
+    },
+    "blindSpot": "While mainstream coverage frames the disaster strictly as a weather-induced tragedy caused by dense fog, officials quietly point to chronic systemic failures in road administration enforcement and inadequate driver compliance under hazardous conditions. The inability to deploy emergency helicopters due to weather further exposes severe gaps in regional rapid-response air medical infrastructure."
+  },
+  {
     "slug": "inflation-runs-hotter-than-expected-higher-fojr",
     "path": "news/inflation-runs-hotter-than-expected-higher-fojr/",
     "title": "Inflation runs hotter than expected as higher prices extend beyond the gas station",
