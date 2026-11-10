@@ -9930,12 +9930,13 @@
         "title": "Senior US soldier arrested in UK on allegations of Russia espionage",
         "channel": "Sky News"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-10T21:18:30.391Z",
       "cardImageUrl": "/news-cards/news-d96a8fgnm-1794345510392.jpg",
       "reelCoverUrl": "/news-cards/news-d96a8fgnm-1794345510977-cover.jpg",
       "instagramCardUrl": "/news-cards/news-d96a8fgnm-1794345511522-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/us-army-soldier-arrested-united-kingdom-5htn/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/us-army-soldier-arrested-united-kingdom-5htn/",
+      "publishedAt": "2026-11-10T23:18:55.626Z"
     },
     "channels": {
       "facebook": true,
@@ -9949,9 +9950,33 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-10T23:16:36.599Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-10T21:18:32.586Z"
+    "createdAt": "2026-11-10T21:18:32.586Z",
+    "lastAttemptAt": "2026-11-10T23:16:52.012Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122104553679539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18506248585103604",
+        "permalink": "https://www.instagram.com/reel/DflEamFksOu/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-10T23:18:55.626Z"
   }
 ]
