@@ -9260,12 +9260,13 @@
         "close": "Read the full analysis at the link in bio."
       },
       "rawImageUrl": "https://www.adn.com/resizer/v2/4E2V47NOYNGNI46OPVDG5R4OAA.jpg?smart=true&auth=288b4ed1e4aeec82760d707d5f037d721833321bd8f77f10234794c09784c7cf&width=1200&height=630",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-10T16:48:41.928Z",
       "cardImageUrl": "/news-cards/news-01ple0ojc-1794329321928.jpg",
       "reelCoverUrl": "/news-cards/news-01ple0ojc-1794329322672-cover.jpg",
       "instagramCardUrl": "/news-cards/news-01ple0ojc-1794329323198-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/inflation-runs-hotter-than-expected-higher-fojr/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/inflation-runs-hotter-than-expected-higher-fojr/",
+      "publishedAt": "2026-11-10T18:57:33.048Z"
     },
     "channels": {
       "facebook": true,
@@ -9279,10 +9280,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-10T18:55:36.599Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-10T16:48:44.279Z"
+    "createdAt": "2026-11-10T16:48:44.279Z",
+    "lastAttemptAt": "2026-11-10T18:55:51.943Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122104376517539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18122316637990032",
+        "permalink": "https://www.instagram.com/reel/DfkmgV1jMKZ/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-10T18:57:33.048Z"
   },
   {
     "id": "queue-1794333433653-hhxli",
