@@ -46,9 +46,39 @@
     "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
     "https://www.euronews.com/video/2026/11/09/turkey-steel-plant-explosion-kills-17-in-izmir-province",
     "https://es.euronews.com/video/2026/11/09/explosion-en-complejo-industrial-de-esmirna-provoca-incendio-y-densa-humareda",
-    "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss"
+    "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss",
+    "https://www.france24.com/es/am%C3%A9rica-latina/20261110-la-ayuda-empieza-a-mermar-tres-meses-del-terremoto-en-colombia-la-solidaridad-desplaza-al-gobierno"
   ],
   "processedSignatures": [
+    {
+      "title": "THREE MONTHS AFTER COLOMBIA EARTHQUAKE, CITIZENS REPLACE STATE",
+      "normalizedTokens": [
+        "three",
+        "months",
+        "colombia",
+        "earthquake",
+        "citizens",
+        "replace",
+        "state"
+      ],
+      "date": "2026-11-10T05:46:53.684Z"
+    },
+    {
+      "title": "“La ayuda empieza a mermar”: tres meses del terremoto en Colombia, la solidaridad desplaza al gobierno",
+      "normalizedTokens": [
+        "ayuda",
+        "empieza",
+        "mermar",
+        "tres",
+        "meses",
+        "terremoto",
+        "colombia",
+        "solidaridad",
+        "desplaza",
+        "gobierno"
+      ],
+      "date": "2026-11-10T05:46:53.683Z"
+    },
     {
       "title": "SAUDI ARABIA INTERCEPTS MISSILES AMID REGIONAL ESCALATION",
       "normalizedTokens": [

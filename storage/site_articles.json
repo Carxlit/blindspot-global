@@ -1,5 +1,91 @@
 [
   {
+    "slug": "three-months-after-colombia-s-earthquake-vdaw",
+    "path": "news/three-months-after-colombia-s-earthquake-vdaw/",
+    "title": "Three months after Colombia's earthquake, civic solidarity exposes state absence",
+    "headline": "THREE MONTHS AFTER COLOMBIA EARTHQUAKE, CITIZENS REPLACE STATE",
+    "dek": "Ninety days after a catastrophic earthquake shook Colombia, official aid is rapidly drying up across affected regions. In the absence of state intervention, grassroots solidarity has taken over local recovery efforts.",
+    "category": "GEOPOLITICS",
+    "sourceName": "France 24 Español",
+    "image": "img/three-months-after-colombia-s-earthquake-vdaw.jpg",
+    "photo": "img/three-months-after-colombia-s-earthquake-vdaw-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "cq84D1u5pYc",
+      "title": "Medicina Legal entrega balance luego de tres meses del terremoto del 10 de agosto en Colombia",
+      "channel": "EL TIEMPO"
+    },
+    "publishedAt": "2026-11-10T05:46:53.596Z",
+    "article": {
+      "slug": "three-months-after-colombia-s-earthquake-vdaw",
+      "title": "Three months after Colombia's earthquake, civic solidarity exposes state absence",
+      "dek": "Ninety days after a catastrophic earthquake shook Colombia, official aid is rapidly drying up across affected regions. In the absence of state intervention, grassroots solidarity has taken over local recovery efforts.",
+      "keyFacts": [
+        "Three months have passed since the earthquake struck Colombia.",
+        "Approximately 500 municipalities across 16 departments suffered damage.",
+        "Heavy rains have accelerated the collapse of damaged structures in cities like Pereira.",
+        "Rural areas in Valle del Cauca still await comprehensive administrative responses."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "According to reports from France 24 Español, gaps are clearly visible in cities like Pereira three months after the earthquake. The voids left by collapsed buildings—either demolished or finished off by recent heavy rains—serve as daily reminders of the disaster.",
+            "Across the country, approximately 500 municipalities spread across 16 departments suffered varying degrees of damage. In nearly all of these zones, official relief efforts have begun to recede, leaving communities to navigate the aftermath largely on their own."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "In the department of Valle del Cauca, rural communities report that fundamental answers from regional and national authorities remain missing. The initial wave of emergency response has given way to a quiet abandonment, forcing local populations to fend for themselves amid infrastructure decay.",
+            "Despite the withdrawal of institutional machinery, citizen activation has not stopped. Grassroots organizations have mobilized resources, labor, and supplies to keep basic survival mechanisms functioning in the hardest-hit zones."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream coverage typically frames post-disaster scenarios around humanitarian metrics and government pledge milestones. However, the true story in Colombia is the permanent displacement of state authority by informal civil networks.",
+            "When citizens successfully organize shelter, debris clearance, and food distribution without state backing, it signals a dangerous erosion of institutional relevance. The state is not merely slow; it is becoming irrelevant to the daily survival of its citizens."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Grassroots leaders and community organizers gain localized moral authority and practical governance experience, cementing community trust outside official channels.",
+            "Conversely, the Colombian central government and regional administrations lose significant legitimacy, demonstrating an inability to sustain long-term crisis management across 16 affected departments."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Observer focus must turn toward whether these improvised civic structures will formalize into permanent political alternatives at the local level. If the state cannot reclaim its administrative presence in places like Valle del Cauca, parallel governance models may take root."
+          ]
+        }
+      ],
+      "tags": [
+        "Colombia",
+        "Earthquake",
+        "Governance",
+        "Latin America",
+        "Civil Society"
+      ],
+      "sources": [
+        {
+          "name": "France 24 Español",
+          "title": "Three months after Colombia's earthquake, civic solidarity exposes state absence",
+          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261110-la-ayuda-empieza-a-mermar-tres-meses-del-terremoto-en-colombia-la-solidaridad-desplaza-al-gobierno"
+        },
+        {
+          "name": "Yahoo",
+          "title": "Three months after Colombia's earthquake, civic solidarity exposes state absence (Yahoo)",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVF93bjBaTG5jNUVPQ19IUU1IU21TYUVxZGVYcTlIYlNmWE9YNkJjQkJtdWpwdzlwbFJhMVNoV1Fxa3BkeWJCdXRnNUx5ZWdZczk5U0FMQWFXWkJ1SktzZFliX0VtRlBjZlcwX1pWeXAzRHFjYjZpZW04SlQzcGJoMFByQ3FieVZDeWpXSA?oc=5"
+        }
+      ],
+      "wordCount": 331
+    },
+    "blindSpot": "While media coverage focuses on immediate reconstruction challenges, the structural withdrawal of state machinery reveals a deep institutional vacuum in rural areas like Valle del Cauca. Citizens are stepping into governance roles, inadvertently proving that local populations can bypass regional administration entirely during crises."
+  },
+  {
     "slug": "saudi-arabia-downs-missiles-targeting-riyadh-bvyu",
     "path": "news/saudi-arabia-downs-missiles-targeting-riyadh-bvyu/",
     "title": "Saudi Arabia downs missiles targeting Riyadh as pipeline attacks expose energy vulnerabilities",
