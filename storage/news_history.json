@@ -43,9 +43,37 @@
     "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss",
     "https://www.dw.com/es/russell-brand-es-condenado-a-más-de-10-años-de-cárcel-por-violación-y-agresiones-sexuales/a-79903582?maca=spa-rss-sp-all-1122-rdf",
     "https://www.france24.com/en/americas/20261109-republican-congressman-launches-impeachment-bid-against-pentagon-chief-hegseth",
-    "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories"
+    "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
+    "https://www.euronews.com/video/2026/11/09/turkey-steel-plant-explosion-kills-17-in-izmir-province"
   ],
   "processedSignatures": [
+    {
+      "title": "TURKISH STEEL PLANT BLAST EXPOSES INDUSTRIAL SAFETY CRACKS",
+      "normalizedTokens": [
+        "turkish",
+        "steel",
+        "plant",
+        "blast",
+        "exposes",
+        "industrial",
+        "safety",
+        "cracks"
+      ],
+      "date": "2026-11-10T05:03:55.812Z"
+    },
+    {
+      "title": "Turkey: Steel plant explosion kills 17 in Izmir province",
+      "normalizedTokens": [
+        "turkey",
+        "steel",
+        "plant",
+        "explosion",
+        "kills",
+        "izmir",
+        "province"
+      ],
+      "date": "2026-11-10T05:03:55.811Z"
+    },
     {
       "title": "US STOCK MARKET RALLY SPRAWS BEYOND BIG TECH AHEAD OF CPI DATA",
       "normalizedTokens": [
