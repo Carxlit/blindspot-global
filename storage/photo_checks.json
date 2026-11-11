@@ -413,5 +413,15 @@
     "relevant": true,
     "reason": "The image clearly shows US Treasury Secretary Scott Bessent, the central figure of the headline.",
     "at": "2026-11-11T18:20:27.408Z"
+  },
+  "000de8fc222cd5aa:29f2qlbl8": {
+    "relevant": false,
+    "reason": "The image shows Mohsen Rezaei casting a vote in an election, which does not visually represent military threats, strikes, or military bases.",
+    "at": "2026-11-11T19:24:54.550Z"
+  },
+  "23fe0229d59bd471:29f2qlbl8": {
+    "relevant": true,
+    "reason": "The image depicts Iranian security chief Mohsen Rezaei, who issued the threat against U.S. military bases mentioned in the story.",
+    "at": "2026-11-11T19:25:00.314Z"
   }
 }

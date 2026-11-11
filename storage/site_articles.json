@@ -1,5 +1,107 @@
 [
   {
+    "slug": "iran-warns-it-will-target-u-7amg",
+    "path": "news/iran-warns-it-will-target-u-7amg/",
+    "title": "Iran Warns It Will Target U.S. Bases in Europe If Used for Airstrikes",
+    "headline": "TEHRAN THREATENS US BASES IN EUROPE OVER STRIKES",
+    "dek": "Iranian security chief Mohsen Rezaei signaled that European sites hosting U.S. forces will face direct attack if used in offensive operations. The declaration aims to exploit Western political divisions following shifts in Washington after recent midterm elections.",
+    "category": "GEOPOLITICS",
+    "sourceName": "France 24",
+    "image": "img/iran-warns-it-will-target-u-7amg.jpg",
+    "photo": "img/iran-warns-it-will-target-u-7amg-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "8Zy02TpGQ5k",
+      "title": "Iran threatens nuclear strike on Israel and the US; Tehran warned European countries",
+      "channel": "Kanal13",
+      "license": "cc-by"
+    },
+    "publishedAt": "2026-11-11T19:25:03.006Z",
+    "article": {
+      "slug": "iran-warns-it-will-target-u-7amg",
+      "title": "Iran Warns It Will Target U.S. Bases in Europe If Used for Airstrikes",
+      "dek": "Iranian security chief Mohsen Rezaei signaled that European sites hosting U.S. forces will face direct attack if used in offensive operations. The declaration aims to exploit Western political divisions following shifts in Washington after recent midterm elections.",
+      "keyFacts": [
+        "Iranian security chief Mohsen Rezaei stated Wednesday that Tehran will attack U.S. bases in Europe if used for bombing raids against Iran.",
+        "The statement followed political shifts in Washington after U.S. midterm elections led to a pull-back in immediate strike threats.",
+        "Reporting across international outlets, including France 24 and Arab News, confirmed the direct warning to European host nations."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "According to statements reported by France 24, Iranian security chief Mohsen Rezaei announced on Wednesday that Tehran would target U.S. military installations situated in Europe if those facilities were used to launch or support airstrikes against Iran.",
+            "The warning represents an explicit expansion of Iran's declared target envelope, directly naming infrastructure located within NATO member states as potential targets for military response."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Rezaei's remarks come during a period of re-evaluation in Washington. Following recent U.S. midterm elections, political pressure has pushed the administration of U.S. President Donald Trump to scale back threats of immediate strike operations against the Islamic Republic.",
+            "Tehran has routinely issued warnings against regional U.S. bases in the Persian Gulf, but explicitly targeting facilities on the European continent underscores a broader escalation narrative designed to alter allied strategic calculus."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While mainstream reporting focuses on the verbal confrontation between Tehran and Washington, the critical underlying dynamic is the stress placed on European hosting agreements. By threatening U.S. assets on European soil, Iran is leveraging the defense posture of European governments against American strategic flexibility.",
+            "European capitals hosting U.S. personnel and aircraft now face a stark asymmetric reality: providing operational launchpads for American power projection carries a localized retaliation cost that European public opinion and defense posture may not be prepared to absorb."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Tehran gains a low-cost strategic wedge, utilizing public deterrence to create hesitation among European alliance partners who must balance security commitments with localized threat risks.",
+            "European host nations lose strategic ambiguity, finding themselves caught between military alliance commitments to Washington and direct defense exposure from Iranian long-range strike options."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Monitor official communications from European defense ministries regarding host-nation launch approvals and basing protocols for U.S. strike assets.",
+            "Observe whether Washington adjusts its operational deployment patterns across European theater commands to mitigate political friction among NATO allies."
+          ]
+        }
+      ],
+      "tags": [
+        "Iran",
+        "Geopolitics",
+        "NATO",
+        "US Military",
+        "European Security"
+      ],
+      "sources": [
+        {
+          "name": "France 24",
+          "title": "Tehran will strike US bases in Europe if used to attack Iran, security chief says",
+          "url": "https://www.france24.com/en/france/20261111-tehran-will-strike-us-bases-in-europe-if-used-to-attack-iran-security-chief-says"
+        },
+        {
+          "name": "Arab News",
+          "title": "Iran security chief threatens to strike US bases in Europe if used for attacks",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVDBJTlNSX2tKSXA0OHBoV1NOd2FYOTktWUJhMzFnUkhUdWVFUWVodER4eFFuLUFPTVZjSHlBb09FeHoxNERpNG1ZVHlfT2QxUmJ5Y2VJS0ZSMWhFUTlWUmo4OTdUX2ZPSjNzSDJjMGlQRUxXOE1rRGxWQ0d4LWI5ZFluSFdWcDdLY1pkRElWZExmeTZlSTZfRjY4SkFNNjhpa3FPZE9yX2t1VkNrTHVacVZzOVpjM2pNVnA5Rkd1M3g?oc=5"
+        },
+        {
+          "name": "Iran International",
+          "title": "Iran threatens US bases in Europe if attacks resume",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ2NKenlpTlJWSXdMRE9xNXhfemZXbUpONlQyZnV4QnV3bWhUME1jbV9QU0V5YlNWLWtxNkxpUDdiaDBuR0hEWUJ3eW9LTTM5akE?oc=5"
+        },
+        {
+          "name": "Middle East Online",
+          "title": "Rezaei: Tehran will target US bases in Europe if used for airstrikes on Iran",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHF3V0VzTElPVFdDNGpxd3pfc3F0MzB2ZHZMTi0wd1l0bDMtSFRKMGlmMDhNWXM0MDk3SWd3RVFrOVp3OUdHQ2pXRXkwaWZwRTRxeWxlcHM5UzJRM0N1X1VqaDduTFQwa3UzN3ZjT2JtMWdkc3hzenFWQ3BsT01maktQdEV5VXQyZU1hcmhPWW1YWGMxRTV5dUVPWjVfM3dH?oc=5"
+        },
+        {
+          "name": "NewsCord",
+          "title": "Iran Security Chief Mohsen Rezaei Warns Tehran Will Strike U.S. Bases in Europe: 17 outlets compared",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV2ZOVjdFcmRBX1E3NG5wUXVPRTFxTWFpSTduT2s3cFZwUTNLd1dpbDF0RVdpZ25LVlRQYWV6aW9QS2NITF92ZG1ycFZSN3JjSHFvSlRLRVZoN0hiemxoOW1ua3JCSy13MmtYcFFtZ2JsR0ZWeFY1WVhhYlJxM0NGSV9aWFRPX2NKemxwZjMwc0FiaUJVZ1BzTXJNNHpZOUhoYjNEREtHOG9SRUNzNmU0dFJycUc5RXZya01BZDFIalBFb2ozRTNUek5jLXhKSzA0S1ZNejhMVnlqcW90TEh6dmxhcFNXZw?oc=5"
+        }
+      ],
+      "wordCount": 337
+    },
+    "blindSpot": "Western coverage frames the statement primarily as routine escalation, overlooking Tehran's tactical push to rupture NATO hosting consensus. By explicitly naming European bases, Iran aims to leverage European security anxiety against U.S. forward-basing agreements, raising the domestic political cost for EU nations harboring American strike assets."
+  },
+  {
     "slug": "us-treasury-secretary-relocated-military-base-vep3",
     "path": "news/us-treasury-secretary-relocated-military-base-vep3/",
     "title": "US Treasury Secretary Relocated to Military Base Following Iranian Security Threats",

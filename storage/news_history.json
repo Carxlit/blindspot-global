@@ -70,9 +70,36 @@
     "https://www.marketwatch.com/story/nvidias-valuation-tumbles-to-a-15-year-low-a-bargain-or-a-falling-knife-2ebf6085?mod=mw_rss_topstories",
     "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
     "http://www.africanews.com/2026/11/11/russian-and-ukrainian-negotiators-report-some-progress-in-peace-talks/",
-    "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT3lYOEw5X1FaSkpweDhiUmp3d0QybFR3ZU4xRl8wYXRRMS1CbzFFWENqLXNBVDZhOHBvSHdXSFh3NW5oNXEyUjRfWmFMT0g1bkV2NXRWWDc5UUpsaXVWLWxwQ0RLSkRkTW5jSWlkQ1p1dzFRa2pySzFVTklVb0k3TFo1bmZPb0lZTXVId1oyN2hCZGxkRmZua2R1ay1LN3VkNE1zb1FFNHUwNGNwSlBVdE5aMzFocFlGWTNINElWV3BvY21lOWRNTmxaNHB2dw?oc=5"
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT3lYOEw5X1FaSkpweDhiUmp3d0QybFR3ZU4xRl8wYXRRMS1CbzFFWENqLXNBVDZhOHBvSHdXSFh3NW5oNXEyUjRfWmFMT0g1bkV2NXRWWDc5UUpsaXVWLWxwQ0RLSkRkTW5jSWlkQ1p1dzFRa2pySzFVTklVb0k3TFo1bmZPb0lZTXVId1oyN2hCZGxkRmZua2R1ay1LN3VkNE1zb1FFNHUwNGNwSlBVdE5aMzFocFlGWTNINElWV3BvY21lOWRNTmxaNHB2dw?oc=5",
+    "https://www.france24.com/en/france/20261111-tehran-will-strike-us-bases-in-europe-if-used-to-attack-iran-security-chief-says"
   ],
   "processedSignatures": [
+    {
+      "title": "TEHRAN THREATENS US BASES IN EUROPE OVER STRIKES",
+      "normalizedTokens": [
+        "tehran",
+        "threatens",
+        "bases",
+        "europe",
+        "strikes"
+      ],
+      "date": "2026-11-11T19:25:03.112Z"
+    },
+    {
+      "title": "Tehran will strike US bases in Europe if used to attack Iran, security chief says",
+      "normalizedTokens": [
+        "tehran",
+        "strike",
+        "bases",
+        "europe",
+        "used",
+        "attack",
+        "iran",
+        "security",
+        "chief"
+      ],
+      "date": "2026-11-11T19:25:03.107Z"
+    },
     {
       "title": "US TREASURY SECRETARY RELOCATED TO MILITARY BASE AMID IRANIAN THREATS",
       "normalizedTokens": [
