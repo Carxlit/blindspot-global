@@ -12080,12 +12080,13 @@
         "close": "Read our full deep dive on energy geopolitics at the link in bio."
       },
       "rawImageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69f1e9ec-1777461740.jpg?resize=1920%2C1440",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-11T21:05:46.154Z",
       "cardImageUrl": "/news-cards/news-309fd95j4-1794431146154.jpg",
       "reelCoverUrl": "/news-cards/news-309fd95j4-1794431146760-cover.jpg",
       "instagramCardUrl": "/news-cards/news-309fd95j4-1794431147405-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/saudi-arabia-drives-opec-output-surge-4r69/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/saudi-arabia-drives-opec-output-surge-4r69/",
+      "publishedAt": "2026-11-11T22:36:04.383Z"
     },
     "channels": {
       "facebook": true,
@@ -12099,10 +12100,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-11T22:33:56.913Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-11T21:05:48.563Z"
+    "createdAt": "2026-11-11T21:05:48.563Z",
+    "lastAttemptAt": "2026-11-11T22:34:12.135Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122105586999539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18180825361444328",
+        "permalink": "https://www.instagram.com/reel/DfnkTbwgqTg/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-11T22:36:04.383Z"
   },
   {
     "id": "queue-1794432781129-ec1dl",
