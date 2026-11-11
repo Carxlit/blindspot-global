@@ -388,5 +388,10 @@
     "relevant": true,
     "reason": "The image clearly shows NVIDIA CEO Jensen Huang, who is the central figure referenced in the headline.",
     "at": "2026-11-11T12:20:06.356Z"
+  },
+  "798ddf9faca2213d:q3ax1kbel": {
+    "relevant": true,
+    "reason": "The image features Apple Memojis, which visually represent the user community and ecosystem central to Apple's support forum discussion.",
+    "at": "2026-11-11T13:28:55.373Z"
   }
 }

@@ -67,9 +67,37 @@
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd0ZRNDVrTEpZSnpqaDdwU01NX2c3SElnV09nZEsyQlpSSHlFR3FDQkt3Y1hYS0twOFJxMzk1Vm93aFZxTzZwUWlsRDJaZ1JtS0NJTE02VkdZaWpwMzFKYnRjV3BSYmxyTEtmYjhFRXZOZ1dnWEZfN0RCUVBsSUpkUGZQUUhCa3pSRW9IV1o5dkpacWxkVzVfcWthaXc2T0VwNG5ESVVFZW5tQ2dUcTYzM1RlWk1jaVBQMVhHNzdiY0UtQQ?oc=5",
     "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM05VZzZyNlNlZUNTWllYRTl1M0pnaFYzQXZaYjVYQjFrUXFLMzR5YS1Hc0NLNGI1UGd3SzQyVjFwZGdsY3lnVkg1SDdhcVVUbjk3OW8wcnZmSDVrS3JUZXoybDJYb2JUZl9UdzNfd3ZWMGNvTG1vYzAtZkRwQUpteWlPWF8wb2t4RGtzSDRneWZuU0RKZVozWHdXeUJRN3h1Y3FjZkhVZ1RleWk0M1N5Qg?oc=5",
-    "https://www.marketwatch.com/story/nvidias-valuation-tumbles-to-a-15-year-low-a-bargain-or-a-falling-knife-2ebf6085?mod=mw_rss_topstories"
+    "https://www.marketwatch.com/story/nvidias-valuation-tumbles-to-a-15-year-low-a-bargain-or-a-falling-knife-2ebf6085?mod=mw_rss_topstories",
+    "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down"
   ],
   "processedSignatures": [
+    {
+      "title": "APPLE SUNSETS DISCUSSIONS FORUM ENDING DECADES OF COMMUNITY SUPPORT",
+      "normalizedTokens": [
+        "apple",
+        "sunsets",
+        "discussions",
+        "forum",
+        "ending",
+        "decades",
+        "community",
+        "support"
+      ],
+      "date": "2026-11-11T13:28:59.635Z"
+    },
+    {
+      "title": "Apple is killing its Support Community forum next week",
+      "normalizedTokens": [
+        "apple",
+        "killing",
+        "support",
+        "community",
+        "forum",
+        "next",
+        "week"
+      ],
+      "date": "2026-11-11T13:28:59.634Z"
+    },
     {
       "title": "NVIDIA VALUATION DROPS TO 15-YEAR LOW AMID CEO INVESTIGATIONS",
       "normalizedTokens": [
