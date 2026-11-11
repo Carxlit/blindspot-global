@@ -11576,12 +11576,13 @@
         "channel": "MAISHA TV KENYA NEWS",
         "license": "cc-by"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-11T17:17:04.571Z",
       "cardImageUrl": "/news-cards/news-n20co1cfa-1794417424571.jpg",
       "reelCoverUrl": "/news-cards/news-n20co1cfa-1794417425242-cover.jpg",
       "instagramCardUrl": "/news-cards/news-n20co1cfa-1794417425865-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/behind-abu-dhabi-peace-talks-calculated-7fbb/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/behind-abu-dhabi-peace-talks-calculated-7fbb/",
+      "publishedAt": "2026-11-11T19:23:20.761Z"
     },
     "channels": {
       "facebook": true,
@@ -11595,10 +11596,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-11T19:20:56.913Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-11T17:17:07.076Z"
+    "createdAt": "2026-11-11T17:17:07.076Z",
+    "lastAttemptAt": "2026-11-11T19:21:12.218Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122105456499539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18130794097873669",
+        "permalink": "https://www.instagram.com/reel/DfnOPYukk4H/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Reel no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Short no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      }
+    },
+    "publishedAt": "2026-11-11T19:23:20.761Z"
   },
   {
     "id": "queue-1794421230976-fnbf8",
