@@ -64,9 +64,37 @@
     "https://www.france24.com/en/tv-shows/eye-on-africa/20261111-boat-capsized-off-senegal-s-northwest-coast-leaving-39-dead",
     "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss",
     "https://www.dw.com/es/rd-congo-supera-barrera-de-los-11-000-casos-de-ébola-incluidos-5-387-muertos/a-79914424?maca=spa-rss-sp-all-1122-rdf",
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd0ZRNDVrTEpZSnpqaDdwU01NX2c3SElnV09nZEsyQlpSSHlFR3FDQkt3Y1hYS0twOFJxMzk1Vm93aFZxTzZwUWlsRDJaZ1JtS0NJTE02VkdZaWpwMzFKYnRjV3BSYmxyTEtmYjhFRXZOZ1dnWEZfN0RCUVBsSUpkUGZQUUhCa3pSRW9IV1o5dkpacWxkVzVfcWthaXc2T0VwNG5ESVVFZW5tQ2dUcTYzM1RlWk1jaVBQMVhHNzdiY0UtQQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd0ZRNDVrTEpZSnpqaDdwU01NX2c3SElnV09nZEsyQlpSSHlFR3FDQkt3Y1hYS0twOFJxMzk1Vm93aFZxTzZwUWlsRDJaZ1JtS0NJTE02VkdZaWpwMzFKYnRjV3BSYmxyTEtmYjhFRXZOZ1dnWEZfN0RCUVBsSUpkUGZQUUhCa3pSRW9IV1o5dkpacWxkVzVfcWthaXc2T0VwNG5ESVVFZW5tQ2dUcTYzM1RlWk1jaVBQMVhHNzdiY0UtQQ?oc=5",
+    "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories"
   ],
   "processedSignatures": [
+    {
+      "title": "COREWEAVE DEBT CONCERNS EASE AFTER NINE BILLION PREPAYMENTS",
+      "normalizedTokens": [
+        "coreweave",
+        "debt",
+        "concerns",
+        "ease",
+        "nine",
+        "billion",
+        "prepayments"
+      ],
+      "date": "2026-11-11T11:25:01.656Z"
+    },
+    {
+      "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
+      "normalizedTokens": [
+        "coreweave",
+        "stock",
+        "pops",
+        "financing",
+        "playbook",
+        "eases",
+        "debt",
+        "concerns"
+      ],
+      "date": "2026-11-11T11:25:01.655Z"
+    },
     {
       "title": "CHINA SINGLES DAY TESTS AI SELLING POWER AMID SLUGGISH CONSUMER DEMAND",
       "normalizedTokens": [
