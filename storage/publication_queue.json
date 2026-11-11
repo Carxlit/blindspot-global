@@ -11746,12 +11746,13 @@
         "title": "US Treasury Secretary Scott Bessent Moves to Military Base After Suspected Iran Threat",
         "channel": "DawnNews English"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-11T18:20:28.556Z",
       "cardImageUrl": "/news-cards/news-4ew50nm6i-1794421228557.jpg",
       "reelCoverUrl": "/news-cards/news-4ew50nm6i-1794421229213-cover.jpg",
       "instagramCardUrl": "/news-cards/news-4ew50nm6i-1794421229811-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/us-treasury-secretary-relocated-military-base-vep3/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/us-treasury-secretary-relocated-military-base-vep3/",
+      "publishedAt": "2026-11-11T20:30:09.752Z"
     },
     "channels": {
       "facebook": true,
@@ -11765,10 +11766,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-11T20:27:56.913Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-11T18:20:30.976Z"
+    "createdAt": "2026-11-11T18:20:30.976Z",
+    "lastAttemptAt": "2026-11-11T20:28:12.240Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122105512881539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17900747127393489",
+        "permalink": "https://www.instagram.com/reel/DfnV5l-jtMq/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-11T20:30:09.752Z"
   },
   {
     "id": "queue-1794425103100-lv0m8",
