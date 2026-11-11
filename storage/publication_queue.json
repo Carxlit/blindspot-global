@@ -10093,12 +10093,13 @@
         "title": "90 días del terremoto en Colombia: \"Seguimos esperando acompañamiento del Gobierno\", Leonardo Reales",
         "channel": "FRANCE 24 Español"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-11T05:02:32.532Z",
       "cardImageUrl": "/news-cards/news-xyi147zg7-1794373352532.jpg",
       "reelCoverUrl": "/news-cards/news-xyi147zg7-1794373354428-cover.jpg",
       "instagramCardUrl": "/news-cards/news-xyi147zg7-1794373355064-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/colombia-earthquake-survivors-face-institutional-abandonment-tlgb/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/colombia-earthquake-survivors-face-institutional-abandonment-tlgb/",
+      "publishedAt": "2026-11-11T05:05:05.240Z"
     },
     "channels": {
       "facebook": true,
@@ -10112,10 +10113,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-11T05:02:36.216Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-11T05:02:36.216Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-11T05:03:23.449Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122104752093539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18133835500704971",
+        "permalink": "https://www.instagram.com/reel/DflsBZlgngZ/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-11T05:05:05.240Z"
   }
 ]
