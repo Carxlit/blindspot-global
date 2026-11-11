@@ -1,5 +1,108 @@
 [
   {
+    "slug": "nvidia-stock-hits-15-year-relative-low-2y54",
+    "path": "news/nvidia-stock-hits-15-year-relative-low-2y54/",
+    "title": "Nvidia Stock Hits 15-Year Relative Low as Governance Probes Target CEO Jensen Huang",
+    "headline": "NVIDIA VALUATION DROPS TO 15-YEAR LOW AMID CEO INVESTIGATIONS",
+    "dek": "Nvidia's market valuation has fallen to historic relative lows following a 5.5% stock decline. Emerging investigations into CEO Jensen Huang and debt challenges among AI infrastructure partners threaten to reprice the sector.",
+    "category": "GLOBAL ECONOMY",
+    "sourceName": "MarketWatch",
+    "image": "img/nvidia-stock-hits-15-year-relative-low-2y54.jpg",
+    "photo": "img/nvidia-stock-hits-15-year-relative-low-2y54-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "-Ko4o1puV8k",
+      "title": "Jensen Huang Lost $15 Billion in a Day. Nvidia Has Almost Died Before",
+      "channel": "Off The Highs"
+    },
+    "publishedAt": "2026-11-11T12:20:10.120Z",
+    "article": {
+      "slug": "nvidia-stock-hits-15-year-relative-low-2y54",
+      "title": "Nvidia Stock Hits 15-Year Relative Low as Governance Probes Target CEO Jensen Huang",
+      "dek": "Nvidia's market valuation has fallen to historic relative lows following a 5.5% stock decline. Emerging investigations into CEO Jensen Huang and debt challenges among AI infrastructure partners threaten to reprice the sector.",
+      "keyFacts": [
+        "Nvidia shares dropped 5.5%, leading major technology declines across U.S. stock indexes.",
+        "Nvidia's valuation relative to the S&P 500 reached a 15-year low by key financial metrics.",
+        "CEO Jensen Huang is subject to corporate and national security probes, according to reports by Bloomberg and BNN Bloomberg.",
+        "AI cloud infrastructure partner CoreWeave is actively managing debt liabilities tied to its buildout."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Nvidia stock experienced a sharp drop of 5.5%, leading a broader sell-off across all three major U.S. stock indexes according to market reports from BigGo Finance and MarketWatch. The contraction brought Nvidia's valuation relative to the S&P 500 to a 15-year low, sparking intense discussion across Wall Street about whether the semiconductor giant is currently undervalued or entering a prolonged correction.",
+            "The sell-off coincided with financial reporting detailing balance-sheet adjustments at specialized cloud provider CoreWeave, which has relied heavily on debt financing to purchase Nvidia graphics processing units."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Nvidia's rapid rise over recent years turned the company into the central pillar of global artificial intelligence infrastructure. Financial markets priced in perpetual demand for high-performance GPUs, allowing Nvidia to command premium trading multiples.",
+            "However, recent reporting by Bloomberg, Business Insider, and BNN Bloomberg reveals growing headwinds beyond quarterly order volumes. Reports cite ongoing investigations involving CEO Jensen Huang, encompassing corporate governance issues and regulatory probes related to Chinese counterintelligence inquiries."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While financial commentary focuses heavily on price-to-earnings metrics and valuation discounts, the structural risk lies in the financial leverage supporting chip purchases. Specialized cloud firms like CoreWeave borrowed heavily to accumulate hardware assets, using Nvidia chips as underlying collateral.",
+            "If executive investigations create operational friction or management disruption at Nvidia, the valuation of the hardware collateral securing billions in debt could deteriorate. The blind spot is that AI sector valuations depend not just on end-user software demand, but on executive stability and debt dynamics within specialized data center networks."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Competitors in the semiconductor landscape and rival chip designers gain potential market share if Nvidia faces prolonged leadership uncertainty or governance restrictions.",
+            "Conversely, highly leveraged cloud providers and institutional holders of AI-focused technology funds face elevated downside risks as volatility compresses asset values across the hardware supply chain."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Key indicators include formal statements from Nvidia's board regarding regulatory compliance, progress on debt restructuring at partner firms, and institutional capital flows during upcoming quarterly filings.",
+            "Observers must monitor whether executive probes lead to regulatory enforcement actions or if market multiples stabilize as governance clarity emerges."
+          ]
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Semiconductors",
+        "Global Economy",
+        "Jensen Huang",
+        "AI Infrastructure",
+        "Market Volatility"
+      ],
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "title": "Nvidia’s valuation tumbles to a 15-year low. A bargain or a falling knife?",
+          "url": "https://www.marketwatch.com/story/nvidias-valuation-tumbles-to-a-15-year-low-a-bargain-or-a-falling-knife-2ebf6085?mod=mw_rss_topstories"
+        },
+        {
+          "name": "Bloomberg.com",
+          "title": "Nvidia’s Bull Case Hinges on Huang Surviving China Spy Probe",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQXE5cVhpNExqTHl1RWotS2hWcW9FN0djTTRtSnNaOFg3Y0otekt0UmxUNmtnSEpNQVNhS3pSQm9rWXdvcWlSVVptdkxpSDNVRjBWUG1QYUpfVElJWmNpd3UweFdNRWpTd2xYVkFObzF4T2VTeWF1Ym1jVENRbHBCcDRwbk14enJRc2RXZ2Z1SFZNUVhweW1FVTVCa0xwSmtjUGhFc2laZzNlZVN2b0NmOGxKU3pUdw?oc=5"
+        },
+        {
+          "name": "BigGo Finance",
+          "title": "All Three Major U.S. Stock Indexes Fall; Nvidia Tumbles 5.5% to Lead Tech Declines as Anthropic Presses Ahead With IPO",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EMmtzalFfbUlNWlo4MUdfcDBKT0lqcG9VazJob3d2WFZBTXBVWXd6UElXVEM3R2ZaUGdrMFFxSThROUtIZENkTy1oTUZzVE1SaGtfZ3FJdjJRWTRIVzl3ZHg2dXNER2ZVUXhVeWdtakF0VlhPc0E?oc=5"
+        },
+        {
+          "name": "Business Insider",
+          "title": "Nvidia stock and CEO Jensen Huang's net worth tumble after bombshell affair revelations",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQXJyckI0U3RmZ01ISFlHUVJQalRBVDlWb3ZKeGRoOXpHQTdQbDBvUzRyNFlEVk1NTkNfQXdHTWc2aFVGbnlQMUFxT3JsVFAzRzV4SUxiSXViNy1sQjgxbTJBWm9id0hxMVR3ckhhQ3FrMzZsX0lXOG9lM0xpajdZYlNLU25iV2k3TGVuWE1Xby1TSU04aWVRdUp1aGw?oc=5"
+        },
+        {
+          "name": "BNN Bloomberg",
+          "title": "Nvidia shares tumble after investigation into CEO Jensen Huang",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOW05amJtbnNabHBybGF1OG9tUkszMV9BdzlIRDZ5UENNcnNjYVl5ZVNoM2piQW5DUkxvSDlQXzFMaUhDb3JIcm1LRTdzZGoydHpQSjVFRk5iSFlYaGd4MGgwM0J3cEY0M21hMXFPaVUzVk5Jc2ZTSy1EVzI3b09wRlNHYkNiRkp2b2ZyNm92ZTc4Zm5jeVVZV1JubnFOZGFaOHdrMVliazMydWdUTmIxTlA3YXQ5ek9Kb0hVbmZCd3NoekVCZW9wSXQtT040SFFkWDJDSzRObllianMwRmVmZWVKZHRNanBXckIwbmRVbGM?oc=5"
+        }
+      ],
+      "wordCount": 374
+    },
+    "blindSpot": "While mainstream financial media focuses on whether Nvidia's discounted multiple represents a buying opportunity, the underlying crisis involves combined regulatory scrutiny over CEO Jensen Huang and leverage strains at key specialized cloud providers like CoreWeave. Capital concentration in AI hardware is now directly exposed to executive governance risks and sovereign national security probes."
+  },
+  {
     "slug": "house-republicans-select-jim-jordan-command-0utm",
     "path": "news/house-republicans-select-jim-jordan-command-0utm/",
     "title": "House Republicans Select Jim Jordan to Command Minority Caucus After Election Losses",

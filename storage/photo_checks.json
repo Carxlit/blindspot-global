@@ -378,5 +378,15 @@
     "relevant": true,
     "reason": "The image prominently features Representative Jim Jordan (on the right) alongside other Republican leaders.",
     "at": "2026-11-11T11:32:09.576Z"
+  },
+  "80934f587dbb73a9:885bqoycc": {
+    "relevant": false,
+    "reason": "The image shows the trading floor of the New York Stock Exchange (NYSE) rather than Nvidia or its CEO Jensen Huang.",
+    "at": "2026-11-11T12:19:58.581Z"
+  },
+  "6c44ac767257b3bc:885bqoycc": {
+    "relevant": true,
+    "reason": "The image clearly shows NVIDIA CEO Jensen Huang, who is the central figure referenced in the headline.",
+    "at": "2026-11-11T12:20:06.356Z"
   }
 }
