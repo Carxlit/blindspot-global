@@ -65,9 +65,38 @@
     "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss",
     "https://www.dw.com/es/rd-congo-supera-barrera-de-los-11-000-casos-de-ébola-incluidos-5-387-muertos/a-79914424?maca=spa-rss-sp-all-1122-rdf",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd0ZRNDVrTEpZSnpqaDdwU01NX2c3SElnV09nZEsyQlpSSHlFR3FDQkt3Y1hYS0twOFJxMzk1Vm93aFZxTzZwUWlsRDJaZ1JtS0NJTE02VkdZaWpwMzFKYnRjV3BSYmxyTEtmYjhFRXZOZ1dnWEZfN0RCUVBsSUpkUGZQUUhCa3pSRW9IV1o5dkpacWxkVzVfcWthaXc2T0VwNG5ESVVFZW5tQ2dUcTYzM1RlWk1jaVBQMVhHNzdiY0UtQQ?oc=5",
-    "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories"
+    "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM05VZzZyNlNlZUNTWllYRTl1M0pnaFYzQXZaYjVYQjFrUXFLMzR5YS1Hc0NLNGI1UGd3SzQyVjFwZGdsY3lnVkg1SDdhcVVUbjk3OW8wcnZmSDVrS3JUZXoybDJYb2JUZl9UdzNfd3ZWMGNvTG1vYzAtZkRwQUpteWlPWF8wb2t4RGtzSDRneWZuU0RKZVozWHdXeUJRN3h1Y3FjZkhVZ1RleWk0M1N5Qg?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "JIM JORDAN ELECTED HOUSE REPUBLICAN MINORITY LEADER",
+      "normalizedTokens": [
+        "jim",
+        "jordan",
+        "elected",
+        "house",
+        "republican",
+        "minority",
+        "leader"
+      ],
+      "date": "2026-11-11T11:32:12.275Z"
+    },
+    {
+      "title": "Rep. Jim Jordan of Ohio elected to lead House Republicans in the minority",
+      "normalizedTokens": [
+        "rep",
+        "jim",
+        "jordan",
+        "ohio",
+        "elected",
+        "lead",
+        "house",
+        "republicans",
+        "minority"
+      ],
+      "date": "2026-11-11T11:32:12.271Z"
+    },
     {
       "title": "COREWEAVE DEBT CONCERNS EASE AFTER NINE BILLION PREPAYMENTS",
       "normalizedTokens": [
