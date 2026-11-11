@@ -393,5 +393,15 @@
     "relevant": true,
     "reason": "The image features Apple Memojis, which visually represent the user community and ecosystem central to Apple's support forum discussion.",
     "at": "2026-11-11T13:28:55.373Z"
+  },
+  "e680bf3cd600132a:n20co1cfa": {
+    "relevant": false,
+    "reason": "The image shows Jared Kushner, an American businessman and political figure, speaking at a podium, not Russian or Ukrainian negotiators.",
+    "at": "2026-11-11T17:16:45.972Z"
+  },
+  "934cc2a2a8c1b786:n20co1cfa": {
+    "relevant": true,
+    "reason": "The image shows delegates standing at a podium in front of a backdrop reading Abu Dhabi Peace Talks, directly representing the headline's subject.",
+    "at": "2026-11-11T17:17:04.570Z"
   }
 }
