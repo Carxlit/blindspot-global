@@ -61,9 +61,36 @@
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CVDNSVXJpWURQMkF1dUt1amw1WkxILXhVSjZyZkQxdGlBdWZvT0tqclhabXRKZC1xNlRIRmJSdkhINDVsYXlRdk9paVRCa085WWVKRTJFcm9CZWo2VzNaYU5lQ2RXbDdqb3QxdkY4SDFRb2JMVE8yemVJMA?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNjNvTUx0NVBXdXZDdXhaZXlxN0NwQWI1X29QV2hhUWlCVjRuSGo2a3ZGQW9lMVRKRUl3QU9jSEhhMXYyR1AtbUx4YWtVOTBoSzl6ZUExNVNmVnVIWmc0bVczWVh4YWl6dzlDWERYOVBaWjMwZUhFZnpUZnlmVUY4M3RmM1VMUzRteXdmcktrZUpja0ctVms4?oc=5",
     "https://www.france24.com/es/video/20261111-90-d%C3%ADas-del-terremoto-en-colombia-seguimos-esperando-acompa%C3%B1amiento-del-gobierno-leonardo-reales",
-    "https://www.france24.com/en/tv-shows/eye-on-africa/20261111-boat-capsized-off-senegal-s-northwest-coast-leaving-39-dead"
+    "https://www.france24.com/en/tv-shows/eye-on-africa/20261111-boat-capsized-off-senegal-s-northwest-coast-leaving-39-dead",
+    "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "US INDICTS THREE ALLEGED IRANIAN OPERATIVES OVER UK AIRBASE PLOT",
+      "normalizedTokens": [
+        "indicts",
+        "three",
+        "alleged",
+        "iranian",
+        "operatives",
+        "airbase",
+        "plot"
+      ],
+      "date": "2026-11-11T07:16:34.114Z"
+    },
+    {
+      "title": "US charges three men for allegedly plotting attack on UK base",
+      "normalizedTokens": [
+        "charges",
+        "three",
+        "men",
+        "allegedly",
+        "plotting",
+        "attack",
+        "base"
+      ],
+      "date": "2026-11-11T07:16:34.114Z"
+    },
     {
       "title": "UPDATE: SENEGAL MIGRANT BOAT CAPSIZE LEAVES THIRTY NINE DEAD",
       "normalizedTokens": [
