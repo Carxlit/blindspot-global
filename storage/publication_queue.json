@@ -12251,12 +12251,13 @@
         "title": "CHINA-NVIDIA H200 CHIP ROW: Military-Linked University Gets Banned US Chips, Defying Washington?",
         "channel": "MIRROR NOW"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-11T21:32:58.546Z",
       "cardImageUrl": "/news-cards/news-5lo8yv07k-1794432778546.jpg",
       "reelCoverUrl": "/news-cards/news-5lo8yv07k-1794432779254-cover.jpg",
       "instagramCardUrl": "/news-cards/news-5lo8yv07k-1794432779892-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/pla-linked-chinese-university-procures-nvidia-h200-n171/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/pla-linked-chinese-university-procures-nvidia-h200-n171/",
+      "publishedAt": "2026-11-11T23:34:29.416Z"
     },
     "channels": {
       "facebook": true,
@@ -12270,10 +12271,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-11T23:31:56.913Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-11T21:33:01.129Z"
+    "createdAt": "2026-11-11T21:33:01.129Z",
+    "lastAttemptAt": "2026-11-11T23:32:12.245Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122105634735539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18155493148548009",
+        "permalink": "https://www.instagram.com/reel/Dfnq_DAoW8x/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-11T23:34:29.416Z"
   },
   {
     "id": "queue-1794436697812-ma13s",

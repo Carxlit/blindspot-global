@@ -1,5 +1,133 @@
 [
   {
+    "id": "5lo8yv07k",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
+    "originalTitle": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
+    "sourceName": "Reuters",
+    "category": "GEOPOLITICS",
+    "urgencyScore": 87,
+    "headline": "CHINESE MILITARY UNIVERSITY ACQUIRES BLACKLISTED NVIDIA H200 CHIPS",
+    "subHeadline": "Public procurement records reveal a People's Liberation Army-linked university acquired Nvidia's advanced H200 AI processors despite stringent Commerce Department export controls.",
+    "blindSpotAngle": "The transaction highlights the fundamental structural failure of Washington's multilateral tech containment strategy. Enforcement relies on vendor compliance and front-end export licenses, leaving deep domestic distributor networks across Asia capable of rerouting hardware through grey-market intermediary channels.",
+    "facebookPost": "Public procurement records reveal that a Chinese university with documented ties to the People's Liberation Army successfully acquired Nvidia H200 artificial intelligence chips. Despite strict Department of Commerce export bans designed to restrict Beijing's access to advanced dual-use hardware, the procurement went through unnoticed by western monitoring frameworks.\n\nThe real issue is not Nvidia's compliance department, but the systemic failure of US export enforcement across secondary and tertiary distribution networks. As long as intermediary brokers in third-party jurisdictions can procure hardware through complex corporate shells, unilateral sanctions remain an illusion that merely raises transaction costs rather than blocking capability.\n\nCan Washington truly restrict advanced technology in a globalized hardware market without imposing total secondary sanctions on third-nation distributors?\n\nSource: Reuters\n\n#Geopolitics #Semiconductors #Blindspot",
+    "telegramPost": "<b>CHINESE MILITARY UNIVERSITY ACQUIRES BLACKLISTED NVIDIA H200 CHIPS</b>\n\n• <b>What happened:</b> Public records show a PLA-linked Chinese university procured Nvidia's advanced H200 AI processors despite strict US export blacklists.\n• <b>Why it matters:</b> The acquisition proves that US technology sanctions have failed to stop top-tier AI hardware from reaching Chinese defense-adjacent research centers.\n• <b>What is next:</b> Washington will face mounting legislative pressure to expand secondary sanctions against foreign hardware distributors and component brokers across East Asia.",
+    "linkedInPost": "The recent revelation that a Chinese military-linked university procured blacklisted Nvidia H200 AI processors exposes critical vulnerabilities in global export control enforcement.\n\nWhile primary manufacturers enforce strict compliance protocols, the fragmentation of secondary distribution networks in Asia creates lucrative grey-market channels. Intermediate vendors and shell entities routinely circumvent Commerce Department blacklists, making hard technological containment practically impossible under current compliance frameworks.\n\nFor enterprise tech logistics and sovereign risk assessors, this strategic leak signals impending regulatory tightening, higher compliance burdens on regional logistics hubs, and heightened scrutiny of indirect sales channels across international semiconductor supply chains.\n\nSource: Reuters\n\n#Geopolitics #SupplyChain #Blindspot",
+    "blueskyPost": "A PLA-linked Chinese university procured Nvidia H200 AI chips despite US blacklists, exposing deep enforcement failures in tech sanctions. #Blindspot #Geopolitics",
+    "copies": {
+      "facebook": "Public procurement records reveal that a Chinese university with documented ties to the People's Liberation Army successfully acquired Nvidia H200 artificial intelligence chips. Despite strict Department of Commerce export bans designed to restrict Beijing's access to advanced dual-use hardware, the procurement went through unnoticed by western monitoring frameworks.\n\nThe real issue is not Nvidia's compliance department, but the systemic failure of US export enforcement across secondary and tertiary distribution networks. As long as intermediary brokers in third-party jurisdictions can procure hardware through complex corporate shells, unilateral sanctions remain an illusion that merely raises transaction costs rather than blocking capability.\n\nCan Washington truly restrict advanced technology in a globalized hardware market without imposing total secondary sanctions on third-nation distributors?\n\n#Geopolitics #Semiconductors #Blindspot",
+      "telegram": "<b>CHINESE MILITARY UNIVERSITY ACQUIRES BLACKLISTED NVIDIA H200 CHIPS</b>\n\n• <b>What happened:</b> Public records show a PLA-linked Chinese university procured Nvidia's advanced H200 AI processors despite strict US export blacklists.\n• <b>Why it matters:</b> The acquisition proves that US technology sanctions have failed to stop top-tier AI hardware from reaching Chinese defense-adjacent research centers.\n• <b>What is next:</b> Washington will face mounting legislative pressure to expand secondary sanctions against foreign hardware distributors and component brokers across East Asia.",
+      "bluesky": "A PLA-linked Chinese university procured Nvidia H200 AI chips despite US blacklists, exposing deep enforcement failures in tech sanctions. #Blindspot #Geopolitics",
+      "linkedIn": "The recent revelation that a Chinese military-linked university procured blacklisted Nvidia H200 AI processors exposes critical vulnerabilities in global export control enforcement.\n\nWhile primary manufacturers enforce strict compliance protocols, the fragmentation of secondary distribution networks in Asia creates lucrative grey-market channels. Intermediate vendors and shell entities routinely circumvent Commerce Department blacklists, making hard technological containment practically impossible under current compliance frameworks.\n\nFor enterprise tech logistics and sovereign risk assessors, this strategic leak signals impending regulatory tightening, higher compliance burdens on regional logistics hubs, and heightened scrutiny of indirect sales channels across international semiconductor supply chains.\n\n#Geopolitics #SupplyChain #Blindspot"
+    },
+    "article": {
+      "slug": "pla-linked-chinese-university-procures-nvidia-h200-n171",
+      "title": "PLA-Linked Chinese University Procures Nvidia H200 AI Chips Despite US Blacklist",
+      "dek": "Official procurement records show military-affiliated researchers in China successfully bypassed export restrictions to secure advanced hardware. The trade exposes structural enforcement flaws in Washington's high-tech containment strategy.",
+      "keyFacts": [
+        "A military-linked Chinese university procured Nvidia H200 artificial intelligence chips according to public records obtained by Reuters.",
+        "The university remains on the US Department of Commerce entity list due to its direct ties to the People's Liberation Army.",
+        "Nvidia's H200 processors represent state-of-the-art AI compute hardware subject to strict export licensing controls.",
+        "The transaction was documented across corroborating investigative reports by Reuters, Al Jazeera, and Miami Herald."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Public procurement documentation revealed that a Chinese university directly affiliated with the People's Liberation Army successfully purchased Nvidia's H200 artificial intelligence processors. The acquisition occurred despite explicit bans imposed by the United States Department of Commerce designed to halt the flow of advanced computing technology to Beijing's defense establishment.",
+            "According to reporting by Reuters, the transaction was completed through domestic procurement channels, confirming that cutting-edge microchips subject to non-proliferation protocols continue to land inside sanctioned Chinese research institutes."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Washington has progressively tightened controls on semiconductor exports over the past three years, seeking to freeze China's domestic capabilities in high-performance computing and artificial intelligence. Nvidia's H200 chip sits at the high end of dual-use hardware, capable of training complex large language models and simulating advanced military systems.",
+            "The target university has long resided on the US Entity List, a designation that legally bars American enterprises and third-party vendors from supplying controlled technology without explicit federal export licenses."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream policy discussions treat technology sanctions as direct valves that open or close based on executive decrees. The blind spot in Washington's strategy lies in the decentralized architecture of global technology distribution networks. Silicon Valley manufacturers sell to tier-one distributors, but control degrades exponentially as hardware moves down regional supply chains.",
+            "Grey-market brokers, regional intermediaries, and domestic shell companies across East Asia consistently neutralize export barriers. Rather than preventing access, export bans have created a high-margin shadow market where military-linked entities pay elevated premiums to secure blacklisted hardware through secondary channels."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The immediate beneficiary is China's military-academic research complex, which maintains operational access to top-tier Western hardware needed for advanced defense applications. Intermediary technology brokers in Asia also profit heavily from inflated grey-market margins.",
+            "The losers include Western regulators, whose regulatory containment efforts are shown to be structurally ineffective, and US hardware manufacturers, who face severe domestic regulatory pressure while shadow distributors capture market premiums."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Expect immediate Congressional calls for expanded enforcement authorities and mandatory secondary sanctions targeting third-country distributors. Regulatory bodies will likely increase compliance pressures on global logistics firms and semiconductor distribution partners operating throughout Southeast Asia.",
+            "Key indicators will be whether the US Commerce Department institutes end-use tracking requirements or penalizes secondary foreign entities caught facilitating grey-market transfers into mainland China."
+          ]
+        }
+      ],
+      "tags": [
+        "Geopolitics",
+        "Semiconductors",
+        "Nvidia",
+        "Sanctions",
+        "Artificial Intelligence",
+        "China"
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5"
+        },
+        {
+          "name": "Miami Herald",
+          "title": "Exclusive-Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVFROVFpSSDM1aWVyeS1ESkRSNHJkWmRseEVfRnUzUzVxdXlUdEN0X0VOY2x5ZjFzdkt6blZtUWtWT2xCNVphdGJVWERXallpNHBXQVMzdy1VSDJkckJZSHBwUlBkNEtKY1F5TFN1Q1hUaEZQbnoycnVxV21WRXViQUpR?oc=5"
+        },
+        {
+          "name": "Al Jazeera",
+          "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQzNzRzNMbFdRYllVV3d2QUlfMnFRSmtoTXRXR3N3Tl9Ba3ZIZDRWVVFxUjhtZzl0QzNqQ19ZN1R5dDJZbzdWUWxkV3E2cmU3aGo0aDJnN0FYSENCRjgwejJlbjBabjVpbTVraVEwUDR5NTN6N1RsUDNHT3U1TkhMSTVtVGN3MjN2YXQ0RV9rZmdmLVVoQ2JUU3pGYU9yV0NLRVBnZ1htVUI2bjhTd2c2MVo3bTTSAboBQVVfeXFMT0FRdDZJNzZxQ2kyMnhLc1Z5N1hJUEo2RkFvU2FseElhZDk5aWhtVE9JREhCUFdaeHgwaUN2U3laZC1tMjJxTV9MdXV1QUY4U1JoamhQREc3YWo2V0t5NzJaelp6cUs4YXpvUjRKcFh6NXdkVEozOXRuNGlxelhYVFMxSkxsdUZIeUtBZ2tRYUtLWnQwN1VWNGZ5aGpfYmRKU2NoVmxiN0dXV0ZSR0xGZkJXNXlQTkMxcG93?oc=5"
+        },
+        {
+          "name": "MLQ.ai",
+          "title": "PLA-linked Chinese university bought Nvidia H200 chips despite being on the US blacklist, Reuters reports",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQnI2SW5HdURxNDJZTnZ3XzJ2SDZOS2R5QU1Db2o2SDJEeWRzX0dUODM3RGJHUV9FZHh3Umdpa0hxQ0g0WURfWHVXUHNjQ1VWSzZkN3BPUjhVOU1ZNEhURjNBdEpjXzBBR3hTSElTdF96NnQ4NjBuM0dkZzc4MXJZVFFiLUNMTWF1NHQ4RTVsT1pXQng1VWo3YVFoQlo4bDB5S2JFUWsyWDA2THpVMWJMRFc2Q0JwNUYxclcyX3NwTjNyWDQ?oc=5"
+        },
+        {
+          "name": "ThePrint",
+          "title": "Chinese university with links to its military bought Nvidia H200 AI chips despite US blacklist",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ0JDa3dxU0tleHdUYzVmRlJnbGtKS2lEcmRLaUQwQnBESWE3X2wwaWpuc0tWejhRSnIzMGhuSzFWZXhuM3hDb3F0UXhPbzNoTWlPamNiRTVFd09pa0hPQk1VWGJ6QVlaRWFoaGNvM0s1cFpEQXdZWnVtbG9iSVJrVTdyYTBGVU00WGp6OXZWR2dUc2w0cEZ6d0dfV3lSS1RJSmNTZUdmdk05SG9DUXA2WjRVWjQ0Vmt3VGNGM3Q1ZXVfSjlST2stUtIBzgFBVV95cUxPTVJyZlhjbldoNmRERWYwTVgxOFpYLVpjTlpPb0k1ZWpTekdBRFVHOUlPYkRfNVlYRk40XzB3aWoxNTVLVlpwRDJKbHdnNktjNHNaeGdqY25FS3Z4amgtVUQtTGNnRGwtUVIyZmlvNG1HbDE3ZFJsd2Mxc0RNWDJvQ1hVQ0dxYkNEb2JZcjdyX3FoVk1jTTNsWElSY2pIQXJITnJKZG9lQmtkdUhvYkpkdnJ5U0NDbEw2dEl3Wk5haDNhU2x2ODF0YVp4anh1QQ?oc=5"
+        }
+      ],
+      "wordCount": 397
+    },
+    "videoScript": {
+      "hook": "A Chinese military university just obtained blacklisted Nvidia H200 AI chips.",
+      "beats": [
+        "Official procurement records reveal PLA researchers bought the high-tech hardware despite US export bans.",
+        "Primary manufacturers strictly follow regulations, but complex grey-market channels across Asia easily bypass export controls.",
+        "Washington's tech containment policy is failing against decentralized secondary supply chains."
+      ],
+      "close": "Read our full geopolitical analysis at the link in bio."
+    },
+    "rawImageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a67abd4-1785179092.jpg?resize=1920%2C1440",
+    "sourceVideo": {
+      "provider": "youtube",
+      "id": "PtrshbLQP3Q",
+      "title": "CHINA-NVIDIA H200 CHIP ROW: Military-Linked University Gets Banned US Chips, Defying Washington?",
+      "channel": "MIRROR NOW"
+    },
+    "status": "published",
+    "createdAt": "2026-11-11T21:32:58.546Z",
+    "cardImageUrl": "/news-cards/news-5lo8yv07k-1794432778546.jpg",
+    "reelCoverUrl": "/news-cards/news-5lo8yv07k-1794432779254-cover.jpg",
+    "instagramCardUrl": "/news-cards/news-5lo8yv07k-1794432779892-ig.jpg",
+    "articleUrl": "https://blindspotglobal.pages.dev/news/pla-linked-chinese-university-procures-nvidia-h200-n171/",
+    "publishedAt": "2026-11-11T23:34:29.416Z"
+  },
+  {
     "id": "309fd95j4",
     "originalUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDZlTWwtdThPTnp0UjFXeXowU3I2SzZTbDA1Zk9BZUJER0dMV1o3S2oza0sxUmxlT2xhb2k4Ykx1TDlORm5zNVdJSk8wVzZBM2VRV2xFUlpJQTdiTTJJY1ZULXJNbjIyaWVudGx5UUNjZWlMaGRJcXZHVjBmUkUxVmVxZC1FUWk0SUFmZkFQZGhaeFVPdWtkV2xIQ0hRT1ZDWGYySlk3RHdRTDloMDlLdQ?oc=5",
     "originalTitle": "OPEC+ oil output in October nears pre-Iran war rate, led by Saudi Arabia",
