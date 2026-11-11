@@ -10266,12 +10266,13 @@
         "channel": "FRANCE 24 English"
       },
       "updateOf": "torrential-rains-expose-structural-vulnerability-displaced-lqi1",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-11T05:16:47.607Z",
       "cardImageUrl": "/news-cards/news-6iz9ofyao-1794374207607.jpg",
       "reelCoverUrl": "/news-cards/news-6iz9ofyao-1794374209928-cover.jpg",
       "instagramCardUrl": "/news-cards/news-6iz9ofyao-1794374211113-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/senegal-pirogue-disaster-highlights-failure-atlantic-v1kd/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/senegal-pirogue-disaster-highlights-failure-atlantic-v1kd/",
+      "publishedAt": "2026-11-11T05:19:51.396Z"
     },
     "channels": {
       "facebook": true,
@@ -10285,10 +10286,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-11T05:16:52.429Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-11T05:16:52.429Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-11T05:17:46.012Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122104762827539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18132084475888310",
+        "permalink": "https://www.instagram.com/reel/DfltuL9gAhs/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-11T05:19:51.396Z"
   }
 ]
