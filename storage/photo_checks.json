@@ -343,5 +343,10 @@
     "relevant": true,
     "reason": "The image shows a news broadcast featuring an aerial view of earthquake damage in Pereira, Colombia, alongside an interview with a local municipal official discussing the situation",
     "at": "2026-11-11T05:02:32.528Z"
+  },
+  "42e75b243b184783:6iz9ofyao": {
+    "relevant": true,
+    "reason": "The image shows the wreckage of the capsized migrant boat on the beach in Senegal, directly illustrating the news story.",
+    "at": "2026-11-11T05:16:47.606Z"
   }
 }
