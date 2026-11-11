@@ -423,5 +423,10 @@
     "relevant": true,
     "reason": "The image depicts Iranian security chief Mohsen Rezaei, who issued the threat against U.S. military bases mentioned in the story.",
     "at": "2026-11-11T19:25:00.314Z"
+  },
+  "27f5c0be914caaa7:309fd95j4": {
+    "relevant": true,
+    "reason": "The image clearly depicts an oil pump jack silhouetted against the OPEC logo, directly representing OPEC oil production.",
+    "at": "2026-11-11T21:05:44.587Z"
   }
 }

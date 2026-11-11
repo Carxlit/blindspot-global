@@ -71,9 +71,44 @@
     "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
     "http://www.africanews.com/2026/11/11/russian-and-ukrainian-negotiators-report-some-progress-in-peace-talks/",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT3lYOEw5X1FaSkpweDhiUmp3d0QybFR3ZU4xRl8wYXRRMS1CbzFFWENqLXNBVDZhOHBvSHdXSFh3NW5oNXEyUjRfWmFMT0g1bkV2NXRWWDc5UUpsaXVWLWxwQ0RLSkRkTW5jSWlkQ1p1dzFRa2pySzFVTklVb0k3TFo1bmZPb0lZTXVId1oyN2hCZGxkRmZua2R1ay1LN3VkNE1zb1FFNHUwNGNwSlBVdE5aMzFocFlGWTNINElWV3BvY21lOWRNTmxaNHB2dw?oc=5",
-    "https://www.france24.com/en/france/20261111-tehran-will-strike-us-bases-in-europe-if-used-to-attack-iran-security-chief-says"
+    "https://www.france24.com/en/france/20261111-tehran-will-strike-us-bases-in-europe-if-used-to-attack-iran-security-chief-says",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDZlTWwtdThPTnp0UjFXeXowU3I2SzZTbDA1Zk9BZUJER0dMV1o3S2oza0sxUmxlT2xhb2k4Ykx1TDlORm5zNVdJSk8wVzZBM2VRV2xFUlpJQTdiTTJJY1ZULXJNbjIyaWVudGx5UUNjZWlMaGRJcXZHVjBmUkUxVmVxZC1FUWk0SUFmZkFQZGhaeFVPdWtkV2xIQ0hRT1ZDWGYySlk3RHdRTDloMDlLdQ?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "SAUDI ARABIA LEADS OPEC OIL PRODUCTION RECOVERY TOWARD PREWAR LEVELS",
+      "normalizedTokens": [
+        "saudi",
+        "arabia",
+        "leads",
+        "opec",
+        "oil",
+        "production",
+        "recovery",
+        "toward",
+        "prewar",
+        "levels"
+      ],
+      "date": "2026-11-11T21:05:48.569Z"
+    },
+    {
+      "title": "OPEC+ oil output in October nears pre-Iran war rate, led by Saudi Arabia",
+      "normalizedTokens": [
+        "opec",
+        "oil",
+        "output",
+        "october",
+        "nears",
+        "pre",
+        "iran",
+        "war",
+        "rate",
+        "led",
+        "saudi",
+        "arabia"
+      ],
+      "date": "2026-11-11T21:05:48.568Z"
+    },
     {
       "title": "TEHRAN THREATENS US BASES IN EUROPE OVER STRIKES",
       "normalizedTokens": [
