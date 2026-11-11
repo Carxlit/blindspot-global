@@ -11241,12 +11241,13 @@
         "title": "Jensen Huang Lost $15 Billion in a Day. Nvidia Has Almost Died Before",
         "channel": "Off The Highs"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-11T12:20:07.655Z",
       "cardImageUrl": "/news-cards/news-885bqoycc-1794399607656.jpg",
       "reelCoverUrl": "/news-cards/news-885bqoycc-1794399608332-cover.jpg",
       "instagramCardUrl": "/news-cards/news-885bqoycc-1794399609003-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/nvidia-stock-hits-15-year-relative-low-2y54/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/nvidia-stock-hits-15-year-relative-low-2y54/",
+      "publishedAt": "2026-11-11T17:06:38.779Z"
     },
     "channels": {
       "facebook": true,
@@ -11260,10 +11261,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-11T14:25:28.150Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-11T12:20:10.179Z"
+    "createdAt": "2026-11-11T12:20:10.179Z",
+    "lastAttemptAt": "2026-11-11T17:04:56.918Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122105356935539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18644323627041207",
+        "permalink": "https://www.instagram.com/reel/Dfm-nDgjTHE/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-11T17:06:38.779Z"
   },
   {
     "id": "queue-1794403739628-wtasm",
@@ -11398,7 +11423,7 @@
       "threads": false,
       "youtube": true
     },
-    "scheduledFor": "2026-11-11T15:46:28.150Z",
+    "scheduledFor": "2026-11-11T18:14:56.913Z",
     "status": "queued",
     "attempts": 0,
     "maxAttempts": 3,
