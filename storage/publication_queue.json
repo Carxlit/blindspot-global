@@ -10898,12 +10898,13 @@
         "close": "Read our full analysis on the AI debt playbook at the link in bio."
       },
       "rawImageUrl": "https://images.mktw.net/im-04728199",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-11T11:24:59.238Z",
       "cardImageUrl": "/news-cards/news-tmdgl1at2-1794396299238.jpg",
       "reelCoverUrl": "/news-cards/news-tmdgl1at2-1794396299901-cover.jpg",
       "instagramCardUrl": "/news-cards/news-tmdgl1at2-1794396300521-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/coreweave-structuring-9-billion-customer-prepayments-bogw/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/coreweave-structuring-9-billion-customer-prepayments-bogw/",
+      "publishedAt": "2026-11-11T12:18:09.388Z"
     },
     "channels": {
       "facebook": true,
@@ -10917,10 +10918,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-11T12:16:12.809Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-11T11:25:01.651Z"
+    "createdAt": "2026-11-11T11:25:01.651Z",
+    "lastAttemptAt": "2026-11-11T12:16:28.154Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122105109231539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18199177108350266",
+        "permalink": "https://www.instagram.com/reel/DfmdlJQCpkp/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-11T12:18:09.388Z"
   },
   {
     "id": "queue-1794396732265-4cs9g",
@@ -11063,7 +11088,7 @@
       "threads": false,
       "youtube": true
     },
-    "scheduledFor": "2026-11-11T13:03:12.809Z",
+    "scheduledFor": "2026-11-11T13:24:28.150Z",
     "status": "queued",
     "attempts": 0,
     "maxAttempts": 3,
