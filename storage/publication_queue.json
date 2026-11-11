@@ -10598,12 +10598,13 @@
         "title": "Congo Ebola Cases Pass 11,000, 64,000 Flee Nigeria Into Niger, Nigeria-EU Deal | Africa News",
         "channel": "NYIETH NEWS NETWORK "
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-11T07:46:48.864Z",
       "cardImageUrl": "/news-cards/news-gxa77j3tw-1794383208864.jpg",
       "reelCoverUrl": "/news-cards/news-gxa77j3tw-1794383210605-cover.jpg",
       "instagramCardUrl": "/news-cards/news-gxa77j3tw-1794383211193-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/democratic-republic-congo-surpasses-eleven-thousand-b9ot/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/democratic-republic-congo-surpasses-eleven-thousand-b9ot/",
+      "publishedAt": "2026-11-11T07:49:59.465Z"
     },
     "channels": {
       "facebook": true,
@@ -10617,10 +10618,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-11T07:46:52.230Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-11T07:46:52.230Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-11T07:48:02.813Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122104881477539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17991110045874809",
+        "permalink": "https://www.instagram.com/reel/Dfl-5oCDgNY/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-11T07:49:59.465Z"
   }
 ]
