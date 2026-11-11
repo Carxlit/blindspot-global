@@ -69,9 +69,39 @@
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM05VZzZyNlNlZUNTWllYRTl1M0pnaFYzQXZaYjVYQjFrUXFLMzR5YS1Hc0NLNGI1UGd3SzQyVjFwZGdsY3lnVkg1SDdhcVVUbjk3OW8wcnZmSDVrS3JUZXoybDJYb2JUZl9UdzNfd3ZWMGNvTG1vYzAtZkRwQUpteWlPWF8wb2t4RGtzSDRneWZuU0RKZVozWHdXeUJRN3h1Y3FjZkhVZ1RleWk0M1N5Qg?oc=5",
     "https://www.marketwatch.com/story/nvidias-valuation-tumbles-to-a-15-year-low-a-bargain-or-a-falling-knife-2ebf6085?mod=mw_rss_topstories",
     "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
-    "http://www.africanews.com/2026/11/11/russian-and-ukrainian-negotiators-report-some-progress-in-peace-talks/"
+    "http://www.africanews.com/2026/11/11/russian-and-ukrainian-negotiators-report-some-progress-in-peace-talks/",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT3lYOEw5X1FaSkpweDhiUmp3d0QybFR3ZU4xRl8wYXRRMS1CbzFFWENqLXNBVDZhOHBvSHdXSFh3NW5oNXEyUjRfWmFMT0g1bkV2NXRWWDc5UUpsaXVWLWxwQ0RLSkRkTW5jSWlkQ1p1dzFRa2pySzFVTklVb0k3TFo1bmZPb0lZTXVId1oyN2hCZGxkRmZua2R1ay1LN3VkNE1zb1FFNHUwNGNwSlBVdE5aMzFocFlGWTNINElWV3BvY21lOWRNTmxaNHB2dw?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "US TREASURY SECRETARY RELOCATED TO MILITARY BASE AMID IRANIAN THREATS",
+      "normalizedTokens": [
+        "treasury",
+        "secretary",
+        "relocated",
+        "military",
+        "base",
+        "iranian",
+        "threats"
+      ],
+      "date": "2026-11-11T18:20:30.982Z"
+    },
+    {
+      "title": "US Treasury chief Bessent moved to military base after Iranian threats, sources say",
+      "normalizedTokens": [
+        "treasury",
+        "chief",
+        "bessent",
+        "moved",
+        "military",
+        "base",
+        "iranian",
+        "threats",
+        "sources",
+        "say"
+      ],
+      "date": "2026-11-11T18:20:30.981Z"
+    },
     {
       "title": "RUSSIAN AND UKRAINIAN DELEGATIONS REPORT PROGRESS IN ABU DHABI",
       "normalizedTokens": [

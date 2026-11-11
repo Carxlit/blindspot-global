@@ -403,5 +403,15 @@
     "relevant": true,
     "reason": "The image shows delegates standing at a podium in front of a backdrop reading Abu Dhabi Peace Talks, directly representing the headline's subject.",
     "at": "2026-11-11T17:17:04.570Z"
+  },
+  "8da081597e1db1db:4ew50nm6i": {
+    "relevant": false,
+    "reason": "The photo shows Federal Reserve Chairman Jerome Powell, not US Treasury Secretary Scott Bessent.",
+    "at": "2026-11-11T18:20:23.525Z"
+  },
+  "85985178a712fa19:4ew50nm6i": {
+    "relevant": true,
+    "reason": "The image clearly shows US Treasury Secretary Scott Bessent, the central figure of the headline.",
+    "at": "2026-11-11T18:20:27.408Z"
   }
 }
