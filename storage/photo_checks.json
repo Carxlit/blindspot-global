@@ -433,5 +433,10 @@
     "relevant": true,
     "reason": "The image shows Jensen Huang, the CEO of Nvidia, whose company's chips are the central subject of the headline regarding acquisition by a military university.",
     "at": "2026-11-11T21:32:58.544Z"
+  },
+  "ad8be685a0e54b28:vizfwult7": {
+    "relevant": true,
+    "reason": "The image shows German military missile hardware and German personnel, directly relating to Germany's missile strategy and defense capabilities.",
+    "at": "2026-11-11T22:38:13.910Z"
   }
 }
