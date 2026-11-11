@@ -72,9 +72,39 @@
     "http://www.africanews.com/2026/11/11/russian-and-ukrainian-negotiators-report-some-progress-in-peace-talks/",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT3lYOEw5X1FaSkpweDhiUmp3d0QybFR3ZU4xRl8wYXRRMS1CbzFFWENqLXNBVDZhOHBvSHdXSFh3NW5oNXEyUjRfWmFMT0g1bkV2NXRWWDc5UUpsaXVWLWxwQ0RLSkRkTW5jSWlkQ1p1dzFRa2pySzFVTklVb0k3TFo1bmZPb0lZTXVId1oyN2hCZGxkRmZua2R1ay1LN3VkNE1zb1FFNHUwNGNwSlBVdE5aMzFocFlGWTNINElWV3BvY21lOWRNTmxaNHB2dw?oc=5",
     "https://www.france24.com/en/france/20261111-tehran-will-strike-us-bases-in-europe-if-used-to-attack-iran-security-chief-says",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDZlTWwtdThPTnp0UjFXeXowU3I2SzZTbDA1Zk9BZUJER0dMV1o3S2oza0sxUmxlT2xhb2k4Ykx1TDlORm5zNVdJSk8wVzZBM2VRV2xFUlpJQTdiTTJJY1ZULXJNbjIyaWVudGx5UUNjZWlMaGRJcXZHVjBmUkUxVmVxZC1FUWk0SUFmZkFQZGhaeFVPdWtkV2xIQ0hRT1ZDWGYySlk3RHdRTDloMDlLdQ?oc=5"
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDZlTWwtdThPTnp0UjFXeXowU3I2SzZTbDA1Zk9BZUJER0dMV1o3S2oza0sxUmxlT2xhb2k4Ykx1TDlORm5zNVdJSk8wVzZBM2VRV2xFUlpJQTdiTTJJY1ZULXJNbjIyaWVudGx5UUNjZWlMaGRJcXZHVjBmUkUxVmVxZC1FUWk0SUFmZkFQZGhaeFVPdWtkV2xIQ0hRT1ZDWGYySlk3RHdRTDloMDlLdQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "CHINESE MILITARY UNIVERSITY ACQUIRES BLACKLISTED NVIDIA H200 CHIPS",
+      "normalizedTokens": [
+        "chinese",
+        "military",
+        "university",
+        "acquires",
+        "blacklisted",
+        "nvidia",
+        "h200",
+        "chips"
+      ],
+      "date": "2026-11-11T21:33:01.134Z"
+    },
+    {
+      "title": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
+      "normalizedTokens": [
+        "exclusive",
+        "chinese",
+        "university",
+        "bought",
+        "nvidia",
+        "h200",
+        "chips",
+        "despite",
+        "blacklist"
+      ],
+      "date": "2026-11-11T21:33:01.134Z"
+    },
     {
       "title": "SAUDI ARABIA LEADS OPEC OIL PRODUCTION RECOVERY TOWARD PREWAR LEVELS",
       "normalizedTokens": [
