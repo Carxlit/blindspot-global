@@ -10757,11 +10757,12 @@
         "close": "Read our full analysis on retail automation at the link in our bio."
       },
       "rawImageUrl": "https://bloximages.chicago2.vip.townnews.com/goshennews.com/content/tncms/assets/v3/editorial/9/58/958e19a6-2f93-54bf-9868-43601c701099/6af3df42eb4ce.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-11T11:02:04.396Z",
       "cardImageUrl": "/news-cards/news-e2jsm8w40-1794394924396.jpg",
       "reelCoverUrl": "/news-cards/news-e2jsm8w40-1794394925004-cover.jpg",
-      "instagramCardUrl": "/news-cards/news-e2jsm8w40-1794394925572-ig.jpg"
+      "instagramCardUrl": "/news-cards/news-e2jsm8w40-1794394925572-ig.jpg",
+      "publishedAt": "2026-11-11T11:23:12.809Z"
     },
     "channels": {
       "facebook": true,
@@ -10775,9 +10776,33 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-11T11:21:06.141Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-11T11:02:06.152Z"
+    "createdAt": "2026-11-11T11:02:06.152Z",
+    "lastAttemptAt": "2026-11-11T11:21:21.255Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122105060871539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17919322083525467",
+        "permalink": "https://www.instagram.com/reel/DfmXTFfkUTX/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-11T11:23:12.809Z"
   }
 ]
