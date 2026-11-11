@@ -10438,12 +10438,13 @@
         "title": "U.S. Charges 3 Men in Alleged Iran-Backed Plot on British Air Base",
         "channel": "The Art Of News"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-11T07:16:32.019Z",
       "cardImageUrl": "/news-cards/news-lvyo01yib-1794381392019.jpg",
       "reelCoverUrl": "/news-cards/news-lvyo01yib-1794381392589-cover.jpg",
       "instagramCardUrl": "/news-cards/news-lvyo01yib-1794381393093-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/us-indicts-three-alleged-iranian-operatives-6hnn/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/us-indicts-three-alleged-iranian-operatives-6hnn/",
+      "publishedAt": "2026-11-11T07:19:31.070Z"
     },
     "channels": {
       "facebook": true,
@@ -10457,10 +10458,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-11T07:16:34.109Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-11T07:16:34.109Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-11T07:17:26.500Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122104856211539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18099939551659707",
+        "permalink": "https://www.instagram.com/reel/Dfl7aYriEbH/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-11T07:19:31.070Z"
   }
 ]
