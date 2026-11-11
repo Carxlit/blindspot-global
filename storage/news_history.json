@@ -63,9 +63,40 @@
     "https://www.france24.com/es/video/20261111-90-d%C3%ADas-del-terremoto-en-colombia-seguimos-esperando-acompa%C3%B1amiento-del-gobierno-leonardo-reales",
     "https://www.france24.com/en/tv-shows/eye-on-africa/20261111-boat-capsized-off-senegal-s-northwest-coast-leaving-39-dead",
     "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss",
-    "https://www.dw.com/es/rd-congo-supera-barrera-de-los-11-000-casos-de-ébola-incluidos-5-387-muertos/a-79914424?maca=spa-rss-sp-all-1122-rdf"
+    "https://www.dw.com/es/rd-congo-supera-barrera-de-los-11-000-casos-de-ébola-incluidos-5-387-muertos/a-79914424?maca=spa-rss-sp-all-1122-rdf",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd0ZRNDVrTEpZSnpqaDdwU01NX2c3SElnV09nZEsyQlpSSHlFR3FDQkt3Y1hYS0twOFJxMzk1Vm93aFZxTzZwUWlsRDJaZ1JtS0NJTE02VkdZaWpwMzFKYnRjV3BSYmxyTEtmYjhFRXZOZ1dnWEZfN0RCUVBsSUpkUGZQUUhCa3pSRW9IV1o5dkpacWxkVzVfcWthaXc2T0VwNG5ESVVFZW5tQ2dUcTYzM1RlWk1jaVBQMVhHNzdiY0UtQQ?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "CHINA SINGLES DAY TESTS AI SELLING POWER AMID SLUGGISH CONSUMER DEMAND",
+      "normalizedTokens": [
+        "china",
+        "singles",
+        "day",
+        "tests",
+        "selling",
+        "power",
+        "sluggish",
+        "consumer",
+        "demand"
+      ],
+      "date": "2026-11-11T11:02:06.158Z"
+    },
+    {
+      "title": "China's Singles Day shopping festival puts AI selling power to the test",
+      "normalizedTokens": [
+        "china",
+        "singles",
+        "day",
+        "shopping",
+        "festival",
+        "puts",
+        "selling",
+        "power",
+        "test"
+      ],
+      "date": "2026-11-11T11:02:06.157Z"
+    },
     {
       "title": "DR CONGO EBOLA OUTBREAK SURPASSES ELEVEN THOUSAND CASES",
       "normalizedTokens": [
