@@ -518,5 +518,10 @@
     "relevant": true,
     "reason": "The image depicts the actual damaged car from the car bombing in Russia described in the headline.",
     "at": "2026-11-12T19:21:21.517Z"
+  },
+  "bd86ac82025b98c8:ienl9ocbn": {
+    "relevant": true,
+    "reason": "The image shows damage inside Nasser Hospital alongside an interview with a surgeon from the hospital, directly illustrating the strike.",
+    "at": "2026-11-12T20:43:01.690Z"
   }
 }

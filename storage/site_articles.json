@@ -1,5 +1,110 @@
 [
   {
+    "slug": "israeli-strike-gaza-s-nasser-hospital-nhj9",
+    "path": "news/israeli-strike-gaza-s-nasser-hospital-nhj9/",
+    "title": "Update: Israeli Strike on Gaza's Nasser Hospital Kills Six, Including Surgeon",
+    "headline": "UPDATE: ISRAELI STRIKE ON NASSER HOSPITAL KILLS SIX",
+    "dek": "An early morning attack on southern Gaza's primary remaining hospital facility left six dead, including a surgeon and a child. The renewed strike highlights the systemic collapse of healthcare infrastructure across the territory.",
+    "category": "GEOPOLITICS",
+    "sourceName": "France 24",
+    "image": "img/israeli-strike-gaza-s-nasser-hospital-nhj9.jpg",
+    "photo": "img/israeli-strike-gaza-s-nasser-hospital-nhj9-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "VMX4tqsD9wQ",
+      "title": "Why Did an Israeli Strike Hit Gaza's Nasser Hospital?",
+      "channel": "Daily News Explained",
+      "license": "cc-by"
+    },
+    "publishedAt": "2026-11-12T20:43:05.547Z",
+    "article": {
+      "slug": "israeli-strike-gaza-s-nasser-hospital-nhj9",
+      "title": "Update: Israeli Strike on Gaza's Nasser Hospital Kills Six, Including Surgeon",
+      "dek": "An early morning attack on southern Gaza's primary remaining hospital facility left six dead, including a surgeon and a child. The renewed strike highlights the systemic collapse of healthcare infrastructure across the territory.",
+      "keyFacts": [
+        "Six people, including a staff surgeon and a child, were killed in an early morning strike on Nasser Hospital in southern Gaza.",
+        "The attack was part of a series of strikes across Gaza on Thursday that killed 11 people in total.",
+        "Nasser Hospital surgeon Dr. Goher Rahbour provided first-hand testimony of the immediate casualties inside the facility to France 24.",
+        "The strike marks the deadliest single attack on healthcare infrastructure since the recent Israeli elections."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Early Thursday morning, an Israeli strike hit Nasser Hospital in southern Gaza, killing at least six people. Health officials confirmed that the dead included a staff surgeon and a child, with dozens of others wounded in the surgical and emergency wards.",
+            "The strike on the hospital took place alongside wider military actions across the territory that killed 11 people on Thursday, according to Palestinian medical sources. Speaking directly to France 24, Dr. Goher Rahbour, a surgeon working inside Nasser Hospital, reported heavy damage to essential clinical infrastructure during the attack."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Nasser Hospital has functioned as the main surgical and trauma facility in southern Gaza following previous strikes and military actions that disrupted medical centers in the northern sector of the enclave.",
+            "Military spokespeople consistently state that operations near medical complexes are directed at insurgent assets and command nodes embedded in civilian areas. However, international humanitarian organizations note that repeated kinetic strikes in immediate proximity to operating rooms make continuous patient care impossible."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream reporting focuses primarily on immediate casualties and operational justifications. The underlying reality, however, is that the continuous erosion of medical infrastructure systematically eliminates the essential civic foundations required for post-war governance.",
+            "When major hospitals and trauma centers are rendered non-operational, the civil administration of the territory dissolves completely. This structural void leaves any future governing body dependent on emergency external aid, effectively transferring long-term humanitarian liabilities to international donors and neighboring Arab states."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Military planners secure immediate tactical movement within key operational sectors, eliminating alleged threats without altering combat timelines. Conversely, regional diplomatic partners face growing domestic outrage that threatens intelligence and normalization channels.",
+            "Western export control authorities face growing legal actions regarding weapons transfers, while Gaza's civilian population loses access to the region's final remaining advanced surgical facilities."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Key signals to monitor include formal statements from mediating regional governments regarding ceasefire negotiations and intelligence sharing.",
+            "Additionally, legal proceedings in international courts targeting defense supply chains will indicate whether legal scrutiny over infrastructure damage alters defense procurement policies."
+          ]
+        }
+      ],
+      "tags": [
+        "Geopolitics",
+        "Gaza",
+        "Nasser Hospital",
+        "Middle East",
+        "Humanitarian Law",
+        "Blindspot"
+      ],
+      "sources": [
+        {
+          "name": "France 24",
+          "title": "Israeli strike on Gaza hospital kills six, including surgeon, medics say",
+          "url": "https://www.france24.com/en/israeli-strike-on-gaza-hospital-kills-six-including-surgeon-medics-say"
+        },
+        {
+          "name": "NPR",
+          "title": "An Israeli strike on a Gaza hospital kills 6 people, including a doctor and a child",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nSDFOOUIwWUxXSzNTLV9oWHJDTXp5bDFzMS14MHBLM2pjNmZxNzFQMmhfWFBZOUE1aUpiaktXbEpMNDdyQkFyaVFlaWJic0NJYnVyTEg5Z0xPYm5RbUhubFdscFRGNVhaRWNaWEtPS2JKcjloVTZVUTA3X2R2QQ?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Israeli strike on Gaza’s Nasser Hospital kills at least six people, officials say",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUdEakxtMWZpbTJoLTBTOGRoNElEcDFodXFDNzcyUEtVS2dJMU92anJoQWFpdjEwT042d3lRVExOcHpFdDdrZ3lNTWZ2dlp1dzdoVjN3YU5TdUJkb1NWTWZBNHhqOTlBVWNYTkRoS2tpUWRrMTVMVFlLMDN1NHB6blRvV3dkbERhZWJHSFM1enVSaGlsaHUzRVk2cTBSREp3aENrYVBCbTlteEpMMzd2U05n?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Israeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWJsX09iak1JNmhabW1OdjdOVW84Yk5iYVI0YmJJeEE1LTc0YTAyamNncXpSbHNGT1ZNOGlNWFotMDNybEo4Uk9oVmVzeEpzdnBsWWxrb3pPbldXQmhMQWd3T3pHd2lGN0xqVVhwSjlBWEwwRXR2U0FLOXZmdTZBWC05Vmx4RVc4ek53ZnBqQ1BBRUlyNWc?oc=5"
+        },
+        {
+          "name": "CNN",
+          "title": "Israeli strike on Gaza hospital kills at least 6, including doctor and child, Palestinian officials say",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaExJSmZfZ1c0WnJGVmRDcWJJUGNFdHdLNE8tNEVyMUptT29kUWVKUmFBRnZ5UDhxUnJjaGN5NXhEbTNwM3V3Zm9wQXQ3UmRJMUM5OWc4cERlX2F2a2NQTTZnR0NPOUpDR0c5RFVNcDQ3MGVLMV9sSzZlTHhKcmRfcGZMQW05c0FhSFpfV25R?oc=5"
+        }
+      ],
+      "wordCount": 364
+    },
+    "blindSpot": "Beyond immediate tactical counter-terrorism justifications, the systematic destruction of Gaza's remaining surgical capacity fundamentally dissolves basic civil infrastructure. This operational pattern accelerates institutional collapse, shaping the post-conflict governance reality long before any formal political settlement is negotiated.",
+    "updateOf": "strike-nasser-hospital-exposes-hollow-reality-teju"
+  },
+  {
     "slug": "targeted-saint-petersburg-car-bombing-kills-zcxz",
     "path": "news/targeted-saint-petersburg-car-bombing-kills-zcxz/",
     "title": "Targeted Saint Petersburg Car Bombing Kills Senior Russian Air Force Navigator",
@@ -1178,7 +1283,8 @@
       "wordCount": 414
     },
     "blindSpot": "While mainstream coverage focuses on the immediate casualty count and the contested military presence inside medical facilities, the underlying reality is the systematic erosion of the fragile October ceasefire framework. With over 1,600 dead since the truce began, these localized strikes demonstrate how operational violations have become normalized without triggering strategic countermeasures from international mediators.",
-    "reelUrl": "https://www.instagram.com/reel/DfoSfZTD2BX/"
+    "reelUrl": "https://www.instagram.com/reel/DfoSfZTD2BX/",
+    "updatedBy": "israeli-strike-gaza-s-nasser-hospital-nhj9"
   },
   {
     "slug": "why-russia-criminalizing-photography-military-graves-thtf",
