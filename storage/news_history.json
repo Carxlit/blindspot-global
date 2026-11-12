@@ -75,9 +75,32 @@
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDZlTWwtdThPTnp0UjFXeXowU3I2SzZTbDA1Zk9BZUJER0dMV1o3S2oza0sxUmxlT2xhb2k4Ykx1TDlORm5zNVdJSk8wVzZBM2VRV2xFUlpJQTdiTTJJY1ZULXJNbjIyaWVudGx5UUNjZWlMaGRJcXZHVjBmUkUxVmVxZC1FUWk0SUFmZkFQZGhaeFVPdWtkV2xIQ0hRT1ZDWGYySlk3RHdRTDloMDlLdQ?oc=5",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLVdfemRlR1h3d2wtbk1acW52VVYyZ0pHUXBQWTdUVHJ4UjVkclJvT3hNdjFXaVQwdlJhOUlXLWJYd2VxWHZOcXQwR2xVYUN3NmJJMWs0ZEhZQTkwbGo1bno3UXNlbDV4NFRiRjJFSHI0dXNaQUVJZ2paLWhhOFFXN19oZVdBNzJrNkVFcFEza0htTlVLd2F3cDlnSWlRdFhrRDM0YmNEVnBFWUZsVFlUa2pSZFBwV2RpRzZEcmt5SGZFY0F3WS1FT3UwSGd6SDhPV2fSAdIBQVVfeXFMTy1XX3pkZUdYd3dsLW5NWnFudlVWMmdKR1FwUFk3VFRyeFI1ZHJSb094TXYxV2lUMHZSYTlJVy1iWHdlcVh2TnF0MEdsVWFDdzZiSTFrNGRIWUE5MGxqNW56N1FzZWw1eDRUYkYyRUhyNHVzWkFFSWdqWi1oYThRVzdfaGVXQTcyazZFRXBRM2tIbU5VS3dhd3A5Z0lpUXRYa0QzNGJjRFZwRVlGbFRZVGtqUmRQcFdkaUc2RHJreUhmRWNBd1ktRU91MEhnekg4T1dn?oc=5",
-    "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom"
+    "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
+    "https://www.politico.eu/article/kremlin-hide-numbers-cant-hide-graves-russia-ukraine-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
   ],
   "processedSignatures": [
+    {
+      "title": "THE KREMLIN CAN HIDE THE TOLL BUT NOT THE GRAVES",
+      "normalizedTokens": [
+        "kremlin",
+        "hide",
+        "toll",
+        "graves"
+      ],
+      "date": "2026-11-12T05:01:27.922Z"
+    },
+    {
+      "title": "The Kremlin can hide the death toll. It can’t hide the graves.",
+      "normalizedTokens": [
+        "kremlin",
+        "hide",
+        "death",
+        "toll",
+        "hide",
+        "graves"
+      ],
+      "date": "2026-11-12T05:01:27.922Z"
+    },
     {
       "title": "DEMOCRAT SCOTT COLOM SEIZES HISTORIC MISSISSIPPI SENATE SEAT",
       "normalizedTokens": [
