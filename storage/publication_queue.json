@@ -13265,12 +13265,13 @@
         "title": "Informe desde Ciudad de México: Nadia Beller recibe asilo político tras sobrevivir a atentado",
         "channel": "FRANCE 24 Español"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-12T05:46:34.085Z",
       "cardImageUrl": "/news-cards/news-uxfjtoooq-1794462394085.jpg",
       "reelCoverUrl": "/news-cards/news-uxfjtoooq-1794462394846-cover.jpg",
       "instagramCardUrl": "/news-cards/news-uxfjtoooq-1794462395430-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/mexico-grants-diplomatic-asylum-lawyer-nadia-7g3w/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/mexico-grants-diplomatic-asylum-lawyer-nadia-7g3w/",
+      "publishedAt": "2026-11-12T05:49:26.898Z"
     },
     "channels": {
       "facebook": true,
@@ -13284,10 +13285,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-12T05:46:36.442Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-12T05:46:36.442Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-12T05:47:25.429Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122105885229539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17908118892670386",
+        "permalink": "https://www.instagram.com/reel/DfoV5h3ggPq/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-12T05:49:26.898Z"
   }
 ]
