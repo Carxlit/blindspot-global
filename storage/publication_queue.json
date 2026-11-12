@@ -12757,12 +12757,13 @@
         "close": "Read the full investigative analysis at the link in our bio."
       },
       "rawImageUrl": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/09/GettyImages-1239935706-scaled.jpg",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-12T05:01:25.258Z",
       "cardImageUrl": "/news-cards/news-w9dbt8oq7-1794459685258.jpg",
       "reelCoverUrl": "/news-cards/news-w9dbt8oq7-1794459686212-cover.jpg",
       "instagramCardUrl": "/news-cards/news-w9dbt8oq7-1794459686729-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/why-russia-criminalizing-photography-military-graves-thtf/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/why-russia-criminalizing-photography-military-graves-thtf/",
+      "publishedAt": "2026-11-12T05:05:09.744Z"
     },
     "channels": {
       "facebook": true,
@@ -12776,10 +12777,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-12T05:01:27.916Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-12T05:01:27.916Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-12T05:02:22.303Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122105849925539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18122537830961775",
+        "permalink": "https://www.instagram.com/reel/DfoQ1kNEsMV/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-12T05:05:09.744Z"
   }
 ]
