@@ -80,9 +80,43 @@
     "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
     "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss",
     "https://www.france24.com/es/video/20261112-informe-desde-ciudad-de-m%C3%A9xico-nadia-beller-recibe-asilo-pol%C3%ADtico-tras-sobrevivir-a-atentado",
-    "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
+    "https://www.xataka.com/magnet/ucraniano-construyo-hotel-sus-suenos-entonces-invadio-rusia-a-moscu-le-acaba-llegar-factura-5-1-millones-dolares"
   ],
   "processedSignatures": [
+    {
+      "title": "UKRAINIAN COURT ORDERS RUSSIA TO PAY 5.1 MILLION FOR SEIZED RESORT",
+      "normalizedTokens": [
+        "ukrainian",
+        "court",
+        "orders",
+        "russia",
+        "pay",
+        "million",
+        "seized",
+        "resort"
+      ],
+      "date": "2026-11-12T11:21:22.491Z"
+    },
+    {
+      "title": "Un ucraniano construyó el hotel de sus sueños y entonces lo invadió Rusia. A Moscú le acaba de llegar una factura de 5,1 millones de dólares",
+      "normalizedTokens": [
+        "ucraniano",
+        "construyo",
+        "hotel",
+        "suenos",
+        "entonces",
+        "invadio",
+        "rusia",
+        "moscu",
+        "acaba",
+        "llegar",
+        "factura",
+        "millones",
+        "dolares"
+      ],
+      "date": "2026-11-12T11:21:22.490Z"
+    },
     {
       "title": "CANADIAN OFFICIALS EUTHANIZE FOUR GRIZZLIES FOLLOWING FATAL ATTACK",
       "normalizedTokens": [
