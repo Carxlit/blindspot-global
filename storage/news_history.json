@@ -77,9 +77,35 @@
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLVdfemRlR1h3d2wtbk1acW52VVYyZ0pHUXBQWTdUVHJ4UjVkclJvT3hNdjFXaVQwdlJhOUlXLWJYd2VxWHZOcXQwR2xVYUN3NmJJMWs0ZEhZQTkwbGo1bno3UXNlbDV4NFRiRjJFSHI0dXNaQUVJZ2paLWhhOFFXN19oZVdBNzJrNkVFcFEza0htTlVLd2F3cDlnSWlRdFhrRDM0YmNEVnBFWUZsVFlUa2pSZFBwV2RpRzZEcmt5SGZFY0F3WS1FT3UwSGd6SDhPV2fSAdIBQVVfeXFMTy1XX3pkZUdYd3dsLW5NWnFudlVWMmdKR1FwUFk3VFRyeFI1ZHJSb094TXYxV2lUMHZSYTlJVy1iWHdlcVh2TnF0MEdsVWFDdzZiSTFrNGRIWUE5MGxqNW56N1FzZWw1eDRUYkYyRUhyNHVzWkFFSWdqWi1oYThRVzdfaGVXQTcyazZFRXBRM2tIbU5VS3dhd3A5Z0lpUXRYa0QzNGJjRFZwRVlGbFRZVGtqUmRQcFdkaUc2RHJreUhmRWNBd1ktRU91MEhnekg4T1dn?oc=5",
     "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
     "https://www.politico.eu/article/kremlin-hide-numbers-cant-hide-graves-russia-ukraine-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-    "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+    "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "UN AND SOUTH SUDAN BLAMED FOR VILLAGE MASSACRE",
+      "normalizedTokens": [
+        "south",
+        "sudan",
+        "blamed",
+        "village",
+        "massacre"
+      ],
+      "date": "2026-11-12T05:31:44.476Z"
+    },
+    {
+      "title": "Amnesty says UN, South Sudan officials failed to prevent village massacre",
+      "normalizedTokens": [
+        "amnesty",
+        "south",
+        "sudan",
+        "officials",
+        "failed",
+        "prevent",
+        "village",
+        "massacre"
+      ],
+      "date": "2026-11-12T05:31:44.475Z"
+    },
     {
       "title": "ISRAELI STRIKE ON NASSER HOSPITAL KILLS AT LEAST FIVE",
       "normalizedTokens": [
