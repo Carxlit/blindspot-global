@@ -14406,12 +14406,13 @@
         "title": "Nvidia's Jensen Huang: His Wife, the Affair & the Spy Allegations",
         "channel": "Craig Sinclair Money, Markets and People"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-12T15:38:12.553Z",
       "cardImageUrl": "/news-cards/news-frbwkmao1-1794497892553.jpg",
       "reelCoverUrl": "/news-cards/news-frbwkmao1-1794497893153-cover.jpg",
       "instagramCardUrl": "/news-cards/news-frbwkmao1-1794497893711-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/collapse-nvidia-empire-beyond-jensen-huang-lwzy/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/collapse-nvidia-empire-beyond-jensen-huang-lwzy/",
+      "publishedAt": "2026-11-12T18:10:23.565Z"
     },
     "channels": {
       "facebook": true,
@@ -14425,10 +14426,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-12T18:07:54.473Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-12T15:38:14.770Z"
+    "createdAt": "2026-11-12T15:38:14.770Z",
+    "lastAttemptAt": "2026-11-12T18:08:09.904Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122106498909539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18139855021629122",
+        "permalink": "https://www.instagram.com/reel/DfpqsdAE7Gs/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-12T18:10:23.565Z"
   },
   {
     "id": "queue-1794502762444-y0wae",
