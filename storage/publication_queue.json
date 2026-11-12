@@ -14079,12 +14079,13 @@
         "close": "Read our complete geopolitical analysis at the link in our bio."
       },
       "rawImageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/1200/675/amir-hatami-iran-donald-trump-usa.jpg?ve=1&tl=1",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-12T13:42:28.743Z",
       "cardImageUrl": "/news-cards/news-4r9thdzdj-1794490948743.jpg",
       "reelCoverUrl": "/news-cards/news-4r9thdzdj-1794490949324-cover.jpg",
       "instagramCardUrl": "/news-cards/news-4r9thdzdj-1794490949882-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/strategic-paralysis-middle-east-washington-tehran-yboh/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/strategic-paralysis-middle-east-washington-tehran-yboh/",
+      "publishedAt": "2026-11-12T15:36:00.851Z"
     },
     "channels": {
       "facebook": true,
@@ -14098,10 +14099,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-12T15:33:39.362Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-12T13:42:30.936Z"
+    "createdAt": "2026-11-12T13:42:30.936Z",
+    "lastAttemptAt": "2026-11-12T15:33:54.902Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122106365133539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17925397527222567",
+        "permalink": "https://www.instagram.com/reel/DfpZBLhirqQ/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-12T15:36:00.851Z"
   },
   {
     "id": "queue-1794493929238-y1vmk",
