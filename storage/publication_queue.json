@@ -14237,11 +14237,12 @@
         "close": "Read our complete analysis on urban regulatory blind spots at the link in bio."
       },
       "rawImageUrl": "https://gray-wowt-prod.gtv-cdn.com/resizer/v2/5PJY7TEP5FEGPDLTZVQOZYTZCY.jpg?auth=56b334eaf4ed83e6db67b6905b79e7c43882ca978c64c91d7a405a9565002823&width=1200&height=600&smart=true",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-12T14:32:07.552Z",
       "cardImageUrl": "/news-cards/news-vicxepyvn-1794493927552.jpg",
       "reelCoverUrl": "/news-cards/news-vicxepyvn-1794493928177-cover.jpg",
-      "instagramCardUrl": "/news-cards/news-vicxepyvn-1794493928700-ig.jpg"
+      "instagramCardUrl": "/news-cards/news-vicxepyvn-1794493928700-ig.jpg",
+      "publishedAt": "2026-11-12T16:57:07.883Z"
     },
     "channels": {
       "facebook": true,
@@ -14255,10 +14256,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-12T16:54:39.362Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-12T14:32:09.238Z"
+    "createdAt": "2026-11-12T14:32:09.238Z",
+    "lastAttemptAt": "2026-11-12T16:54:54.481Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122106420441539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18075252053771984",
+        "permalink": "https://www.instagram.com/reel/DfpiUCcoXym/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-12T16:57:07.883Z"
   },
   {
     "id": "queue-1794497894770-x2d21",
@@ -14399,7 +14424,7 @@
       "threads": false,
       "youtube": true
     },
-    "scheduledFor": "2026-11-12T17:44:39.362Z",
+    "scheduledFor": "2026-11-12T18:07:54.473Z",
     "status": "queued",
     "attempts": 0,
     "maxAttempts": 3,
