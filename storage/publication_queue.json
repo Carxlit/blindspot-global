@@ -13752,12 +13752,13 @@
         "channel": "DAILY WA",
         "license": "cc-by"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-12T11:31:59.701Z",
       "cardImageUrl": "/news-cards/news-30ft744m6-1794483119701.jpg",
       "reelCoverUrl": "/news-cards/news-30ft744m6-1794483120310-cover.jpg",
       "instagramCardUrl": "/news-cards/news-30ft744m6-1794483120879-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/nvidia-market-cap-erases-405-billion-pna4/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/nvidia-market-cap-erases-405-billion-pna4/",
+      "publishedAt": "2026-11-12T13:39:04.606Z"
     },
     "channels": {
       "facebook": true,
@@ -13771,10 +13772,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-12T13:34:39.362Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-12T11:32:01.959Z"
+    "createdAt": "2026-11-12T11:32:01.959Z",
+    "lastAttemptAt": "2026-11-12T13:34:54.634Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122106263445539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18090028100290665",
+        "permalink": "https://www.instagram.com/reel/DfpLpQkCZb8/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Reel no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Short no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      }
+    },
+    "publishedAt": "2026-11-12T13:39:04.606Z"
   },
   {
     "id": "queue-1794486703414-5layt",
