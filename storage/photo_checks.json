@@ -478,5 +478,10 @@
     "relevant": true,
     "reason": "The image shows Nvidia CEO Jensen Huang, who is the central figure named in the context regarding reports of his potential ouster.",
     "at": "2026-11-12T11:31:59.700Z"
+  },
+  "966e89f9861f5321:n1uv9pbmt": {
+    "relevant": true,
+    "reason": "The image clearly depicts Jensen Huang, the central subject of the news story, speaking with a microphone in a formal setting.",
+    "at": "2026-11-12T12:31:41.200Z"
   }
 }

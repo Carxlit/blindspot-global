@@ -13775,5 +13775,150 @@
     "attempts": 0,
     "maxAttempts": 3,
     "createdAt": "2026-11-12T11:32:01.959Z"
+  },
+  {
+    "id": "queue-1794486703414-5layt",
+    "news": {
+      "id": "n1uv9pbmt",
+      "originalUrl": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "originalTitle": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "sourceName": "TechCrunch",
+      "category": "TECHNOLOGY & AI",
+      "urgencyScore": 95,
+      "headline": "NVIDIA BOARD PREPARES TO OUST CEO JENSEN HUANG",
+      "subHeadline": "NVIDIA Chief Executive Jensen Huang faces imminent removal by the board following revelations of a second extramarital affair with a direct report, compounding an existing investigation into ties with a suspected foreign intelligence operative.",
+      "blindSpotAngle": "While public and congressional outrage concentrates on sensationalized espionage and marital infidelity narratives, the true crisis lies in Silicon Valley governance models overly dependent on charismatic founder-CEOs. The board's swift pivot toward ouster exposes deep corporate anxiety over supply chain stability and regulatory vulnerabilities surrounding AI dominance.",
+      "facebookPost": "NVIDIA CEO Jensen Huang is facing a potential board ouster following reports of a second extramarital affair with Kimberly Powell, the company’s vice president of healthcare, alongside an ongoing probe into a separate relationship with a woman accused of being a Chinese spy.\n\nWhile mainstream coverage fixates on personal misconduct and potential congressional subpoenas from House Republicans, the actual fracture points are corporate governance vulnerability and the stability of the global AI hardware monopoly.\n\nHow fragile is a trillion-dollar technology supply chain when anchored to the personal exposure of a single founder-CEO? #TECHNOLOGY & AI\n\nSource: TechCrunch\n\n#Nvidia #Blindspot",
+      "telegramPost": "<b>NVIDIA BOARD PREPARES TO OUST CEO JENSEN HUANG AMID DUAL SCANDALS</b>\n\n• <b>What happened:</b> NVIDIA CEO Jensen Huang is facing board removal after reports surfaced of an affair with a direct report, Kimberly Powell, compounding an existing probe into a relationship with an alleged Chinese spy and potential congressional subpoenas.\n• <b>Why it matters:</b> The convergence of internal governance violations and geopolitical espionage allegations threatens the executive stability of the cornerstone architect of global artificial intelligence hardware.\n• <b>What is next:</b> Expect the NVIDIA board to formalize succession proceedings while Capitol Hill weighs aggressive legislative subpoenas against the co-founder who has led the firm since 1993.",
+      "linkedInPost": "The convergence of governance probes and executive misconduct at NVIDIA underscores a fundamental risk in modern tech monopolies: extreme key-person dependency.\n\nAs the board weighs leadership removal amid concurrent investigations into personal conduct and potential foreign intelligence exposure, institutional investors must re-evaluate supply chain resilience and regulatory exposure in critical AI infrastructure. #TECHNOLOGY & AI\n\nSource: TechCrunch\n\n#CorporateGovernance #Blindspot",
+      "blueskyPost": "NVIDIA board weighs ousting CEO Jensen Huang over a second affair and espionage probes. Beyond the headlines, the real crisis is key-person dependency at the heart of the global AI supply chain. #TECHNOLOGY & AI #Blindspot",
+      "copies": {
+        "facebook": "NVIDIA CEO Jensen Huang is facing a potential board ouster following reports of a second extramarital affair with Kimberly Powell, the company’s vice president of healthcare, alongside an ongoing probe into a separate relationship with a woman accused of being a Chinese spy.\n\nWhile mainstream coverage fixates on personal misconduct and potential congressional subpoenas from House Republicans, the actual fracture points are corporate governance vulnerability and the stability of the global AI hardware monopoly.\n\nHow fragile is a trillion-dollar technology supply chain when anchored to the personal exposure of a single founder-CEO? #TECHNOLOGY & AI #Nvidia #Blindspot",
+        "telegram": "<b>NVIDIA BOARD PREPARES TO OUST CEO JENSEN HUANG AMID DUAL SCANDALS</b>\n\n• <b>What happened:</b> NVIDIA CEO Jensen Huang is facing board removal after reports surfaced of an affair with a direct report, Kimberly Powell, compounding an existing probe into a relationship with an alleged Chinese spy and potential congressional subpoenas.\n• <b>Why it matters:</b> The convergence of internal governance violations and geopolitical espionage allegations threatens the executive stability of the cornerstone architect of global artificial intelligence hardware.\n• <b>What is next:</b> Expect the NVIDIA board to formalize succession proceedings while Capitol Hill weighs aggressive legislative subpoenas against the co-founder who has led the firm since 1993.",
+        "bluesky": "NVIDIA board weighs ousting CEO Jensen Huang over a second affair and espionage probes. Beyond the headlines, the real crisis is key-person dependency at the heart of the global AI supply chain. #TECHNOLOGY & AI #Blindspot",
+        "linkedIn": "The convergence of governance probes and executive misconduct at NVIDIA underscores a fundamental risk in modern tech monopolies: extreme key-person dependency.\n\nAs the board weighs leadership removal amid concurrent investigations into personal conduct and potential foreign intelligence exposure, institutional investors must re-evaluate supply chain resilience and regulatory exposure in critical AI infrastructure. #TECHNOLOGY & AI #CorporateGovernance #Blindspot"
+      },
+      "article": {
+        "slug": "nvidia-prepares-oust-ceo-jensen-huang-mmvo",
+        "title": "NVIDIA prepares to oust CEO Jensen Huang amid compounding executive scandals",
+        "dek": "NVIDIA co-founder and CEO Jensen Huang faces board removal and potential congressional subpoenas following reports of a second extramarital affair with a direct report and an ongoing intelligence probe.",
+        "keyFacts": [
+          "NVIDIA co-founder Jensen Huang co-founded the company in 1993.",
+          "The New York Times reported that five employees stated Huang and Kimberly Powell, vice president of healthcare, were captured on video being affectionate at a San Jose hotel.",
+          "Two House Republicans announced that Congress is preparing to subpoena Huang over separate allegations involving a woman accused of being a Chinese spy.",
+          "The Wall Street Journal reported that the NVIDIA board was preparing to oust Huang following the publication of the second affair."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "NVIDIA Chief Executive Jensen Huang is facing potential removal by the company's board of directors following explosive reports concerning personal misconduct and corporate governance violations. According to reporting from The New York Times, Huang is suspected of having an extramarital affair with Kimberly Powell, NVIDIA’s vice president of healthcare and a direct report to the chief executive.",
+              "The alleged relationship was brought to light by five company employees who stated that Huang and Powell were captured on video being affectionate at a San Jose, California hotel earlier this year during a corporate conference. The revelations arrive while NVIDIA's board is already investigating Huang over a separate admitted affair with a woman accused of being a Chinese spy."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "Corporate policies at NVIDIA, akin to standard governance frameworks across the technology sector, explicitly discourage superiors from engaging in romantic relationships with employees in subordinate roles. The accumulation of parallel investigations has dramatically accelerated pressure from institutional stakeholders.",
+              "Concurrently, political pressure is mounting in Washington. Two House Republicans stated that Congress is preparing to issue a formal subpoena for Huang if he fails to voluntarily respond to a summons regarding the spy allegations."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "Mainstream coverage has largely framed the crisis through the lens of executive personal indiscretion and political theater. However, the blind spot in the narrative is the vulnerability of modern technology monopolies built entirely around charismatic founder-CEOs.",
+              "NVIDIA sits at the absolute center of global artificial intelligence infrastructure, controlling vital hardware pipelines. The sudden disruption or removal of its long-serving leadership exposes structural weaknesses in corporate oversight and heightens regulatory risks that extend far beyond Silicon Valley boardrooms."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "Institutional investors and corporate governance advocates emerge as the primary agitators for change, seeking to insulate the trillion-dollar hardware giant from compounding reputational and geopolitical liabilities.",
+              "Conversely, NVIDIA's executive leadership team and global supply chain partners bear the immediate operational cost, facing sudden strategic uncertainty at a time when technological dominance requires absolute administrative continuity."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "Market observers must monitor formal announcements from the NVIDIA board regarding executive succession timelines and the conclusion of the internal investigations. Additionally, tracking potential congressional hearings and official subpoena actions in Washington will indicate the extent of regulatory fallout."
+            ]
+          }
+        ],
+        "tags": [
+          "Nvidia",
+          "Jensen Huang",
+          "Artificial Intelligence",
+          "Corporate Governance",
+          "Tech Policy"
+        ],
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+            "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
+          },
+          {
+            "name": "The New York Times",
+            "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw?oc=5"
+          },
+          {
+            "name": "Data Center Dynamics",
+            "title": "Nvidia's Jensen Huang accused of second affair with staffer, board considers ouster",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd3E5LTVOOEd0NlJvMFUzS0EyREJubzc1aDdBcjI1cHlvRFhySVBYNk1xNF9uLU42TURxUXI5eTRJZWs0SjFNSGN5M1hycWg1WFBPT1ktUmd2VXRCcERFQ2Nuay1PQ1QwLXBfQlY0OUdqTWxZQW80Y3Z6bHJhRnBFbHFxaU9vc09uYnBRRVRXakFxZVBSMXFCYUFSRWpHdll1T0ROVnI4VzhLeWVtd3dBSGp5TXQzLVNFTjk4WmFFOFFTRlk?oc=5"
+          },
+          {
+            "name": "Yahoo Finance",
+            "title": "Nvidia Preparing to Oust CEO Jensen Huang After He’s Accused of Another Affair",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTmlCalRkOFRoY3Q4RVJUOVhWUk1xT2ZidlV0VGJoWlE0aFNxYmxvbElFTmZBRUs0R0N6aVVEX3EweDRIU1NVRmVZUERueFhnR25TR1Z5Skotbm5Rd2VPalBDZXpLdURYMzAyV1BRYVh3RkNZQW8zcVpYQ0FnVUtnUHd4TElZV1Z1OGNpOG1RenNtMmlma0lndg?oc=5"
+          },
+          {
+            "name": "Computing UK",
+            "title": "Nvidia CEO Jensen Huang accused of second affair",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTkR4V3E3bjFWNmhWRzlZSXN5MDdXdllJVWxDTk1CNk9EYXp3MWFMc2lGTVFpTDU3VXJTOEJvUkE5aHZnSl9PVHpWbjdPNktfakMzYnNpSnUxOHdzOWg5MzJGNUoxaWgwM3duOUNZcExlTlZrZk1ubDRmZWtTVDg4Qmd0SFBwN1piQXZ5cEx0cw?oc=5"
+          }
+        ],
+        "wordCount": 390
+      },
+      "videoScript": {
+        "hook": "NVIDIA is preparing to oust its legendary chief executive.",
+        "beats": [
+          "Jensen Huang co-founded the semiconductor giant in 1993.",
+          "The board initiated investigations following reports of a second affair with a direct report and separate spy allegations.",
+          "The real crisis is how extreme key-person dependency threatens global artificial intelligence infrastructure."
+        ],
+        "close": "Read the full analysis at the link in bio."
+      },
+      "rawImageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+      "sourceVideo": {
+        "provider": "youtube",
+        "id": "JqqVnyov9Po",
+        "title": "Bitcoin Falling to $73,000. We Told You | $QNT is Strong | Nvidia CEO Jensen Huang Affair and More",
+        "channel": "CryptoNinjas",
+        "license": "cc-by"
+      },
+      "status": "pending",
+      "createdAt": "2026-11-12T12:31:41.202Z",
+      "cardImageUrl": "/news-cards/news-n1uv9pbmt-1794486701202.jpg",
+      "reelCoverUrl": "/news-cards/news-n1uv9pbmt-1794486701782-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-n1uv9pbmt-1794486702302-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/nvidia-prepares-oust-ceo-jensen-huang-mmvo/"
+    },
+    "channels": {
+      "facebook": true,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": true,
+      "mastodon": false,
+      "threads": false,
+      "youtube": true
+    },
+    "scheduledFor": "2026-11-12T14:27:39.362Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-12T12:31:43.414Z"
   }
 ]

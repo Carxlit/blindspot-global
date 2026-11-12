@@ -82,9 +82,37 @@
     "https://www.france24.com/es/video/20261112-informe-desde-ciudad-de-m%C3%A9xico-nadia-beller-recibe-asilo-pol%C3%ADtico-tras-sobrevivir-a-atentado",
     "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
     "https://www.xataka.com/magnet/ucraniano-construyo-hotel-sus-suenos-entonces-invadio-rusia-a-moscu-le-acaba-llegar-factura-5-1-millones-dolares",
-    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ3BxNkwwaFkwbi1YcFpvMTQ2a0RoYjdEQWxFVjVfQm5BVVZZTHJPdW1LNDdIYTJTdnRpTU5sMThoOXRmcjd5VU5LSzRvYWNXdjIyek1ReUdEdWJlZVhweVRrWl9RRUVBcFNpdUVkV2Y4Tzhmd0FpQl9ZVHlmNVMwM1BVUmRtN1lYdG84MVJzSTU0ZmtnQVJzQjJTY3BLeVdjMnZnTW1IZlJFSWkzb2xSaWJtUzJBSWdqaG9KYUp1bGlpUXN2WjVrbjBoV0hwTnFNdGc?oc=5"
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ3BxNkwwaFkwbi1YcFpvMTQ2a0RoYjdEQWxFVjVfQm5BVVZZTHJPdW1LNDdIYTJTdnRpTU5sMThoOXRmcjd5VU5LSzRvYWNXdjIyek1ReUdEdWJlZVhweVRrWl9RRUVBcFNpdUVkV2Y4Tzhmd0FpQl9ZVHlmNVMwM1BVUmRtN1lYdG84MVJzSTU0ZmtnQVJzQjJTY3BLeVdjMnZnTW1IZlJFSWkzb2xSaWJtUzJBSWdqaG9KYUp1bGlpUXN2WjVrbjBoV0hwTnFNdGc?oc=5",
+    "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
   ],
   "processedSignatures": [
+    {
+      "title": "NVIDIA BOARD PREPARES TO OUST CEO JENSEN HUANG",
+      "normalizedTokens": [
+        "nvidia",
+        "board",
+        "prepares",
+        "oust",
+        "ceo",
+        "jensen",
+        "huang"
+      ],
+      "date": "2026-11-12T12:31:43.419Z"
+    },
+    {
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "normalizedTokens": [
+        "jensen",
+        "huang",
+        "accused",
+        "having",
+        "another",
+        "affair",
+        "nvidia",
+        "exec"
+      ],
+      "date": "2026-11-12T12:31:43.419Z"
+    },
     {
       "title": "NVIDIA SHARES PLUNGE 10 PERCENT AMID BOARD OUSTER REPORTS",
       "normalizedTokens": [

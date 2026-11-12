@@ -1,5 +1,107 @@
 [
   {
+    "slug": "nvidia-prepares-oust-ceo-jensen-huang-mmvo",
+    "path": "news/nvidia-prepares-oust-ceo-jensen-huang-mmvo/",
+    "title": "NVIDIA prepares to oust CEO Jensen Huang amid compounding executive scandals",
+    "headline": "NVIDIA BOARD PREPARES TO OUST CEO JENSEN HUANG",
+    "dek": "NVIDIA co-founder and CEO Jensen Huang faces board removal and potential congressional subpoenas following reports of a second extramarital affair with a direct report and an ongoing intelligence probe.",
+    "category": "TECHNOLOGY & AI",
+    "sourceName": "TechCrunch",
+    "image": "img/nvidia-prepares-oust-ceo-jensen-huang-mmvo.jpg",
+    "photo": "img/nvidia-prepares-oust-ceo-jensen-huang-mmvo-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "JqqVnyov9Po",
+      "title": "Bitcoin Falling to $73,000. We Told You | $QNT is Strong | Nvidia CEO Jensen Huang Affair and More",
+      "channel": "CryptoNinjas",
+      "license": "cc-by"
+    },
+    "publishedAt": "2026-11-12T12:31:43.221Z",
+    "article": {
+      "slug": "nvidia-prepares-oust-ceo-jensen-huang-mmvo",
+      "title": "NVIDIA prepares to oust CEO Jensen Huang amid compounding executive scandals",
+      "dek": "NVIDIA co-founder and CEO Jensen Huang faces board removal and potential congressional subpoenas following reports of a second extramarital affair with a direct report and an ongoing intelligence probe.",
+      "keyFacts": [
+        "NVIDIA co-founder Jensen Huang co-founded the company in 1993.",
+        "The New York Times reported that five employees stated Huang and Kimberly Powell, vice president of healthcare, were captured on video being affectionate at a San Jose hotel.",
+        "Two House Republicans announced that Congress is preparing to subpoena Huang over separate allegations involving a woman accused of being a Chinese spy.",
+        "The Wall Street Journal reported that the NVIDIA board was preparing to oust Huang following the publication of the second affair."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "NVIDIA Chief Executive Jensen Huang is facing potential removal by the company's board of directors following explosive reports concerning personal misconduct and corporate governance violations. According to reporting from The New York Times, Huang is suspected of having an extramarital affair with Kimberly Powell, NVIDIA’s vice president of healthcare and a direct report to the chief executive.",
+            "The alleged relationship was brought to light by five company employees who stated that Huang and Powell were captured on video being affectionate at a San Jose, California hotel earlier this year during a corporate conference. The revelations arrive while NVIDIA's board is already investigating Huang over a separate admitted affair with a woman accused of being a Chinese spy."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Corporate policies at NVIDIA, akin to standard governance frameworks across the technology sector, explicitly discourage superiors from engaging in romantic relationships with employees in subordinate roles. The accumulation of parallel investigations has dramatically accelerated pressure from institutional stakeholders.",
+            "Concurrently, political pressure is mounting in Washington. Two House Republicans stated that Congress is preparing to issue a formal subpoena for Huang if he fails to voluntarily respond to a summons regarding the spy allegations."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream coverage has largely framed the crisis through the lens of executive personal indiscretion and political theater. However, the blind spot in the narrative is the vulnerability of modern technology monopolies built entirely around charismatic founder-CEOs.",
+            "NVIDIA sits at the absolute center of global artificial intelligence infrastructure, controlling vital hardware pipelines. The sudden disruption or removal of its long-serving leadership exposes structural weaknesses in corporate oversight and heightens regulatory risks that extend far beyond Silicon Valley boardrooms."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Institutional investors and corporate governance advocates emerge as the primary agitators for change, seeking to insulate the trillion-dollar hardware giant from compounding reputational and geopolitical liabilities.",
+            "Conversely, NVIDIA's executive leadership team and global supply chain partners bear the immediate operational cost, facing sudden strategic uncertainty at a time when technological dominance requires absolute administrative continuity."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Market observers must monitor formal announcements from the NVIDIA board regarding executive succession timelines and the conclusion of the internal investigations. Additionally, tracking potential congressional hearings and official subpoena actions in Washington will indicate the extent of regulatory fallout."
+          ]
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Artificial Intelligence",
+        "Corporate Governance",
+        "Tech Policy"
+      ],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+          "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw?oc=5"
+        },
+        {
+          "name": "Data Center Dynamics",
+          "title": "Nvidia's Jensen Huang accused of second affair with staffer, board considers ouster",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd3E5LTVOOEd0NlJvMFUzS0EyREJubzc1aDdBcjI1cHlvRFhySVBYNk1xNF9uLU42TURxUXI5eTRJZWs0SjFNSGN5M1hycWg1WFBPT1ktUmd2VXRCcERFQ2Nuay1PQ1QwLXBfQlY0OUdqTWxZQW80Y3Z6bHJhRnBFbHFxaU9vc09uYnBRRVRXakFxZVBSMXFCYUFSRWpHdll1T0ROVnI4VzhLeWVtd3dBSGp5TXQzLVNFTjk4WmFFOFFTRlk?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "title": "Nvidia Preparing to Oust CEO Jensen Huang After He’s Accused of Another Affair",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTmlCalRkOFRoY3Q4RVJUOVhWUk1xT2ZidlV0VGJoWlE0aFNxYmxvbElFTmZBRUs0R0N6aVVEX3EweDRIU1NVRmVZUERueFhnR25TR1Z5Skotbm5Rd2VPalBDZXpLdURYMzAyV1BRYVh3RkNZQW8zcVpYQ0FnVUtnUHd4TElZV1Z1OGNpOG1RenNtMmlma0lndg?oc=5"
+        },
+        {
+          "name": "Computing UK",
+          "title": "Nvidia CEO Jensen Huang accused of second affair",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTkR4V3E3bjFWNmhWRzlZSXN5MDdXdllJVWxDTk1CNk9EYXp3MWFMc2lGTVFpTDU3VXJTOEJvUkE5aHZnSl9PVHpWbjdPNktfakMzYnNpSnUxOHdzOWg5MzJGNUoxaWgwM3duOUNZcExlTlZrZk1ubDRmZWtTVDg4Qmd0SFBwN1piQXZ5cEx0cw?oc=5"
+        }
+      ],
+      "wordCount": 390
+    },
+    "blindSpot": "While public and congressional outrage concentrates on sensationalized espionage and marital infidelity narratives, the true crisis lies in Silicon Valley governance models overly dependent on charismatic founder-CEOs. The board's swift pivot toward ouster exposes deep corporate anxiety over supply chain stability and regulatory vulnerabilities surrounding AI dominance."
+  },
+  {
     "slug": "nvidia-market-cap-erases-405-billion-pna4",
     "path": "news/nvidia-market-cap-erases-405-billion-pna4/",
     "title": "Nvidia Market Cap Erases $405 Billion as Board Considers Ousting Jensen Huang",
