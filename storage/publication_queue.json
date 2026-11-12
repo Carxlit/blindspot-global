@@ -15250,12 +15250,13 @@
         "channel": "Desi AI Labs",
         "license": "cc-by"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-12T21:44:41.950Z",
       "cardImageUrl": "/news-cards/news-m112xx8s7-1794519881951.jpg",
       "reelCoverUrl": "/news-cards/news-m112xx8s7-1794519882653-cover.jpg",
       "instagramCardUrl": "/news-cards/news-m112xx8s7-1794519883306-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/nvidia-ceo-jensen-huang-resigns-following-klp9/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/nvidia-ceo-jensen-huang-resigns-following-klp9/",
+      "publishedAt": "2026-11-12T23:41:09.624Z"
     },
     "channels": {
       "facebook": true,
@@ -15269,9 +15270,33 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-12T23:38:54.473Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-12T21:44:44.551Z"
+    "createdAt": "2026-11-12T21:44:44.551Z",
+    "lastAttemptAt": "2026-11-12T23:39:09.810Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122106745995539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17917003974507533",
+        "permalink": "https://www.instagram.com/reel/DfqQixljagD/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Reel no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Short no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      }
+    },
+    "publishedAt": "2026-11-12T23:41:09.624Z"
   }
 ]
