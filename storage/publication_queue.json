@@ -14904,12 +14904,13 @@
         "channel": "Kanal13",
         "license": "cc-by"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-12T19:21:21.517Z",
       "cardImageUrl": "/news-cards/news-qoev9qdh2-1794511281518.jpg",
       "reelCoverUrl": "/news-cards/news-qoev9qdh2-1794511282494-cover.jpg",
       "instagramCardUrl": "/news-cards/news-qoev9qdh2-1794511283010-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/targeted-saint-petersburg-car-bombing-kills-zcxz/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/targeted-saint-petersburg-car-bombing-kills-zcxz/",
+      "publishedAt": "2026-11-12T21:43:20.072Z"
     },
     "channels": {
       "facebook": true,
@@ -14923,10 +14924,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-12T21:40:54.473Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-12T19:21:24.060Z"
+    "createdAt": "2026-11-12T19:21:24.060Z",
+    "lastAttemptAt": "2026-11-12T21:41:09.868Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122106652155539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18201012700376216",
+        "permalink": "https://www.instagram.com/reel/DfqDD3dlyMl/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Reel no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Short no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      }
+    },
+    "publishedAt": "2026-11-12T21:43:20.072Z"
   },
   {
     "id": "queue-1794516185663-1lbn8",
