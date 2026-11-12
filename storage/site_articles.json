@@ -1,5 +1,91 @@
 [
   {
+    "slug": "fragility-ai-boom-following-nvidia-s-l36i",
+    "path": "news/fragility-ai-boom-following-nvidia-s-l36i/",
+    "title": "The fragility of the ai boom following nvidia's leadership shift",
+    "headline": "NVIDIA SHARES RECOVER AFTER CEO SUDDEN DEPARTURE",
+    "dek": "Nvidia shares recovered from a 13% early-session crash as investors scrambled to price in the sudden departure of the company's CEO. The volatility exposes the deep-seated reliance of the global AI infrastructure on a single corporate leadership model.",
+    "category": "TECHNOLOGY & AI",
+    "sourceName": "Reuters",
+    "image": "img/fragility-ai-boom-following-nvidia-s-l36i.jpg",
+    "photo": "img/fragility-ai-boom-following-nvidia-s-l36i-foto.jpg",
+    "publishedAt": "2026-11-12T18:12:58.414Z",
+    "article": {
+      "slug": "fragility-ai-boom-following-nvidia-s-l36i",
+      "title": "The fragility of the ai boom following nvidia's leadership shift",
+      "dek": "Nvidia shares recovered from a 13% early-session crash as investors scrambled to price in the sudden departure of the company's CEO. The volatility exposes the deep-seated reliance of the global AI infrastructure on a single corporate leadership model.",
+      "keyFacts": [
+        "Nvidia shares experienced an initial 13% crash during early trading.",
+        "The company's market capitalization recovered to remain above $4 trillion.",
+        "The sudden exit of the CEO triggered widespread market uncertainty.",
+        "The firm serves as the primary hardware architect for the global AI sector."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Nvidia stock experienced extreme volatility following the unexpected departure of its CEO. Markets reacted sharply, with shares crashing 13% at the opening bell before a mid-day recovery pushed the company's market capitalization back above the $4 trillion threshold.",
+            "The swift reversal suggests that while institutional investors are attempting to stabilize the stock, the underlying uncertainty regarding the company's direction remains high."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Nvidia has functioned as the central pillar of the global AI boom, providing the semiconductors essential for large-scale machine learning operations. The company's valuation had reached unprecedented levels, effectively making its leadership synonymous with the growth projections of the entire AI sector.",
+            "The sudden change at the top comes at a time when chip manufacturers are facing immense pressure to scale production while navigating complex geopolitical trade restrictions."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream analysis has focused heavily on the price recovery, framing the event as a testament to the company's institutional strength. However, this ignores the structural vulnerability created by the firm's reliance on a single executive vision.",
+            "The exit reveals that the AI market is not as diversified or resilient as analysts previously claimed. If the architect of the world's most critical compute hardware is removed, the entire supply chain faces a period of inevitable strategic drift."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The immediate losers are retail and institutional investors who faced a 13% wipeout in value within hours of the announcement. Those who benefited from the volatility were short-term traders who capitalized on the massive dip.",
+            "Long-term, the broader AI ecosystem—including cloud providers and defense firms—faces the risk of supply chain delays if the leadership transition does not provide immediate continuity."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "The next critical indicator will be the board's announcement regarding a permanent successor and any changes to the company's strategic roadmap.",
+            "Investors should look for signs of internal management friction or potential shifts in production partnerships that could signal deeper institutional instability."
+          ]
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Semiconductors",
+        "AI",
+        "Markets",
+        "Corporate Governance"
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "AI stocks pare losses as investors assess fallout of Nvidia CEO's exit",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTDc4NU9Ycko1b01GTVdRT1lMVzJWaEhrLS1OSU92el9GTTRMSEhyTW5VbThOZEhoVGNCbHNBU19EZS1UUlNiTW0wVU41RUdBVkJpQlNRazBvaHJFQ2VnT2FJU183NE9ub1RKQU5wMFp6N1luX3lrMFZubFVIaHJ0TWhZRVkyUzhJVjBsaDRlMEpKNUFLeWtITVhLRVhqOERFMzh0azNJeVlqVzI0ZUowcnV4Z3VYMUdXcFY0?oc=5"
+        },
+        {
+          "name": "The Globe and Mail",
+          "title": "AI stocks pare losses as investors assess fallout of Nvidia CEO’s exit",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEFOTnZWRFNXajJvYzlNd3NCWWZzT0RDLVdmOHJ0NV90VjNfcDI1NFNhTUJIdllDRTNWdllpS203TjRVaWRyQ0dGU3Z4ODQzTlIwcHpkaXRXeUx2Q3UtTG5FRXh6ZVNVSlhEUklzNk1LN25HRWJDLWtVek5ZRzkzeTNYNW91c0tUbWhhREVHLUVhQQ?oc=5"
+        },
+        {
+          "name": "TradingView",
+          "title": "Nvidia shares pare 13% opening crash; m-cap recovers above $4 trillion after early wipeout",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdGxNbUdRajBac3d6dkZkREE5WGRLR2pwNDNITUVzZ1lDMDBVYUdvQ09IT1l0Y0VMTEEyWkJncjJtV0RwTE9FME9hUEJuMVIzRlMwWVBuZXhJMEZObWgzZUJ1aWNHUS1pZWJnQVlibk1xNS1Ec01heHRoQWpvYjZEbHI2MHJrcnh4bzJCYWZCblZReWtXMWxqdzRCRlBORDJqalhpR243aGRKRGdBQ2MtTnJMSGNVOEdHejJzdHNBdHZ3YTZtUHFmMFFMZGtjQmVJLTZoWWlvZ1VBWUE1bk1Za3lua04?oc=5"
+        }
+      ],
+      "wordCount": 345
+    },
+    "blindSpot": "The market focus remains on short-term price volatility rather than the structural vacuum left by a leadership transition at the center of the global AI supply chain. This exit forces a re-evaluation of whether Nvidia’s valuation was tethered to institutional performance or the singular cult of personality surrounding its outgoing executive."
+  },
+  {
     "slug": "end-diplomatic-track-trump-pivots-away-u0ch",
     "path": "news/end-diplomatic-track-trump-pivots-away-u0ch/",
     "title": "The end of the diplomatic track: Trump pivots away from Iran",

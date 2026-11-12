@@ -14600,5 +14600,134 @@
     "attempts": 0,
     "maxAttempts": 3,
     "createdAt": "2026-11-12T16:59:22.444Z"
+  },
+  {
+    "id": "queue-1794507178470-cf3j3",
+    "news": {
+      "id": "8t35c7fvj",
+      "originalUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTDc4NU9Ycko1b01GTVdRT1lMVzJWaEhrLS1OSU92el9GTTRMSEhyTW5VbThOZEhoVGNCbHNBU19EZS1UUlNiTW0wVU41RUdBVkJpQlNRazBvaHJFQ2VnT2FJU183NE9ub1RKQU5wMFp6N1luX3lrMFZubFVIaHJ0TWhZRVkyUzhJVjBsaDRlMEpKNUFLeWtITVhLRVhqOERFMzh0azNJeVlqVzI0ZUowcnV4Z3VYMUdXcFY0?oc=5",
+      "originalTitle": "AI stocks pare losses as investors assess fallout of Nvidia CEO's exit",
+      "sourceName": "Reuters",
+      "category": "TECHNOLOGY & AI",
+      "urgencyScore": 92,
+      "headline": "NVIDIA SHARES RECOVER AFTER CEO SUDDEN DEPARTURE",
+      "subHeadline": "Nvidia shares pared an initial 13% opening crash to maintain a market capitalization above $4 trillion following the sudden exit of its CEO.",
+      "blindSpotAngle": "The market focus remains on short-term price volatility rather than the structural vacuum left by a leadership transition at the center of the global AI supply chain. This exit forces a re-evaluation of whether Nvidia’s valuation was tethered to institutional performance or the singular cult of personality surrounding its outgoing executive.",
+      "facebookPost": "Nvidia shares recovered today after an initial 13% crash triggered by the sudden departure of its CEO. While markets are currently focused on the company's ability to maintain a $4 trillion valuation, the broader implications of this leadership void remain under-addressed.\n\nThe real story is not the stock price correction, but the instability of a global AI ecosystem that has become dangerously reliant on a single corporate figurehead. Is the current recovery a sign of market resilience, or merely a temporary refusal to acknowledge a fundamental shift in the semiconductor power structure?\n\nSource: Reuters\n\n#Nvidia #AI #Blindspot",
+      "telegramPost": "<b>NVIDIA SHARES RECOVER AFTER CEO SUDDEN DEPARTURE</b>\n\n• <b>What happened:</b> Nvidia stock pared an initial 13% opening crash, settling with a market cap above $4 trillion following the unexpected exit of its CEO.\n• <b>Why it matters:</b> The sudden leadership change threatens the stability of the entire AI hardware supply chain, exposing the fragility of a market sector built around singular corporate entities.\n• <b>What is next:</b> Investors will monitor the board's succession strategy to determine if the company can maintain its current growth trajectory without its long-standing architect.",
+      "linkedInPost": "Nvidia's market volatility today, marked by a sharp 13% intraday swing and a recovery to a $4 trillion valuation, highlights a critical vulnerability in current technology markets: institutional over-reliance on individual leadership. As the semiconductor industry faces this unexpected transition, the focus must shift from daily ticker fluctuations to the long-term stability of the AI supply chain. Institutional investors should prepare for a period of heightened risk as the governance vacuum at the world's most critical chip manufacturer is filled.\n\nSource: Reuters\n\n#Technology #AI #Blindspot",
+      "blueskyPost": "Nvidia stock recovered after a 13% crash, but the real story is the fragility of an AI sector built on one CEO. Markets are ignoring the structural risk of this leadership vacuum. #Blindspot #Technology",
+      "copies": {
+        "facebook": "Nvidia shares recovered today after an initial 13% crash triggered by the sudden departure of its CEO. While markets are currently focused on the company's ability to maintain a $4 trillion valuation, the broader implications of this leadership void remain under-addressed.\n\nThe real story is not the stock price correction, but the instability of a global AI ecosystem that has become dangerously reliant on a single corporate figurehead. Is the current recovery a sign of market resilience, or merely a temporary refusal to acknowledge a fundamental shift in the semiconductor power structure?\n\n#Nvidia #AI #Blindspot",
+        "telegram": "<b>NVIDIA SHARES RECOVER AFTER CEO SUDDEN DEPARTURE</b>\n\n• <b>What happened:</b> Nvidia stock pared an initial 13% opening crash, settling with a market cap above $4 trillion following the unexpected exit of its CEO.\n• <b>Why it matters:</b> The sudden leadership change threatens the stability of the entire AI hardware supply chain, exposing the fragility of a market sector built around singular corporate entities.\n• <b>What is next:</b> Investors will monitor the board's succession strategy to determine if the company can maintain its current growth trajectory without its long-standing architect.",
+        "bluesky": "Nvidia stock recovered after a 13% crash, but the real story is the fragility of an AI sector built on one CEO. Markets are ignoring the structural risk of this leadership vacuum. #Blindspot #Technology",
+        "linkedIn": "Nvidia's market volatility today, marked by a sharp 13% intraday swing and a recovery to a $4 trillion valuation, highlights a critical vulnerability in current technology markets: institutional over-reliance on individual leadership. As the semiconductor industry faces this unexpected transition, the focus must shift from daily ticker fluctuations to the long-term stability of the AI supply chain. Institutional investors should prepare for a period of heightened risk as the governance vacuum at the world's most critical chip manufacturer is filled. #Technology #AI #Blindspot"
+      },
+      "article": {
+        "slug": "fragility-ai-boom-following-nvidia-s-l36i",
+        "title": "The fragility of the ai boom following nvidia's leadership shift",
+        "dek": "Nvidia shares recovered from a 13% early-session crash as investors scrambled to price in the sudden departure of the company's CEO. The volatility exposes the deep-seated reliance of the global AI infrastructure on a single corporate leadership model.",
+        "keyFacts": [
+          "Nvidia shares experienced an initial 13% crash during early trading.",
+          "The company's market capitalization recovered to remain above $4 trillion.",
+          "The sudden exit of the CEO triggered widespread market uncertainty.",
+          "The firm serves as the primary hardware architect for the global AI sector."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "Nvidia stock experienced extreme volatility following the unexpected departure of its CEO. Markets reacted sharply, with shares crashing 13% at the opening bell before a mid-day recovery pushed the company's market capitalization back above the $4 trillion threshold.",
+              "The swift reversal suggests that while institutional investors are attempting to stabilize the stock, the underlying uncertainty regarding the company's direction remains high."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "Nvidia has functioned as the central pillar of the global AI boom, providing the semiconductors essential for large-scale machine learning operations. The company's valuation had reached unprecedented levels, effectively making its leadership synonymous with the growth projections of the entire AI sector.",
+              "The sudden change at the top comes at a time when chip manufacturers are facing immense pressure to scale production while navigating complex geopolitical trade restrictions."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "Mainstream analysis has focused heavily on the price recovery, framing the event as a testament to the company's institutional strength. However, this ignores the structural vulnerability created by the firm's reliance on a single executive vision.",
+              "The exit reveals that the AI market is not as diversified or resilient as analysts previously claimed. If the architect of the world's most critical compute hardware is removed, the entire supply chain faces a period of inevitable strategic drift."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "The immediate losers are retail and institutional investors who faced a 13% wipeout in value within hours of the announcement. Those who benefited from the volatility were short-term traders who capitalized on the massive dip.",
+              "Long-term, the broader AI ecosystem—including cloud providers and defense firms—faces the risk of supply chain delays if the leadership transition does not provide immediate continuity."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "The next critical indicator will be the board's announcement regarding a permanent successor and any changes to the company's strategic roadmap.",
+              "Investors should look for signs of internal management friction or potential shifts in production partnerships that could signal deeper institutional instability."
+            ]
+          }
+        ],
+        "tags": [
+          "Nvidia",
+          "Semiconductors",
+          "AI",
+          "Markets",
+          "Corporate Governance"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "title": "AI stocks pare losses as investors assess fallout of Nvidia CEO's exit",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTDc4NU9Ycko1b01GTVdRT1lMVzJWaEhrLS1OSU92el9GTTRMSEhyTW5VbThOZEhoVGNCbHNBU19EZS1UUlNiTW0wVU41RUdBVkJpQlNRazBvaHJFQ2VnT2FJU183NE9ub1RKQU5wMFp6N1luX3lrMFZubFVIaHJ0TWhZRVkyUzhJVjBsaDRlMEpKNUFLeWtITVhLRVhqOERFMzh0azNJeVlqVzI0ZUowcnV4Z3VYMUdXcFY0?oc=5"
+          },
+          {
+            "name": "The Globe and Mail",
+            "title": "AI stocks pare losses as investors assess fallout of Nvidia CEO’s exit",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEFOTnZWRFNXajJvYzlNd3NCWWZzT0RDLVdmOHJ0NV90VjNfcDI1NFNhTUJIdllDRTNWdllpS203TjRVaWRyQ0dGU3Z4ODQzTlIwcHpkaXRXeUx2Q3UtTG5FRXh6ZVNVSlhEUklzNk1LN25HRWJDLWtVek5ZRzkzeTNYNW91c0tUbWhhREVHLUVhQQ?oc=5"
+          },
+          {
+            "name": "TradingView",
+            "title": "Nvidia shares pare 13% opening crash; m-cap recovers above $4 trillion after early wipeout",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdGxNbUdRajBac3d6dkZkREE5WGRLR2pwNDNITUVzZ1lDMDBVYUdvQ09IT1l0Y0VMTEEyWkJncjJtV0RwTE9FME9hUEJuMVIzRlMwWVBuZXhJMEZObWgzZUJ1aWNHUS1pZWJnQVlibk1xNS1Ec01heHRoQWpvYjZEbHI2MHJrcnh4bzJCYWZCblZReWtXMWxqdzRCRlBORDJqalhpR243aGRKRGdBQ2MtTnJMSGNVOEdHejJzdHNBdHZ3YTZtUHFmMFFMZGtjQmVJLTZoWWlvZ1VBWUE1bk1Za3lua04?oc=5"
+          }
+        ],
+        "wordCount": 345
+      },
+      "videoScript": {
+        "hook": "Nvidia stock just survived a massive crash, but is the AI boom actually safe?",
+        "beats": [
+          "Shares of the chip giant plummeted 13% this morning following the sudden exit of the company's CEO.",
+          "While the market recovered to keep the company's valuation above 4 trillion dollars, the structural damage remains hidden.",
+          "Investors are ignoring the fact that the entire AI supply chain is now facing a dangerous leadership vacuum."
+        ],
+        "close": "Read the full analysis at the link in our bio."
+      },
+      "rawImageUrl": "https://www.theglobeandmail.com/resizer/v2/Y3DNPI5UFBBKFGWW3IYYX3NMOI.jpg?auth=5d470f733e0705c82098f680b025acfcea6ce4c364409aa4494c82f55d6d8c67&width=1200&height=800&quality=80&smart=true",
+      "status": "pending",
+      "createdAt": "2026-11-12T18:12:55.798Z",
+      "cardImageUrl": "/news-cards/news-8t35c7fvj-1794507175798.jpg",
+      "reelCoverUrl": "/news-cards/news-8t35c7fvj-1794507176585-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-8t35c7fvj-1794507177211-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/fragility-ai-boom-following-nvidia-s-l36i/"
+    },
+    "channels": {
+      "facebook": true,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": true,
+      "mastodon": false,
+      "threads": false,
+      "youtube": true
+    },
+    "scheduledFor": "2026-11-12T20:37:54.473Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-12T18:12:58.470Z"
   }
 ]
