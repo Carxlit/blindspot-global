@@ -78,9 +78,38 @@
     "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
     "https://www.politico.eu/article/kremlin-hide-numbers-cant-hide-graves-russia-ukraine-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-    "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss"
+    "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss",
+    "https://www.france24.com/es/video/20261112-informe-desde-ciudad-de-m%C3%A9xico-nadia-beller-recibe-asilo-pol%C3%ADtico-tras-sobrevivir-a-atentado"
   ],
   "processedSignatures": [
+    {
+      "title": "MEXICO GRANTS ASYLUM TO LAWYER NADIA BELLER",
+      "normalizedTokens": [
+        "mexico",
+        "grants",
+        "asylum",
+        "lawyer",
+        "nadia",
+        "beller"
+      ],
+      "date": "2026-11-12T05:46:36.450Z"
+    },
+    {
+      "title": "Informe desde Ciudad de México: Nadia Beller recibe asilo político tras sobrevivir a atentado",
+      "normalizedTokens": [
+        "informe",
+        "ciudad",
+        "mexico",
+        "nadia",
+        "beller",
+        "recibe",
+        "asilo",
+        "politico",
+        "sobrevivir",
+        "atentado"
+      ],
+      "date": "2026-11-12T05:46:36.449Z"
+    },
     {
       "title": "UN AND SOUTH SUDAN BLAMED FOR VILLAGE MASSACRE",
       "normalizedTokens": [
