@@ -483,5 +483,15 @@
     "relevant": true,
     "reason": "The image clearly depicts Jensen Huang, the central subject of the news story, speaking with a microphone in a formal setting.",
     "at": "2026-11-12T12:31:41.200Z"
+  },
+  "c922b108bf2378c0:4r9thdzdj": {
+    "relevant": false,
+    "reason": "The image shows U.S. political figures rather than a direct visual representation of a regional war between Washington and Tehran.",
+    "at": "2026-11-12T13:42:05.735Z"
+  },
+  "34ff002f60ebb71a:4r9thdzdj": {
+    "relevant": true,
+    "reason": "The image depicts prominent figures representing both Washington (Donald Trump) and Tehran (an Iranian military official), clearly illustrating the two opposing sides mentioned in",
+    "at": "2026-11-12T13:42:25.554Z"
   }
 }
