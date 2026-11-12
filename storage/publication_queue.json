@@ -13437,12 +13437,13 @@
         "title": "Four grizzly bears linked to fatal attack of B.C. mother and daughter euthanized: officials",
         "channel": "CTV News"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-12T11:01:59.919Z",
       "cardImageUrl": "/news-cards/news-kehrciwhm-1794481319920.jpg",
       "reelCoverUrl": "/news-cards/news-kehrciwhm-1794481320538-cover.jpg",
       "instagramCardUrl": "/news-cards/news-kehrciwhm-1794481321160-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/canadian-authorities-euthanize-four-grizzly-bears-902v/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/canadian-authorities-euthanize-four-grizzly-bears-902v/",
+      "publishedAt": "2026-11-12T11:24:11.846Z"
     },
     "channels": {
       "facebook": true,
@@ -13456,11 +13457,11 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-12T11:22:23.919Z",
-    "status": "queued",
-    "attempts": 1,
+    "status": "published",
+    "attempts": 2,
     "maxAttempts": 3,
     "createdAt": "2026-11-12T11:02:02.324Z",
-    "lastAttemptAt": "2026-11-12T11:15:17.617Z",
+    "lastAttemptAt": "2026-11-12T11:22:30.381Z",
     "results": {
       "facebook": {
         "success": true,
@@ -13468,8 +13469,9 @@
         "simulated": false
       },
       "instagram": {
-        "success": false,
-        "error": "Reel de Instagram: subida: Request processing failed (se reintenta como Reel)"
+        "success": true,
+        "mediaId": "18137858545669867",
+        "permalink": "https://www.instagram.com/reel/Dfo8M1tClSk/"
       },
       "facebookReel": {
         "success": false,
@@ -13482,7 +13484,7 @@
         "error": "Noticia sin video libre: no se sube a YouTube"
       }
     },
-    "error": "Reintento 1/3: instagram: Reel de Instagram: subida: Request processing failed (se reintenta como Reel)"
+    "publishedAt": "2026-11-12T11:24:11.846Z"
   },
   {
     "id": "queue-1794482482484-71u1p",
