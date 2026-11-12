@@ -1,5 +1,110 @@
 [
   {
+    "slug": "nvidia-ceo-jensen-huang-resigns-following-klp9",
+    "path": "news/nvidia-ceo-jensen-huang-resigns-following-klp9/",
+    "title": "Nvidia CEO Jensen Huang Resigns Following Espionage Allegations Involving Suspected Intelligence Operative",
+    "headline": "JENSEN HUANG RESIGNS FROM NVIDIA AMIDST CHINESE ESPIONAGE ALLEGATIONS",
+    "dek": "The co-founder of the global chipmaker steps down amid reports of extramarital affairs linked to a foreign intelligence investigation. CFO Colette Kress takes the helm as the company navigates a high-stakes leadership transition.",
+    "category": "GLOBAL ECONOMY",
+    "sourceName": "BBC Business",
+    "image": "img/nvidia-ceo-jensen-huang-resigns-following-klp9.jpg",
+    "photo": "img/nvidia-ceo-jensen-huang-resigns-following-klp9-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "WqVtKAYPWJk",
+      "title": "Jensen Huang RESIGNS! Colette Kress Takes Over NVIDIA | 5 Layers of AI Economy (2027)",
+      "channel": "Desi AI Labs",
+      "license": "cc-by"
+    },
+    "publishedAt": "2026-11-12T21:44:44.453Z",
+    "article": {
+      "slug": "nvidia-ceo-jensen-huang-resigns-following-klp9",
+      "title": "Nvidia CEO Jensen Huang Resigns Following Espionage Allegations Involving Suspected Intelligence Operative",
+      "dek": "The co-founder of the global chipmaker steps down amid reports of extramarital affairs linked to a foreign intelligence investigation. CFO Colette Kress takes the helm as the company navigates a high-stakes leadership transition.",
+      "keyFacts": [
+        "Jensen Huang resigned as CEO of Nvidia on Thursday after reports revealed extramarital affairs, one involving a woman suspected of being a Chinese spy.",
+        "Chief Financial Officer Colette Kress has been appointed interim CEO while the board conducts a search for a permanent successor.",
+        "Colette Kress brings more than 30 years of technology industry experience, including previous executive roles at Cisco and Microsoft.",
+        "Potential candidates for permanent CEO include Nvidia co-founder Chris Malachowsky, high-performance computing chief Ian Buck, and Arm CEO Rene Haas.",
+        "Nvidia was founded more than three decades ago in the early 1990s by Jensen Huang, Chris Malachowsky, and Curtis Priem."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Nvidia co-founder and chief executive Jensen Huang abruptly resigned from his position on Thursday following internal and federal reviews regarding undisclosed personal relationships. According to reports cited by national media, the investigations uncovered extramarital affairs, including one with a woman suspected by intelligence authorities of acting on behalf of Chinese intelligence operations.",
+            "In the wake of Huang's departure, Nvidia's board of directors appointed Chief Financial Officer Colette Kress as interim chief executive. Kress, who also holds the title of executive vice president, has served as the firm's financial chief for over a decade and has been a central figure alongside Huang during public earnings briefings."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Founded more than three decades ago in the early 1990s by Jensen Huang, Chris Malachowsky, and Curtis Priem, Nvidia evolved from a specialized designer of graphics processors for desktop gaming into the world's most critical manufacturer of hardware for artificial intelligence applications.",
+            "Huang's personal brand was deeply intertwined with the company's aggressive technological pivot toward data center computing and high-performance AI clusters. His sudden exit removes a central figure who led the business through its rise to multi-trillion-dollar market valuations."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While public attention centers on the corporate scandal, the strategic implications extend far into sovereign defense and economic security. Nvidia holds a near-monopoly on advanced AI accelerators essential for supercomputing, national security laboratories, and sovereign intelligence systems across Western nations.",
+            "The involvement of a suspected foreign spy at the apex of Nvidia's leadership highlights how hardware manufacturers are now front-line targets for espionage. Beyond the personal misconduct, Western security regulators are examining whether proprietary roadmaps, supply chain architecture, or advanced computing designs were compromised during the relationship."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "In the short term, institutional investors gain operational continuity through Colette Kress, whose 30-year industry tenure at Microsoft, Cisco, and Nvidia offers financial predictability. However, Nvidia loses its primary visionary and lead public advocate at a moment of intensifying international competition.",
+            "Rival semiconductor designers and foreign chip initiatives stand to benefit from any organizational paralysis or delays in Nvidia's product development pipeline as the board debates its long-term corporate governance strategy."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "The key focus now turns to whether Nvidia selects an operational custodian or a technical engineer to succeed Huang permanently. Candidates under consideration include co-founder Chris Malachowsky, high-performance computing vice president Ian Buck, and Arm chief executive Rene Haas.",
+            "Concurrently, market analysts and security regulators will monitor upcoming public disclosures for any sign of operational disruption or federal regulatory actions regarding defense contract compliance."
+          ]
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Semiconductors",
+        "Artificial Intelligence",
+        "Corporate Governance",
+        "Geopolitics",
+        "Supply Chain"
+      ],
+      "sources": [
+        {
+          "name": "BBC Business",
+          "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+          "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NVIDIA Newsroom",
+          "title": "NVIDIA Announces CEO Transition",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZNXBiTEpIYWNHT2hlMWVfSXJ1UWd6eEVKUW1URllFTkpERzVyRWpBOEgyaU90Sk5KVm9VZXRseUlXSEswU1JSNHhzeVhRN2lxQXRUbVk1cTBLZXRjSHFNWTNQRWNXb2FrQno3TzNzQTg2UXA1?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Who is Colette Kress, Nvidia’s new interim CEO?",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOWJublJxbU9WTDIyYmY4T2Zjb1VFQVRPS2loY1FocS04aXF4cjFzYmRoYy1RaExETENRWXBQa2s0NGRERGFUQ080cU9FSXRaZFF4Xy1oemhwcHJDLVl1M0R6Ni1RNFRqZUVJYW9SMWIyb3VoTU5FekpaOTFzVzJ2azF1LUlrelhqRUgwSFczdnFidW1WSWdEaF9iWnd4cS1nZURoVzMxb1cxRHg4WWwzeGNZNEw?oc=5"
+        },
+        {
+          "name": "Breaking News, Latest News and Videos",
+          "title": "Who is Nvidia's interim CEO Colette Kress? A look at her career so far - ABC News",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUnNuc2xHSkhhNmhPd1N3U25JeGFFTXV0d0RKV0lvSTA5ZllLeUxCR1hqX1pUUGVZd1F4ZWduMi1ITkFCSE1LZk9MSmxxVWVGbkVUcHZKMTdQLU96Y2pxaUZPdVZURENHc3RhTVJ4T09sejVHa1dhSV9iVm9Sa3BPMWswVGk1Zi1Hb3fSAY8BQVVfeXFMUE1rZElVakRqRF8tUl9TZVROR2dhMEpVV3ZVbHBPX3JVWTdjcHp6SUtGbnRMTmw2dUE1NzliTmhraTVVd0VFZTF0NnJSeVlidU1CN00tYnZTVzFwc1J4NFZIRnJ5d0o5bUVFanJHTWpjeGhPeTJpa3V5NVZpUFlraU0teWRWQW0xTnNnazV3N0k?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaGliajlaNEpxWDNkSmtUZzN5dTBVZkFiSHFCRWJQUC0wMk1xdm1nTXdfM1hZT0psZWJ4TF9HWTVqLTd4eUVfQmVleGtwT0lRWEhMWW1NZVkyOGFEVWdlOGJwemtiVUhldm1HQnJtQnlJc0lVUFJQdFQ5Wk9lSGRXc0g0b0xXTU0yZGc?oc=5"
+        }
+      ],
+      "wordCount": 440
+    },
+    "blindSpot": "While mainstream coverage focuses on the personal scandal, the core geopolitical crisis is national security exposure at the summit of critical AI infrastructure. Western intelligence agencies and Wall Street face a double failure: the compromise of key hardware leadership by state espionage actors, and the institutional vacuum left behind as Nvidia scrambles to balance financial stabilization against technical command."
+  },
+  {
     "slug": "israeli-strike-gaza-s-nasser-hospital-nhj9",
     "path": "news/israeli-strike-gaza-s-nasser-hospital-nhj9/",
     "title": "Update: Israeli Strike on Gaza's Nasser Hospital Kills Six, Including Surgeon",

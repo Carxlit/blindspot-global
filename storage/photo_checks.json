@@ -523,5 +523,10 @@
     "relevant": true,
     "reason": "The image shows damage inside Nasser Hospital alongside an interview with a surgeon from the hospital, directly illustrating the strike.",
     "at": "2026-11-12T20:43:01.690Z"
+  },
+  "02a9b10d5885a174:m112xx8s7": {
+    "relevant": true,
+    "reason": "The image shows the key individuals mentioned in the context summary (CEO Jensen Huang, CFO Colette Kress, and an associated party or former executive).",
+    "at": "2026-11-12T21:44:41.948Z"
   }
 }
