@@ -12927,12 +12927,13 @@
         "title": "Israel strikes intensive care at Gaza’s Nasser Hospital | AJ #shorts",
         "channel": "Al Jazeera English"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-12T05:16:08.270Z",
       "cardImageUrl": "/news-cards/news-o4fhls9ab-1794460568271.jpg",
       "reelCoverUrl": "/news-cards/news-o4fhls9ab-1794460569000-cover.jpg",
       "instagramCardUrl": "/news-cards/news-o4fhls9ab-1794460569603-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/strike-nasser-hospital-exposes-hollow-reality-teju/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/strike-nasser-hospital-exposes-hollow-reality-teju/",
+      "publishedAt": "2026-11-12T05:19:38.506Z"
     },
     "channels": {
       "facebook": true,
@@ -12946,10 +12947,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-12T05:16:10.885Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-12T05:16:10.885Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-12T05:17:03.870Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122105860893539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18015351398763306",
+        "permalink": "https://www.instagram.com/reel/DfoSfZTD2BX/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-12T05:19:38.506Z"
   }
 ]
