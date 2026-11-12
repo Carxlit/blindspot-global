@@ -503,5 +503,10 @@
     "relevant": true,
     "reason": "The image depicts Jensen Huang, the central figure mentioned in the headline regarding his resignation from Nvidia.",
     "at": "2026-11-12T15:38:11.038Z"
+  },
+  "097d63e9c4422fd0:hrcwh6yl5": {
+    "relevant": true,
+    "reason": "The image features Donald Trump and JD Vance, the central figures mentioned in the news story regarding domestic policy and administration directives.",
+    "at": "2026-11-12T16:59:20.144Z"
   }
 }

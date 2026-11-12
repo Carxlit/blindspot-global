@@ -86,9 +86,40 @@
     "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbjNkU1dtRi1ZR0lyQmplWGZON1QwakF5Wk82UzhRSzR6ZlJfVFlpTkJLWEVBdGFsc21GbEVNMURkRDhaWm9tRHhwZGhUclFxXzdzUlZUU0VUYi10U1MtVzF5djhHNFVCSEhUa1dMN0pvWjktV2JQVGJTa01lSl9lM1RkY1RGdmJmOWVGUkd6MUw2WjBDZ0NPQ3pfYzh2ZXkwNDF3YXppNlBIcEhIUWlQcVhoZXpEOUZpNXYzZHVrdlVybVYz?oc=5",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTF0bXlzSWlmLWlkQWl1aE1xZzFRNjVtTXJtOFV4bUtGd2JQeGx0bjJ1bjRCQ2pUVFN2ejd2ZU5NZE5MVTdSNGpZbjU4RVV4MDVsQnRtLUZHV09LS0NYeWY1OGVaVkdWYk10Vy00UzdJY1lpSUYza2dWVGY3aC1vS3dCbDE2OVlHNHB5VVJYSDBSZi05eVNLcXRsMDZDWkJFZmYtMGxsN2hjQQ?oc=5",
-    "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkdBWnZVWXZqcEFwdWFkTmw5XzVHVndjNzBhdW1GZVFfT2d2OFBzVDlLbC1pdmNvZTY5X01iRE01eGktRlh0b0s2bXJSTm9ZS19CZkdnVzR6bmEzOFJlQjNET2NvTl9yVGZjeHg5SkxVcmZ5UHFkLXcxQ1M3N1dRU3R5R05raV9VOVRsUDRFZE9sT1B6NmZ0ZTA4SFB0TlNYTUNhUHdMWVNKV0tDSmd4d19IRERyblE2QkgxSlpzSQ?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "TRUMP REJECTS IRAN NEGOTIATIONS PRIORITIZING DOMESTIC CORRUPTION INVESTIGATIONS",
+      "normalizedTokens": [
+        "trump",
+        "rejects",
+        "iran",
+        "negotiations",
+        "prioritizing",
+        "domestic",
+        "corruption",
+        "investigations"
+      ],
+      "date": "2026-11-12T16:59:22.454Z"
+    },
+    {
+      "title": "Trump says US does not \"need\" Iran deal, directs Vance to focus on domestic corruption",
+      "normalizedTokens": [
+        "trump",
+        "does",
+        "need",
+        "iran",
+        "deal",
+        "directs",
+        "vance",
+        "focus",
+        "domestic",
+        "corruption"
+      ],
+      "date": "2026-11-12T16:59:22.453Z"
+    },
     {
       "title": "NVIDIA CEO JENSEN HUANG RESIGNS AMID PERSONAL SCANDALS",
       "normalizedTokens": [
