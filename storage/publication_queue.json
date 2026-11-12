@@ -12592,12 +12592,13 @@
         "channel": "The Pryce Podcast",
         "license": "cc-by"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-11T23:36:17.214Z",
       "cardImageUrl": "/news-cards/news-zbdmlv50s-1794440177214.jpg",
       "reelCoverUrl": "/news-cards/news-zbdmlv50s-1794440179567-cover.jpg",
       "instagramCardUrl": "/news-cards/news-zbdmlv50s-1794440180129-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/democrat-scott-colom-defeats-cindy-hyde-smith-qxun/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/democrat-scott-colom-defeats-cindy-hyde-smith-qxun/",
+      "publishedAt": "2026-11-12T01:36:29.012Z"
     },
     "channels": {
       "facebook": true,
@@ -12611,9 +12612,33 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-12T01:33:56.913Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-11T23:36:21.246Z"
+    "createdAt": "2026-11-11T23:36:21.246Z",
+    "lastAttemptAt": "2026-11-12T01:34:12.303Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122105708841539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18067750823518209",
+        "permalink": "https://www.instagram.com/reel/Dfn47rEDHSM/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Reel no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Short no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      }
+    },
+    "publishedAt": "2026-11-12T01:36:29.012Z"
   }
 ]
