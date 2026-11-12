@@ -13093,12 +13093,13 @@
         "close": "Read the full analysis at the link in our bio."
       },
       "rawImageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a8c941bcc3a1-1787597851.jpg?resize=1920%2C1440",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-12T05:31:40.699Z",
       "cardImageUrl": "/news-cards/news-1qxqpimtm-1794461500700.jpg",
       "reelCoverUrl": "/news-cards/news-1qxqpimtm-1794461501436-cover.jpg",
       "instagramCardUrl": "/news-cards/news-1qxqpimtm-1794461502012-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/how-ignored-warnings-troop-cuts-enabled-xkhh/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/how-ignored-warnings-troop-cuts-enabled-xkhh/",
+      "publishedAt": "2026-11-12T05:36:43.302Z"
     },
     "channels": {
       "facebook": true,
@@ -13112,10 +13113,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-12T05:31:44.469Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-12T05:31:44.470Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-12T05:32:36.380Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122105872239539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18096360341169339",
+        "permalink": "https://www.instagram.com/reel/DfoUc2QjRfd/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-12T05:36:43.302Z"
   }
 ]
