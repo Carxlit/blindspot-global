@@ -14259,5 +14259,150 @@
     "attempts": 0,
     "maxAttempts": 3,
     "createdAt": "2026-11-12T14:32:09.238Z"
+  },
+  {
+    "id": "queue-1794497894770-x2d21",
+    "news": {
+      "id": "frbwkmao1",
+      "originalUrl": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "originalTitle": "Nvidia's CEO was the rock star of AI before his dramatic unravelling",
+      "sourceName": "BBC Business",
+      "category": "GLOBAL ECONOMY",
+      "urgencyScore": 92,
+      "headline": "NVIDIA CEO JENSEN HUANG RESIGNS AMID PERSONAL SCANDALS",
+      "subHeadline": "Jensen Huang has resigned from Nvidia following revelations of personal affairs, including a relationship with an alleged Chinese intelligence operative. The firm remains valued at over $4 trillion despite the leadership vacuum.",
+      "blindSpotAngle": "The focus on Huang's personal life masks a deeper vulnerability: the extreme centralization of global AI infrastructure around a single individual's reputation and access. His removal forces a reckoning with how thin the margin is between US AI supremacy and the geopolitical risks inherent in key tech figures.",
+      "facebookPost": "Nvidia CEO Jensen Huang, once the untouchable architect of the AI revolution, has resigned following a rapid sequence of personal disclosures. The reports of affairs, including one involving an alleged Chinese intelligence asset, have shattered the image of the man who held court with both Donald Trump and Xi Jinping.\n\nWhile the market initially reacted with volatility, the company maintains a valuation north of $4 trillion. Yet, the resignation exposes a precarious reality: the global AI supply chain was tethered to a singular, charismatic figure whose personal life was never vetted against the geopolitical gravity of his position.\n\nDoes the reliance on individual 'rock star' CEOs to navigate state-level tech diplomacy represent a fundamental structural failure in modern corporate governance?\n\nSource: BBC Business\n\n#Nvidia #AI #Blindspot",
+      "telegramPost": "<b>NVIDIA CEO JENSEN HUANG RESIGNS AMID PERSONAL SCANDALS</b>\n\n• <b>What happened:</b> Jensen Huang has stepped down as CEO of Nvidia following revelations of multiple affairs, including a reported relationship with an alleged Chinese spy.\n• <b>Why it matters:</b> Huang was the primary bridge between the US and China in the critical AI semiconductor race. His sudden departure creates a leadership vacuum in a company valued at over $4 trillion.\n• <b>What is next:</b> Markets are bracing for instability as the board scrambles to replace a figure whose influence extended beyond business into the highest levels of global statecraft.",
+      "linkedInPost": "The resignation of Nvidia CEO Jensen Huang is more than a corporate scandal; it is a systemic shock to the global semiconductor industry. With a market valuation exceeding $4 trillion, Nvidia is the linchpin of the AI arms race between the US and China. Huang’s unique ability to manage high-level stakeholders in both Washington and Beijing provided a layer of stability that is now gone. Institutional investors must now evaluate the risks of 'key person' dependency in an industry that is effectively the backbone of modern global economic power.\n\nSource: BBC Business\n\n#Semiconductors #Nvidia #Geopolitics #Blindspot",
+      "blueskyPost": "Nvidia's $4 trillion valuation is now tethered to a leadership vacuum after Jensen Huang's resignation. The real story isn't the scandal—it's the fragility of a global AI supply chain built around one man's access to Beijing and DC. #Blindspot #GlobalEconomy",
+      "copies": {
+        "facebook": "Nvidia CEO Jensen Huang, once the untouchable architect of the AI revolution, has resigned following a rapid sequence of personal disclosures. The reports of affairs, including one involving an alleged Chinese intelligence asset, have shattered the image of the man who held court with both Donald Trump and Xi Jinping.\n\nWhile the market initially reacted with volatility, the company maintains a valuation north of $4 trillion. Yet, the resignation exposes a precarious reality: the global AI supply chain was tethered to a singular, charismatic figure whose personal life was never vetted against the geopolitical gravity of his position.\n\nDoes the reliance on individual 'rock star' CEOs to navigate state-level tech diplomacy represent a fundamental structural failure in modern corporate governance? \n\n#Nvidia #AI #Blindspot",
+        "telegram": "<b>NVIDIA CEO JENSEN HUANG RESIGNS AMID PERSONAL SCANDALS</b>\n\n• <b>What happened:</b> Jensen Huang has stepped down as CEO of Nvidia following revelations of multiple affairs, including a reported relationship with an alleged Chinese spy.\n• <b>Why it matters:</b> Huang was the primary bridge between the US and China in the critical AI semiconductor race. His sudden departure creates a leadership vacuum in a company valued at over $4 trillion.\n• <b>What is next:</b> Markets are bracing for instability as the board scrambles to replace a figure whose influence extended beyond business into the highest levels of global statecraft.",
+        "bluesky": "Nvidia's $4 trillion valuation is now tethered to a leadership vacuum after Jensen Huang's resignation. The real story isn't the scandal—it's the fragility of a global AI supply chain built around one man's access to Beijing and DC. #Blindspot #GlobalEconomy",
+        "linkedIn": "The resignation of Nvidia CEO Jensen Huang is more than a corporate scandal; it is a systemic shock to the global semiconductor industry. With a market valuation exceeding $4 trillion, Nvidia is the linchpin of the AI arms race between the US and China. Huang’s unique ability to manage high-level stakeholders in both Washington and Beijing provided a layer of stability that is now gone. Institutional investors must now evaluate the risks of 'key person' dependency in an industry that is effectively the backbone of modern global economic power. #Semiconductors #Nvidia #Geopolitics #Blindspot"
+      },
+      "article": {
+        "slug": "collapse-nvidia-empire-beyond-jensen-huang-lwzy",
+        "title": "The collapse of the Nvidia empire: beyond the Jensen Huang headlines",
+        "dek": "Jensen Huang’s sudden resignation from Nvidia following personal revelations exposes the dangerous fragility of the global AI supply chain. His departure marks the end of an era where individual corporate leaders served as the primary conduits for state-level technological diplomacy.",
+        "keyFacts": [
+          "Jensen Huang resigned as CEO of Nvidia following reports of two affairs, one involving an alleged Chinese spy.",
+          "Nvidia currently holds a market valuation exceeding $4 trillion.",
+          "Huang had amassed an estimated personal fortune of $145 billion, according to the Bloomberg Billionaires Index.",
+          "The 63-year-old executive was a central figure in the AI race between the US and China, having met with both President Donald Trump and President Xi Jinping."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "The tenure of Jensen Huang as the chief executive of Nvidia has come to an abrupt end. Following a series of reports detailing personal misconduct, including a romantic relationship with a woman alleged to be a Chinese intelligence operative, Huang resigned from the company he founded in 1993.",
+              "The resignation followed back-to-back revelations that surfaced within days of each other. Beyond the connection to the alleged foreign intelligence asset, reports confirmed a second affair with an executive within Nvidia. These disclosures triggered an immediate reaction in the stock market, reflecting the outsized role Huang played in the company's valuation."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "Nvidia has become the most critical entity in the global race for AI dominance. With a valuation recently eclipsing $4 trillion, the firm produces the microchips that underpin modern artificial intelligence. Huang, often identified by his signature black leather jacket, had cultivated a persona as a self-made immigrant success story, rising from his birth in Taiwan to the pinnacle of American business.",
+              "His influence was not restricted to the boardroom. Huang functioned as a de facto diplomat, maintaining direct access to global power brokers, including US President Donald Trump and China's President Xi Jinping. This unique positioning allowed him to navigate the complex trade and security tensions defining the current US-China tech rivalry."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "The mainstream narrative has focused heavily on the moral and personal failings of the CEO. However, the true blind spot is the extreme centralization of global AI infrastructure around one individual. The stability of the world's most valuable tech entity was built upon the personal reputation and bilateral access of a single man.",
+              "This concentration of power meant that the integrity of the global semiconductor supply chain was effectively tied to the personal discretion of a CEO. The revelation that Huang was entangled with an alleged Chinese intelligence asset highlights a critical oversight in corporate risk management, where the geopolitical importance of the firm was not matched by the vetting of its primary representative."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "The immediate losers are the shareholders and global markets, which now face prolonged uncertainty regarding Nvidia's strategic trajectory. The company's internal stability is also in question, as both of Huang's children, Madison and Spencer, hold positions within the firm, complicating the transition.",
+              "Competitors in the semiconductor sector may find an opening to capitalize on the leadership vacuum, potentially shifting the balance of the AI race as the company navigates a search for a new, equally capable, yet less compromised, leader."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "The focus now shifts to the board of directors and their ability to install a successor who can manage the firm's delicate relationship with Beijing and Washington. Any sign of a pivot in Nvidia's supply chain strategy or a change in its stance on export controls will indicate how the company plans to survive the post-Huang era."
+            ]
+          }
+        ],
+        "tags": [
+          "Nvidia",
+          "AI",
+          "Geopolitics",
+          "Semiconductors",
+          "Corporate Governance",
+          "Blindspot"
+        ],
+        "sources": [
+          {
+            "name": "BBC Business",
+            "title": "Nvidia's CEO was the rock star of AI before his dramatic unravelling",
+            "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Fortune",
+            "title": "Jensen Huang has a 'rockstar' reputation in Taiwan. Will it survive now that he's out of Nvidia?",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfUTR1UU45VVBGU2NSOXpZbGlaT0VrOWJycmx2RGI1YjBrRDZDUjV3aFJqWEJNOTFGOHdqdUpJUmdvbUliZVUtaXJjZ1g2OWJfcF9qakozUDVhb2NWNURmWlZJZWlldDJGTXRiLVZJWk8?oc=5"
+          },
+          {
+            "name": "BBC",
+            "title": "Nvidia's CEO was the rock star of AI before his dramatic unravelling",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kUDZMaXl2dWF4b0lHT0JkWVJBYXFiWnhXX1EyWGZGNy11aTk0RGhZRzlHRUFXREpjdWpHZUlMWElRcXRRM1ByWGIzLXRBQlN1UEY4OU9ONWJhc1d2N0E?oc=5"
+          },
+          {
+            "name": "The Economic Times",
+            "title": "Once adored like a rock star, Nvidia CEO Jensen Huang now faces awkward questions at home in Taiwan",
+            "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNbDVjWkZNNVQzQm9oZ3h3bGhmNnpSZGE3aUtPSjVIRW5pRVB3X0Q0S2lVOWpEZ0dGRjhkZ0MxWEo5VWhHdDdqbWs4OW50NUpLM0twRVlCYkxsdVpDZ2FmbDN6MnFfOXR0ZDl4VFlkQWlfTU50ZWh1azNNOHV3OUh6ZktYMWNZR2VFZnBVUVBjMGFrNFBYMzhDZGpfWjRiQm5MVzlLMWFzVldwMGNpUEdGbjk0VVNfcHBBNHcwQVk0enFScmJ0SmlCbnhIUncwQVllY3EwSktCYmNpTjJQd2VLYUFsUzdCdzJTbTZRenJMeGFjY2tZX2Z3WFBYRXZRZ0VVTDFlYmFWaGVEaFpaUjFpTzA4Y0p5Z0FVUmVuRkExUVA5N2dCbnotS2ctcXZXZUpfR296cGdpQnF4RXJGdjlVU1pzYkZUU0xjdGt6SFljZGs4bF9FVU9ud0ZQNVZFMjJZNWVqR3J4OHRkZWNXSm4wb3NOMnowYS1f0gGUAkFVX3lxTE9yNjRfNFZramZKQkR6VHFEWVdycGZ1aTlxNmdFT3hsT1R3UElhYm0wVTVxZnVyX3BmU1FkX2RkN3Z2TGpPZ01CdVQxUWNTQzA4bHpidWpsVDFYUFN1MWFibFhiNlRmZEFDbnFTTEQ4dURwaFhmSUJ6QzdVUVRzQU56dVFsa3ZSQ1JmU3RzaGxsY0VkUlFwOTAyZ0pvbjRheWs4Rm50blB6LXAzdnJUSlE5TGU0V3p6UGJvVW1KOFlfczJsdWpDOERmVTNXY1cwbXlQVGxsVVlMRWdUWkkwTVUwV3QwRTlqVllTdUktai1PSE9SRXMyM095d0pVSHV0cXJVZWk5Rk9OX1hrekxybkFfV1A0NQ?oc=5"
+          },
+          {
+            "name": "Dawn",
+            "title": "Who could be next CEO at Nvidia after 'rockstar' Jensen Huang?",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE50d1JSUnlUVUxjdDR0OFFYMmxPTlIwSlhPeGpCYThWZDhmUE90dEZZbDFMcmQxWURnXzZKWlhkN2huZGx0QTNXSw?oc=5"
+          }
+        ],
+        "wordCount": 503
+      },
+      "videoScript": {
+        "hook": "Jensen Huang was the face of the AI revolution, until it all collapsed.",
+        "beats": [
+          "The Nvidia CEO resigned after reports of affairs, including one with an alleged Chinese spy.",
+          "The firm remains valued at over $4 trillion, but the leadership vacancy creates massive global uncertainty.",
+          "What nobody is talking about is how the entire AI arms race was tethered to one man's personal access."
+        ],
+        "close": "Read the full analysis at the link in our bio."
+      },
+      "rawImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5297/live/47801ac0-de4a-11f1-8eb3-bb386b145647.jpg",
+      "sourceVideo": {
+        "provider": "youtube",
+        "id": "vMjqMO-UELo",
+        "title": "Nvidia's Jensen Huang: His Wife, the Affair & the Spy Allegations",
+        "channel": "Craig Sinclair Money, Markets and People"
+      },
+      "status": "pending",
+      "createdAt": "2026-11-12T15:38:12.553Z",
+      "cardImageUrl": "/news-cards/news-frbwkmao1-1794497892553.jpg",
+      "reelCoverUrl": "/news-cards/news-frbwkmao1-1794497893153-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-frbwkmao1-1794497893711-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/collapse-nvidia-empire-beyond-jensen-huang-lwzy/"
+    },
+    "channels": {
+      "facebook": true,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": true,
+      "mastodon": false,
+      "threads": false,
+      "youtube": true
+    },
+    "scheduledFor": "2026-11-12T17:44:39.362Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-12T15:38:14.770Z"
   }
 ]
