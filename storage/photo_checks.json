@@ -463,5 +463,10 @@
     "relevant": true,
     "reason": "The image features France 24 correspondent Jorge Hurtado reporting from Mexico City on the news regarding Nadia Beller receiving asylum.",
     "at": "2026-11-12T05:46:34.083Z"
+  },
+  "4da3a70e394e51b5:kehrciwhm": {
+    "relevant": true,
+    "reason": "The image depicts a grizzly bear in its natural habitat, directly representing the main subject of the headline.",
+    "at": "2026-11-12T11:01:58.946Z"
   }
 }

@@ -79,9 +79,39 @@
     "https://www.politico.eu/article/kremlin-hide-numbers-cant-hide-graves-russia-ukraine-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
     "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
     "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss",
-    "https://www.france24.com/es/video/20261112-informe-desde-ciudad-de-m%C3%A9xico-nadia-beller-recibe-asilo-pol%C3%ADtico-tras-sobrevivir-a-atentado"
+    "https://www.france24.com/es/video/20261112-informe-desde-ciudad-de-m%C3%A9xico-nadia-beller-recibe-asilo-pol%C3%ADtico-tras-sobrevivir-a-atentado",
+    "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "CANADIAN OFFICIALS EUTHANIZE FOUR GRIZZLIES FOLLOWING FATAL ATTACK",
+      "normalizedTokens": [
+        "canadian",
+        "officials",
+        "euthanize",
+        "four",
+        "grizzlies",
+        "following",
+        "fatal",
+        "attack"
+      ],
+      "date": "2026-11-12T11:02:02.330Z"
+    },
+    {
+      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+      "normalizedTokens": [
+        "four",
+        "grizzly",
+        "bears",
+        "killed",
+        "canada",
+        "fatal",
+        "attack",
+        "mother",
+        "daughter"
+      ],
+      "date": "2026-11-12T11:02:02.329Z"
+    },
     {
       "title": "MEXICO GRANTS ASYLUM TO LAWYER NADIA BELLER",
       "normalizedTokens": [
