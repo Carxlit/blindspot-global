@@ -12421,12 +12421,13 @@
         "title": "France warns Germany its missile programme ‘could accidentally provoke nuclear war with Russia’",
         "channel": "Klaiden News"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-11T22:38:15.382Z",
       "cardImageUrl": "/news-cards/news-vizfwult7-1794436695383.jpg",
       "reelCoverUrl": "/news-cards/news-vizfwult7-1794436696011-cover.jpg",
       "instagramCardUrl": "/news-cards/news-vizfwult7-1794436696615-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/france-presses-germany-over-nuclear-escalation-94zl/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/france-presses-germany-over-nuclear-escalation-94zl/",
+      "publishedAt": "2026-11-12T00:30:13.522Z"
     },
     "channels": {
       "facebook": true,
@@ -12440,10 +12441,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-12T00:27:56.913Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-11T22:38:17.812Z"
+    "createdAt": "2026-11-11T22:38:17.812Z",
+    "lastAttemptAt": "2026-11-12T00:28:12.544Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122105669823539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17974861137168600",
+        "permalink": "https://www.instagram.com/reel/DfnxX2ED5fF/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-12T00:30:13.522Z"
   },
   {
     "id": "queue-1794440181246-pw5xv",
