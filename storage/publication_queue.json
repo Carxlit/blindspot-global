@@ -14577,12 +14577,13 @@
         "channel": "Daily News Explained",
         "license": "cc-by"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-12T16:59:20.145Z",
       "cardImageUrl": "/news-cards/news-hrcwh6yl5-1794502760146.jpg",
       "reelCoverUrl": "/news-cards/news-hrcwh6yl5-1794502760749-cover.jpg",
       "instagramCardUrl": "/news-cards/news-hrcwh6yl5-1794502761324-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/end-diplomatic-track-trump-pivots-away-u0ch/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/end-diplomatic-track-trump-pivots-away-u0ch/",
+      "publishedAt": "2026-11-12T19:20:02.044Z"
     },
     "channels": {
       "facebook": true,
@@ -14596,10 +14597,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-12T19:16:54.473Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-12T16:59:22.444Z"
+    "createdAt": "2026-11-12T16:59:22.444Z",
+    "lastAttemptAt": "2026-11-12T19:17:09.749Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122106551619539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18190713106410668",
+        "permalink": "https://www.instagram.com/reel/DfpyqQYDg9N/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Reel no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Short no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      }
+    },
+    "publishedAt": "2026-11-12T19:20:02.044Z"
   },
   {
     "id": "queue-1794507178470-cf3j3",
