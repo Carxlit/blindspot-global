@@ -14731,12 +14731,13 @@
         "close": "Read the full analysis at the link in our bio."
       },
       "rawImageUrl": "https://www.theglobeandmail.com/resizer/v2/Y3DNPI5UFBBKFGWW3IYYX3NMOI.jpg?auth=5d470f733e0705c82098f680b025acfcea6ce4c364409aa4494c82f55d6d8c67&width=1200&height=800&quality=80&smart=true",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-12T18:12:55.798Z",
       "cardImageUrl": "/news-cards/news-8t35c7fvj-1794507175798.jpg",
       "reelCoverUrl": "/news-cards/news-8t35c7fvj-1794507176585-cover.jpg",
       "instagramCardUrl": "/news-cards/news-8t35c7fvj-1794507177211-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/fragility-ai-boom-following-nvidia-s-l36i/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/fragility-ai-boom-following-nvidia-s-l36i/",
+      "publishedAt": "2026-11-12T20:41:16.401Z"
     },
     "channels": {
       "facebook": true,
@@ -14750,10 +14751,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-12T20:37:54.473Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-12T18:12:58.470Z"
+    "createdAt": "2026-11-12T18:12:58.470Z",
+    "lastAttemptAt": "2026-11-12T20:38:09.844Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122106605019539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18453286396123149",
+        "permalink": "https://www.instagram.com/reel/Dfp79wWk3rw/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-12T20:41:16.401Z"
   },
   {
     "id": "queue-1794511284060-r9uq6",
