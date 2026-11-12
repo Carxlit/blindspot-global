@@ -473,5 +473,10 @@
     "relevant": true,
     "reason": "The image depicts the resort building that was expropriated and is the central subject of the court ruling.",
     "at": "2026-11-12T11:21:18.228Z"
+  },
+  "3ba8ed5c4389a872:30ft744m6": {
+    "relevant": true,
+    "reason": "The image shows Nvidia CEO Jensen Huang, who is the central figure named in the context regarding reports of his potential ouster.",
+    "at": "2026-11-12T11:31:59.700Z"
   }
 }

@@ -1,5 +1,108 @@
 [
   {
+    "slug": "nvidia-market-cap-erases-405-billion-pna4",
+    "path": "news/nvidia-market-cap-erases-405-billion-pna4/",
+    "title": "Nvidia Market Cap Erases $405 Billion as Board Considers Ousting Jensen Huang",
+    "headline": "NVIDIA SHARES PLUNGE 10 PERCENT AMID BOARD OUSTER REPORTS",
+    "dek": "Reports of board-level moves to replace Chief Executive Officer Jensen Huang wiped out hundreds of billions in market value. The crisis highlights extreme key-person risk embedded in multi-trillion-dollar semiconductor valuations.",
+    "category": "GLOBAL ECONOMY",
+    "sourceName": "Nikkei Asia",
+    "image": "img/nvidia-market-cap-erases-405-billion-pna4.jpg",
+    "photo": "img/nvidia-market-cap-erases-405-billion-pna4-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "M-Yz7AVidHQ",
+      "title": "Nvidia Stock Plunges as FBI Investigates Jensen Huang Spy Allegations #shorts",
+      "channel": "DAILY WA",
+      "license": "cc-by"
+    },
+    "publishedAt": "2026-11-12T11:32:01.860Z",
+    "article": {
+      "slug": "nvidia-market-cap-erases-405-billion-pna4",
+      "title": "Nvidia Market Cap Erases $405 Billion as Board Considers Ousting Jensen Huang",
+      "dek": "Reports of board-level moves to replace Chief Executive Officer Jensen Huang wiped out hundreds of billions in market value. The crisis highlights extreme key-person risk embedded in multi-trillion-dollar semiconductor valuations.",
+      "keyFacts": [
+        "Nvidia shares fell nearly 10% in extended trading following reports that the board is preparing to oust CEO Jensen Huang.",
+        "The company erased approximately $405 billion in market capitalization over two consecutive trading sessions.",
+        "Jensen Huang's personal net worth decreased by $15.8 billion, dropping his position to No. 12 among the world's wealthiest individuals.",
+        "Prominent market figures including Big Short investor Michael Burry reaffirmed bearish stances despite potential bargain hunting by retail traders."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Nvidia shares fell nearly 10 percent in extended trading on Wednesday following news reports that the company's board of directors is preparing to oust Chief Executive Officer Jensen Huang. The potential leadership change follows reports of personal misconduct involving an alleged second extramarital affair, according to reporting by Nikkei Asia citing the Wall Street Journal.",
+            "The market reaction was immediate and severe. Over a two-day period, Nvidia wiped out approximately $405 billion in market capitalization. According to figures compiled by BigGo Finance, Jensen Huang's personal fortune plunged by roughly $15.8 billion, dropping him to the 12th spot among the world's richest individuals."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Jensen Huang, who co-founded Nvidia in 1993, has been the primary architect of the company's transition from a graphics processing unit manufacturer into the dominant dominant hardware supplier of the artificial intelligence boom. His personal authority and public image have been tightly linked to Nvidia's market positioning and supplier relations globally.",
+            "The sudden governance crisis triggered mixed reactions across Wall Street. According to reports from Yahoo Finance UK and Business Insider, investor Michael Burry indicated he remains bearish on Nvidia despite the steep drop, while acknowledging that retail and momentum traders might view the 10 percent drop as a tactical buying opportunity. Meanwhile, financial research firms like Zacks Investment Research questioned whether the governance panic presents a hidden entry point for long-term capital."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While mainstream financial reporting focuses almost exclusively on corporate governance policies and corporate ethics, Blindspot's analysis indicates a deeper market mechanics shift. The executive crisis serves as a strategic trigger for institutional asset managers looking to reduce exposure to overextended AI chip valuations without triggering broader technology sector panics.",
+            "Nvidia's rapid ascent created an unprecedented concentration of wealth and market index weight dependent on a single executive's strategic relationships. Institutional capital is using the executive controversy as coverage to hedge against structural risks in hardware supply chains and sovereign chip initiatives that were already threatening Nvidia's long-term margin dominance."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The clear loser in the immediate term is Nvidia's retail shareholder base and executive leadership, with Huang suffering a direct $15.8 billion hit to his net worth. Nvidia's board faces severe corporate governance pressure and potential shareholder litigation over executive oversight and disclosure timing.",
+            "Conversely, institutional short-sellers and competing semiconductor firms stand to benefit from the sudden destabilization of Nvidia's operational leadership. Rival chipmakers and custom silicon developers within major cloud providers may find accelerated opportunities as enterprise customers look to diversify vendor concentration risks away from a single vendor facing board turmoil."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Key developments to monitor include official board announcements from Nvidia regarding interim leadership structures and formal governance findings. Investors will closely observe whether institutional funds continue offloading positions during regular trading sessions or if value-oriented buyers step in to stabilize the share price.",
+            "Additionally, market participants should track whether key manufacturing partners and foundry providers adjust their long-term supply allocation commitments amid leadership uncertainty at the top of the AI hardware ecosystem."
+          ]
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Semiconductors",
+        "Global Economy",
+        "Wall Street"
+      ],
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "title": "Nvidia shares plunge almost 10% on report board may oust Jensen Huang",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ3BxNkwwaFkwbi1YcFpvMTQ2a0RoYjdEQWxFVjVfQm5BVVZZTHJPdW1LNDdIYTJTdnRpTU5sMThoOXRmcjd5VU5LSzRvYWNXdjIyek1ReUdEdWJlZVhweVRrWl9RRUVBcFNpdUVkV2Y4Tzhmd0FpQl9ZVHlmNVMwM1BVUmRtN1lYdG84MVJzSTU0ZmtnQVJzQjJTY3BLeVdjMnZnTW1IZlJFSWkzb2xSaWJtUzJBSWdqaG9KYUp1bGlpUXN2WjVrbjBoV0hwTnFNdGc?oc=5"
+        },
+        {
+          "name": "Yahoo Finance UK",
+          "title": "Michael Burry says he's still bearish after Nvidia's 10% plunge — but the market may see it as a 'heck of a trade' soon",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaTRlQThBS2hiN2VsOUhtMndwTjI0Y2xEbGMzRmVidlNuaDFnSkJma2V6al9VZDJBeDdKakx1VG1vT01pZFl6Rkh2ZVpLc2d6MmNXRWZEMVVMdzVIaDVXMG5NM2ZBVmVTYzN1d2hWLXI2ZURuUWtqcWFOUTBjeVpBaWJvUQ?oc=5"
+        },
+        {
+          "name": "Zacks Investment Research",
+          "title": "NVIDIA Stock: Is This Jensen Huang Crisis a Hidden Buying Opportunity?",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ0hEOUc1MlIwbkF4NHV3SGNDVEdUdk84ckJLZHotVkZlV1Y5dWxpTkV2Mk9ZYUZMWHNOZWhYTWV5SldFZDZxUE4td1k1ZTdMN1JyRHdkd0Q5ZmxrOXpMMGY3TjJHb3lyblZDcHV4RGtYU2MtaDE2LU5YV25rWmJzem05QXJQZHQxQm16TDdtaFVCWm93MlpiTUtIVmtGM2wyZEx4NzBuNGx0Z2lIMVE?oc=5"
+        },
+        {
+          "name": "Business Insider",
+          "title": "Michael Burry says he's still bearish after Nvidia's 10% plunge — but the market may see it as a 'heck of a trade' soon",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeWlBZDhLZEZlal9NM3hpbWwtZUxsSi00NGMtTHo0dktVZWIzOHZWUUhQeDNyS2xTMkl1UHdTcndCS0dQc1BSNW1IUy1JR1BzeEt2WUFDaGphOUQweWtUVHdJaFRhVlNtd1pReUxDTHZsaWZCbVVIYUJic1RMaERVU2FaVW10MlNEamlseVh5bHA3dXNwMm1Zc1o3ajVoQnc3?oc=5"
+        },
+        {
+          "name": "BigGo Finance",
+          "title": "Nvidia Wipes Out approximately $405 Billion in Two Days; Jensen Huang's Fortune Drops approximately $15.8 Billion as He Slips to No. 12 Among World's Richest",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jeDZQTkI0bVMyUmMwVGc4UDVacWlMbFlRZ1VfNFJJU1BjbVZLSm5kdjRwcW9xTUotLTRvRjM0cjBicUpIWkRYU2J4Ujl2QndjcEkyeWtkb2xQU3VJM01FMDZ6Z0phQm9MdlRUbERsbDM3RWkxNFE?oc=5"
+        }
+      ],
+      "wordCount": 519
+    },
+    "blindSpot": "Mainstream reporting frames the stock decline purely as a reaction to governance scandal and personal conduct allegations against Jensen Huang. However, institutional investors are using the leadership panic as a convenient exit ramp to de-risk from overextended hardware valuations and mitigate extreme key-person concentration in the AI sector without signaling structural weakness in tech fundamentals."
+  },
+  {
     "slug": "ukrainian-court-orders-russia-pay-5-k2gb",
     "path": "news/ukrainian-court-orders-russia-pay-5-k2gb/",
     "title": "Ukrainian court orders Russia to pay $5.1 million over seized Zaporizhzhia resort",
