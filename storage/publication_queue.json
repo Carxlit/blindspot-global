@@ -13581,12 +13581,13 @@
         "close": "Read the full analysis at the link in our bio."
       },
       "rawImageUrl": "https://i.blogs.es/b58657/caption/840_560.jpeg",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-12T11:21:19.706Z",
       "cardImageUrl": "/news-cards/news-m0zdi8gqa-1794482479706.jpg",
       "reelCoverUrl": "/news-cards/news-m0zdi8gqa-1794482480596-cover.jpg",
       "instagramCardUrl": "/news-cards/news-m0zdi8gqa-1794482481242-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/ukrainian-court-orders-russia-pay-5-k2gb/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/ukrainian-court-orders-russia-pay-5-k2gb/",
+      "publishedAt": "2026-11-12T12:30:19.849Z"
     },
     "channels": {
       "facebook": true,
@@ -13600,10 +13601,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-12T12:28:23.919Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-12T11:21:22.484Z"
+    "createdAt": "2026-11-12T11:21:22.484Z",
+    "lastAttemptAt": "2026-11-12T12:28:39.369Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122106187971539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18121002043789912",
+        "permalink": "https://www.instagram.com/reel/DfpDx6Bjyfz/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-12T12:30:19.849Z"
   },
   {
     "id": "queue-1794483121959-jikb6",
@@ -13745,7 +13770,7 @@
       "threads": false,
       "youtube": true
     },
-    "scheduledFor": "2026-11-12T13:18:23.919Z",
+    "scheduledFor": "2026-11-12T13:34:39.362Z",
     "status": "queued",
     "attempts": 0,
     "maxAttempts": 3,
