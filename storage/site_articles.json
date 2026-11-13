@@ -1,5 +1,108 @@
 [
   {
+    "slug": "teheran-targets-u-s-early-warning-radar-j16h",
+    "path": "news/teheran-targets-u-s-early-warning-radar-j16h/",
+    "title": "Teheran Targets U.S. Early-Warning Radar Site in Bahrain Escalation",
+    "headline": "IRAN CLAIMS STRIKE ON US EARLY WARNING RADAR IN BAHRAIN",
+    "dek": "Iran's Revolutionary Guards claim responsibility for striking a U.S. radar installation in Bahrain following a telecom attack in Sirik. The move signals an attempt to blind maritime surveillance networks while avoiding immediate full-scale war.",
+    "category": "SECURITY & DEFENSE",
+    "sourceName": "Reuters",
+    "image": "img/teheran-targets-u-s-early-warning-radar-j16h.jpg",
+    "photo": "img/teheran-targets-u-s-early-warning-radar-j16h-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "owlYAy8OKgQ",
+      "title": "Iran Claims Strike on US Radar in Bahrain",
+      "channel": "Daily News Explained",
+      "license": "cc-by"
+    },
+    "publishedAt": "2026-11-13T11:32:16.437Z",
+    "article": {
+      "slug": "teheran-targets-u-s-early-warning-radar-j16h",
+      "title": "Teheran Targets U.S. Early-Warning Radar Site in Bahrain Escalation",
+      "dek": "Iran's Revolutionary Guards claim responsibility for striking a U.S. radar installation in Bahrain following a telecom attack in Sirik. The move signals an attempt to blind maritime surveillance networks while avoiding immediate full-scale war.",
+      "keyFacts": [
+        "Iran's Revolutionary Guards claimed responsibility for targeting a U.S. early-warning radar in Bahrain.",
+        "Teheran cited a recent attack on telecommunications infrastructure in Sirik as the driver for retaliation.",
+        "U.S. President Donald Trump stated Iran would face immediate strikes if it threatened U.S. ships or regional allies.",
+        "Bahrain serves as the operational headquarters for the U.S. Navy's Fifth Fleet."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Iran's Islamic Revolutionary Guard Corps announced it targeted a U.S. early-warning radar facility located in Bahrain. According to statements published by Iranian state media and reported by Reuters and Al Jazeera, the strike was executed in response to a telecom attack targeting Sirik.",
+            "Following the announcement, public warnings escalated rapidly. As reported by Armenpress, U.S. President Donald Trump warned that Washington would respond with no hesitation should Iran threaten American vessels or allied personnel across the region."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Bahrain hosts the headquarters of the U.S. Navy's Fifth Fleet and acts as a central hub for Western maritime security operations throughout the Persian Gulf and Red Sea. The regional early-warning radar installations stationed there provide real-time tracking of air and missile activity over critical trade corridors.",
+            "The announcement follows reported disruptions to telecommunications infrastructure in Sirik, Iran. Teheran has routinely attributed internal cyber operations and infrastructure sabotage to foreign intelligence services, using claimed retaliatory strikes to maintain internal political credibility."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream reporting focuses primarily on the rhetorical warnings exchanged between Washington and Teheran. However, the specific selection of an early-warning radar site highlights a calculated military logic: blinding maritime situational awareness rather than striking high-visibility offensive assets.",
+            "By attacking static sensor infrastructure, Iran tests American defensive reaction times and probes red lines without causing the catastrophic loss of life that would compel an immediate war. This approach forces U.S. commanders to spend costly defense resources reinforcing stationary surveillance nodes across the Gulf."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Iran gains tactical intelligence by observing Western detection and alert responses to targeted sensor disruptions, while maintaining its domestic narrative of swift retaliation.",
+            "Bahrain and neighboring Gulf host countries bear the immediate burden of elevated security risks, finding their domestic territory targeted in broader regional shadow conflicts. U.S. naval forces face increased operational costs to secure static intelligence assets."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Key developments to monitor include official battle damage assessments from the U.S. Department of Defense regarding radar readiness in Bahrain. Any physical operational downtime in sensor capability could lead to temporary adjustments in Fifth Fleet patrol routes and heightened defense postures across the Arabian Peninsula."
+          ]
+        }
+      ],
+      "tags": [
+        "Iran",
+        "Bahrain",
+        "US Navy",
+        "Persian Gulf",
+        "Military Intelligence",
+        "Strait of Hormuz"
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Iran's Guards say they targeted a US early-warning radar in Bahrain",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ?oc=5"
+        },
+        {
+          "name": "The Jerusalem Post",
+          "title": "Iran claims strike on US radar in Bahrain retaliation for Sirik telecom attack",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qZWhoaVp5V1BxSWw2MC1OU21JR0xpMVhxeHBuaWFCak9tZlFwN2ZXdHItWnQ1Mk5iRExJdWpFLTJEMklfMC15ZXFwNnNpN3hlY1laUkUxdWhKQ0FuMXVTUjZVc2RCaWEzNXc?oc=5"
+        },
+        {
+          "name": "Al Jazeera",
+          "title": "Iran says it targeted US radar site in Bahrain",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNay1kUVVvaTJ4b2FManZ4aVVnSDhvQzdZRDFQa3FSZlRsQlJ6cGY5bVhwMkM0TGlWQ0FwYVg3bXNORDM4ZjI3dzR3Qy14a3hBSE9lRXZUaDhydHlzOWozdUtieDl6dl9Gd3JXdHUzUUdKRWV0WXczNm1jd0RaQ21Vam1CMk5CVVF2OGx1ODUzUdIBlAFBVV95cUxQZk1ES2dVRlM4NU1ENWxJalhucE5CY1FKQXdMTXEwdFFuYmVxNkRKbnp1TDdicmh3bDk2TWNiaFhUNXhTMy1nV2JVQnFFMlFUSVViYUV6V3ZrMEJLTW96dnJ3VC1DZ29ld2ctV002aklRSWpvcWR6RFhkdFpZeFFXZ3pObjdSZG02VDZIdVc0VGZMcVBr?oc=5"
+        },
+        {
+          "name": "ASHARQ AL-AWSAT English",
+          "title": "Iran's Guards Say They Targeted US Radar System in Bahrain",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOHh1bzNHaUNUeDg0djNBRGhzTHJJMjlvUVhJaE5DRkhXWWZzb3BCdEV4VXdfUXRadzFTQjByaEZnS1ZtREU2Q0dsU3pNVlBMMFY1S3hoQ09FaFM4VlhwSUZITTlVTnlpWUQxaXpWbzBFY2hJVmxrVHpqdGNDZUlfeFhzUlo3T3RQYnVFTS1pa3puTDZ3MlBSRWxn?oc=5"
+        },
+        {
+          "name": "Armenpress",
+          "title": "Trump says Iran would be hit with 'no hesitation' if it threatens allies, U.S. ships",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NamtIQ2h3UVZuUkFMWlM0ZTllM3lXWldFeWU2eUhGc29MRFZCYXJuRllwbWpqaVA0a0VVZW9aMjF0aE5tSU1pTWM3eUJJYVFTWEHSAVdBVV95cUxQc18yWkFyMVdEZGloV2R4X0FmTlBIbk5uMVllVFZCdGk5Um9VbzgwdnlTNUs3S2loUVREZTBfYkc2dkx3a1JjQkN5NGN5Si1QcjJwSjltb2c?oc=5"
+        }
+      ],
+      "wordCount": 378
+    },
+    "blindSpot": "While public statements present the strike as direct retaliation for infrastructure attacks in Sirik, Teheran's operational choice reveals a strategic shift. By targeting radar detection nodes rather than combat vessels, Iran aims to degrade maritime intelligence capabilities around the Persian Gulf while remaining just below the threshold that forces catastrophic military confrontation."
+  },
+  {
     "slug": "systemic-vulnerability-hidden-global-microsoft-outage-ovuo",
     "path": "news/systemic-vulnerability-hidden-global-microsoft-outage-ovuo/",
     "title": "The systemic vulnerability hidden in the global Microsoft outage",

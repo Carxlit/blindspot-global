@@ -568,5 +568,10 @@
     "relevant": true,
     "reason": "The image shows a Microsoft storefront and people outside, directly connecting to a global Microsoft infrastructure story.",
     "at": "2026-11-13T11:23:57.078Z"
+  },
+  "27f0683f0e9a6baf:zk78q7jog": {
+    "relevant": true,
+    "reason": "The image shows a missile launch, which is directly relevant to the headline claiming a military strike.",
+    "at": "2026-11-13T11:32:14.198Z"
   }
 }
