@@ -92,9 +92,35 @@
     "https://www.euronews.com/video/2026/11/12/russia-soldier-killed-in-car-explosion-in-saint-petersburg",
     "https://www.france24.com/en/israeli-strike-on-gaza-hospital-kills-six-including-surgeon-medics-say",
     "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5zRmhTTGNjXzZqa1hiWG1oWmVLeGZzZmZiVkhjOEpqTlJiMVZudG1meElSb2d5djFtM0FSUzM0UVdtYXdRcVZReTBxUG5rMW9ZYVQ3MlFXTGhZRG5rZmZnay1ONXlEVzJWdFRKZ3VLZGRDNFVzU21oVkZHTkhCZGlDNTA2NlgzY3lhdw?oc=5"
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5zRmhTTGNjXzZqa1hiWG1oWmVLeGZzZmZiVkhjOEpqTlJiMVZudG1meElSb2d5djFtM0FSUzM0UVdtYXdRcVZReTBxUG5rMW9ZYVQ3MlFXTGhZRG5rZmZnay1ONXlEVzJWdFRKZ3VLZGRDNFVzU21oVkZHTkhCZGlDNTA2NlgzY3lhdw?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSU11cnU1SXBLUldxR2poV29IUkRWQW9oLUlIamYzNUtmRUFYTjEwa1lMeVFLVTlZVE11a2VSLXFRU3lfTFE1c3BsU2FRSl9xZGY2TjlUSmhjdWxjU0JxYzFCU1I3bHZEXzAyRWdyczVWLWxTeHVBVGNCUzQ5NzZBbXlMb2ZsVk13WENSaGJtTGJwdVJTeFU2OA?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "COMMUNITY MOURNS LOSS AMID ISOLATED TRAGEDIES ACROSS REGIONS",
+      "normalizedTokens": [
+        "community",
+        "mourns",
+        "loss",
+        "isolated",
+        "tragedies",
+        "across",
+        "regions"
+      ],
+      "date": "2026-11-13T05:16:45.866Z"
+    },
+    {
+      "title": "Community remembers man killed in plane crash",
+      "normalizedTokens": [
+        "community",
+        "remembers",
+        "man",
+        "killed",
+        "plane",
+        "crash"
+      ],
+      "date": "2026-11-13T05:16:45.865Z"
+    },
     {
       "title": "FATAL WASHINGTON SHOOTING LEAVES ONE DEAD AND FOUR INJURED",
       "normalizedTokens": [

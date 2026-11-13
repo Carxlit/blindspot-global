@@ -533,5 +533,20 @@
     "relevant": true,
     "reason": "The image shows Washington Metropolitan Police officers at the scene of an incident, directly illustrating the law enforcement response related to the shooting news story.",
     "at": "2026-11-13T05:01:45.057Z"
+  },
+  "5c1e72c3ff19066d:em02brsdq": {
+    "relevant": false,
+    "reason": "The image is a personal portrait in front of a landscape lake, which does not visually represent the general news topic of community mourning or isolated tragedies.",
+    "at": "2026-11-13T05:16:25.382Z"
+  },
+  "55b0bb9ed0eacf58:em02brsdq": {
+    "relevant": false,
+    "reason": "The image shows a protest sign with a specific name, which does not represent the broader context of isolated fatal accidents mentioned in the headline.",
+    "at": "2026-11-13T05:16:31.309Z"
+  },
+  "e0f3af56c7a4be2e:em02brsdq": {
+    "relevant": true,
+    "reason": "The image of a memorial statue and a framed portrait illustrates a story about community mourning and remembering individuals lost in tragedies.",
+    "at": "2026-11-13T05:16:40.337Z"
   }
 }
