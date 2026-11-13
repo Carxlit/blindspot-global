@@ -17710,12 +17710,13 @@
         "close": "Read the full intelligence analysis at the link in our bio."
       },
       "rawImageUrl": "https://image.cnbcfm.com/api/v1/image/108551028-1794578771117-gettyimages-2217128051-AFP_48PC9Y6.jpeg?v=1794578802&w=1920&h=1080",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-13T19:32:36.767Z",
       "cardImageUrl": "/news-cards/news-blxpq4yju-1794598356767.jpg",
       "reelCoverUrl": "/news-cards/news-blxpq4yju-1794598357387-cover.jpg",
       "instagramCardUrl": "/news-cards/news-blxpq4yju-1794598357972-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/treasury-chief-accuses-commerce-department-delaying-eobc/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/treasury-chief-accuses-commerce-department-delaying-eobc/",
+      "publishedAt": "2026-11-13T21:55:30.473Z"
     },
     "channels": {
       "facebook": true,
@@ -17729,10 +17730,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-13T21:53:15.179Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-13T19:32:39.173Z"
+    "createdAt": "2026-11-13T19:32:39.173Z",
+    "lastAttemptAt": "2026-11-13T21:53:30.581Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122107697379539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18087289187331739",
+        "permalink": "https://www.instagram.com/reel/DfspQCEiLu8/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-13T21:55:30.473Z"
   },
   {
     "id": "queue-1794603122475-t4m6t",
