@@ -17068,11 +17068,12 @@
         "close": "Read the full analysis at the link in our bio."
       },
       "rawImageUrl": "https://www.reuters.com/resizer/v2/CMQ2AFWHZZLDZIIVFZQ72H44SI.jpg?auth=53c5ea13bb96ab40d9ed04e50fb3b0ae163608baf2e86f28de21480f371b080f&width=1200&quality=80",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-13T15:10:38.011Z",
       "cardImageUrl": "/news-cards/news-k1rw68pw4-1794582638011.jpg",
       "reelCoverUrl": "/news-cards/news-k1rw68pw4-1794582638894-cover.jpg",
-      "instagramCardUrl": "/news-cards/news-k1rw68pw4-1794582639446-ig.jpg"
+      "instagramCardUrl": "/news-cards/news-k1rw68pw4-1794582639446-ig.jpg",
+      "publishedAt": "2026-11-13T17:33:05.441Z"
     },
     "channels": {
       "facebook": true,
@@ -17086,10 +17087,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-13T17:30:15.179Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-13T15:10:39.978Z"
+    "createdAt": "2026-11-13T15:10:39.978Z",
+    "lastAttemptAt": "2026-11-13T17:30:30.259Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122107521177539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18212244895370186",
+        "permalink": "https://www.instagram.com/reel/DfsLOrZAUnm/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-13T17:33:05.441Z"
   },
   {
     "id": "queue-1794588110548-rsbgq",
