@@ -99,9 +99,40 @@
     "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
     "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ?oc=5",
-    "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+    "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news"
   ],
   "processedSignatures": [
+    {
+      "title": "GLOBAL MICROSOFT OUTAGE EXPOSES DANGEROUS SINGLE POINT OF FAILURE",
+      "normalizedTokens": [
+        "global",
+        "microsoft",
+        "outage",
+        "exposes",
+        "dangerous",
+        "single",
+        "point",
+        "failure"
+      ],
+      "date": "2026-11-13T13:21:40.749Z"
+    },
+    {
+      "title": "Microsoft outage live: millions still affected as disruption stretches beyond 18 hours",
+      "normalizedTokens": [
+        "microsoft",
+        "outage",
+        "live",
+        "millions",
+        "still",
+        "affected",
+        "disruption",
+        "stretches",
+        "beyond",
+        "hours"
+      ],
+      "date": "2026-11-13T13:21:40.748Z"
+    },
     {
       "title": "HOMEOWNERS TURN TO APPS TO AVOID HVAC MISCALCULATIONS",
       "normalizedTokens": [
