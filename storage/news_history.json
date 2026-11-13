@@ -94,9 +94,43 @@
     "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5zRmhTTGNjXzZqa1hiWG1oWmVLeGZzZmZiVkhjOEpqTlJiMVZudG1meElSb2d5djFtM0FSUzM0UVdtYXdRcVZReTBxUG5rMW9ZYVQ3MlFXTGhZRG5rZmZnay1ONXlEVzJWdFRKZ3VLZGRDNFVzU21oVkZHTkhCZGlDNTA2NlgzY3lhdw?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSU11cnU1SXBLUldxR2poV29IUkRWQW9oLUlIamYzNUtmRUFYTjEwa1lMeVFLVTlZVE11a2VSLXFRU3lfTFE1c3BsU2FRSl9xZGY2TjlUSmhjdWxjU0JxYzFCU1I3bHZEXzAyRWdyczVWLWxTeHVBVGNCUzQ5NzZBbXlMb2ZsVk13WENSaGJtTGJwdVJTeFU2OA?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNXzBaaFVMOFBBbDJYaWpVdWV2ZVp1d2prRXhRcjR4NThMVEFVMzhOQXBDQktXTWp5aUFDaWpYZTRTeERnWnBpNy1JN2R1dUpDc3ZrOGhadGY3LXNpbFcxNS1DUlRrRlRkbzA4dDVudllWQ0pTNzY2SVRVX1FkeUlvRzljeExnS3c0dHNaLUp3Vkw?oc=5"
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNXzBaaFVMOFBBbDJYaWpVdWV2ZVp1d2prRXhRcjR4NThMVEFVMzhOQXBDQktXTWp5aUFDaWpYZTRTeERnWnBpNy1JN2R1dUpDc3ZrOGhadGY3LXNpbFcxNS1DUlRrRlRkbzA4dDVudllWQ0pTNzY2SVRVX1FkeUlvRzljeExnS3c0dHNaLUp3Vkw?oc=5",
+    "https://www.europapress.es/internacional/noticia-mueren-cuatro-personas-ataque-ucrania-contra-zona-industrial-region-rusa-volgogrado-20261113081843.html"
   ],
   "processedSignatures": [
+    {
+      "title": "UKRAINIAN DRONE STRIKES HIT RUSSIAN INDUSTRIAL ZONES AS MOSCOW CLAIMS MASSIVE INTERCEPTIONS",
+      "normalizedTokens": [
+        "ukrainian",
+        "drone",
+        "strikes",
+        "hit",
+        "russian",
+        "industrial",
+        "zones",
+        "moscow",
+        "claims",
+        "massive",
+        "interceptions"
+      ],
+      "date": "2026-11-13T08:17:18.004Z"
+    },
+    {
+      "title": "Mueren cuatro personas en un ataque de Ucrania contra una zona industrial en la región rusa de Volgogrado",
+      "normalizedTokens": [
+        "mueren",
+        "cuatro",
+        "personas",
+        "ataque",
+        "ucrania",
+        "zona",
+        "industrial",
+        "region",
+        "rusa",
+        "volgogrado"
+      ],
+      "date": "2026-11-13T08:17:18.003Z"
+    },
     {
       "title": "GRETA THUNBERG REAPPEARS AT COP31 TO CONDEMN GOVERNMENTS",
       "normalizedTokens": [
