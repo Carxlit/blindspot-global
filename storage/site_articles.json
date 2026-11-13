@@ -1,5 +1,108 @@
 [
   {
+    "slug": "fatal-washington-shooting-logan-circle-exposes-5q4q",
+    "path": "news/fatal-washington-shooting-logan-circle-exposes-5q4q/",
+    "title": "Fatal Washington Shooting in Logan Circle Exposes Broader Urban Security Challenges",
+    "headline": "FATAL WASHINGTON SHOOTING LEAVES ONE DEAD AND FOUR INJURED",
+    "dek": "A gunman killed one person and injured four others near a D.C. gym before taking his own life. The attack raises critical questions regarding public safety and urban oversight in the capital.",
+    "category": "POWER & SOCIETY",
+    "sourceName": "AP News",
+    "image": "img/fatal-washington-shooting-logan-circle-exposes-5q4q.jpg",
+    "photo": "img/fatal-washington-shooting-logan-circle-exposes-5q4q-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "lxUJXnciTpA",
+      "title": "Deadly Shooting In DC’s Logan Circle Neighborhood",
+      "channel": "Mo News",
+      "license": "cc-by"
+    },
+    "publishedAt": "2026-11-13T05:01:47.972Z",
+    "article": {
+      "slug": "fatal-washington-shooting-logan-circle-exposes-5q4q",
+      "title": "Fatal Washington Shooting in Logan Circle Exposes Broader Urban Security Challenges",
+      "dek": "A gunman killed one person and injured four others near a D.C. gym before taking his own life. The attack raises critical questions regarding public safety and urban oversight in the capital.",
+      "keyFacts": [
+        "The shooting occurred on Nov. 12 in Washington's Logan Circle neighborhood.",
+        "One person was killed inside a local gym, and four others were injured during the attack.",
+        "The gunman barricaded himself inside a nearby apartment building before dying of a self-inflicted gunshot wound.",
+        "Metropolitan Police Department officers cordoned off the area to conduct a homicide investigation."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "According to reports from police authorities and local news outlets, a gunman opened fire on Nov. 12 in the Logan Circle neighborhood of Washington, D.C. The shooting took place near and inside a commercial gym, resulting in five total victims.",
+            "One individual was pronounced dead at the scene inside the gym, while four others suffered gunshot injuries and were transported to regional hospitals. Following the initial gunfire, the suspect fled to a nearby apartment building, where he barricaded himself inside a unit. Law enforcement officers surrounded the building, and the suspect subsequently died from a self-inflicted gunshot wound."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Logan Circle is a densely populated residential and commercial neighborhood located near central Washington, D.C. The area features high foot traffic, retail spaces, and exercise facilities, making the midday violence particularly disruptive to local routine.",
+            "The incident comes amid ongoing public debates over crime rates, law enforcement staffing levels, and public safety strategies within the District of Columbia. Local authorities have faced continuous pressure from residents and federal lawmakers to improve response times and enhance police presence across commercial corridors."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While public coverage naturally focuses on the immediate tactical containment and victim counts, the broader institutional challenge lies in the systemic monitoring of high-risk individuals in urban centers. Municipal authorities routinely face structural limits in inter-agency information sharing prior to violent escalations.",
+            "Furthermore, the reliance on reactive perimeter containment rather than predictive neighborhood security highlights persistent gaps in urban emergency protocols. As commercial hubs increasingly serve as focal points for public life, traditional law enforcement deployments struggle to mitigate unprovoked, localized violence effectively."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Municipal leaders and public safety agencies face increased scrutiny over district safety metrics and operational readiness, complicating ongoing efforts to attract business and residential investment to central neighborhoods.",
+            "Conversely, advocacy groups pushing for expanded mental health intervention networks and structural public safety reforms may gain leverage in upcoming district budget deliberations."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Investigative authorities will focus on establishing the suspect's motive, weapon acquisition history, and potential prior contact with law enforcement or social services.",
+            "City council hearings regarding neighborhood safety enhancements and emergency communication protocols are expected to follow as officials evaluate the response to the Nov. 12 event."
+          ]
+        }
+      ],
+      "tags": [
+        "Washington DC",
+        "Public Safety",
+        "Urban Security",
+        "Law Enforcement",
+        "Logan Circle"
+      ],
+      "sources": [
+        {
+          "name": "AP News",
+          "title": "5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5zRmhTTGNjXzZqa1hiWG1oWmVLeGZzZmZiVkhjOEpqTlJiMVZudG1meElSb2d5djFtM0FSUzM0UVdtYXdRcVZReTBxUG5rMW9ZYVQ3MlFXTGhZRG5rZmZnay1ONXlEVzJWdFRKZ3VLZGRDNFVzU21oVkZHTkhCZGlDNTA2NlgzY3lhdw?oc=5"
+        },
+        {
+          "name": "ABC7 Bay Area",
+          "title": "5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3FBaHJyVURlTFp1enhVUDJiVnhTcXZTR0dsaXp5S241ZXlnOFV6TXloMWFoQ0ZsVGNaMENQeEQyaTNtcWlpX3hwSlNNenhnZ2J5aWJhSkthejdpSVY4c0ltR2U0cENscGprZXNIXzNES3RYM3ItMUYxLWFBcnFGTlpxbEg4WkFDRWpKSVUxd1M4WmloVDBMYnZnOEV4SzRIYURNSngybFhQRjA5YVFuUlp3UXJuSjhSNWc?oc=5"
+        },
+        {
+          "name": "ABC11 News",
+          "title": "Washington shooting: 5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVDNrMzNoRDFseUNmMkpVbEdfNTdjR1F6Z2NnNnd6ME9WYXN3X25vbVZMUjRRd3U0OVB2Smx4aXpYdmRoRVpGcFFHWUczS1UxSUl2QlJGU0lIb1ZJOTIzZG5kenhGa0lfbVlkQV94TFR0YUZYdHVlMUw0UlVmQS1tTFExcUVPaldjaUsxc2hGOFlyVldHYko1RWJfX0FlbU1JQ1pyNENybktvR0NiSi1FME5TNnVZdw?oc=5"
+        },
+        {
+          "name": "Facebook",
+          "title": "Washington Post. . One person was killed and four others injured in a shooting near a gym in D.C.'s Logan Circle neighborhood Nov. 12, police said. The gunman barricaded himself inside a nearby apartment building before apparently shooting himself, accor",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYi1WenRMVDFjOWdvNVNUa3dtQ2h5a1BmWDc1VGtPdWt3OTFndEg2VWJySzBqLURaSjVFNGZnaUthOVI4NXFpSXo2OWUxczJvUTNxRkhPanNCOG03YkdKMkxTYWVOVTJIcHJfWlRacmhQRlVPWWxWNGwtVU5RNjBzUEFMaV9qRThCbDNSXzN4bDlIWUYtLXNjNTRVRmRBQjdUWEVDVkFac0VNVTRqbm9zYlNDeTZtT3RnLUQ3eEVFYVRuQW5Ub1c3dDROOTRSZHJBZTE3djBPVWczd2xjeWc?oc=5"
+        },
+        {
+          "name": "Las Vegas Review-Journal",
+          "title": "5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSjhtSWVOaXJiMkZOdHVYdTJNdHNaM2pOdkhheWxETmpvNXJSbE54R1NwS2U5elFEeWZsU0FGV0hHR1g5dUZoT3M1Qmc4Nmp1Q1dodWNjbU9TSUJjTlhzblF2ZkdBU0hMSXotX1h0NllzNFNNY2cteVEwV3JzUlphRUpKdE94Z2xhX3hOV1hnRzJwVUg3WFI4Zl9aQk1yV2c2NlhrZUU3Yi1ENjJway1GQkt6M05YSlF1V29OdXF1NDBpZGxrcWxDdElwZ0ptM0s2QU11VUVhV3VSRVE?oc=5"
+        }
+      ],
+      "wordCount": 391
+    },
+    "blindSpot": "While local coverage focuses heavily on the immediate tactical response, broader questions linger regarding public safety governance and high-density urban surveillance in the federal district. Persistent security gaps in commercial corridors undermine municipal stabilization efforts and complicate local-federal law enforcement coordination."
+  },
+  {
     "slug": "nvidia-ceo-jensen-huang-resigns-following-klp9",
     "path": "news/nvidia-ceo-jensen-huang-resigns-following-klp9/",
     "title": "Nvidia CEO Jensen Huang Resigns Following Espionage Allegations Involving Suspected Intelligence Operative",

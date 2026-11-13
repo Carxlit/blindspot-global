@@ -528,5 +528,10 @@
     "relevant": true,
     "reason": "The image shows the key individuals mentioned in the context summary (CEO Jensen Huang, CFO Colette Kress, and an associated party or former executive).",
     "at": "2026-11-12T21:44:41.948Z"
+  },
+  "093075cbe2ed3578:r8b8yers8": {
+    "relevant": true,
+    "reason": "The image shows Washington Metropolitan Police officers at the scene of an incident, directly illustrating the law enforcement response related to the shooting news story.",
+    "at": "2026-11-13T05:01:45.057Z"
   }
 }
