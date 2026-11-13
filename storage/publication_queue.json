@@ -16243,12 +16243,13 @@
         "close": "Read the full analysis on how this vulnerability threatens global stability at the link."
       },
       "rawImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-13T11:23:58.751Z",
       "cardImageUrl": "/news-cards/news-0f4colxwy-1794569038752.jpg",
       "reelCoverUrl": "/news-cards/news-0f4colxwy-1794569039331-cover.jpg",
       "instagramCardUrl": "/news-cards/news-0f4colxwy-1794569039866-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/systemic-vulnerability-hidden-global-microsoft-outage-ovuo/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/systemic-vulnerability-hidden-global-microsoft-outage-ovuo/",
+      "publishedAt": "2026-11-13T12:12:00.542Z"
     },
     "channels": {
       "facebook": true,
@@ -16262,10 +16263,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-13T12:09:50.741Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-13T11:24:00.965Z"
+    "createdAt": "2026-11-13T11:24:00.965Z",
+    "lastAttemptAt": "2026-11-13T12:10:06.061Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122107267851539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17990311703880900",
+        "permalink": "https://www.instagram.com/reel/Dfrmeruktt-/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-13T12:12:00.542Z"
   },
   {
     "id": "queue-1794569536537-71hjv",
