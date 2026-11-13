@@ -15914,12 +15914,13 @@
         "close": "Read the full analysis at the link in our bio."
       },
       "rawImageUrl": "https://www.infobae.com/resizer/v2/TUHT47GJCJDTNODRBWBASVNWKA.jpg?auth=3bda21e7cef0ebe8f6835b10bea1ef1b195f2d0bc6f2cd452f96aaa45a141a74&smart=true&width=1200&height=630&quality=85",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-13T08:17:15.416Z",
       "cardImageUrl": "/news-cards/news-ma20hnqsp-1794557835416.jpg",
       "reelCoverUrl": "/news-cards/news-ma20hnqsp-1794557836319-cover.jpg",
       "instagramCardUrl": "/news-cards/news-ma20hnqsp-1794557836834-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/industrial-strikes-volgogrado-highlight-escalating-scale-4695/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/industrial-strikes-volgogrado-highlight-escalating-scale-4695/",
+      "publishedAt": "2026-11-13T08:20:06.429Z"
     },
     "channels": {
       "facebook": true,
@@ -15933,10 +15934,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-13T08:17:17.994Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-13T08:17:17.994Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-13T08:18:14.107Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122107068363539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18273899803307228",
+        "permalink": "https://www.instagram.com/reel/DfrL8UADPAt/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-13T08:20:06.429Z"
   }
 ]
