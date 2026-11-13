@@ -105,9 +105,39 @@
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcEx2eTdicmVJdWI5Y2JyUVhiN1psV0dacm9RNzFvU29MVWZ0UGxwUWtrMzNNaDFUNWRCMGFyd2F5TUtabzFEdnRjNDFpd2pIbkFlbUFPb3RXTjNIU01iN0RCOVpOV3VyZmY4Uml1anpPYjdwSVFGR3hpemx2WVl6Zms5M3FSOXdBS3pSeVA1eWlLcEJRank5c0lxeGRSR0NUeThJWUc5Nlk0Smw5VWpWczdBRkZXZGNEc3I1ZkxPdWxSQU1mVENN?oc=5",
     "https://www.pbs.org/newshour/world/ukraine-fires-nearly-1200-drones-at-russia-as-u-s-led-talks-consider-wider-european-security",
     "https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-servicios-tras-una-caida-global-de-mas-de-12-horas.html",
-    "https://www.france24.com/es/video/20261113-ue-advierte-sobre-las-trampas-de-rusia-ante-las-negociaciones-de-paz-en-ucrania"
+    "https://www.france24.com/es/video/20261113-ue-advierte-sobre-las-trampas-de-rusia-ante-las-negociaciones-de-paz-en-ucrania",
+    "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html"
   ],
   "processedSignatures": [
+    {
+      "title": "BESSENT BLAMES COMMERCE DEPARTMENT FOR NVIDIA CHIP LEAKAGE TO CHINA",
+      "normalizedTokens": [
+        "bessent",
+        "blames",
+        "commerce",
+        "department",
+        "nvidia",
+        "chip",
+        "leakage",
+        "china"
+      ],
+      "date": "2026-11-13T19:32:39.183Z"
+    },
+    {
+      "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
+      "normalizedTokens": [
+        "bessent",
+        "blames",
+        "lutnick",
+        "commerce",
+        "slams",
+        "nvidia",
+        "chip",
+        "leakage",
+        "china"
+      ],
+      "date": "2026-11-13T19:32:39.182Z"
+    },
     {
       "title": "EU WARNS OF RUSSIAN TRAPS IN UKRAINE PEACE TALKS",
       "normalizedTokens": [

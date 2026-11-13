@@ -17566,5 +17566,147 @@
     "attempts": 0,
     "maxAttempts": 3,
     "createdAt": "2026-11-13T18:29:20.383Z"
+  },
+  {
+    "id": "queue-1794598359173-7m417",
+    "news": {
+      "id": "blxpq4yju",
+      "originalUrl": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+      "originalTitle": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
+      "sourceName": "CNBC World",
+      "category": "GLOBAL ECONOMY",
+      "urgencyScore": 88,
+      "headline": "BESSENT BLAMES COMMERCE DEPARTMENT FOR NVIDIA CHIP LEAKAGE TO CHINA",
+      "subHeadline": "Treasury Secretary Scott Bessent publicly criticized the Commerce Department for delaying export controls on Singapore-based Megaspeed, which allegedly funneled restricted Nvidia artificial intelligence processors to Chinese entities.",
+      "blindSpotAngle": "Mainstream coverage has focused primarily on former Nvidia CEO Jensen Huang's personal ethics scandal. The true blind spot is structural: major U.S. cabinet agencies were aligned for months on blacklisting intermediary firms, yet enforcement stalled inside Commerce. This delay permitted third-party shell companies to exploit compliance gaps, rendering U.S. semiconductor containment measures ineffective.",
+      "facebookPost": "Treasury Secretary Scott Bessent has publicly turned the spotlight on the Commerce Department, accusing Commerce Secretary Howard Lutnick of stalling export controls on Megaspeed, a Singapore-based entity suspected of diverting Nvidia's advanced AI chips to China. The public clash follows the resignation of Nvidia CEO Jensen Huang after scrutiny over his relationship with a Megaspeed executive identified by U.S. intelligence as a Chinese agent.\n\nWhile public focus remains fixed on corporate leadership drama, the systemic breakdown inside Washington is the real issue. Bessent confirmed that the Treasury, State, and Defense departments, alongside the Trade Representative, favored putting Megaspeed on the Entity List for months. The failure to act swiftly highlights how jurisdictional bottlenecks and commercial considerations within regulatory bodies continue to compromise strategic containment objectives.\n\nShould hardware manufacturers be held legally liable for third-party distributor leakage, or is federal export enforcement fundamentally flawed?\n\nSource: CNBC World\n\n#GlobalEconomy #Blindspot #Semiconductors",
+      "telegramPost": "<b>BESSENT BLAMES COMMERCE DEPARTMENT FOR NVIDIA CHIP LEAKAGE TO CHINA</b>\n\n• <b>What happened:</b> Treasury Secretary Scott Bessent stated that his department, Defense, State, and USTR spent months advocating for export restrictions on Singapore-based Megaspeed, but Commerce Secretary Howard Lutnick delayed action as Nvidia AI chips reached China.\n• <b>Why it matters:</b> Focusing solely on executive scandals masks a severe inter-agency breakdown over U.S. tech containment strategies and corporate compliance enforcement.\n• <b>What is next:</b> Expect heightened congressional scrutiny on Commerce's Entity List management and potential demands for stricter Know Your Customer standards for global chip suppliers.",
+      "linkedInPost": "The strategic friction between U.S. Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick over Nvidia chip exports to China points to a broader structural vulnerability in global semiconductor supply chains. While public narratives center on corporate executive resignations, the core risk for multinational technology firms lies in regulatory enforcement delays and third-party compliance exposure.\n\nIntermediary networks in hubs like Singapore continue to test the limits of end-user verification protocols. When federal agencies disagree on Entity List designations, tech exporters are left exposed to severe reputational damage, executive fallout, and potential secondary sanctions. Organizations operating in high-tech sectors must re-evaluate their distributor vetting and audit controls, as Washington's tolerance for hardware leakage rapidly disappears.\n\nSource: CNBC World\n\n#GlobalEconomy #SupplyChainRisk #Blindspot",
+      "blueskyPost": "Cabinet rift deepens as Treasury chief Bessent points finger at Commerce over leaked Nvidia chips to China via Singapore shell firms. Structural compliance failure, not just executive scandal. #GlobalEconomy #Blindspot",
+      "copies": {
+        "facebook": "Treasury Secretary Scott Bessent has publicly turned the spotlight on the Commerce Department, accusing Commerce Secretary Howard Lutnick of stalling export controls on Megaspeed, a Singapore-based entity suspected of diverting Nvidia's advanced AI chips to China. The public clash follows the resignation of Nvidia CEO Jensen Huang after scrutiny over his relationship with a Megaspeed executive identified by U.S. intelligence as a Chinese agent.\n\nWhile public focus remains fixed on corporate leadership drama, the systemic breakdown inside Washington is the real issue. Bessent confirmed that the Treasury, State, and Defense departments, alongside the Trade Representative, favored putting Megaspeed on the Entity List for months. The failure to act swiftly highlights how jurisdictional bottlenecks and commercial considerations within regulatory bodies continue to compromise strategic containment objectives.\n\nShould hardware manufacturers be held legally liable for third-party distributor leakage, or is federal export enforcement fundamentally flawed?\n\n#GlobalEconomy #Blindspot #Semiconductors",
+        "telegram": "<b>BESSENT BLAMES COMMERCE DEPARTMENT FOR NVIDIA CHIP LEAKAGE TO CHINA</b>\n\n• <b>What happened:</b> Treasury Secretary Scott Bessent stated that his department, Defense, State, and USTR spent months advocating for export restrictions on Singapore-based Megaspeed, but Commerce Secretary Howard Lutnick delayed action as Nvidia AI chips reached China.\n• <b>Why it matters:</b> Focusing solely on executive scandals masks a severe inter-agency breakdown over U.S. tech containment strategies and corporate compliance enforcement.\n• <b>What is next:</b> Expect heightened congressional scrutiny on Commerce's Entity List management and potential demands for stricter Know Your Customer standards for global chip suppliers.",
+        "bluesky": "Cabinet rift deepens as Treasury chief Bessent points finger at Commerce over leaked Nvidia chips to China via Singapore shell firms. Structural compliance failure, not just executive scandal. #GlobalEconomy #Blindspot",
+        "linkedIn": "The strategic friction between U.S. Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick over Nvidia chip exports to China points to a broader structural vulnerability in global semiconductor supply chains. While public narratives center on corporate executive resignations, the core risk for multinational technology firms lies in regulatory enforcement delays and third-party compliance exposure.\n\nIntermediary networks in hubs like Singapore continue to test the limits of end-user verification protocols. When federal agencies disagree on Entity List designations, tech exporters are left exposed to severe reputational damage, executive fallout, and potential secondary sanctions. Organizations operating in high-tech sectors must re-evaluate their distributor vetting and audit controls, as Washington's tolerance for hardware leakage rapidly disappears.\n\n#GlobalEconomy #SupplyChainRisk #Blindspot"
+      },
+      "article": {
+        "slug": "treasury-chief-accuses-commerce-department-delaying-eobc",
+        "title": "Treasury Chief Accuses Commerce Department of Delaying Action on Nvidia Chip Leakage",
+        "dek": "Treasury Secretary Scott Bessent publicly faulted Commerce Secretary Howard Lutnick for delaying sanctions on a Singapore-based intermediary accused of routing Nvidia hardware to China. The cabinet clash exposes internal enforcement failures in Washington's technology embargo.",
+        "keyFacts": [
+          "Treasury Secretary Scott Bessent stated that Treasury, Defense, State, and USTR supported placing Singapore-based Megaspeed on the Entity List for months.",
+          "Former Nvidia CEO Jensen Huang resigned following scrutiny over his relationship with Alice Huang, a Megaspeed executive identified by U.S. intelligence as a Chinese spy.",
+          "President Donald Trump previously directed that China should not receive Nvidia chips above H100s, though he floated conditional H200 sales in December provided the U.S. receives a sales percentage.",
+          "Axios reported an argument in the White House Situation Room where Bessent questioned Commerce Secretary Howard Lutnick over delayed export controls, though Commerce spokesperson Kristen Eichamer denied the report."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "Treasury Secretary Scott Bessent publicly implicated the Commerce Department on Friday for failing to act swiftly against companies accused of routing restricted Nvidia artificial intelligence processors to China.",
+              "Speaking on CNBC's Squawk Box, Bessent stated that the Treasury Department, Department of Defense, Department of State, and the Office of the U.S. Trade Representative had all supported placing Singapore-based Megaspeed on the U.S. Entity List for months. According to Bessent, primary responsibility for implementing those export controls rests with the Commerce Department, headed by Secretary Howard Lutnick.",
+              "The public comments followed the resignation of long-time Nvidia CEO Jensen Huang, who stepped down after acknowledging a personal relationship with Alice Huang, an executive at Megaspeed whom U.S. intelligence reportedly identified as an agent for China."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "The geopolitical friction surrounding Nvidia hardware reflects months of policy tension within the Trump administration regarding semiconductor sales to Chinese firms. According to reporting from Reuters and CNBC, President Trump previously declared that Chinese entities should not receive Nvidia chips exceeding the performance of the H100 model.",
+              "However, policy signals remained mixed. In December, Trump publicly suggested that Nvidia could be permitted to export its more advanced H200 chips to pre-approved Chinese buyers, provided the U.S. government received a percentage cut of the transaction proceeds.",
+              "During this period, Nvidia faced intense pressure to maintain global revenue streams while complying with shifting regulatory boundaries. Huang had actively lobbied Washington officials to loosen restrictions on advanced processor sales abroad."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "While media coverage has prioritized the personal scandal surrounding Huang's departure, the structural blind spot involves an inter-agency stalemate that paralyzed U.S. export enforcement. Despite consensus across four major cabinet agencies regarding Megaspeed's risk profile, the administrative mechanism inside the Commerce Department delayed action.",
+              "Furthermore, the situation exposes severe vulnerabilities in corporate compliance standards. Third-party entities operating out of transshipment hubs like Singapore allow restricted hardware to change hands through legal shell structures. Bessent questioned whether Nvidia exercised sufficient due diligence under Know Your Customer guidelines to prevent sales to obvious pass-through entities."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "The primary beneficiaries of this enforcement paralysis are Chinese artificial intelligence developers, who gained access to advanced hardware capabilities during the period regulatory controls were stalled.",
+              "The losers include U.S. national security agencies attempting to enforce technological containment, as well as Nvidia shareholders. The company now faces intensified regulatory scrutiny, leadership disruption, and structural questions regarding its global sales network compliance."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "Attention now shifts to Capitol Hill and the White House regarding potential shifts in export enforcement authority. Congressional oversight committees are expected to examine why the Commerce Department resisted entity listings favored by Defense and State.",
+              "Market participants will monitor whether the U.S. Department of Justice or international regulatory bodies launch formal investigations into Nvidia's distributor qualification processes and shell company verification mechanisms."
+            ]
+          }
+        ],
+        "tags": [
+          "Semiconductors",
+          "Trade Policy",
+          "Scott Bessent",
+          "Nvidia",
+          "Geopolitics",
+          "Artificial Intelligence"
+        ],
+        "sources": [
+          {
+            "name": "CNBC World",
+            "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
+            "url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html"
+          },
+          {
+            "name": "CNBC",
+            "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaTIzZHZCSGlfZTAwY0VGY1hwZ0stMC1fblpqQ1N1eC1tWHRFazYxeDMxcVIzdEs0NXNUMVRhVWdJTVhOc2ZQcmQwaUFkOVJMZDVJTG5kUlE2aWtNYnljaHlqU05HWjFIUzl0MTJ1UzZGYk11SU5mXzJuTmxwOWFqbHo1TnkwTXZpMFA00gGQAUFVX3lxTE9QZHhGMjFUYWFSaGRxQ2lrQXpWYkdUTzJ6QmRUNFcxV092Q2MzbzZyMm9paGp2eGpEVEVXUzhsdkRZZy1GOFYycFVXYXFTVmlfZmlvM1EzUGh0TkMtU1dlZlVyd0xYemFaeDNYR0RYc2lhdTk4UTNsVjNJM2hXS2hod3dBTzBfYlNnT0dmLUk5dw?oc=5"
+          },
+          {
+            "name": "Courthouse News",
+            "title": "Bessent blames Lutnick's Commerce Department for not restricting Nvidia chips to China",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVFpwejBEc1U4UmRWSmdkT2xHVWNwQzdGTEQ5WktsZHk1YkxCSkxIUjdycDJMdjVsREdTQXhBaWM2Z1dFYU5kYjdxN29qX2NaZTdyUWFDcXdyRXdiWkNscmZULUxRcWR4TlNXNjZ6Sm5QQWkwTlA0XzhqMzA5ZXNhMHpTWTByVmxUb3ZZV2VsWGFoNUdDRVZzZ2oyYUpxUWhReFZ0UC03S3o2aHFheVU3d2hQTjdCWnBj?oc=5"
+          },
+          {
+            "name": "NewsCord",
+            "title": "Scott Bessent Blames Howard Lutnick’s Commerce Department for Megaspeed Export Delays: 12 outlets compared",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWEw5VXNaRVU5WUlpNDAtSVBjNjhVUnFhQlZTd2p2bHZZY2xUQWlKU1ZDdWNWRUJfYUxfc1ZDeW44UVFFbGt0YkNabjlyR1pjM0djNXBhZExKdmxmc0hjbFF5SWV0TTFNLWJYWTkzYmNvNkJrUXYzcF9GaVRGbkdzcTRwd2xCanJBRDBGYUZ3SGVNcmlock5kQmVCam1wcHlHRXZLckhGWmF6YlpjNkM2SXZ6dUNETDd0bmRYR1laR09QZ3lGbVFLdDBBQ3FUOFFacHZxUXc1aDdaWkV4c3h3eDFqU2N5TjZ0TGc?oc=5"
+          },
+          {
+            "name": "Santa Cruz Sentinel",
+            "title": "Bessent blames Lutnick’s Commerce Department for not restricting Nvidia chips to China",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWkVjUUl6VUdtbzRNRjRwSnlxMm1wcGpabHZxUzc0N1BMR1B2b0ZZUE5LdkNUSFFSNUhjWEtLY2xvMWRaNXZ5ZVd0OFVsR1ljeDBUQ29ZS1RXR19mSlVyMzlZNGpQQUQ0aXlaanhab19lNXhkSEUxSXFMTFBDblE2S2g0LXFHX0wwOW5ydXQwc2p5NkxBVGtwMjdn?oc=5"
+          }
+        ],
+        "wordCount": 492
+      },
+      "videoScript": {
+        "hook": "Treasury Secretary Scott Bessent just exposed a major cabinet feud over AI chips.",
+        "beats": [
+          "Treasury, Defense, and State wanted to blacklist Singapore shell company Megaspeed for months.",
+          "President Trump banned selling chips above H100s to China, but hardware leaked through third parties anyway.",
+          "The blind spot is that focusing on executive scandals hides systemic failures in U.S. export enforcement."
+        ],
+        "close": "Read the full intelligence analysis at the link in our bio."
+      },
+      "rawImageUrl": "https://image.cnbcfm.com/api/v1/image/108551028-1794578771117-gettyimages-2217128051-AFP_48PC9Y6.jpeg?v=1794578802&w=1920&h=1080",
+      "status": "pending",
+      "createdAt": "2026-11-13T19:32:36.767Z",
+      "cardImageUrl": "/news-cards/news-blxpq4yju-1794598356767.jpg",
+      "reelCoverUrl": "/news-cards/news-blxpq4yju-1794598357387-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-blxpq4yju-1794598357972-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/treasury-chief-accuses-commerce-department-delaying-eobc/"
+    },
+    "channels": {
+      "facebook": true,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": true,
+      "mastodon": false,
+      "threads": false,
+      "youtube": true
+    },
+    "scheduledFor": "2026-11-13T21:53:15.179Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-13T19:32:39.173Z"
   }
 ]
