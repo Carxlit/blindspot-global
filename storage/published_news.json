@@ -1,5 +1,126 @@
 [
   {
+    "id": "jy1oe0be5",
+    "originalUrl": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+    "originalTitle": "Heat pumps: How much heat does your home really need?",
+    "sourceName": "BBC Business",
+    "category": "GLOBAL ECONOMY",
+    "urgencyScore": 74,
+    "headline": "HOMEOWNERS TURN TO APPS TO AVOID HVAC MISCALCULATIONS",
+    "subHeadline": "Roughly 150 new users daily sign up for heat loss calculation software as academic studies reveal commercial sizing errors.",
+    "blindSpotAngle": "The growing adoption of DIY sizing tools highlights a profound trust deficit between consumers and traditional HVAC contractors. Beyond simple miscalculations, the industry's reliance on oversized systems locks households into inflated energy consumption while generating lucrative secondary revenue streams for diagnostic surveys.",
+    "facebookPost": "When choosing a new heating system, trusting traditional tradespeople to size a heat pump correctly is becoming an expensive gamble for residential property owners. Academic research reveals that manual heat loss calculations often overestimate design loads by a factor of two or more, resulting in bloated energy bills and oversized equipment.\n\nWhile the official transition to green heating accelerates, the micro-economics of installation remain plagued by severe opacity and exorbitant survey fees reaching up to $2,500. Homeowners are increasingly bypassing contractors entirely to run their own numbers via platforms like Cool Calc.\n\nHow can residential decarbonization succeed if the foundational engineering tier relies on inflated estimates and opaque consumer pricing?\n\nSource: BBC Business\n\n#GlobalEconomy #EnergyTransition #Blindspot",
+    "telegramPost": "<b>HOMEOWNERS TURN TO APPS TO AVOID HVAC MISCALCULATIONS</b>\n\n• <b>What happened:</b> Roughly 150 new users daily, including many private homeowners, are signing up for the heat-loss calculation app Cool Calc to size their heating systems.\n• <b>Why it matters:</b> A recent unpublished study by Purdue University reveals that traditional contractor heat loss calculations often overestimate design loads by a factor of two or more, leading to oversized systems and excessive energy use.\n• <b>What is next:</b> As software tools integrate with AI chatbots to standardize advice, consumer skepticism toward traditional trade estimates will likely reshape the residential HVAC market.",
+    "linkedInPost": "The structural bottlenecks of residential green transitions go far beyond macroeconomic supply chains. They manifest in the micro-economics of local installation accuracy and consumer trust.\n\nRecent findings from Purdue University show that trade-led heat loss calculations frequently overestimate home heating loads by a factor of two, while diagnostic surveys alone rack up costs of over $1,000 to $2,500. This friction creates a dual market failure: inflated capital expenditures for oversized hardware and recurring operational inefficiencies for homeowners.\n\nAs digital tools step in to bridge the transparency gap, equipment manufacturers and service providers must address the systemic pricing and precision issues undermining consumer adoption.\n\nSource: BBC Business\n\n#GlobalEconomy #EnergyTransition #Blindspot",
+    "blueskyPost": "Purdue University found that traditional HVAC trade calculations overestimate home heating loads by a factor of two, while survey costs hit $2,500. Homeowners are fighting back via sizing apps. #GlobalEconomy #Blindspot",
+    "copies": {
+      "facebook": "When choosing a new heating system, trusting traditional tradespeople to size a heat pump correctly is becoming an expensive gamble for residential property owners. Academic research reveals that manual heat loss calculations often overestimate design loads by a factor of two or more, resulting in bloated energy bills and oversized equipment.\n\nWhile the official transition to green heating accelerates, the micro-economics of installation remain plagued by severe opacity and exorbitant survey fees reaching up to $2,500. Homeowners are increasingly bypassing contractors entirely to run their own numbers via platforms like Cool Calc.\n\nHow can residential decarbonization succeed if the foundational engineering tier relies on inflated estimates and opaque consumer pricing? #GlobalEconomy #EnergyTransition #Blindspot",
+      "telegram": "<b>HOMEOWNERS TURN TO APPS TO AVOID HVAC MISCALCULATIONS</b>\n\n• <b>What happened:</b> Roughly 150 new users daily, including many private homeowners, are signing up for the heat-loss calculation app Cool Calc to size their heating systems.\n• <b>Why it matters:</b> A recent unpublished study by Purdue University reveals that traditional contractor heat loss calculations often overestimate design loads by a factor of two or more, leading to oversized systems and excessive energy use.\n• <b>What is next:</b> As software tools integrate with AI chatbots to standardize advice, consumer skepticism toward traditional trade estimates will likely reshape the residential HVAC market.",
+      "bluesky": "Purdue University found that traditional HVAC trade calculations overestimate home heating loads by a factor of two, while survey costs hit $2,500. Homeowners are fighting back via sizing apps. #GlobalEconomy #Blindspot",
+      "linkedIn": "The structural bottlenecks of residential green transitions go far beyond macroeconomic supply chains. They manifest in the micro-economics of local installation accuracy and consumer trust.\n\nRecent findings from Purdue University show that trade-led heat loss calculations frequently overestimate home heating loads by a factor of two, while diagnostic surveys alone rack up costs of over $1,000 to $2,500. This friction creates a dual market failure: inflated capital expenditures for oversized hardware and recurring operational inefficiencies for homeowners.\n\nAs digital tools step in to bridge the transparency gap, equipment manufacturers and service providers must address the systemic pricing and precision issues undermining consumer adoption. #GlobalEconomy #EnergyTransition #Blindspot"
+    },
+    "article": {
+      "slug": "why-homeowners-bypassing-contractors-calculate-their-j94j",
+      "title": "Why homeowners are bypassing contractors to calculate their own heat pump needs",
+      "dek": "As academic studies uncover widespread overestimation in heating load calculations, homeowners are increasingly turning to software to bypass costly and flawed trade assessments.",
+      "keyFacts": [
+        "Roughly 150 new users sign up daily to the heat calculation app Cool Calc.",
+        "Just over one third of Cool Calc's new users are private homeowners rather than tradespeople.",
+        "A Purdue University study examining roughly 75 US homeowners found that trade calculations often overestimated design heat loads by a factor of two or more.",
+        "Homeowners reported charges of more than $1,000, and in one case up to $2,500, just for a heat loss survey."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Floorplans, air duct diagrams, and heat pump specifications are rarely considered light reading. Yet, an escalating number of property owners are diving into these technical details with extreme depth.",
+            "According to BBC Business, roughly 150 new users sign up every day to Cool Calc, an application designed to calculate the heat requirements of properties in the United States. Founder and chief executive Bill Fiore notes that just over one third of these new users are not professional tradespeople, but private homeowners seeking independent verification."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "A heat loss calculation is a figure measured in watts that defines how much heat a home loses during cold weather, determined room by room to design an efficient heating system. This estimate is vital when installing a heat pump, which must be sized precisely according to projected thermal loss.",
+            "According to Kevin Kircher at Purdue University, he and his colleagues recently conducted a study examining the heat loss calculations provided by tradespeople to roughly 75 US homeowners. The researchers discovered that these calculations frequently overestimated design heat loads by a factor of two or more, resulting in oversized systems that consume unnecessary power."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While mainstream discussions focus broadly on the macro rollout of heat pumps, the micro-level friction of consumer economics remains largely overlooked. Homeowners are not only grappling with physical equipment sizing errors but also with steep ancillary costs.",
+            "Some individuals reported charges exceeding $1,000, and in one extreme case as much as $2,500, merely for a baseline heat loss survey. Furthermore, while platforms like Cool Calc attempt to fill the verification gap, founder Bill Fiore warns that users turning to unverified artificial intelligence models are encountering widespread misinformation."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Software platforms and tech-savvy consumers are carving out an advantage by asserting control over system specifications. Conversely, traditional installers relying on opaque pricing structures and legacy estimation habits face growing distrust.",
+            "Property owners bear the ultimate cost, caught between high diagnostic survey fees, potential equipment performance penalties, and the risk of purchasing oversized, power-hungry machinery."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Cool Calc is planning to integrate with AI chatbots to improve the quality of automated advice, signaling a broader push toward digital automation in residential energy planning.",
+            "Observers should monitor whether academic scrutiny and consumer software adoption force a structural standardization across the broader HVAC contracting industry."
+          ]
+        }
+      ],
+      "tags": [
+        "Heat Pumps",
+        "Energy Efficiency",
+        "Consumer Economics",
+        "HVAC",
+        "Technology"
+      ],
+      "sources": [
+        {
+          "name": "BBC Business",
+          "title": "Heat pumps: How much heat does your home really need?",
+          "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Grist",
+          "title": "This surprise cost could derail your heat pump or EV charger installation. Here’s how to avoid it.",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZDJyOVN0VGtnbkttaU1lSDJiNm1HUU0xR2p5SnM2bmlZVG9qcjY2RzNJSldGbGRrV3hwWFVRNWcxQkh2RHhBMHdmS1RKSElOa0RMNjhOZUM2cmpmclBPRDBZUkp1UkpPZWd0T1NOR3hNS1pIcW1KUEQ4NDhHVmF4ZjVLMGVJU1dIZEJTX0VsV2JRb2xadmRycDd3cUFxa2k0MVJKNnp3VmtfeDZNUEg5VjNmR21PNi1qd3hmUmNvcTVOZw?oc=5"
+        },
+        {
+          "name": "NaturalRefrigerants.com",
+          "title": "Part 1: Systemair on Why Natural Refrigerants ‘Will Hit Hardest’ in Integrated HVAC Systems",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaXl2dlZwN1prRUU3X1NwVUFsZzZ2U25lRndJRTRfWmZOVDBFZDVaQWozeDJKRWRSdDhtWmN6QV82OVFUNUJNdWZkUkc2N1FYTkNUOHBaU1pycFlaSXNmalQteWNWTlZwVDVZNG8yNTQ1empWZ1RpQjFwOGd3Y0pPUm5XYW4zVVVSU256Skp0ZkhQR2NQU0l4UXFTUHJ3ZlZhZmhtazQxdHg2bUQ5QmpLYlQtVEhlS0RFOG5CcE9pT1J2S0Nn?oc=5"
+        },
+        {
+          "name": "BBC",
+          "title": "Heat pumps: How much heat does your home really need?",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JRlFKUFhSVWNxOGFzdUxDN25haEpDZklOMjQ5dTdTZEtWUDBOc3FVQ0p6OTdvZnlubEk0Q1c5MzNleFFpcW5kT2xMZlgyVzQyMHM5QXRUYlgxeWt5WGc?oc=5"
+        },
+        {
+          "name": "kjnbtv.com",
+          "title": "Jonesboro HVAC experts urge system checks before switching to heat",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeUozRnJ3b3NNazN3bVNkVC1qV19uZVdlYzhZT2hnTXp1eHBxdkVFVU4xcGdOeFU3MnE0bTNXcmtzX24xcVJBV0cxM2t0WFJvVVl0cWc5QThrRnhHdWpJbG1sUG9DUWhRelBhVUdCR2JOczc2S2h6d3BjZVpXYVhOcDM0Q0g0d1RodHJkdTh6c1cyN3hQOHdhYnBUaldRdjRVbHVxWC0yZWd4RFlGRUFMTE90WVNmVUlMRndtUFMtWHJTUHZ3N0tyMWstZGN3OHExbEhDcEdDd2NSek1UVkFKeVB0LWw?oc=5"
+        }
+      ],
+      "wordCount": 400
+    },
+    "videoScript": {
+      "hook": "Why are homeowners ditching traditional experts to size their own heating systems?",
+      "beats": [
+        "Roughly 150 new users sign up daily to the calculation app Cool Calc.",
+        "A Purdue study found that contractor heat loss estimates overestimate loads by a factor of two or more.",
+        "Homeowners report paying up to $2,500 just for a single heat loss survey."
+      ],
+      "close": "Read the full analysis at the link in our bio."
+    },
+    "rawImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d187/live/503bbbd0-d902-11f1-93e1-3b657b665bcf.jpg",
+    "status": "published",
+    "createdAt": "2026-11-13T12:13:44.173Z",
+    "cardImageUrl": "/news-cards/news-jy1oe0be5-1794572024174.jpg",
+    "reelCoverUrl": "/news-cards/news-jy1oe0be5-1794572024810-cover.jpg",
+    "instagramCardUrl": "/news-cards/news-jy1oe0be5-1794572025381-ig.jpg",
+    "articleUrl": "https://blindspotglobal.pages.dev/news/why-homeowners-bypassing-contractors-calculate-their-j94j/",
+    "publishedAt": "2026-11-13T14:17:54.849Z"
+  },
+  {
     "id": "zk78q7jog",
     "originalUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ?oc=5",
     "originalTitle": "Iran's Guards say they targeted a US early-warning radar in Bahrain",

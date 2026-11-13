@@ -16578,12 +16578,13 @@
         "close": "Read the full analysis at the link in our bio."
       },
       "rawImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d187/live/503bbbd0-d902-11f1-93e1-3b657b665bcf.jpg",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-13T12:13:44.173Z",
       "cardImageUrl": "/news-cards/news-jy1oe0be5-1794572024174.jpg",
       "reelCoverUrl": "/news-cards/news-jy1oe0be5-1794572024810-cover.jpg",
       "instagramCardUrl": "/news-cards/news-jy1oe0be5-1794572025381-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/why-homeowners-bypassing-contractors-calculate-their-j94j/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/why-homeowners-bypassing-contractors-calculate-their-j94j/",
+      "publishedAt": "2026-11-13T14:17:54.849Z"
     },
     "channels": {
       "facebook": true,
@@ -16597,10 +16598,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-13T14:14:50.741Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-13T12:13:46.589Z"
+    "createdAt": "2026-11-13T12:13:46.589Z",
+    "lastAttemptAt": "2026-11-13T14:15:06.127Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122107368717539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17997284670028013",
+        "permalink": "https://www.instagram.com/reel/Dfr04hiE58M/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-13T14:17:54.849Z"
   },
   {
     "id": "queue-1794576100734-zi2t2",
