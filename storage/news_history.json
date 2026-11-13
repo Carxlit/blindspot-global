@@ -95,9 +95,37 @@
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5zRmhTTGNjXzZqa1hiWG1oWmVLeGZzZmZiVkhjOEpqTlJiMVZudG1meElSb2d5djFtM0FSUzM0UVdtYXdRcVZReTBxUG5rMW9ZYVQ3MlFXTGhZRG5rZmZnay1ONXlEVzJWdFRKZ3VLZGRDNFVzU21oVkZHTkhCZGlDNTA2NlgzY3lhdw?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSU11cnU1SXBLUldxR2poV29IUkRWQW9oLUlIamYzNUtmRUFYTjEwa1lMeVFLVTlZVE11a2VSLXFRU3lfTFE1c3BsU2FRSl9xZGY2TjlUSmhjdWxjU0JxYzFCU1I3bHZEXzAyRWdyczVWLWxTeHVBVGNCUzQ5NzZBbXlMb2ZsVk13WENSaGJtTGJwdVJTeFU2OA?oc=5",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxNXzBaaFVMOFBBbDJYaWpVdWV2ZVp1d2prRXhRcjR4NThMVEFVMzhOQXBDQktXTWp5aUFDaWpYZTRTeERnWnBpNy1JN2R1dUpDc3ZrOGhadGY3LXNpbFcxNS1DUlRrRlRkbzA4dDVudllWQ0pTNzY2SVRVX1FkeUlvRzljeExnS3c0dHNaLUp3Vkw?oc=5",
-    "https://www.europapress.es/internacional/noticia-mueren-cuatro-personas-ataque-ucrania-contra-zona-industrial-region-rusa-volgogrado-20261113081843.html"
+    "https://www.europapress.es/internacional/noticia-mueren-cuatro-personas-ataque-ucrania-contra-zona-industrial-region-rusa-volgogrado-20261113081843.html",
+    "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
   ],
   "processedSignatures": [
+    {
+      "title": "LUTNICK FACES REMOVAL OVER NVIDIA EXPORT CONTROL DELAYS",
+      "normalizedTokens": [
+        "lutnick",
+        "faces",
+        "removal",
+        "nvidia",
+        "export",
+        "control",
+        "delays"
+      ],
+      "date": "2026-11-13T11:02:44.664Z"
+    },
+    {
+      "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
+      "normalizedTokens": [
+        "nvidia",
+        "scandal",
+        "howard",
+        "lutnick",
+        "pressure",
+        "alleged",
+        "lack",
+        "action"
+      ],
+      "date": "2026-11-13T11:02:44.663Z"
+    },
     {
       "title": "UKRAINIAN DRONE STRIKES HIT RUSSIAN INDUSTRIAL ZONES AS MOSCOW CLAIMS MASSIVE INTERCEPTIONS",
       "normalizedTokens": [

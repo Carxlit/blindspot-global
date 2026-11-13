@@ -1,5 +1,101 @@
 [
   {
+    "slug": "us-commerce-chief-under-fire-nvidia-uyi3",
+    "path": "news/us-commerce-chief-under-fire-nvidia-uyi3/",
+    "title": "US Commerce Chief Under Fire as Nvidia Scandal Exposes Export Control Failure",
+    "headline": "LUTNICK FACES REMOVAL OVER NVIDIA EXPORT CONTROL DELAYS",
+    "dek": "Bipartisan pressure builds on Commerce Secretary Howard Lutnick following revelations that regulatory delays allowed billions in restricted AI hardware to reach third-party proxies. The fallout from Jensen Huang's resignation highlights systemic vulnerabilities in American technology containment policy.",
+    "category": "TECHNOLOGY & AI",
+    "sourceName": "The Guardian Tech",
+    "image": "img/us-commerce-chief-under-fire-nvidia-uyi3.jpg",
+    "photo": "img/us-commerce-chief-under-fire-nvidia-uyi3-foto.jpg",
+    "publishedAt": "2026-11-13T11:02:44.587Z",
+    "article": {
+      "slug": "us-commerce-chief-under-fire-nvidia-uyi3",
+      "title": "US Commerce Chief Under Fire as Nvidia Scandal Exposes Export Control Failure",
+      "dek": "Bipartisan pressure builds on Commerce Secretary Howard Lutnick following revelations that regulatory delays allowed billions in restricted AI hardware to reach third-party proxies. The fallout from Jensen Huang's resignation highlights systemic vulnerabilities in American technology containment policy.",
+      "keyFacts": [
+        "Jensen Huang resigned as chief executive of Nvidia and was replaced on an interim basis by chief financial officer Colette Kress.",
+        "Singapore-based Megaspeed purchased billions of dollars in Nvidia semiconductors despite internal US intelligence warnings.",
+        "US Commerce Secretary Howard Lutnick delayed placing Megaspeed on the federal trade blacklist and faces potential termination by the White House.",
+        "Lutnick has voluntarily agreed to testify before the Senate Banking Committee alongside congressional demands for classified briefings."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "The stability of the global semiconductor industry was shaken following the resignation of Nvidia chief executive Jensen Huang. The executive departure followed published reports revealing an administrative intelligence warning regarding his relationship with Alice Huang, an individual suspected by US officials of operating on behalf of Chinese intelligence.",
+            "According to reporting by The Guardian and NBC News, Chief Financial Officer Colette Kress has assumed the role of interim chief executive while the company navigates severe political and regulatory scrutiny in Washington. Simultaneously, US Commerce Secretary Howard Lutnick has come under severe criticism from lawmakers across both parties for delaying enforcement action against corporate entities tied to the case."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Central to the widening inquiry is Megaspeed, a Singapore-registered entity associated with Alice Huang. According to regulatory disclosures and intelligence dossiers cited by lawmakers, Megaspeed procured billions of dollars in advanced Nvidia graphics processing units in recent years, serving as a primary pipeline for high-performance computing hardware.",
+            "Despite explicit warnings circulated within the Trump administration regarding Megaspeed's role in circumventing trade restrictions, the Department of Commerce refrained from placing the firm on its official Entity List. The delay permitted continued transfers of dual-use artificial intelligence technology, drawing immediate condemnation from Capitol Hill. Utah Republican Senator John Curtis noted that the failure to execute timely export restrictions raises severe doubts about whether regulatory agencies acted in the national interest."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While public narrative focuses on executive missteps and personal scandals, Blindspot's analysis demonstrates that the real vulnerability rests in the structural execution of US export controls. Unilateral technology embargoes rely entirely on rapid, aggressive administrative enforcement against intermediary firms operating in neutral jurisdictions like Singapore or the United Arab Emirates.",
+            "When political access or administrative hesitancy delays the blacklisting process, the efficacy of the entire sanctions framework collapses. Intermediaries require only brief regulatory windows to contract, procure, and transfer vast quantities of advanced microchips. The Nvidia case illustrates how sophisticated state actors exploit these administrative lag times, using legal corporate structures in friendly nations to systematically drain Western technological leads before regulatory agencies take official action."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The immediate beneficiaries of this regulatory lag are Chinese state-backed research institutions and AI developers, who successfully secured critical hardware reserves prior to any formal trade intervention. Conversely, the primary entity bearing institutional damage is Nvidia, which faces severe reputational harm, operational disruption, and the prospect of intrusive congressional oversight under temporary leadership.",
+            "Within Washington, political capital has shifted dramatically toward national security hawks in Congress. Senate Democratic Leader Chuck Schumer and Republican Senator John Cornyn have demanded comprehensive investigations and full accountability, effectively stripping the Commerce Department of its discretionary leeway regarding trade enforcement decisions."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "In the coming weeks, attention will center on Secretary Howard Lutnick's scheduled voluntary testimony before the Senate Banking Committee, alongside demands from House Democratic Leader Hakeem Jeffries for classified congressional briefings. Observers must monitor whether the White House proceeds with removing Lutnick to contain political damage.",
+            "Beyond personal political survival, the key indicator will be whether Congress mandates legislative reforms that strip administrative discretion from the Commerce Department, transferring foreign technology end-user verification directly to intelligence and defense agencies."
+          ]
+        }
+      ],
+      "tags": [
+        "Semiconductors",
+        "Nvidia",
+        "Export Controls",
+        "US China Relations",
+        "National Security"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian Tech",
+          "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
+          "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXJKTllMeTVQbGZQakFSM3NtVEhPNU5HY3pZZ2ZzbHZBaVN4X0JsYXdOREhLZlBEdXpINEdLeFhVY3FGQ1VVa19rZk5WVGJDUVBCVlhxRDV2eXliV1FSR2phN2F6ZFFEYUM1M3lwUFNkV0RPTFpJZm04cnFvV1hvdy1MTUdsUFJmM2dOZ0wxbEhnN0I4T3lpbmJjR096amVTLWNzbEdpdnNOVE5P?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Howard Lutnick agrees to testify as bipartisan pressure grows over Nvidia scandal",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdU1TbGNKRWZtRHFITG10bWtadnh4TXBCdDhkaUFYRWxuSElqdWRCRHNUdk5Ka1VHelpYRmlnMWdBenhHR28zdHJHTGEydzRQMWFYdXdpdUFFOUNycEpjSkhZVFp2U2swakg1SzJCOFpfaWxvTlJQZWo0bVdDcTBxZUE3ZFk0LW9GWHRQTWhZcUZVMV8weGtIc1JkS0tJbXUxc3hxZC1Eb0dPa2NCMnRkS0VKM0p4MGs3cWc?oc=5"
+        },
+        {
+          "name": "Financial Times",
+          "title": "US lawmakers pile pressure on Howard Lutnick as Nvidia scandal widens",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDAyQWVyeFh3d2VuVGFRc05WQVR3dDRCVnljTDNsbkN3RG1qbmxyN3Zfa1Q2OGFCSUhtR0xlZ3FDaGxBUGxCZEg0a04xYjgtUHgwcHhNem1hOTdlblV1d3R3eXVMOE4tQ05zUllEdUQwaldWd0RRQmdFbjVVNTBiX2swUzQ?oc=5"
+        },
+        {
+          "name": "Politico",
+          "title": "Lutnick’s longtime friendship with Trump may not save him",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb1FkLXhzbEgyU0lvUzFpVGFCOWU1OE9POWN5VVhZMXB0cHk5NUR5TDVNNG0yRURKNjBLWDE5UkRfOXVBVTVYaUluUUVNNUQ4NUszVWhQTmpnWW03bnc5b0UxelV1R1lWTkM0M2pEZ1FNTXl1WTBfaUtjTTFnODE1RU5HdmYwZlBBUXNhblRGYk4?oc=5"
+        }
+      ],
+      "wordCount": 554
+    },
+    "blindSpot": "While mainstream reporting focuses on the personal political fallout surrounding Jensen Huang's resignation, the underlying failure is systemic. The US Commerce Department allowed Singapore-based Megaspeed to purchase billions in advanced AI hardware long after intelligence agencies flagged security risks, proving that political protection and regulatory sluggishness continue to subvert foreign technology embargoes."
+  },
+  {
     "slug": "industrial-strikes-volgogrado-highlight-escalating-scale-4695",
     "path": "news/industrial-strikes-volgogrado-highlight-escalating-scale-4695/",
     "title": "Industrial strikes in Volgogrado highlight escalating scale of drone warfare",
