@@ -1,5 +1,101 @@
 [
   {
+    "slug": "trump-bets-fragile-status-quo-war-qies",
+    "path": "news/trump-bets-fragile-status-quo-war-qies/",
+    "title": "Trump bets on a fragile status quo as the war with Iran strains Gulf economies",
+    "headline": "TRUMP PIVOTS TO STATUS QUO AS IRAN WAR DRAGS ON",
+    "dek": "Nine months into the conflict, Washington has abandoned immediate plans for military strikes or negotiations. Beneath the surface, Gulf states are paying a heavy economic price.",
+    "category": "GEOPOLITICS",
+    "sourceName": "NPR World",
+    "image": "img/trump-bets-fragile-status-quo-war-qies.jpg",
+    "photo": "img/trump-bets-fragile-status-quo-war-qies-foto.jpg",
+    "publishedAt": "2026-11-13T20:52:02.394Z",
+    "article": {
+      "slug": "trump-bets-fragile-status-quo-war-qies",
+      "title": "Trump bets on a fragile status quo as the war with Iran strains Gulf economies",
+      "dek": "Nine months into the conflict, Washington has abandoned immediate plans for military strikes or negotiations. Beneath the surface, Gulf states are paying a heavy economic price.",
+      "keyFacts": [
+        "Nine months have passed since the outbreak of the war with Iran.",
+        "Kuwait, Qatar, and Iraq economies are contracting approximately 16% this year, according to the IMF.",
+        "Bahrain's economy is down 11% as a result of the war.",
+        "The U.S. is deploying a third aircraft carrier and thousands of troops to the region."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "President Donald Trump has signaled a major shift in Washington's approach to the ongoing war with Iran, stating that the United States no longer requires a diplomatic settlement. Writing on social media, Trump pointed to billions of dollars of Iranian funds frozen in overseas accounts as justification for abandoning negotiations.",
+            "This pivot away from potential deals follows political setbacks both domestically and abroad. In the United States, the ruling party lost its congressional majority in midterm elections, with Vice President JD Vance attributing the losses to voter dissatisfaction regarding the war and ties to Israel. Meanwhile, Israeli Prime Minister Benjamin Netanyahu faces the prospect of losing power following elections."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Diplomatic efforts led by Qatari mediators have stalled. According to NPR and regional reporting, Trump met with Qatar's prime minister at the White House and noted that Gulf Arab allies currently prefer the continuation of economic pressure on Tehran. Although Trump previously threatened rapid, intense strikes against Iranian targets, those options have been reevaluated in light of electoral realities and domestic political friction.",
+            "On the ground, the conflict has fundamentally disrupted regional commerce. Iranian forces continue to enforce new navigation rules in the Strait of Hormuz, forcing the U.S. military to escort oil tankers along alternative routes close to Oman's coastline."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream analysis often frames the current U.S. posture as a controlled containment strategy. However, the blind spot lies in the severe structural damage inflicted upon America's own regional partners. While naval escorts assist oil tankers, they fail to restore pre-war production levels for critical commodities such as liquefied natural gas, fertilizer, and aluminum, nor do they allow neighboring economies to properly stock their ports.",
+            "According to data from the International Monetary Fund, Gulf Arab states are suffering deep economic contractions despite elevated global oil prices. Kuwait, Qatar, and Iraq are seeing their economies contract by approximately 16% this year, while Bahrain's output is down 11%. The status quo is not a stable plateau; it is an economic drain on dependent allied states."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The primary beneficiaries of the current holding pattern are hardline elements within Tehran who continue to project asymmetric power through maritime chokeholds and domestic military showcases, such as the unveiling of a new underground missile production site. Conversely, Gulf economies bear the heaviest direct costs through prolonged recessionary pressures and trade blockades.",
+            "Washington maintains military leverage through the dispatch of a third aircraft carrier and thousands of additional troops, keeping the option of future escalation alive while insulating itself from immediate diplomatic demands."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Observers should monitor the political transitions in Israel and the domestic legislative battles in Washington, both of which could constrain or liberate executive war powers. Furthermore, senior UAE diplomat Anwar Gargash warned in Abu Dhabi that the region must prepare for a prolonged period of uncertainty where neither decisive resolution nor regional stability can be guaranteed.",
+            "Any shift in the security posture around the Strait of Hormuz or further deterioration in Gulf GDP metrics will serve as primary indicators of whether the shaky status quo can hold."
+          ]
+        }
+      ],
+      "tags": [
+        "Geopolitics",
+        "Iran",
+        "Middle East",
+        "Global Economy",
+        "Blindspot"
+      ],
+      "sources": [
+        {
+          "name": "NPR World",
+          "title": "What's Trump's strategy now with Iran? To keep things as they are",
+          "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are"
+        },
+        {
+          "name": "NPR",
+          "title": "What's Trump's strategy now with Iran? To keep things as they are",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcXIwbkFRM3dlZktvS0VBdHVLQURXY28xdmxYVnNnUUk3Sy1RRmd0dTNBeFhWS29TVVM1RVh3aGd5cmpObC1naWw4a25qTXRPOTRndFY0REw5UlY4d2tlR1dzMFNhbmlXc0NHSXMwWVpZcFZhOE1vQllfT3ZWZXU1X00wLWhiRnNPdmdnQnI4SUJrb0Q5eHRPRmlKYzg1akt0U0ZnM29LejY?oc=5"
+        },
+        {
+          "name": "Bloomberg.com",
+          "title": "Trump Bets Shaky Iran Status Quo Will Hold After Midterm Loss",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVE8zbG1nOS1wbW9jblRMemdVSHZsbkFteVloZWxhZWJJS3pSTWc0VjlFTXd5YVRsSFJmV1JBTW8zRUVReWdzWlBjMzdyRTdvWkNmd2RWcWY5SFVMbFhKeUNpM1pOUlNUR25lZzNQX3EzWVUtZF9rajBuV0dxYkdsQS00N2xLaFJWTE5SY0dNdDV5V0dZRldUZ1NrM3JiRkYwalZFcnVraWgzU2hCWHc5NkpB?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Trump Signals New Strategy on Iran: A Waiting Game",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51bnYyZ0xDaHVCc05TYXYxdDlPME5fNmNfbklWSm9GMk53TTJHdnhGMm1JQWZyR0VHZ0VZQlhFdzZyVmFnRm9QdmNocUJ2OXJLUGgwenNPb2dsbTFqRU5RYVJISVFlLWducVRCTzhRaXN5dXZMalU4MnJFWQ?oc=5"
+        },
+        {
+          "name": "Iran International",
+          "title": "Trump shifts Vance away from Iran talks, says deal unnecessary",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CdEFTa3hHRlZmejA4NjZWLUJ1QWtDanRlbU5wSzk0OWcwVG5yT04yTzJldGh4aTNTbXIwUElwNE0tcjJUaC1wbldMVzJReUt1SXc?oc=5"
+        }
+      ],
+      "wordCount": 528
+    },
+    "blindSpot": "While mainstream coverage frames Trump's inaction as mere stagnation, the enforced status quo masks a deeper structural crisis for Gulf Arab states. Kuwait, Qatar, Iraq, and Bahrain are experiencing severe economic contractions despite higher oil prices, revealing that maritime chokeholds in the Strait of Hormuz are doing structural damage that conventional military postures cannot fix."
+  },
+  {
     "slug": "treasury-chief-accuses-commerce-department-delaying-eobc",
     "path": "news/treasury-chief-accuses-commerce-department-delaying-eobc/",
     "title": "Treasury Chief Accuses Commerce Department of Delaying Action on Nvidia Chip Leakage",

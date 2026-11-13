@@ -628,5 +628,15 @@
     "relevant": true,
     "reason": "The photo shows Treasury Secretary Scott Bessent alongside Commerce Secretary Howard Lutnick, directly representing the primary figures and department involved in the headline.",
     "at": "2026-11-13T19:32:35.174Z"
+  },
+  "cdda5c74c4702390:s4eeddvpp": {
+    "relevant": false,
+    "reason": "The image shows a funeral in the Middle East with caskets and mourners, which does not directly represent the main headline about Trump's foreign policy pivot regarding the Iran wa",
+    "at": "2026-11-13T20:51:46.094Z"
+  },
+  "1fe7e0eaf020df83:s4eeddvpp": {
+    "relevant": true,
+    "reason": "The image features President Trump at a podium in the White House, matching the subject and context of the news story about the ongoing conflict with Iran.",
+    "at": "2026-11-13T20:51:57.940Z"
   }
 }

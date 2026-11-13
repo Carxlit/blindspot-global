@@ -106,9 +106,35 @@
     "https://www.pbs.org/newshour/world/ukraine-fires-nearly-1200-drones-at-russia-as-u-s-led-talks-consider-wider-european-security",
     "https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-servicios-tras-una-caida-global-de-mas-de-12-horas.html",
     "https://www.france24.com/es/video/20261113-ue-advierte-sobre-las-trampas-de-rusia-ante-las-negociaciones-de-paz-en-ucrania",
-    "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html"
+    "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+    "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are"
   ],
   "processedSignatures": [
+    {
+      "title": "TRUMP PIVOTS TO STATUS QUO AS IRAN WAR DRAGS ON",
+      "normalizedTokens": [
+        "trump",
+        "pivots",
+        "status",
+        "quo",
+        "iran",
+        "war",
+        "drags"
+      ],
+      "date": "2026-11-13T20:52:02.483Z"
+    },
+    {
+      "title": "What's Trump's strategy now with Iran? To keep things as they are",
+      "normalizedTokens": [
+        "trump",
+        "strategy",
+        "iran",
+        "keep",
+        "things",
+        "they"
+      ],
+      "date": "2026-11-13T20:52:02.482Z"
+    },
     {
       "title": "BESSENT BLAMES COMMERCE DEPARTMENT FOR NVIDIA CHIP LEAKAGE TO CHINA",
       "normalizedTokens": [
