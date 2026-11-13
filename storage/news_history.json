@@ -96,9 +96,33 @@
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSU11cnU1SXBLUldxR2poV29IUkRWQW9oLUlIamYzNUtmRUFYTjEwa1lMeVFLVTlZVE11a2VSLXFRU3lfTFE1c3BsU2FRSl9xZGY2TjlUSmhjdWxjU0JxYzFCU1I3bHZEXzAyRWdyczVWLWxTeHVBVGNCUzQ5NzZBbXlMb2ZsVk13WENSaGJtTGJwdVJTeFU2OA?oc=5",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxNXzBaaFVMOFBBbDJYaWpVdWV2ZVp1d2prRXhRcjR4NThMVEFVMzhOQXBDQktXTWp5aUFDaWpYZTRTeERnWnBpNy1JN2R1dUpDc3ZrOGhadGY3LXNpbFcxNS1DUlRrRlRkbzA4dDVudllWQ0pTNzY2SVRVX1FkeUlvRzljeExnS3c0dHNaLUp3Vkw?oc=5",
     "https://www.europapress.es/internacional/noticia-mueren-cuatro-personas-ataque-ucrania-contra-zona-industrial-region-rusa-volgogrado-20261113081843.html",
-    "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+    "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+    "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "GLOBAL MICROSOFT OUTAGE EXPOSES FRAGILITY OF DIGITAL INFRASTRUCTURE",
+      "normalizedTokens": [
+        "global",
+        "microsoft",
+        "outage",
+        "exposes",
+        "fragility",
+        "digital",
+        "infrastructure"
+      ],
+      "date": "2026-11-13T11:24:00.974Z"
+    },
+    {
+      "title": "What we know about the global Microsoft outage",
+      "normalizedTokens": [
+        "know",
+        "global",
+        "microsoft",
+        "outage"
+      ],
+      "date": "2026-11-13T11:24:00.973Z"
+    },
     {
       "title": "LUTNICK FACES REMOVAL OVER NVIDIA EXPORT CONTROL DELAYS",
       "normalizedTokens": [
