@@ -613,5 +613,10 @@
     "relevant": false,
     "reason": "The image shows political figures (Jared Kushner, Volodymyr Zelenskyy, and others) in a diplomatic setting, which does not depict the military drone strike mentioned in the headlin",
     "at": "2026-11-13T16:41:48.870Z"
+  },
+  "ef44a2b4fa9296cb:m7v3lxid4": {
+    "relevant": true,
+    "reason": "The image displays the Microsoft Outlook logo on a smartphone in front of the Microsoft logo, directly illustrating the services affected by the global outage mentioned in the head",
+    "at": "2026-11-13T17:35:27.627Z"
   }
 }

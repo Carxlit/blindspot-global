@@ -103,9 +103,35 @@
     "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
     "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcEx2eTdicmVJdWI5Y2JyUVhiN1psV0dacm9RNzFvU29MVWZ0UGxwUWtrMzNNaDFUNWRCMGFyd2F5TUtabzFEdnRjNDFpd2pIbkFlbUFPb3RXTjNIU01iN0RCOVpOV3VyZmY4Uml1anpPYjdwSVFGR3hpemx2WVl6Zms5M3FSOXdBS3pSeVA1eWlLcEJRank5c0lxeGRSR0NUeThJWUc5Nlk0Smw5VWpWczdBRkZXZGNEc3I1ZkxPdWxSQU1mVENN?oc=5",
-    "https://www.pbs.org/newshour/world/ukraine-fires-nearly-1200-drones-at-russia-as-u-s-led-talks-consider-wider-european-security"
+    "https://www.pbs.org/newshour/world/ukraine-fires-nearly-1200-drones-at-russia-as-u-s-led-talks-consider-wider-european-security",
+    "https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-servicios-tras-una-caida-global-de-mas-de-12-horas.html"
   ],
   "processedSignatures": [
+    {
+      "title": "MICROSOFT RESTORES SERVICES AFTER 18-HOUR GLOBAL OUTAGE",
+      "normalizedTokens": [
+        "microsoft",
+        "restores",
+        "services",
+        "hour",
+        "global",
+        "outage"
+      ],
+      "date": "2026-11-13T17:35:31.844Z"
+    },
+    {
+      "title": "Los servicios de Microsoft retoman la normalidad tras una caída global de más de 18 horas",
+      "normalizedTokens": [
+        "servicios",
+        "microsoft",
+        "retoman",
+        "normalidad",
+        "caida",
+        "global",
+        "horas"
+      ],
+      "date": "2026-11-13T17:35:31.844Z"
+    },
     {
       "title": "UKRAINE FIRES NEARLY 1,200 DRONES AT RUSSIA IN MASSIVE STRIKE",
       "normalizedTokens": [
