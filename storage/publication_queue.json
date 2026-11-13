@@ -16079,12 +16079,13 @@
         "close": "Read our full analysis on the Nvidia supply chain breakdown at link in bio."
       },
       "rawImageUrl": "https://i.guim.co.uk/img/media/32216a34a823211e1918352cebe5089bd9ffadb0/661_0_4502_3602/master/4502.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e443fbddfd7c35a05353a69e1a603fb",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-13T11:02:42.358Z",
       "cardImageUrl": "/news-cards/news-68iezphx0-1794567762358.jpg",
       "reelCoverUrl": "/news-cards/news-68iezphx0-1794567763223-cover.jpg",
       "instagramCardUrl": "/news-cards/news-68iezphx0-1794567763705-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/us-commerce-chief-under-fire-nvidia-uyi3/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/us-commerce-chief-under-fire-nvidia-uyi3/",
+      "publishedAt": "2026-11-13T11:21:50.741Z"
     },
     "channels": {
       "facebook": true,
@@ -16098,9 +16099,33 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-13T11:19:44.644Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-13T11:02:44.655Z"
+    "createdAt": "2026-11-13T11:02:44.655Z",
+    "lastAttemptAt": "2026-11-13T11:19:59.918Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122107218777539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18133934545748591",
+        "permalink": "https://www.instagram.com/reel/DfrgvgND6Id/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-13T11:21:50.741Z"
   }
 ]
