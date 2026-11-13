@@ -598,5 +598,20 @@
     "relevant": true,
     "reason": "The image clearly shows a Taiwanese military vessel and personnel, directly illustrating a news story about military exercises targeting Taiwan.",
     "at": "2026-11-13T15:10:36.884Z"
+  },
+  "a8e6e34b1c608201:nijetrdv4": {
+    "relevant": false,
+    "reason": "The image shows bomb damage in Ukraine, whereas the headline is about Ukrainian drone strikes hitting Russia.",
+    "at": "2026-11-13T16:40:45.039Z"
+  },
+  "e2fe251a3fdbd5a9:nijetrdv4": {
+    "relevant": false,
+    "reason": "The image shows political figures including Volodymyr Zelenskyy and Jared Kushner at a diplomatic meeting, which does not illustrate a military drone strike.",
+    "at": "2026-11-13T16:40:53.356Z"
+  },
+  "a376481f5ae4ee29:nijetrdv4": {
+    "relevant": false,
+    "reason": "The image shows political figures (Jared Kushner, Volodymyr Zelenskyy, and others) in a diplomatic setting, which does not depict the military drone strike mentioned in the headlin",
+    "at": "2026-11-13T16:41:48.870Z"
   }
 }
