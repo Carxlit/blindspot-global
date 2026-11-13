@@ -618,5 +618,10 @@
     "relevant": true,
     "reason": "The image displays the Microsoft Outlook logo on a smartphone in front of the Microsoft logo, directly illustrating the services affected by the global outage mentioned in the head",
     "at": "2026-11-13T17:35:27.627Z"
+  },
+  "b17f3d03b2b749af:mr3m6w0af": {
+    "relevant": true,
+    "reason": "The image shows European leaders gathered at an EU summit, directly relevant to the European diplomatic context and warnings regarding Ukraine peace talks.",
+    "at": "2026-11-13T18:29:16.397Z"
   }
 }

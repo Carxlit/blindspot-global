@@ -104,9 +104,34 @@
     "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcEx2eTdicmVJdWI5Y2JyUVhiN1psV0dacm9RNzFvU29MVWZ0UGxwUWtrMzNNaDFUNWRCMGFyd2F5TUtabzFEdnRjNDFpd2pIbkFlbUFPb3RXTjNIU01iN0RCOVpOV3VyZmY4Uml1anpPYjdwSVFGR3hpemx2WVl6Zms5M3FSOXdBS3pSeVA1eWlLcEJRank5c0lxeGRSR0NUeThJWUc5Nlk0Smw5VWpWczdBRkZXZGNEc3I1ZkxPdWxSQU1mVENN?oc=5",
     "https://www.pbs.org/newshour/world/ukraine-fires-nearly-1200-drones-at-russia-as-u-s-led-talks-consider-wider-european-security",
-    "https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-servicios-tras-una-caida-global-de-mas-de-12-horas.html"
+    "https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-servicios-tras-una-caida-global-de-mas-de-12-horas.html",
+    "https://www.france24.com/es/video/20261113-ue-advierte-sobre-las-trampas-de-rusia-ante-las-negociaciones-de-paz-en-ucrania"
   ],
   "processedSignatures": [
+    {
+      "title": "EU WARNS OF RUSSIAN TRAPS IN UKRAINE PEACE TALKS",
+      "normalizedTokens": [
+        "warns",
+        "russian",
+        "traps",
+        "ukraine",
+        "peace",
+        "talks"
+      ],
+      "date": "2026-11-13T18:29:20.389Z"
+    },
+    {
+      "title": "UE advierte sobre las \"trampas\" de Rusia ante las negociaciones de paz en Ucrania",
+      "normalizedTokens": [
+        "advierte",
+        "trampas",
+        "rusia",
+        "negociaciones",
+        "paz",
+        "ucrania"
+      ],
+      "date": "2026-11-13T18:29:20.388Z"
+    },
     {
       "title": "MICROSOFT RESTORES SERVICES AFTER 18-HOUR GLOBAL OUTAGE",
       "normalizedTokens": [
