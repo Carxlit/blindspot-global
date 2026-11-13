@@ -17874,12 +17874,13 @@
         "close": "Read the full analysis at the link in our bio."
       },
       "rawImageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0aAbL5eiGO8/v1/1200x800.jpg",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-13T20:51:59.868Z",
       "cardImageUrl": "/news-cards/news-s4eeddvpp-1794603119868.jpg",
       "reelCoverUrl": "/news-cards/news-s4eeddvpp-1794603120564-cover.jpg",
       "instagramCardUrl": "/news-cards/news-s4eeddvpp-1794603121292-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/trump-bets-fragile-status-quo-war-qies/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/trump-bets-fragile-status-quo-war-qies/",
+      "publishedAt": "2026-11-13T22:58:10.711Z"
     },
     "channels": {
       "facebook": true,
@@ -17893,9 +17894,33 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-13T22:56:15.179Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-13T20:52:02.475Z"
+    "createdAt": "2026-11-13T20:52:02.475Z",
+    "lastAttemptAt": "2026-11-13T22:56:30.669Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122107735365539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18001232946011667",
+        "permalink": "https://www.instagram.com/reel/DfswblegOMz/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-13T22:58:10.711Z"
   }
 ]
