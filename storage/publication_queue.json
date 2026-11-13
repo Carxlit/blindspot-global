@@ -17231,12 +17231,13 @@
         "channel": "Kanal13",
         "license": "cc-by"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-13T16:41:48.871Z",
       "cardImageUrl": "/news-cards/news-nijetrdv4-1794588108871.jpg",
       "reelCoverUrl": "/news-cards/news-nijetrdv4-1794588109435-cover.jpg",
       "instagramCardUrl": "/news-cards/news-nijetrdv4-1794588109952-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/ukraine-launches-1-200-drones-russia-x25r/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/ukraine-launches-1-200-drones-russia-x25r/",
+      "publishedAt": "2026-11-13T18:27:42.160Z"
     },
     "channels": {
       "facebook": true,
@@ -17250,10 +17251,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-13T18:25:15.179Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-13T16:41:50.549Z"
+    "createdAt": "2026-11-13T16:41:50.549Z",
+    "lastAttemptAt": "2026-11-13T18:25:30.772Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122107566171539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18137156210496062",
+        "permalink": "https://www.instagram.com/reel/DfsRdQViXqj/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Reel no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Short no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      }
+    },
+    "publishedAt": "2026-11-13T18:27:42.160Z"
   },
   {
     "id": "queue-1794591331839-bajhd",
