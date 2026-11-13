@@ -15584,12 +15584,13 @@
         "close": "Read the full analysis at the link in our bio."
       },
       "rawImageUrl": "https://fox56.com/resources/media2/16x9/1920/1320/center/90/5aace6be-33aa-4780-b736-c44f7192509c-ApictureofAmbroseCeleneatoptheOlyphantVeteransMemorial.png",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-13T05:16:42.150Z",
       "cardImageUrl": "/news-cards/news-em02brsdq-1794547002150.jpg",
       "reelCoverUrl": "/news-cards/news-em02brsdq-1794547003848-cover.jpg",
       "instagramCardUrl": "/news-cards/news-em02brsdq-1794547004465-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/communities-remember-victims-sudden-tragedies-systemic-w7hf/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/communities-remember-victims-sudden-tragedies-systemic-w7hf/",
+      "publishedAt": "2026-11-13T05:19:17.613Z"
     },
     "channels": {
       "facebook": true,
@@ -15603,10 +15604,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-13T05:16:45.857Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-13T05:16:45.857Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-13T05:17:32.991Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122106944169539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18002442675037791",
+        "permalink": "https://www.instagram.com/reel/Dfq3QLGgCeK/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-13T05:19:17.613Z"
   }
 ]
