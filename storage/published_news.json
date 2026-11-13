@@ -1,5 +1,126 @@
 [
   {
+    "id": "fjwjs7kkg",
+    "originalUrl": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+    "originalTitle": "How a sex scandal at Nvidia is putting pressure on the White House",
+    "sourceName": "BBC Business",
+    "category": "GLOBAL ECONOMY",
+    "urgencyScore": 92,
+    "headline": "NVIDIA SCANDAL THREATENS US EXPORT CONTROLS AND COMMERCE CHIEF",
+    "subHeadline": "Allegations surrounding Jensen Huang and a suspected foreign intelligence asset have exposed deep divisions within the White House over semiconductor exports to China.",
+    "blindSpotAngle": "While mainstream coverage focuses on the personal scandal, the real story is the paralysis of US export enforcement. A classified memo warning about Singapore-based Megaspeed was reportedly sidelined by Commerce Secretary Howard Lutnick, exposing how personal proximity and corporate lobbying compromise national security architectures.",
+    "facebookPost": "Nvidia CEO Jensen Huang had unprecedented access to the White House, advising the administration on whether to restrict advanced AI chips from reaching China. But a reported relationship with Alice Huang, a former executive at Singapore-based Megaspeed with alleged ties to Chinese intelligence, has upended that dynamic.\n\nWhile Nvidia's board insists no secrets were compromised, the fallout has triggered a high-stakes turf war inside Washington. A classified memo warning about Megaspeed was shared with Commerce Secretary Howard Lutnick, who resisted placing the firm on a blacklist, directly pitting him against officials like Treasury Secretary Scott Bessent.\n\nHow can an administration maintain a credible semiconductor blockade against a strategic rival when personal access and corporate lobbying paralyze export enforcement departments?\n\nSource: BBC Business\n\n#GlobalEconomy #Semiconductors #Blindspot",
+    "telegramPost": "<b>NVIDIA SCANDAL THREATENS US EXPORT CONTROLS AND COMMERCE CHIEF</b>\n\n• <b>What happened:</b> Allegations surrounding a reported relationship between Nvidia CEO Jensen Huang and a former executive with suspected links to Chinese intelligence have exposed deep vulnerabilities in Washington's tech policy.\n• <b>Why it matters:</b> A classified memo warning about Singapore-based customer Megaspeed was shared with Commerce Secretary Howard Lutnick, who resisted blacklisting the firm, sparking fierce pushback from Treasury Secretary Scott Bessent and other officials.\n• <b>What is next:</b> Lutnick faces intense scrutiny over his resistance to enforcement actions, putting his long-standing relationship with the White House under unprecedented pressure.",
+    "linkedInPost": "The intersection of corporate access, intelligence operations, and trade policy is laying bare vulnerabilities in America's semiconductor strategy. The controversy surrounding Nvidia CEO Jensen Huang and Singapore-based Megaspeed has moved beyond corporate governance into executive branch turf wars. With Commerce Secretary Howard Lutnick resisting blacklisting measures despite classified warnings—while Treasury Secretary Scott Bessent pushes for a tougher stance—multinational tech giants navigating US-China export controls face a volatile regulatory landscape. Capital flows and supply chain compliance are increasingly dictated by internal cabinet friction.\n\nSource: BBC Business\n\n#GlobalEconomy #SupplyChain #Blindspot",
+    "blueskyPost": "A classified memo warned Commerce Secretary Howard Lutnick about an Nvidia customer diverting advanced chips to China, but he resisted action. Now, a personal scandal is exposing deep fractures in US export controls. #GlobalEconomy #Blindspot",
+    "copies": {
+      "facebook": "Nvidia CEO Jensen Huang had unprecedented access to the White House, advising the administration on whether to restrict advanced AI chips from reaching China. But a reported relationship with Alice Huang, a former executive at Singapore-based Megaspeed with alleged ties to Chinese intelligence, has upended that dynamic.\n\nWhile Nvidia's board insists no secrets were compromised, the fallout has triggered a high-stakes turf war inside Washington. A classified memo warning about Megaspeed was shared with Commerce Secretary Howard Lutnick, who resisted placing the firm on a blacklist, directly pitting him against officials like Treasury Secretary Scott Bessent.\n\nHow can an administration maintain a credible semiconductor blockade against a strategic rival when personal access and corporate lobbying paralyze export enforcement departments? #GlobalEconomy #Semiconductors #Blindspot",
+      "telegram": "<b>NVIDIA SCANDAL THREATENS US EXPORT CONTROLS AND COMMERCE CHIEF</b>\n\n• <b>What happened:</b> Allegations surrounding a reported relationship between Nvidia CEO Jensen Huang and a former executive with suspected links to Chinese intelligence have exposed deep vulnerabilities in Washington's tech policy.\n• <b>Why it matters:</b> A classified memo warning about Singapore-based customer Megaspeed was shared with Commerce Secretary Howard Lutnick, who resisted blacklisting the firm, sparking fierce pushback from Treasury Secretary Scott Bessent and other officials.\n• <b>What is next:</b> Lutnick faces intense scrutiny over his resistance to enforcement actions, putting his long-standing relationship with the White House under unprecedented pressure.",
+      "bluesky": "A classified memo warned Commerce Secretary Howard Lutnick about an Nvidia customer diverting advanced chips to China, but he resisted action. Now, a personal scandal is exposing deep fractures in US export controls. #GlobalEconomy #Blindspot",
+      "linkedIn": "The intersection of corporate access, intelligence operations, and trade policy is laying bare vulnerabilities in America's semiconductor strategy. The controversy surrounding Nvidia CEO Jensen Huang and Singapore-based Megaspeed has moved beyond corporate governance into executive branch turf wars. With Commerce Secretary Howard Lutnick resisting blacklisting measures despite classified warnings—while Treasury Secretary Scott Bessent pushes for a tougher stance—multinational tech giants navigating US-China export controls face a volatile regulatory landscape. Capital flows and supply chain compliance are increasingly dictated by internal cabinet friction. #GlobalEconomy #SupplyChain #Blindspot"
+    },
+    "article": {
+      "slug": "how-nvidia-scandal-intelligence-leaks-testing-7o5j",
+      "title": "How an Nvidia scandal and intelligence leaks are testing the White House",
+      "dek": "A reported relationship involving Nvidia's CEO and a figure with suspected foreign intelligence ties has ignited an inter-agency battle over export controls in Washington. The fallout threatens Commerce Secretary Howard Lutnick and exposes the limits of US semiconductor containment.",
+      "keyFacts": [
+        "Nvidia CEO Jensen Huang previously had direct access to the US president, traveling with him to Britain and on Air Force One to China in May.",
+        "Washington has restricted exports of its most advanced AI processors to China since 2022.",
+        "A classified memo was shared with Commerce Secretary Howard Lutnick regarding concerns over Alice Huang and Singapore-based Megaspeed.",
+        "Megaspeed chief executive Tan Yong Pong stated the firm cooperates fully with US export control laws and Commerce Department inspections."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "According to reports from BBC Business and corroborating outlets, Nvidia chief executive Jensen Huang found himself at the center of a security controversy following allegations of a reported relationship with Alice Huang, a former executive at Singapore-based Megaspeed who has no relation to the CEO. US intelligence reportedly suspects Alice Huang of having links to Chinese intelligence, raising concerns that a foreign intelligence operation targeted a corporate leader with unusually close access to the American president.",
+            "Beijing has rejected the allegations, and Nvidia's board stated it has no reason to believe company secrets or national security were compromised. However, the affair has immediately intensified scrutiny over how sensitive American technology is regulated and monitored overseas."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Jensen Huang was one of the few technology executives with direct and repeated access to Donald Trump. According to BBC Business, Huang traveled with the president to Britain and joined him on Air Force One for a trip to China in May. Huang used this proximity to argue against Washington's semiconductor export restrictions, which have barred shipments of Nvidia's most advanced processors to China since 2022.",
+            "Huang long argued that export curbs were counterproductive because they shut American firms out of a massive market and incentivized Chinese domestic alternatives. Trump previously appeared sympathetic, permitting Nvidia to resume sales of certain chips in return for a revenue share, though top-tier Blackwell chips remained restricted."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream coverage has largely framed the event as a sensational executive scandal. The structural blind spot, however, lies in the paralysis of enforcement mechanisms within the Department of Commerce. Chips continue to flow into China legally via intermediaries in jurisdictions like Singapore and Malaysia, or through foreign data centers.",
+            "According to the multi-source dossier, a highly classified memo detailing concerns over Megaspeed—an Nvidia customer suspected of diverting advanced chips—was delivered to Commerce Secretary Howard Lutnick. Rather than acting decisively, Lutnick resisted placing the company on a blacklist, exposing a deep fracture within the economic cabinet where officials like Treasury Secretary Scott Bessent demanded a far more aggressive posture."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The primary institutional loser in the unfolding crisis is Commerce Secretary Howard Lutnick, whose long-standing relationship with the administration may not shield him from accountability over his handling of the Megaspeed memo. Cabinet-level rivals favoring stringent trade enforcement, including Treasury Secretary Scott Bessent, have gained significant leverage.",
+            "On the corporate side, Nvidia's closely knit board faces an uncomfortable 'honey pot' test that threatens the company's privileged policy-making access in Washington. Meanwhile, Chinese firms continue to adapt by securing alternative compute channels despite tightening geopolitical friction."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Observers should monitor whether the Commerce Department capitulates to inter-agency pressure by blacklisting Megaspeed and tightening secondary export enforcement in Southeast Asia. Additionally, any shift in the administration's willingness to grant Jensen Huang direct access will signal how severely executive credibility has been damaged.",
+            "Congressional oversight committees are expected to demand the unredacted classified memo shared with Lutnick, turning a corporate controversy into a legislative showdown over national security and trade oversight."
+          ]
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Semiconductors",
+        "Trade Policy",
+        "Intelligence",
+        "White House"
+      ],
+      "sources": [
+        {
+          "name": "BBC Business",
+          "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+          "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC",
+          "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBud0Z0dFdnYkNaUF92WkVrRnVycFFCR0hqOHhIU29VejVtYlpoQ3ZzZW5malpOSmtGVG1OSGh5MDh2Vlc5b1l2Zm9ZaFB6ZFRqWTcyUXdpeXl4blJXTVE?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXJKTllMeTVQbGZQakFSM3NtVEhPNU5HY3pZZ2ZzbHZBaVN4X0JsYXdOREhLZlBEdXpINEdLeFhVY3FGQ1VVa19rZk5WVGJDUVBCVlhxRDV2eXliV1FSR2phN2F6ZFFEYUM1M3lwUFNkV0RPTFpJZm04cnFvV1hvdy1MTUdsUFJmM2dOZ0wxbEhnN0I4T3lpbmJjR096amVTLWNzbEdpdnNOVE5P?oc=5"
+        },
+        {
+          "name": "Politico",
+          "title": "Lutnick’s longtime friendship with Trump may not save him",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb1FkLXhzbEgyU0lvUzFpVGFCOWU1OE9POWN5VVhZMXB0cHk5NUR5TDVNNG0yRURKNjBLWDE5UkRfOXVBVTVYaUluUUVNNUQ4NUszVWhQTmpnWW03bnc5b0UxelV1R1lWTkM0M2pEZ1FNTXl1WTBfaUtjTTFnODE1RU5HdmYwZlBBUXNhblRGYk4?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "title": "Nvidia’s close-knit board comes under pressure with 'honey pot' test",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYXU4SmFUNm5wajhKdnZobGVhU3NOOGxWMGdwYkFFTGJseXg1VlJRZ2Z3RDllbjhjallVd3pQUUtic1AwZ1FpUnByYm4tN0JKSE4zMUczeGlKSVBiYkl2WDh3RkF1OVBDLXUtWXhpSzhJcm16STUyT0liZXZjbWZOaHkza3RfTDltT1NzTm5wYy1WREpqdlBYRGUwRnA?oc=5"
+        }
+      ],
+      "wordCount": 532
+    },
+    "videoScript": {
+      "hook": "How did a sex scandal at Nvidia shake up the White House?",
+      "beats": [
+        "Nvidia CEO Jensen Huang had rare direct access to the US president and pushed back against chip export bans to China.",
+        "Intelligence officials suspected a former executive of having ties to Chinese intelligence and targeting the tech boss.",
+        "A classified memo warned Commerce Secretary Howard Lutnick about a chip-diverting firm, but he resisted taking action."
+      ],
+      "close": "Read the full investigative analysis at the link in our bio."
+    },
+    "rawImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2ab0/live/068591d0-dee5-11f1-9bb0-8de7754c4db5.jpg",
+    "status": "published",
+    "createdAt": "2026-11-13T14:19:36.802Z",
+    "cardImageUrl": "/news-cards/news-fjwjs7kkg-1794579576802.jpg",
+    "reelCoverUrl": "/news-cards/news-fjwjs7kkg-1794579577641-cover.jpg",
+    "instagramCardUrl": "/news-cards/news-fjwjs7kkg-1794579578252-ig.jpg",
+    "articleUrl": "https://blindspotglobal.pages.dev/news/how-nvidia-scandal-intelligence-leaks-testing-7o5j/",
+    "publishedAt": "2026-11-13T16:39:34.368Z"
+  },
+  {
     "id": "s9bqwccdz",
     "originalUrl": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
     "originalTitle": "Microsoft outage live: millions still affected as disruption stretches beyond 18 hours",
