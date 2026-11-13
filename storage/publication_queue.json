@@ -15755,12 +15755,13 @@
         "title": "'The planet is not dying, it is being killed' Greta Thunberg tells Cop31",
         "channel": "Guardian News"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-13T06:31:50.538Z",
       "cardImageUrl": "/news-cards/news-sqjmqxtp2-1794551510538.jpg",
       "reelCoverUrl": "/news-cards/news-sqjmqxtp2-1794551511101-cover.jpg",
       "instagramCardUrl": "/news-cards/news-sqjmqxtp2-1794551511650-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/institutional-theater-behind-greta-thunberg-s-r5l8/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/institutional-theater-behind-greta-thunberg-s-r5l8/",
+      "publishedAt": "2026-11-13T06:34:56.833Z"
     },
     "channels": {
       "facebook": true,
@@ -15774,10 +15775,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-13T06:31:52.682Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-13T06:31:52.682Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-13T06:33:04.939Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122106994239539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17988726759007644",
+        "permalink": "https://www.instagram.com/reel/Dfq_6F8DG8T/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-13T06:34:56.833Z"
   }
 ]
