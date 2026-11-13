@@ -573,5 +573,10 @@
     "relevant": true,
     "reason": "The image shows a missile launch, which is directly relevant to the headline claiming a military strike.",
     "at": "2026-11-13T11:32:14.198Z"
+  },
+  "3a6c2feeeaa5b124:jy1oe0be5": {
+    "relevant": true,
+    "reason": "The image shows technicians handling an HVAC/heat pump unit, directly representing the HVAC equipment and installation central to the headline.",
+    "at": "2026-11-13T12:13:42.052Z"
   }
 }

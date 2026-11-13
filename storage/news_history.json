@@ -98,9 +98,36 @@
     "https://www.europapress.es/internacional/noticia-mueren-cuatro-personas-ataque-ucrania-contra-zona-industrial-region-rusa-volgogrado-20261113081843.html",
     "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
     "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ?oc=5"
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ?oc=5",
+    "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "HOMEOWNERS TURN TO APPS TO AVOID HVAC MISCALCULATIONS",
+      "normalizedTokens": [
+        "homeowners",
+        "turn",
+        "apps",
+        "avoid",
+        "hvac",
+        "miscalculations"
+      ],
+      "date": "2026-11-13T12:13:46.599Z"
+    },
+    {
+      "title": "Heat pumps: How much heat does your home really need?",
+      "normalizedTokens": [
+        "heat",
+        "pumps",
+        "much",
+        "heat",
+        "does",
+        "home",
+        "really",
+        "need"
+      ],
+      "date": "2026-11-13T12:13:46.598Z"
+    },
     {
       "title": "IRAN CLAIMS STRIKE ON US EARLY WARNING RADAR IN BAHRAIN",
       "normalizedTokens": [
