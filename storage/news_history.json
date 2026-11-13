@@ -100,9 +100,36 @@
     "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ?oc=5",
     "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
-    "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news"
+    "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
+    "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "NVIDIA SCANDAL THREATENS US EXPORT CONTROLS AND COMMERCE CHIEF",
+      "normalizedTokens": [
+        "nvidia",
+        "scandal",
+        "threatens",
+        "export",
+        "controls",
+        "commerce",
+        "chief"
+      ],
+      "date": "2026-11-13T14:19:39.516Z"
+    },
+    {
+      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "normalizedTokens": [
+        "sex",
+        "scandal",
+        "nvidia",
+        "putting",
+        "pressure",
+        "white",
+        "house"
+      ],
+      "date": "2026-11-13T14:19:39.515Z"
+    },
     {
       "title": "GLOBAL MICROSOFT OUTAGE EXPOSES DANGEROUS SINGLE POINT OF FAILURE",
       "normalizedTokens": [
