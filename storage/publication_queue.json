@@ -16741,12 +16741,13 @@
         "close": "Read our full geopolitical breakdown at the link in our bio."
       },
       "rawImageUrl": "https://i.guim.co.uk/img/media/a40cf590042829e0e6891a61505aced8281edac7/242_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=94479dafee1bbcf2a91050be4021d4d4",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-13T13:21:38.367Z",
       "cardImageUrl": "/news-cards/news-s9bqwccdz-1794576098367.jpg",
       "reelCoverUrl": "/news-cards/news-s9bqwccdz-1794576099055-cover.jpg",
       "instagramCardUrl": "/news-cards/news-s9bqwccdz-1794576099628-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/18-hour-microsoft-outage-exposes-fragility-global-yamx/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/18-hour-microsoft-outage-exposes-fragility-global-yamx/",
+      "publishedAt": "2026-11-13T15:07:54.910Z"
     },
     "channels": {
       "facebook": true,
@@ -16760,10 +16761,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-13T15:05:50.741Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-13T13:21:40.734Z"
+    "createdAt": "2026-11-13T13:21:40.734Z",
+    "lastAttemptAt": "2026-11-13T15:06:06.051Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122107414185539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18126938005700635",
+        "permalink": "https://www.instagram.com/reel/Dfr6m-tkeJ-/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-13T15:07:54.910Z"
   },
   {
     "id": "queue-1794579579505-9daee",
