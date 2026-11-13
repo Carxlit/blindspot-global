@@ -17380,12 +17380,13 @@
         "close": "Read our full analysis of global cloud fragility at the link in bio."
       },
       "rawImageUrl": "https://imagenes.elpais.com/resizer/v2/ZRND26ZYLVG2BNXLGWZKZACKFE.jpg?auth=52341b528a79d52a89278fb8eac34afa25aa1b9a32d24935ff6031cc941a187c",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-13T17:35:29.490Z",
       "cardImageUrl": "/news-cards/news-m7v3lxid4-1794591329490.jpg",
       "reelCoverUrl": "/news-cards/news-m7v3lxid4-1794591330114-cover.jpg",
       "instagramCardUrl": "/news-cards/news-m7v3lxid4-1794591330680-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/global-microsoft-disruption-exposes-structural-vulnerabilities-n2ln/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/global-microsoft-disruption-exposes-structural-vulnerabilities-n2ln/",
+      "publishedAt": "2026-11-13T19:30:26.212Z"
     },
     "channels": {
       "facebook": true,
@@ -17399,10 +17400,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-13T19:28:15.179Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-13T17:35:31.839Z"
+    "createdAt": "2026-11-13T17:35:31.839Z",
+    "lastAttemptAt": "2026-11-13T19:28:30.481Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122107612095539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18031005209870657",
+        "permalink": "https://www.instagram.com/reel/DfsYp98iZok/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-13T19:30:26.212Z"
   },
   {
     "id": "queue-1794594560383-5bowl",
