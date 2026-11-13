@@ -101,9 +101,39 @@
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ?oc=5",
     "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
     "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
-    "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcEx2eTdicmVJdWI5Y2JyUVhiN1psV0dacm9RNzFvU29MVWZ0UGxwUWtrMzNNaDFUNWRCMGFyd2F5TUtabzFEdnRjNDFpd2pIbkFlbUFPb3RXTjNIU01iN0RCOVpOV3VyZmY4Uml1anpPYjdwSVFGR3hpemx2WVl6Zms5M3FSOXdBS3pSeVA1eWlLcEJRank5c0lxeGRSR0NUeThJWUc5Nlk0Smw5VWpWczdBRkZXZGNEc3I1ZkxPdWxSQU1mVENN?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "CHINA STAGES UNANNOUNCED PACIFIC DRILLS TARGETING TAIWAN",
+      "normalizedTokens": [
+        "china",
+        "stages",
+        "unannounced",
+        "pacific",
+        "drills",
+        "targeting",
+        "taiwan"
+      ],
+      "date": "2026-11-13T15:10:39.988Z"
+    },
+    {
+      "title": "China stages unannounced Pacific drills in 'silent intimidation' of Taiwan, officials say",
+      "normalizedTokens": [
+        "china",
+        "stages",
+        "unannounced",
+        "pacific",
+        "drills",
+        "silent",
+        "intimidation",
+        "taiwan",
+        "officials",
+        "say"
+      ],
+      "date": "2026-11-13T15:10:39.987Z"
+    },
     {
       "title": "NVIDIA SCANDAL THREATENS US EXPORT CONTROLS AND COMMERCE CHIEF",
       "normalizedTokens": [

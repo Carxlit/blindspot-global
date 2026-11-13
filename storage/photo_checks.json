@@ -588,5 +588,15 @@
     "relevant": true,
     "reason": "The image features NVIDIA CEO Jensen Huang, who is the central subject of the headline and scandal mentioned in the context.",
     "at": "2026-11-13T14:19:34.677Z"
+  },
+  "7c9f11a49afcd408:k1rw68pw4": {
+    "relevant": false,
+    "reason": "The image shows a public commercial street and a large advertising screen in Beijing (The Place), rather than military drills in the Pacific targeting Taiwan.",
+    "at": "2026-11-13T15:10:13.965Z"
+  },
+  "e1e7f1dd877626f2:k1rw68pw4": {
+    "relevant": true,
+    "reason": "The image clearly shows a Taiwanese military vessel and personnel, directly illustrating a news story about military exercises targeting Taiwan.",
+    "at": "2026-11-13T15:10:36.884Z"
   }
 }
