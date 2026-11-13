@@ -93,9 +93,36 @@
     "https://www.france24.com/en/israeli-strike-on-gaza-hospital-kills-six-including-surgeon-medics-say",
     "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5zRmhTTGNjXzZqa1hiWG1oWmVLeGZzZmZiVkhjOEpqTlJiMVZudG1meElSb2d5djFtM0FSUzM0UVdtYXdRcVZReTBxUG5rMW9ZYVQ3MlFXTGhZRG5rZmZnay1ONXlEVzJWdFRKZ3VLZGRDNFVzU21oVkZHTkhCZGlDNTA2NlgzY3lhdw?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSU11cnU1SXBLUldxR2poV29IUkRWQW9oLUlIamYzNUtmRUFYTjEwa1lMeVFLVTlZVE11a2VSLXFRU3lfTFE1c3BsU2FRSl9xZGY2TjlUSmhjdWxjU0JxYzFCU1I3bHZEXzAyRWdyczVWLWxTeHVBVGNCUzQ5NzZBbXlMb2ZsVk13WENSaGJtTGJwdVJTeFU2OA?oc=5"
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSU11cnU1SXBLUldxR2poV29IUkRWQW9oLUlIamYzNUtmRUFYTjEwa1lMeVFLVTlZVE11a2VSLXFRU3lfTFE1c3BsU2FRSl9xZGY2TjlUSmhjdWxjU0JxYzFCU1I3bHZEXzAyRWdyczVWLWxTeHVBVGNCUzQ5NzZBbXlMb2ZsVk13WENSaGJtTGJwdVJTeFU2OA?oc=5",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNXzBaaFVMOFBBbDJYaWpVdWV2ZVp1d2prRXhRcjR4NThMVEFVMzhOQXBDQktXTWp5aUFDaWpYZTRTeERnWnBpNy1JN2R1dUpDc3ZrOGhadGY3LXNpbFcxNS1DUlRrRlRkbzA4dDVudllWQ0pTNzY2SVRVX1FkeUlvRzljeExnS3c0dHNaLUp3Vkw?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "GRETA THUNBERG REAPPEARS AT COP31 TO CONDEMN GOVERNMENTS",
+      "normalizedTokens": [
+        "greta",
+        "thunberg",
+        "reappears",
+        "cop31",
+        "condemn",
+        "governments"
+      ],
+      "date": "2026-11-13T06:31:52.693Z"
+    },
+    {
+      "title": "The planet ‘is being killed’, Greta Thunberg tells Cop31 climate summit",
+      "normalizedTokens": [
+        "planet",
+        "killed",
+        "greta",
+        "thunberg",
+        "tells",
+        "cop31",
+        "climate",
+        "summit"
+      ],
+      "date": "2026-11-13T06:31:52.688Z"
+    },
     {
       "title": "COMMUNITY MOURNS LOSS AMID ISOLATED TRAGEDIES ACROSS REGIONS",
       "normalizedTokens": [
