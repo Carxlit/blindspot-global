@@ -19827,12 +19827,13 @@
         "close": "Read the full analysis at the link in our bio."
       },
       "rawImageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-14T17:18:13.482Z",
       "cardImageUrl": "/news-cards/news-wwc3n9084-1794676693482.jpg",
       "reelCoverUrl": "/news-cards/news-wwc3n9084-1794676694107-cover.jpg",
       "instagramCardUrl": "/news-cards/news-wwc3n9084-1794676694695-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/why-openai-board-revolt-proves-voluntary-bpck/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/why-openai-board-revolt-proves-voluntary-bpck/",
+      "publishedAt": "2026-11-14T19:41:26.362Z"
     },
     "channels": {
       "facebook": true,
@@ -19846,10 +19847,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-14T19:41:04.066Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-14T17:18:15.807Z"
+    "createdAt": "2026-11-14T17:18:15.807Z",
+    "lastAttemptAt": "2026-11-14T19:41:19.500Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122108533713539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": false,
+        "skipped": true,
+        "error": "Estrategia IG: límite diario de 5 Reels alcanzado"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-14T19:41:26.362Z"
   },
   {
     "id": "queue-1794680632395-p5vok",
