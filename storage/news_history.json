@@ -108,9 +108,36 @@
     "https://www.france24.com/es/video/20261113-ue-advierte-sobre-las-trampas-de-rusia-ante-las-negociaciones-de-paz-en-ucrania",
     "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
     "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
-    "https://www.france24.com/es/video/20261114-colombia-el-fondo-milagro-y-la-reconstrucci%C3%B3n-del-terremoto-ponen-presi%C3%B3n-a-de-la-espriella"
+    "https://www.france24.com/es/video/20261114-colombia-el-fondo-milagro-y-la-reconstrucci%C3%B3n-del-terremoto-ponen-presi%C3%B3n-a-de-la-espriella",
+    "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "25 SEAFARERS KILLED IN HORMUZ AMID NAVAL MINE ESCALATION",
+      "normalizedTokens": [
+        "seafarers",
+        "killed",
+        "hormuz",
+        "naval",
+        "mine",
+        "escalation"
+      ],
+      "date": "2026-11-14T08:08:14.247Z"
+    },
+    {
+      "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+      "normalizedTokens": [
+        "seafarers",
+        "killed",
+        "around",
+        "hormuz",
+        "since",
+        "israel",
+        "war",
+        "iran"
+      ],
+      "date": "2026-11-14T08:08:14.245Z"
+    },
     {
       "title": "COLOMBIAN RECONSTRUCTION FUND FACES INTENSE PRESSURE OVER SALARIES",
       "normalizedTokens": [
