@@ -18532,12 +18532,13 @@
         "close": "Read our full analysis on the regional fallout at the link in bio."
       },
       "rawImageUrl": "https://images.euronews.com/articles/stories/09/99/25/01/1200x675_cmsv2_d46c7d6d-c033-5e59-89c6-1199d766ec3a-9992501.jpg",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-14T10:16:39.542Z",
       "cardImageUrl": "/news-cards/news-y6oiw7p1o-1794651399542.jpg",
       "reelCoverUrl": "/news-cards/news-y6oiw7p1o-1794651400486-cover.jpg",
       "instagramCardUrl": "/news-cards/news-y6oiw7p1o-1794651401119-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/austerity-faith-collide-south-america-battles-tvvb/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/austerity-faith-collide-south-america-battles-tvvb/",
+      "publishedAt": "2026-11-14T10:25:48.806Z"
     },
     "channels": {
       "facebook": true,
@@ -18551,12 +18552,12 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-14T10:24:53.780Z",
-    "status": "queued",
-    "attempts": 1,
+    "status": "published",
+    "attempts": 2,
     "maxAttempts": 3,
     "createdAt": "2026-11-14T10:16:42.299Z",
     "isBreaking": true,
-    "lastAttemptAt": "2026-11-14T10:17:28.753Z",
+    "lastAttemptAt": "2026-11-14T10:25:08.977Z",
     "results": {
       "facebook": {
         "success": true,
@@ -18564,8 +18565,9 @@
         "simulated": false
       },
       "instagram": {
-        "success": false,
-        "error": "Reel de Instagram: subida: Request processing failed (se reintenta como Reel)"
+        "success": true,
+        "mediaId": "18110914088357408",
+        "permalink": "https://www.instagram.com/reel/Dft_HEqlBv0/"
       },
       "facebookReel": {
         "success": false,
@@ -18578,6 +18580,6 @@
         "error": "Noticia sin video libre: no se sube a YouTube"
       }
     },
-    "error": "Reintento 1/3: instagram: Reel de Instagram: subida: Request processing failed (se reintenta como Reel)"
+    "publishedAt": "2026-11-14T10:25:48.806Z"
   }
 ]
