@@ -19344,12 +19344,13 @@
         "close": "Read the full analysis at the link in our bio."
       },
       "rawImageUrl": "https://images.mktw.net/im-11629236",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-14T14:02:13.586Z",
       "cardImageUrl": "/news-cards/news-47n9nodq8-1794664933586.jpg",
       "reelCoverUrl": "/news-cards/news-47n9nodq8-1794664934136-cover.jpg",
       "instagramCardUrl": "/news-cards/news-47n9nodq8-1794664934645-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/inherent-contradiction-between-proposed-tariff-agendas-549t/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/inherent-contradiction-between-proposed-tariff-agendas-549t/",
+      "publishedAt": "2026-11-14T16:10:51.104Z"
     },
     "channels": {
       "facebook": true,
@@ -19363,10 +19364,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-14T16:08:48.806Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-14T14:02:15.682Z"
+    "createdAt": "2026-11-14T14:02:15.682Z",
+    "lastAttemptAt": "2026-11-14T16:09:04.105Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122108383623539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17866166574695766",
+        "permalink": "https://www.instagram.com/reel/Dfumm06D1GC/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-14T16:10:51.104Z"
   },
   {
     "id": "queue-1794667998359-gzytp",
