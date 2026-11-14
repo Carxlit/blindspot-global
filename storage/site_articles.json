@@ -1,5 +1,85 @@
 [
   {
+    "slug": "inherent-contradiction-between-proposed-tariff-agendas-549t",
+    "path": "news/inherent-contradiction-between-proposed-tariff-agendas-549t/",
+    "title": "The inherent contradiction between proposed tariff agendas and consumer affordability",
+    "headline": "WASHINGTON MUST REJECT TARIFFS TO PRIORITIZE DOMESTIC AFFORDABILITY",
+    "dek": "Voters have demanded relief from rising costs, yet the path toward new trade barriers threatens to undermine that very goal. Washington faces an internal conflict between protectionist dogma and the political necessity of price stability.",
+    "category": "GLOBAL ECONOMY",
+    "sourceName": "MarketWatch",
+    "image": "img/inherent-contradiction-between-proposed-tariff-agendas-549t.jpg",
+    "photo": "img/inherent-contradiction-between-proposed-tariff-agendas-549t-foto.jpg",
+    "publishedAt": "2026-11-14T14:02:15.607Z",
+    "article": {
+      "slug": "inherent-contradiction-between-proposed-tariff-agendas-549t",
+      "title": "The inherent contradiction between proposed tariff agendas and consumer affordability",
+      "dek": "Voters have demanded relief from rising costs, yet the path toward new trade barriers threatens to undermine that very goal. Washington faces an internal conflict between protectionist dogma and the political necessity of price stability.",
+      "keyFacts": [
+        "Voters have expressed clear opposition to economic policies that contribute to rising costs.",
+        "Proposed tariff regimes are identified by analysts as inflationary drivers for consumer goods.",
+        "Representative Ro Khanna has rejected assertions that administrative investigations will derail the affordability agenda.",
+        "The debate over trade policy remains a central point of friction between executive ambition and legislative goals."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "The debate in Washington has intensified as policymakers weigh the implications of proposed tariff increases. Recent market analysis indicates that Americans have signaled a clear desire for policies that reduce the cost of living, effectively voting against the fiscal pressures that have defined the recent economic cycle.",
+            "Despite this mandate, the administration is considering a protectionist trade strategy that analysts warn will act as a regressive tax on domestic consumers. The tension between this trade agenda and the goal of affordability has become the defining feature of the current legislative environment."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The discussion is complicated by ongoing administrative investigations and internal party friction. Representative Ro Khanna has publicly dismissed concerns that these investigations will derail the Democratic Party's affordability agenda, suggesting that the party remains focused on its core economic objectives.",
+            "However, the political reality is more complex. While the focus remains on domestic policy, the underlying trade strategies being debated could force a significant shift in the cost structure of imported goods, directly impacting the inflationary environment."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "The primary blind spot in this discourse is the fundamental contradiction between protectionist trade barriers and the stated objective of lowering consumer costs. Mainstream coverage often treats trade policy and domestic inflation as separate silos, ignoring the reality that tariffs are essentially a cost-push mechanism that will inevitably filter down to the retail level.",
+            "Furthermore, there is a lack of accountability regarding the executive's capacity to bypass legislative oversight on trade matters. The focus on political messaging obscures the technical reality that a tariff-heavy policy will likely negate any gains made by other affordability initiatives."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The potential winners in this scenario are specific domestic sectors that benefit from protectionist shields, as they are insulated from international competition. Conversely, the losers are the American consumers and retail sectors that rely on global supply chains, as they will bear the brunt of the increased costs associated with imported goods.",
+            "Politically, the administration faces a high-stakes gamble. If the tariff strategy leads to sustained inflation, the political cost will fall squarely on those who championed the protectionist shift, regardless of their current messaging regarding affordability."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "The next phase will involve a legislative tug-of-war as Congress attempts to assert authority over trade policy. Watch for specific administrative responses to the criticism regarding inflation, as these will indicate whether the White House intends to prioritize ideological trade goals or the immediate economic needs of the electorate."
+          ]
+        }
+      ],
+      "tags": [
+        "Trade",
+        "Inflation",
+        "EconomicPolicy",
+        "Washington",
+        "Tariffs"
+      ],
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "title": "Washington can start delivering on affordability by rejecting Trump’s tariffs",
+          "url": "https://www.marketwatch.com/story/washington-can-start-delivering-on-affordability-by-rejecting-trumps-tariffs-8f2c76fd?mod=mw_rss_topstories"
+        },
+        {
+          "name": "AOL.com",
+          "title": "Ro Khanna rejects warnings that Trump admin investigations could derail Democrats' affordability agenda",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV2ZIcmRhMXVWUzhwcUZCWFVXeEFSQnEwNExQVm5zRVdjR3hJdXRVRnMxSUFDZmF4ZWp0aldIcUhOZV9tcUl0R1drMm1LUW1pTFZHdVNNNVpsZ0lVendocUNlcy14c3RRQWtXZXB5aHctODg4MFZ0N245VTh4YlFtUmdB?oc=5"
+        }
+      ],
+      "wordCount": 434
+    },
+    "blindSpot": "The narrative focus on tariff rejection masks the deeper institutional friction between executive trade authority and the legislative affordability agenda. While focus remains on Trump-era policies, the real blind spot is the Democratic Party's struggle to reconcile populist trade protectionism with their own stated commitment to reducing consumer costs."
+  },
+  {
     "slug": "california-congressional-elections-highlight-friction-american-vdjl",
     "path": "news/california-congressional-elections-highlight-friction-american-vdjl/",
     "title": "California Congressional Elections Highlight the Friction of American Democratic Infrastructure",
