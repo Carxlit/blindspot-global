@@ -20326,12 +20326,13 @@
         ],
         "close": "Read the full breakdown on capital moats at the link in bio."
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-14T20:52:35.775Z",
       "cardImageUrl": "/news-cards/news-n4t9rzoez-1794689555776.jpg",
       "reelCoverUrl": "/news-cards/news-n4t9rzoez-1794689556371-cover.jpg",
       "instagramCardUrl": "/news-cards/news-n4t9rzoez-1794689556926-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/anthropic-ipo-draws-investor-gold-rush-nhtt/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/anthropic-ipo-draws-investor-gold-rush-nhtt/",
+      "publishedAt": "2026-11-14T23:07:28.280Z"
     },
     "channels": {
       "facebook": true,
@@ -20345,10 +20346,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-14T23:07:04.066Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-14T20:52:37.565Z"
+    "createdAt": "2026-11-14T20:52:37.565Z",
+    "lastAttemptAt": "2026-11-14T23:07:19.461Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122108695245539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": false,
+        "skipped": true,
+        "error": "Estrategia IG: límite diario de 5 Reels alcanzado"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-14T23:07:28.280Z"
   },
   {
     "id": "queue-1794693489813-aueq3",
