@@ -19070,11 +19070,34 @@
       "threads": false,
       "youtube": true
     },
-    "scheduledFor": "2026-11-14T13:47:48.806Z",
+    "scheduledFor": "2026-11-14T13:55:05.287Z",
     "status": "queued",
-    "attempts": 0,
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-14T11:40:56.529Z"
+    "createdAt": "2026-11-14T11:40:56.529Z",
+    "lastAttemptAt": "2026-11-14T13:48:04.218Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122108275095539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": false,
+        "error": "Reel de Instagram: subida: Request processing failed (se reintenta como Reel)"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Reel no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Short no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      }
+    },
+    "error": "Reintento 1/3: instagram: Reel de Instagram: subida: Request processing failed (se reintenta como Reel)"
   },
   {
     "id": "queue-1794660560971-vfbp3",
