@@ -653,5 +653,10 @@
     "relevant": true,
     "reason": "The image depicts commercial tankers/ships at sea, visually representing maritime traffic related to the reported incident in the Strait of Hormuz.",
     "at": "2026-11-14T09:46:48.844Z"
+  },
+  "7b5913c4b8934e50:y6oiw7p1o": {
+    "relevant": true,
+    "reason": "The image shows a large crowd gathered around the Pope in a Popemobile, directly illustrating the papal masses mentioned in the headline.",
+    "at": "2026-11-14T10:16:38.190Z"
   }
 }

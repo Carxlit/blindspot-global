@@ -110,9 +110,37 @@
     "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
     "https://www.france24.com/es/video/20261114-colombia-el-fondo-milagro-y-la-reconstrucci%C3%B3n-del-terremoto-ponen-presi%C3%B3n-a-de-la-espriella",
     "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
-    "https://www.dw.com/es/irán-informa-de-tres-petroleros-incendiados-por-la-explosión-de-minas-marinas-en-el-estrecho-de-ormuz-y-renueva-sus-advertencias/a-79946984?maca=spa-rss-sp-all-1122-rdf"
+    "https://www.dw.com/es/irán-informa-de-tres-petroleros-incendiados-por-la-explosión-de-minas-marinas-en-el-estrecho-de-ormuz-y-renueva-sus-advertencias/a-79946984?maca=spa-rss-sp-all-1122-rdf",
+    "https://es.euronews.com/2026/11/14/el-viaje-del-papa-a-sudamerica-coincide-con-el-aumento-del-sarampion-81-muertos"
   ],
   "processedSignatures": [
+    {
+      "title": "SOUTH AMERICAN MEASLES OUTBREAK SURGES AS PAPAL MASSES GATHER",
+      "normalizedTokens": [
+        "south",
+        "american",
+        "measles",
+        "outbreak",
+        "surges",
+        "papal",
+        "masses",
+        "gather"
+      ],
+      "date": "2026-11-14T10:16:42.309Z"
+    },
+    {
+      "title": "El viaje del Papa a Sudamérica coincide con el aumento del sarampión: 81 muertos",
+      "normalizedTokens": [
+        "viaje",
+        "papa",
+        "sudamerica",
+        "coincide",
+        "aumento",
+        "sarampion",
+        "muertos"
+      ],
+      "date": "2026-11-14T10:16:42.308Z"
+    },
     {
       "title": "IRAN REPORTS THREE OIL TANKERS MINED IN HORMUZ STRAIT",
       "normalizedTokens": [
