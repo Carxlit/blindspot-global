@@ -107,9 +107,37 @@
     "https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-servicios-tras-una-caida-global-de-mas-de-12-horas.html",
     "https://www.france24.com/es/video/20261113-ue-advierte-sobre-las-trampas-de-rusia-ante-las-negociaciones-de-paz-en-ucrania",
     "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-    "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are"
+    "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+    "https://www.france24.com/es/video/20261114-colombia-el-fondo-milagro-y-la-reconstrucci%C3%B3n-del-terremoto-ponen-presi%C3%B3n-a-de-la-espriella"
   ],
   "processedSignatures": [
+    {
+      "title": "COLOMBIAN RECONSTRUCTION FUND FACES INTENSE PRESSURE OVER SALARIES",
+      "normalizedTokens": [
+        "colombian",
+        "reconstruction",
+        "fund",
+        "faces",
+        "intense",
+        "pressure",
+        "salaries"
+      ],
+      "date": "2026-11-14T05:17:18.085Z"
+    },
+    {
+      "title": "Colombia: el Fondo Milagro y la reconstrucción del terremoto ponen presión a De la Espriella",
+      "normalizedTokens": [
+        "colombia",
+        "fondo",
+        "milagro",
+        "reconstruccion",
+        "terremoto",
+        "ponen",
+        "presion",
+        "espriella"
+      ],
+      "date": "2026-11-14T05:17:18.084Z"
+    },
     {
       "title": "TRUMP PIVOTS TO STATUS QUO AS IRAN WAR DRAGS ON",
       "normalizedTokens": [
