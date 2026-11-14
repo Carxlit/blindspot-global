@@ -20021,5 +20021,151 @@
     "attempts": 0,
     "maxAttempts": 3,
     "createdAt": "2026-11-14T18:23:52.395Z"
+  },
+  {
+    "id": "queue-1794685375721-8p7iq",
+    "news": {
+      "id": "woxb7d1dh",
+      "originalUrl": "https://www.thehindu.com/news/international/trump-tells-advisers-he-may-hold-off-on-iran-attacks-barring-new-provocations-sources-say/article71702671.ece",
+      "originalTitle": "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
+      "sourceName": "The Hindu",
+      "category": "GEOPOLITICS",
+      "urgencyScore": 88,
+      "headline": "TRUMP SIGNALS PAUSE ON IRAN STRIKES AMID REGIONAL PRESSURE",
+      "subHeadline": "U.S. President Donald Trump has indicated to advisers he may hold off on further military action against Iran barring new provocations. The shift follows electoral backlash and direct appeals from regional leaders.",
+      "blindSpotAngle": "While mainstream coverage focuses on diplomatic appeals from Riyadh and Ankara, the true driver behind Trump's hesitation is domestic political survival following the loss of Congress. The administration is using regional stability as a convenient cover to walk back an unravelling military venture without appearing weak.",
+      "facebookPost": "U.S. President Donald Trump has informed senior advisers that he may hold off on further military strikes against Iran if Tehran and its proxies avoid new provocations. Publicly, the administration maintains that it holds all the cards, pointing to a collapsing Iranian economy and control of the Strait of Hormuz.\n\nBeneath the surface, however, the calculus is driven by domestic political failure. Following a bruising midterm election where voters handed control of Congress to the Democrats over the cost of the conflict, the White House is quietly responding to frantic pleas from Saudi Crown Prince Mohammed bin Salman and Turkish President Tayyip Erdogan to avert full-scale war.\n\nWhen foreign policy is dictated by domestic electoral math rather than long-term strategy, how durable can any regional ceasefire truly be?\n\nSource: The Hindu\n\n#Geopolitics #MiddleEast #Blindspot",
+      "telegramPost": "<b>TRUMP SIGNALS PAUSE ON IRAN STRIKES AMID REGIONAL PRESSURE</b>\n\n• <b>What happened:</b> U.S. President Donald Trump told senior advisers he may hold off on attacking Iran if there are no new provocations, following phone calls with regional leaders.\n• <b>Why it matters:</b> The shift is heavily influenced by the Republican loss of Congress in the midterm elections and severe public dissatisfaction with the ongoing conflict.\n• <b>What is next:</b> Washington will rely on existing economic sanctions and naval blockades to squeeze Tehran while navigating calls from allies to avoid a wider war.",
+      "linkedInPost": "President Donald Trump's consideration to halt military strikes against Iran marks a pragmatic retreat dictated by domestic economic fallout and electoral defeat. With 55% of Americans stating the war was not worth the cost in a Reuters/Ipsos poll, the political cost has translated directly into institutional loss of control in Congress.\n\nFor international markets and energy investors, the immediate relief in fuel prices masks a volatile risk environment. As long as economic sanctions and naval blockades remain the primary instruments of coercion, capital flows and supply chains through the Strait of Hormuz will remain highly sensitive to shifts in Washington's domestic political winds.\n\nSource: The Hindu\n\n#GlobalEconomy #Geopolitics #Blindspot",
+      "blueskyPost": "Trump weighs pausing Iran strikes, but the real driver isn't diplomacy—it's the midterm defeat and voters rejecting a costly war. #Blindspot #Geopolitics",
+      "copies": {
+        "facebook": "U.S. President Donald Trump has informed senior advisers that he may hold off on further military strikes against Iran if Tehran and its proxies avoid new provocations. Publicly, the administration maintains that it holds all the cards, pointing to a collapsing Iranian economy and control of the Strait of Hormuz.\n\nBeneath the surface, however, the calculus is driven by domestic political failure. Following a bruising midterm election where voters handed control of Congress to the Democrats over the cost of the conflict, the White House is quietly responding to frantic pleas from Saudi Crown Prince Mohammed bin Salman and Turkish President Tayyip Erdogan to avert full-scale war.\n\nWhen foreign policy is dictated by domestic electoral math rather than long-term strategy, how durable can any regional ceasefire truly be? #Geopolitics #MiddleEast #Blindspot",
+        "telegram": "<b>TRUMP SIGNALS PAUSE ON IRAN STRIKES AMID REGIONAL PRESSURE</b>\n\n• <b>What happened:</b> U.S. President Donald Trump told senior advisers he may hold off on attacking Iran if there are no new provocations, following phone calls with regional leaders.\n• <b>Why it matters:</b> The shift is heavily influenced by the Republican loss of Congress in the midterm elections and severe public dissatisfaction with the ongoing conflict.\n• <b>What is next:</b> Washington will rely on existing economic sanctions and naval blockades to squeeze Tehran while navigating calls from allies to avoid a wider war.",
+        "bluesky": "Trump weighs pausing Iran strikes, but the real driver isn't diplomacy—it's the midterm defeat and voters rejecting a costly war. #Blindspot #Geopolitics",
+        "linkedIn": "President Donald Trump's consideration to halt military strikes against Iran marks a pragmatic retreat dictated by domestic economic fallout and electoral defeat. With 55% of Americans stating the war was not worth the cost in a Reuters/Ipsos poll, the political cost has translated directly into institutional loss of control in Congress.\n\nFor international markets and energy investors, the immediate relief in fuel prices masks a volatile risk environment. As long as economic sanctions and naval blockades remain the primary instruments of coercion, capital flows and supply chains through the Strait of Hormuz will remain highly sensitive to shifts in Washington's domestic political winds. #GlobalEconomy #Geopolitics #Blindspot"
+      },
+      "article": {
+        "slug": "why-domestic-political-survival-forcing-washington-a2pq",
+        "title": "Why domestic political survival is forcing Washington to reconsider the Iran conflict",
+        "dek": "U.S. President Donald Trump is signaling a potential pause in military strikes against Iran, driven less by diplomacy than by domestic electoral defeat. Mainstream accounts frame the pivot as a response to regional allies, but the true catalyst is political fallout at home.",
+        "keyFacts": [
+          "55% of Americans said the war was not worth the cost in a Reuters/Ipsos poll taken before November 3.",
+          "Republicans lost control of Congress to the Democrats in the midterm elections.",
+          "Mr. Trump spoke with Turkish President Tayyip Erdogan three times since October 28.",
+          "Mr. Trump told Saudi Crown Prince Mohammed bin Salman on October 31 that he planned to attack after the elections."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "U.S. President Donald Trump has informed senior national security advisers in recent days that he may hold off on launching new military strikes against Iran. According to three sources familiar with the matter, the condition for this pause is that Tehran and its regional proxies, including the Houthis in Yemen, issue no new provocations.",
+              "The posture represents a notable shift for an administration that launched the conflict alongside Israel in February. Mr. Trump has frequently alternated between threatening severe escalation and hinting at a winding down of hostilities, leaving current and former officials uncertain about his ultimate strategic endpoint."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "The war has exacted a heavy toll on global fuel prices and proved deeply unpopular with American voters. In a Reuters/Ipsos poll conducted shortly before the November 3 midterm elections, 55% of respondents stated that the conflict was simply not worth the cost. Vice-President J.D. Vance publicly cited the war as the primary factor behind the Republican loss of Congress.",
+              "Against this backdrop of domestic vulnerability, regional capitals moved quickly. Over the past two weeks, Mr. Trump held phone calls with Saudi Crown Prince Mohammed bin Salman and Turkish President Tayyip Erdogan. Both leaders strongly urged the U.S. President to avoid plunging the region into a full-scale war. During an October 31 conversation, Prince bin Salman argued that existing economic sanctions against Iran were already effective, successfully pleading with Mr. Trump to hold off on post-election strikes."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "While official readouts and mainstream commentary emphasize the persuasive diplomacy of Middle Eastern allies, the real impetus for restraint originates from domestic survival. The White House is not merely yielding to foreign advice; it is scrambling to contain the political wreckage of a war that alienated the American electorate.",
+              "By framing the decision as an act of grace granted to concerned regional partners, the administration masks a retreat forced by ballot box realities. Intelligence assessments indicate that naval blockades and economic sanctions continue to choke the Iranian economy, providing the White House with a convenient justification to de-escalate without admitting strategic failure."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "Saudi Arabia and Turkey emerge as short-term winners, having successfully leveraged their relationships with Washington to stave off a regional conflagration that threatened their own economic stability and security.",
+              "Conversely, the administration's hardliners and the broader military strategy absorb the cost. The abrupt pivot exposes the transactional and erratic nature of U.S. foreign policy, leaving regional actors aware that Washington's commitments are entirely subservient to domestic electoral cycles."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "Attention now shifts to whether Tehran and the Houthis will maintain enough restraint to give the White House the breathing room it needs. Intelligence agencies will continue monitoring the efficacy of the naval blockade and the collapsing Iranian economy.",
+              "Any unexpected escalation or proxy provocation could instantly shatter this fragile pause, forcing Mr. Trump back onto a war footing regardless of his recent private assurances."
+            ]
+          }
+        ],
+        "tags": [
+          "Iran",
+          "United States",
+          "Middle East",
+          "Foreign Policy",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "The Hindu",
+            "title": "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
+            "url": "https://www.thehindu.com/news/international/trump-tells-advisers-he-may-hold-off-on-iran-attacks-barring-new-provocations-sources-say/article71702671.ece"
+          },
+          {
+            "name": "Al-Monitor",
+            "title": "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMkJzUUZ0NVJVMXc3LURqTmw3Rnp5dmsyQl81Vng1TlRFTW9FdkVMZXJqQmRNSlh6cjBEaVJkV2NVRFBiMC03MzNQUlE3aGlfcUJoY2hOVi1HajViajN3ZlFhRXgwWFcyRFhQX044YmhCMDJyTEZLdjJnZmU2d2ZuVkRUd2ZibVBhX3ZHRlJPNXEyTWtHUzVKV0ZmbVRaQi01RGs5Y0tQSWk5QXVabE1xQ3VobTlJSTQxZHlIcVVGOEE?oc=5"
+          },
+          {
+            "name": "Al Arabiya English",
+            "title": "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU2YtSmxCd2NJRTlRZTd4cEVlUzc0cVlIdjFDYWdEY09QdENnaHJJYlFpWjZ2YTRMVlUtZDlMMENWMVJrRGlCcjdRUExDNEQzTG5sUW5RVEJqQk5CbEp0RUdZSE5aRjgwSDBweWRTbU5YdGVzZXJJUmVvdEpVSVN0WjREUWZTdjc5eHo0MXVIV2hJaV8wM2dtYjhpTHBTaS1yR2NxbVc1Mnc1OHNMVE1Rb3dITTI2SHV6UnJkQ0RtMHB3bnU4c252ZmpnZ3JBQngxZjZBcnR5bUfSAd4BQVVfeXFMTUI2MEREbm9GVWVPUkx2NW9xVHlsMnJwaFJPUkxTRTlWMVYxVGtYSVl0dVFBd1Q1dFN5cHFiSC1TS2k0YkNTMFF0cnZXVms5cjhWeDJqX0x5WHRUc0hfUV9VajBTZDNBVVVHdlptTy16anVGS0VrT3NFNWJDbTdZcTQwenQwbWhtdS1ObC1xbEw4dUFFd2RTZzVWcUdpaFhRZGhUYjU2aVV0R2Zib0dLendMMk9sRy0tUVJuVE9YMWRvdWRqV0xFSEY0aUdCMFlETUJCMkRhRDhYWU96REJB?oc=5"
+          },
+          {
+            "name": "New York Post",
+            "title": "Trump weighs holding off on new Iran strikes unless Tehran provokes US",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeFkya1I4ZDAxM1JfMDIxY1pqVVBLWERpN0ZXVl9EbzRqQmh3MXdOS0FOMmFiMGZ0blo4dk9ZY0pTZExMaC1jajdYYkZudmVPZVlidU1nYWlYb00yMUhHNzlWeHF6bVZaT2Z5R001TDRLTEtMLVdtSWVoSThSYWNmXzh3Z3l1VVFySkJrZktMUHpyUUpkSVM5c3ViOFp5NjQ0TEFzbldaYXJmdw?oc=5"
+          },
+          {
+            "name": "The Times of Israel",
+            "title": "Trump tells advisers he may not attack Iran as long as it doesn’t provoke US, sources say",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRFlibzU0OU52VFMxeV9jRDI0Umk0S3UzR0JzN2ZtT3dQeld4S1JpTzc5R29WZTRiOTdCYmVkcUZCSk1ScXpCUTF3T055SU1NQm8xZkNzWVZlamt4V1hrZjVFVzYzb1g2QUpHdU1OQm5odGx5UXVkckVmek91NkN0THFETmxCLVJQY0hNSUhZVkdlajdqanJqSTVvb0hhZE1QLWl2LXdNM1ZpNU5NdXFyR0MzcU5uV3BoaUc0a3V3MNIBvwFBVV95cUxPRFlibzU0OU52VFMxeV9jRDI0Umk0S3UzR0JzN2ZtT3dQeld4S1JpTzc5R29WZTRiOTdCYmVkcUZCSk1ScXpCUTF3T055SU1NQm8xZkNzWVZlamt4V1hrZjVFVzYzb1g2QUpHdU1OQm5odGx5UXVkckVmek91NkN0THFETmxCLVJQY0hNSUhZVkdlajdqanJqSTVvb0hhZE1QLWl2LXdNM1ZpNU5NdXFyR0MzcU5uV3BoaUc0a3V3MA?oc=5"
+          }
+        ],
+        "wordCount": 514
+      },
+      "videoScript": {
+        "hook": "Trump tells advisers he may hold off on attacking Iran.",
+        "beats": [
+          "The sudden hesitation follows a bruising midterm election where Republicans lost control of Congress.",
+          "Polling showed that 55% of Americans believed the war was simply not worth the cost.",
+          "Regional leaders convinced Washington to pause, but domestic politics forced the hand."
+        ],
+        "close": "Read the full analysis at the link in bio."
+      },
+      "rawImageUrl": "https://th-i.thgim.com/public/incoming/jwgpru/article71702738.ece/alternates/LANDSCAPE_1200/2026-11-14T110015Z_702791201_RC2SLOAODS9T_RTRMADP_3_IRAN-CRISIS-TRUMP.JPG",
+      "sourceVideo": {
+        "provider": "youtube",
+        "id": "nGp4yPurmZ0",
+        "title": "Why Does Trump Say the Iran War Is Effectively Over?",
+        "channel": "Daily News Explained",
+        "license": "cc-by"
+      },
+      "status": "pending",
+      "createdAt": "2026-11-14T19:42:51.828Z",
+      "cardImageUrl": "/news-cards/news-woxb7d1dh-1794685371828.jpg",
+      "reelCoverUrl": "/news-cards/news-woxb7d1dh-1794685374145-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-woxb7d1dh-1794685374676-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/why-domestic-political-survival-forcing-washington-a2pq/"
+    },
+    "channels": {
+      "facebook": true,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": true,
+      "mastodon": false,
+      "threads": false,
+      "youtube": true
+    },
+    "scheduledFor": "2026-11-14T21:55:04.066Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-14T19:42:55.721Z"
   }
 ]
