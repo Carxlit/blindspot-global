@@ -19663,12 +19663,13 @@
         "close": "Read the full analysis at the link in bio."
       },
       "rawImageUrl": "https://image.cnbcfm.com/api/v1/image/108368185-1790352357255-gettyimages-2296459165-AFP_C9DQ94M.jpeg?v=1790352418&w=1920&h=1080",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-14T16:12:38.879Z",
       "cardImageUrl": "/news-cards/news-kq42xmlce-1794672758879.jpg",
       "reelCoverUrl": "/news-cards/news-kq42xmlce-1794672759469-cover.jpg",
       "instagramCardUrl": "/news-cards/news-kq42xmlce-1794672760014-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/trump-sidestep-nvidia-spy-scandal-during-39km/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/trump-sidestep-nvidia-spy-scandal-during-39km/",
+      "publishedAt": "2026-11-14T18:21:29.308Z"
     },
     "channels": {
       "facebook": true,
@@ -19682,10 +19683,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-14T18:21:04.066Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-14T16:12:41.102Z"
+    "createdAt": "2026-11-14T16:12:41.102Z",
+    "lastAttemptAt": "2026-11-14T18:21:19.452Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122108477853539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": false,
+        "skipped": true,
+        "error": "Estrategia IG: límite diario de 5 Reels alcanzado"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-14T18:21:29.308Z"
   },
   {
     "id": "queue-1794676695807-fwtgb",
