@@ -19499,12 +19499,13 @@
         "channel": "ShowNewTrend",
         "license": "cc-by"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-14T14:53:15.642Z",
       "cardImageUrl": "/news-cards/news-vqtzy27nz-1794667995642.jpg",
       "reelCoverUrl": "/news-cards/news-vqtzy27nz-1794667996520-cover.jpg",
       "instagramCardUrl": "/news-cards/news-vqtzy27nz-1794667997104-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/obsolescence-white-house-podium-modern-executive-sdvj/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/obsolescence-white-house-podium-modern-executive-sdvj/",
+      "publishedAt": "2026-11-14T17:16:14.806Z"
     },
     "channels": {
       "facebook": true,
@@ -19518,10 +19519,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-14T17:15:48.806Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-14T14:53:18.359Z"
+    "createdAt": "2026-11-14T14:53:18.359Z",
+    "lastAttemptAt": "2026-11-14T17:16:04.077Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122108441139539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": false,
+        "skipped": true,
+        "error": "Estrategia IG: límite diario de 5 Reels alcanzado"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Reel no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Short no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      }
+    },
+    "publishedAt": "2026-11-14T17:16:14.806Z"
   },
   {
     "id": "queue-1794672761102-0knoy",
@@ -19656,7 +19681,7 @@
       "threads": false,
       "youtube": true
     },
-    "scheduledFor": "2026-11-14T18:05:48.806Z",
+    "scheduledFor": "2026-11-14T18:21:04.066Z",
     "status": "queued",
     "attempts": 0,
     "maxAttempts": 3,
