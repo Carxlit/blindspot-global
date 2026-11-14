@@ -114,9 +114,36 @@
     "https://es.euronews.com/2026/11/14/el-viaje-del-papa-a-sudamerica-coincide-con-el-aumento-del-sarampion-81-muertos",
     "https://www.theverge.com/news/1033489/faa-ground-stop",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGE3d2YwNy1ONlliXzNCVDNiZU01WlB3YUdPMEZwOHJpNS1UWEtvZ3hhM1hWOGN2REsxbEw1SzNERlk3eTVfUTdlOEFJYVAwNXVjT25jczJDRE9iTE5DYjlxNnQ3UlJRVDlRdU1UeHhNZ1NUWnBVU2w2TjZLWTg5emhUZ2RVVXowVWZuMnBiTlhtWlhxUDkxODkzNVlfeGlGbVlYV0todlRQc1JZSXIyVXpsVU1WRDFFU2QxTA?oc=5",
-    "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test"
+    "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVMkIybm5QSXNTdnRac3FBOEVCdUNDc0o1ZVZyd2M3eGg4bTFzbk03bG1OalZBdW05UjE2NG5sejluR1hUdElyOFNIOTRmSk5reGtkZHNmWGNHRi16Ylo4RUNieTVUa0pOd09qXy1iMlhsdUZfMTlHYm5YTQ?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "CALIFORNIA HOUSE RACES TEST CONGRESSIONAL POWER AND ELECTION MONITORING",
+      "normalizedTokens": [
+        "california",
+        "house",
+        "races",
+        "test",
+        "congressional",
+        "power",
+        "election",
+        "monitoring"
+      ],
+      "date": "2026-11-14T12:49:20.986Z"
+    },
+    {
+      "title": "California U.S. House Election Live Results 2026",
+      "normalizedTokens": [
+        "california",
+        "house",
+        "election",
+        "live",
+        "results",
+        "2026"
+      ],
+      "date": "2026-11-14T12:49:20.984Z"
+    },
     {
       "title": "HOUSE DEMOCRATS FAIL TO ADVANCE PETE HEGSETH IMPEACHMENT RESOLUTION",
       "normalizedTokens": [
