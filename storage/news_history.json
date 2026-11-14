@@ -119,9 +119,41 @@
     "https://www.marketwatch.com/story/washington-can-start-delivering-on-affordability-by-rejecting-trumps-tariffs-8f2c76fd?mod=mw_rss_topstories",
     "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary",
     "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
-    "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+    "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWmo1ZlZFelVnRHRmOXFUcUZjU2N0NmlGNGZucy1XRUNKRk9EMnY5eVJqSU92VldKZ0xqV3JKNkxQakxjdFA0TFJjbUhBanlhMWlLQ01jMWJySEQwZ1BDbEJlTVIxUzJjblFGd216ZmtzWF9QRW94VlFpRUhZYmZLZENrZUZLNWVGSEZLbWpXaHYxSHpmUVVJTE5sNVY3d09DMG9xOHhkZ3ZXa2tpdE83OFJjRVFlVVZPay1nZA?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "RUSSIA LAUNCHES COMBINED STRIKES ON UKRAINE TARGETING ZAPORIZHZHIA LOGISTICS",
+      "normalizedTokens": [
+        "russia",
+        "launches",
+        "combined",
+        "strikes",
+        "ukraine",
+        "targeting",
+        "zaporizhzhia",
+        "logistics"
+      ],
+      "date": "2026-11-14T18:23:52.411Z"
+    },
+    {
+      "title": "At least 7 killed, 80 injured in Russian attacks across Ukraine; Zaporizhzhia among worst hit",
+      "normalizedTokens": [
+        "least",
+        "killed",
+        "injured",
+        "russian",
+        "attacks",
+        "across",
+        "ukraine",
+        "zaporizhzhia",
+        "among",
+        "worst",
+        "hit"
+      ],
+      "date": "2026-11-14T18:23:52.410Z"
+    },
     {
       "title": "OPENAI BOARD FAILURE PROVES VOLUNTARY AI SAFETY FAILS",
       "normalizedTokens": [
