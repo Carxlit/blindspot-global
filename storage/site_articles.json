@@ -1,5 +1,101 @@
 [
   {
+    "slug": "trump-sidestep-nvidia-spy-scandal-during-39km",
+    "path": "news/trump-sidestep-nvidia-spy-scandal-during-39km/",
+    "title": "Trump to sidestep Nvidia and spy scandal during high-stakes China summit",
+    "headline": "TRUMP TO SIDESTEP NVIDIA AND SPY SCANDAL DURING CHINA SUMMIT",
+    "dek": "Senior U.S. officials confirm the White House will bypass the Jensen Huang espionage affair and chip diversion investigations during meetings with Xi Jinping. The deliberate omission lays bare the friction between trade diplomacy and semiconductor security.",
+    "category": "GLOBAL ECONOMY",
+    "sourceName": "CNBC World",
+    "image": "img/trump-sidestep-nvidia-spy-scandal-during-39km.jpg",
+    "photo": "img/trump-sidestep-nvidia-spy-scandal-during-39km-foto.jpg",
+    "publishedAt": "2026-11-14T16:12:40.994Z",
+    "article": {
+      "slug": "trump-sidestep-nvidia-spy-scandal-during-39km",
+      "title": "Trump to sidestep Nvidia and spy scandal during high-stakes China summit",
+      "dek": "Senior U.S. officials confirm the White House will bypass the Jensen Huang espionage affair and chip diversion investigations during meetings with Xi Jinping. The deliberate omission lays bare the friction between trade diplomacy and semiconductor security.",
+      "keyFacts": [
+        "President Donald Trump is scheduled to attend the Asia-Pacific Economic Cooperation summit in Shenzhen on Nov. 18 and 19.",
+        "Jensen Huang resigned as Nvidia's CEO following reports of an affair with Alice Huang, an executive at Singapore-based Megaspeed.",
+        "Megaspeed is under examination for allegedly facilitating the diversion of billions of dollars worth of restricted Nvidia chips to China.",
+        "Elon Musk, CEO of Tesla and SpaceX, will accompany Trump on the presidential trip as an advisor."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "President Donald Trump is not expected to raise allegations of a Chinese intelligence operation involving former Nvidia CEO Jensen Huang during his upcoming meetings with Chinese President Xi Jinping, according to senior U.S. officials speaking on Friday.",
+            "The officials stated that the focus of the economic discussions in Shenzhen will center strictly on the implementation of the existing trade agreement. The high-profile scandal, which culminated in Jensen Huang's resignation following revelations of his relationship with Alice Huang—an executive at the cloud-computing firm Megaspeed—will be kept entirely separate from presidential-level diplomacy."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Megaspeed has faced intense scrutiny regarding its potential role in facilitating the transfer of billions of dollars worth of advanced Nvidia chips to China in direct violation of U.S. export controls. The revelations have placed severe pressure on the Commerce Department, led by Howard Lutnick, to answer whether regulatory oversight has been aggressive enough to block restricted technology from reaching adversaries.",
+            "Despite these domestic pressures, the administration's stance remains compartmentalized. A senior official stated on a press call that American export controls are not negotiated with foreign powers and that ongoing national security investigations are not matters to be read into current discussions with Beijing. China has consistently called the allegations against Alice Huang baseless."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream coverage has largely focused on the personal fallout of Jensen Huang's resignation and the diplomatic pageantry of the APEC summit, which is also slated to feature a three-way meeting between Trump, Xi, and Russian President Vladimir Putin. However, the true blind spot lies in the glaring disconnect between Washington's public posturing on semiconductor containment and its practical diplomatic priorities.",
+            "By actively choosing to sideline the chip diversion investigation during direct talks with Xi, the administration signals that enforcement mechanisms can be quietly subordinated to preserve trade stability. Furthermore, the presence of Elon Musk on the presidential delegation underscores an institutional reality: the state increasingly relies on private technology billionaires to navigate complex geopolitical corridors, even as regulatory bodies struggle to police the supply chains those same tech ecosystems utilize."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The primary beneficiaries of this diplomatic compartmentalization are the architects of bilateral trade and major tech conglomerates whose operational supply chains depend on smooth U.S.-China commercial channels. Beijing avoids an uncomfortable interrogation over intelligence operations and microelectronic bottlenecks.",
+            "Conversely, regulatory agencies such as the Commerce Department and domestic security watchdogs absorb the cost. By signaling that sensitive enforcement actions will not burden high-level presidential talks, the administration undercuts the credibility of its own technology containment frameworks."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Observer focus must shift toward the enforcement actions of the Commerce Department following the Shenzhen summit. Specifically, whether investigations into Megaspeed and secondary chip routing channels result in tangible penalties or quietly stall out under broader commercial pressures.",
+            "Additionally, the advisory role played by Elon Musk during the APEC meetings will provide crucial insight into how private capital dictates national security boundaries in an era of heightened technological competition."
+          ]
+        }
+      ],
+      "tags": [
+        "Semiconductors",
+        "Geopolitics",
+        "Trade",
+        "Intelligence",
+        "Technology"
+      ],
+      "sources": [
+        {
+          "name": "CNBC World",
+          "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+          "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html"
+        },
+        {
+          "name": "CNBC",
+          "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6UE1LUUhxSWNHM2prcHlVQ0RCR01qVUc1b1VZMHcxZEFUajlaRnBveGY0NGsyV1Nycmw2UllWNHJWV0hmblJzWXpoNFQzaG95VTdnR1dtaXdPbVNCeWo0QXgyc2NiY1NfWFQtWG9n0gFzQVVfeXFMTlJHMHFJMWNWUzFuNGNtUHgxWUpkbDEyLWhUVlh5Z2gxd3JIdlUxTkJmU3V3RFBSM05OQ3NyNHpzQl9rNVdxel9LWW5vSGwwck56LVh3TVVnaUdNd2tKZWllZXpPZXloakJScGRYVFBuS1Y2bw?oc=5"
+        },
+        {
+          "name": "WSJ",
+          "title": "Opinion | The Fallout From the Fall of Jensen Huang",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRjB6d1pCaXZqekFPMFhpUi1xYUpFeG1RMGZ4blI2eVBjeHNESlBiNzV1Z3pKUHBpREk4TFdZU3Jra2g0aTNzM0NCdFdWZnJUQk1LNnJiOUM5anZNa0dYUGN3cXBGUjdZLVBWNS05WW1jMW5xdUNmb1VJRlpUMXExS3hQQkl3eWtoaUp0UHlFMHY4UlQ1Q0Y0?oc=5"
+        },
+        {
+          "name": "AP News",
+          "title": "Trump is taking Elon Musk on his Asia trip, but he plans to avoid talking about Nvidia scandal",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNHhpU25yMzdNQmNyZHptWlZDSEs2QWpJdTlhN2hMUEh2TUpMbWFZcVlvQ21hY0pmYjlLTFNobWdkZl9JSGNpQ0NoNHZ4eDczdkhkckQ0SGR6Zk8ydmc0TF9sTUNtNmhPSzBPQ2RHOGtWVzZ1emV0S3dUUElGcXRUaXhSZjBIMjluU2tUSjVxMmpiRTR1dzhVeHJMMVg?oc=5"
+        },
+        {
+          "name": "Yahoo",
+          "title": "Trump not expected to raise alleged Chinese spy to Xi",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM0JxV3NJdmxOWDlEME1CeGFrd2RlZE13dXRMWHNUSVVPdnFMTkJWZ0RqLW5Ub3dmYm03RWFnV25haGhnQjlPOUoyN0UxX25OUkpWUnlxNGJjTnRuWndWLTZ5UDl3TW1ueHVOUVNyc3RJeDd5Nk9EZVNNU1pBN19xMTdxamN2SWlvTlhHaVozbzl3N3FkcjBj?oc=5"
+        }
+      ],
+      "wordCount": 516
+    },
+    "blindSpot": "While mainstream coverage frames the omission as standard diplomatic compartmentalization, the real blind spot is how Elon Musk's presence on the delegation highlights the blurred lines between statecraft and private tech monopolies. By sidelining export control enforcement and the Megaspeed chip diversion probe, the administration signals that bilateral trade implementation and geopolitical optics take precedence over corporate espionage containment."
+  },
+  {
     "slug": "obsolescence-white-house-podium-modern-executive-sdvj",
     "path": "news/obsolescence-white-house-podium-modern-executive-sdvj/",
     "title": "The Obsolescence of the White House Podium in Modern Executive Governance",

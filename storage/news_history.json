@@ -117,9 +117,39 @@
     "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVMkIybm5QSXNTdnRac3FBOEVCdUNDc0o1ZVZyd2M3eGg4bTFzbk03bG1OalZBdW05UjE2NG5sejluR1hUdElyOFNIOTRmSk5reGtkZHNmWGNHRi16Ylo4RUNieTVUa0pOd09qXy1iMlhsdUZfMTlHYm5YTQ?oc=5",
     "https://www.marketwatch.com/story/washington-can-start-delivering-on-affordability-by-rejecting-trumps-tariffs-8f2c76fd?mod=mw_rss_topstories",
-    "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary"
+    "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary",
+    "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html"
   ],
   "processedSignatures": [
+    {
+      "title": "TRUMP TO SIDESTEP NVIDIA AND SPY SCANDAL DURING CHINA SUMMIT",
+      "normalizedTokens": [
+        "trump",
+        "sidestep",
+        "nvidia",
+        "spy",
+        "scandal",
+        "china",
+        "summit"
+      ],
+      "date": "2026-11-14T16:12:41.115Z"
+    },
+    {
+      "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+      "normalizedTokens": [
+        "trump",
+        "doesn",
+        "plan",
+        "raise",
+        "nvidia",
+        "spy",
+        "issue",
+        "china",
+        "trip",
+        "officials"
+      ],
+      "date": "2026-11-14T16:12:41.114Z"
+    },
     {
       "title": "TRUMP BYPASSES PRESS SECRETARY SYSTEM THROUGH DIRECT DIGITAL DISSEMINATION",
       "normalizedTokens": [
