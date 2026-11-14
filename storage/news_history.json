@@ -111,9 +111,38 @@
     "https://www.france24.com/es/video/20261114-colombia-el-fondo-milagro-y-la-reconstrucci%C3%B3n-del-terremoto-ponen-presi%C3%B3n-a-de-la-espriella",
     "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
     "https://www.dw.com/es/irán-informa-de-tres-petroleros-incendiados-por-la-explosión-de-minas-marinas-en-el-estrecho-de-ormuz-y-renueva-sus-advertencias/a-79946984?maca=spa-rss-sp-all-1122-rdf",
-    "https://es.euronews.com/2026/11/14/el-viaje-del-papa-a-sudamerica-coincide-con-el-aumento-del-sarampion-81-muertos"
+    "https://es.euronews.com/2026/11/14/el-viaje-del-papa-a-sudamerica-coincide-con-el-aumento-del-sarampion-81-muertos",
+    "https://www.theverge.com/news/1033489/faa-ground-stop"
   ],
   "processedSignatures": [
+    {
+      "title": "FAA GROUND STOP EXPOSES CRITICAL INFRASTRUCTURE DEFICITS IN US AVIATION",
+      "normalizedTokens": [
+        "faa",
+        "ground",
+        "stop",
+        "exposes",
+        "critical",
+        "infrastructure",
+        "deficits",
+        "aviation"
+      ],
+      "date": "2026-11-14T11:02:07.955Z"
+    },
+    {
+      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+      "normalizedTokens": [
+        "faa",
+        "lifts",
+        "nationwide",
+        "ground",
+        "stop",
+        "blocked",
+        "takeoffs",
+        "hours"
+      ],
+      "date": "2026-11-14T11:02:07.949Z"
+    },
     {
       "title": "SOUTH AMERICAN MEASLES OUTBREAK SURGES AS PAPAL MASSES GATHER",
       "normalizedTokens": [
