@@ -112,9 +112,39 @@
     "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
     "https://www.dw.com/es/irán-informa-de-tres-petroleros-incendiados-por-la-explosión-de-minas-marinas-en-el-estrecho-de-ormuz-y-renueva-sus-advertencias/a-79946984?maca=spa-rss-sp-all-1122-rdf",
     "https://es.euronews.com/2026/11/14/el-viaje-del-papa-a-sudamerica-coincide-con-el-aumento-del-sarampion-81-muertos",
-    "https://www.theverge.com/news/1033489/faa-ground-stop"
+    "https://www.theverge.com/news/1033489/faa-ground-stop",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGE3d2YwNy1ONlliXzNCVDNiZU01WlB3YUdPMEZwOHJpNS1UWEtvZ3hhM1hWOGN2REsxbEw1SzNERlk3eTVfUTdlOEFJYVAwNXVjT25jczJDRE9iTE5DYjlxNnQ3UlJRVDlRdU1UeHhNZ1NUWnBVU2w2TjZLWTg5emhUZ2RVVXowVWZuMnBiTlhtWlhxUDkxODkzNVlfeGlGbVlYV0todlRQc1JZSXIyVXpsVU1WRDFFU2QxTA?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "TURKEY AND QATAR SIGN MUTUAL DEFENSE PACT IN ISTANBUL",
+      "normalizedTokens": [
+        "turkey",
+        "qatar",
+        "sign",
+        "mutual",
+        "defense",
+        "pact",
+        "istanbul"
+      ],
+      "date": "2026-11-14T11:16:34.942Z"
+    },
+    {
+      "title": "Turkey, Qatar sign mutual defence agreement, pledge unified stance against attack",
+      "normalizedTokens": [
+        "turkey",
+        "qatar",
+        "sign",
+        "mutual",
+        "defence",
+        "agreement",
+        "pledge",
+        "unified",
+        "stance",
+        "attack"
+      ],
+      "date": "2026-11-14T11:16:34.941Z"
+    },
     {
       "title": "FAA GROUND STOP EXPOSES CRITICAL INFRASTRUCTURE DEFICITS IN US AVIATION",
       "normalizedTokens": [
