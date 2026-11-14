@@ -18370,12 +18370,13 @@
         "channel": "Kanal13",
         "license": "cc-by"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-14T09:46:48.845Z",
       "cardImageUrl": "/news-cards/news-34vwv7klv-1794649608846.jpg",
       "reelCoverUrl": "/news-cards/news-34vwv7klv-1794649611643-cover.jpg",
       "instagramCardUrl": "/news-cards/news-34vwv7klv-1794649612171-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/iran-reports-three-oil-tankers-struck-389q/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/iran-reports-three-oil-tankers-struck-389q/",
+      "publishedAt": "2026-11-14T09:50:57.990Z"
     },
     "channels": {
       "facebook": true,
@@ -18389,10 +18390,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-14T09:46:53.152Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-14T09:46:53.152Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-14T09:47:41.071Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122108107425539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18120333734107183",
+        "permalink": "https://www.instagram.com/reel/Dft7E2sjLB8/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Reel no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Short no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      }
+    },
+    "publishedAt": "2026-11-14T09:50:57.990Z"
   }
 ]
