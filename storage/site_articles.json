@@ -1,5 +1,92 @@
 [
   {
+    "slug": "obsolescence-white-house-podium-modern-executive-sdvj",
+    "path": "news/obsolescence-white-house-podium-modern-executive-sdvj/",
+    "title": "The Obsolescence of the White House Podium in Modern Executive Governance",
+    "headline": "TRUMP BYPASSES PRESS SECRETARY SYSTEM THROUGH DIRECT DIGITAL DISSEMINATION",
+    "dek": "The prolonged vacancy of the formal White House press secretary role reflects a strategic shift toward unmediated digital broadcasting. By leveraging informal exchanges and direct platform posts, executive power circumvents traditional journalistic oversight.",
+    "category": "POWER & SOCIETY",
+    "sourceName": "NPR News",
+    "image": "img/obsolescence-white-house-podium-modern-executive-sdvj.jpg",
+    "photo": "img/obsolescence-white-house-podium-modern-executive-sdvj-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "vDoJ8x-Pezg",
+      "title": "Dana White’s First White House Press Briefing!",
+      "channel": "ShowNewTrend",
+      "license": "cc-by"
+    },
+    "publishedAt": "2026-11-14T14:53:18.225Z",
+    "article": {
+      "slug": "obsolescence-white-house-podium-modern-executive-sdvj",
+      "title": "The Obsolescence of the White House Podium in Modern Executive Governance",
+      "dek": "The prolonged vacancy of the formal White House press secretary role reflects a strategic shift toward unmediated digital broadcasting. By leveraging informal exchanges and direct platform posts, executive power circumvents traditional journalistic oversight.",
+      "keyFacts": [
+        "Katie Zacharia held the position of White House press secretary for 5 days in mid-October.",
+        "President Trump has conducted almost 500 direct interactions with the media in informal settings.",
+        "The administration increasingly utilizes direct daily posts on Truth Social to broadcast policy announcements."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "The White House press briefing room has experienced an extended lull in formal operations, remaining without a functioning press secretary for nearly a month. Following a brief five-day tenure by Katie Zacharia in mid-October that included a single brief briefing, the podium has sat essentially unused.",
+            "Rather than appointing a formal replacement, executive communications have shifted away from traditional press briefings altogether, relying instead on direct statements from the president across digital channels."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Traditional presidential communications relied heavily on daily briefings by an appointed press secretary to articulate policy, field inquiries, and provide an official record for foreign and domestic observers.",
+            "According to media records, despite the decline in formal podium briefings during the second Trump administration, the president himself has logged almost 500 direct interactions with reporters. These exchanges have taken place during impromptu Q&A sessions at ceremonies, along the route to the presidential helicopter, aboard Air Force One, and in standard interview formats."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "The primary media focus has centered on commentary and satire regarding prospective press secretary appointments. However, the operational reality represents a deliberate structural shift: the systematic bypass of the press corps as an analytical intermediary.",
+            "By posting dozens of messages daily directly to millions of followers on Truth Social, executive policy decisions are broadcast without the real-time friction of institutional fact-checking, structured questioning, or contextual challenge. The absence of a formal press secretary is not an administrative vacuum; it is an executive strategy to control narrative cadence."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The primary beneficiary of this model is executive power, which gains maximum narrative agility and direct platform reach while minimizing exposure to organized journalistic follow-up questions.",
+            "Conversely, institutional journalism and public transparency bear the cost. Without structured briefings, White House correspondents are reduced to reacting to rapid digital posts and catching unscripted remarks amidst engine noise on tarmac runways, weakening the systematic auditing of state actions."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Observers should monitor whether future presidential administrations adopt this unmediated communication framework as a permanent standard.",
+            "Key indicators will include whether official press briefings are permanently reduced to symbolic occurrences, and how foreign governments and financial markets adjust to interpreting state policy derived primarily from executive social media accounts rather than verified government spokespersons."
+          ]
+        }
+      ],
+      "tags": [
+        "White House",
+        "Media Strategy",
+        "Executive Power",
+        "Political Communication",
+        "Journalism"
+      ],
+      "sources": [
+        {
+          "name": "NPR News",
+          "title": "Perspective: A new kind of White House press secretary",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary"
+        },
+        {
+          "name": "NPR",
+          "title": "Perspective: A new kind of White House press secretary",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX1RaVXl1Y2ZqNk9fUXpSTkpMNXBLYWswR3NBd3ZobG43cG1pbURiMFhCd290aGREZDVrWFFYZXlsdHBCOHVyeldUVS11cU5NM1A1ZU0tTnIxT25IQUhkQk5temZmejZUMDhWb3VSSU1SVk5mVTVWNlM5QlMtOVZJNmxKdm5wX1E1RWMzbWRmTXltLWtUVEhicUVhRFdOVzA?oc=5"
+        }
+      ],
+      "wordCount": 395
+    },
+    "blindSpot": "The vacancy of the formal press secretary role is not an administrative oversight but a structural strategy. By relying on nearly 500 unmediated press encounters alongside direct posts on Truth Social, the administration dismantles institutional press filtering, transforming executive communication into direct signal propagation without procedural accountability."
+  },
+  {
     "slug": "inherent-contradiction-between-proposed-tariff-agendas-549t",
     "path": "news/inherent-contradiction-between-proposed-tariff-agendas-549t/",
     "title": "The inherent contradiction between proposed tariff agendas and consumer affordability",

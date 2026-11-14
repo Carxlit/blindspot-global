@@ -116,9 +116,37 @@
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGE3d2YwNy1ONlliXzNCVDNiZU01WlB3YUdPMEZwOHJpNS1UWEtvZ3hhM1hWOGN2REsxbEw1SzNERlk3eTVfUTdlOEFJYVAwNXVjT25jczJDRE9iTE5DYjlxNnQ3UlJRVDlRdU1UeHhNZ1NUWnBVU2w2TjZLWTg5emhUZ2RVVXowVWZuMnBiTlhtWlhxUDkxODkzNVlfeGlGbVlYV0todlRQc1JZSXIyVXpsVU1WRDFFU2QxTA?oc=5",
     "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVMkIybm5QSXNTdnRac3FBOEVCdUNDc0o1ZVZyd2M3eGg4bTFzbk03bG1OalZBdW05UjE2NG5sejluR1hUdElyOFNIOTRmSk5reGtkZHNmWGNHRi16Ylo4RUNieTVUa0pOd09qXy1iMlhsdUZfMTlHYm5YTQ?oc=5",
-    "https://www.marketwatch.com/story/washington-can-start-delivering-on-affordability-by-rejecting-trumps-tariffs-8f2c76fd?mod=mw_rss_topstories"
+    "https://www.marketwatch.com/story/washington-can-start-delivering-on-affordability-by-rejecting-trumps-tariffs-8f2c76fd?mod=mw_rss_topstories",
+    "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary"
   ],
   "processedSignatures": [
+    {
+      "title": "TRUMP BYPASSES PRESS SECRETARY SYSTEM THROUGH DIRECT DIGITAL DISSEMINATION",
+      "normalizedTokens": [
+        "trump",
+        "bypasses",
+        "press",
+        "secretary",
+        "system",
+        "through",
+        "direct",
+        "digital",
+        "dissemination"
+      ],
+      "date": "2026-11-14T14:53:18.372Z"
+    },
+    {
+      "title": "Perspective: A new kind of White House press secretary",
+      "normalizedTokens": [
+        "perspective",
+        "kind",
+        "white",
+        "house",
+        "press",
+        "secretary"
+      ],
+      "date": "2026-11-14T14:53:18.369Z"
+    },
     {
       "title": "WASHINGTON MUST REJECT TARIFFS TO PRIORITIZE DOMESTIC AFFORDABILITY",
       "normalizedTokens": [
