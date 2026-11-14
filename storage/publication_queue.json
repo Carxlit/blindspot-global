@@ -19998,12 +19998,13 @@
         "title": "Russian Gvozdika Artillery Strikes Ukrainian Positions in Zaporizhzhia! ⚡🔥 #Shorts #breakingnews",
         "channel": "WorldPluseNews"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-14T18:23:49.955Z",
       "cardImageUrl": "/news-cards/news-eyuu12m6i-1794680629955.jpg",
       "reelCoverUrl": "/news-cards/news-eyuu12m6i-1794680630567-cover.jpg",
       "instagramCardUrl": "/news-cards/news-eyuu12m6i-1794680631276-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/russian-strikes-target-zaporizhzhia-logistics-moscow-28kt/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/russian-strikes-target-zaporizhzhia-logistics-moscow-28kt/",
+      "publishedAt": "2026-11-14T20:50:28.147Z"
     },
     "channels": {
       "facebook": true,
@@ -20017,10 +20018,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-14T20:50:04.066Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-14T18:23:52.395Z"
+    "createdAt": "2026-11-14T18:23:52.395Z",
+    "lastAttemptAt": "2026-11-14T20:50:19.433Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122108583465539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": false,
+        "skipped": true,
+        "error": "Estrategia IG: límite diario de 5 Reels alcanzado"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-14T20:50:28.147Z"
   },
   {
     "id": "queue-1794685375721-8p7iq",
