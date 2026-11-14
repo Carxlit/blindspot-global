@@ -18038,12 +18038,13 @@
         "close": "Read the full investigative analysis at the link in our bio."
       },
       "rawImageUrl": "https://s.france24.com/media/display/82b88130-dfc2-11f1-b436-3f371022a770/w:1024/p:16x9/ES-20261113-190838-191010-CS.jpg",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-14T05:17:13.699Z",
       "cardImageUrl": "/news-cards/news-2t2lb1pk8-1794633433699.jpg",
       "reelCoverUrl": "/news-cards/news-2t2lb1pk8-1794633436413-cover.jpg",
       "instagramCardUrl": "/news-cards/news-2t2lb1pk8-1794633437012-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/inside-milagro-fund-crisis-political-pressure-ietb/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/inside-milagro-fund-crisis-political-pressure-ietb/",
+      "publishedAt": "2026-11-14T05:20:55.516Z"
     },
     "channels": {
       "facebook": true,
@@ -18057,10 +18058,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-14T05:17:18.077Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-14T05:17:18.077Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-14T05:18:15.728Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122107954611539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18104268488560775",
+        "permalink": "https://www.instagram.com/reel/DftcOLfigCe/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-14T05:20:55.516Z"
   }
 ]
