@@ -19196,12 +19196,13 @@
         "close": "Read the full strategic analysis on our website."
       },
       "rawImageUrl": "https://apnews.com/projects/elections-2026/social/CA.jpg",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-14T12:49:18.747Z",
       "cardImageUrl": "/news-cards/news-ho8lqwk1f-1794660558748.jpg",
       "reelCoverUrl": "/news-cards/news-ho8lqwk1f-1794660559340-cover.jpg",
       "instagramCardUrl": "/news-cards/news-ho8lqwk1f-1794660559871-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/california-congressional-elections-highlight-friction-american-vdjl/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/california-congressional-elections-highlight-friction-american-vdjl/",
+      "publishedAt": "2026-11-14T14:49:52.450Z"
     },
     "channels": {
       "facebook": true,
@@ -19215,10 +19216,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-14T14:47:48.806Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-14T12:49:20.971Z"
+    "createdAt": "2026-11-14T12:49:20.971Z",
+    "lastAttemptAt": "2026-11-14T14:48:04.119Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122108319255539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18076799183769957",
+        "permalink": "https://www.instagram.com/reel/DfudV9AErYN/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-14T14:49:52.450Z"
   },
   {
     "id": "queue-1794664935682-c6fts",
