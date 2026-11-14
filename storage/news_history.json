@@ -122,9 +122,40 @@
     "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWmo1ZlZFelVnRHRmOXFUcUZjU2N0NmlGNGZucy1XRUNKRk9EMnY5eVJqSU92VldKZ0xqV3JKNkxQakxjdFA0TFJjbUhBanlhMWlLQ01jMWJySEQwZ1BDbEJlTVIxUzJjblFGd216ZmtzWF9QRW94VlFpRUhZYmZLZENrZUZLNWVGSEZLbWpXaHYxSHpmUVVJTE5sNVY3d09DMG9xOHhkZ3ZXa2tpdE83OFJjRVFlVVZPay1nZA?oc=5",
     "https://www.thehindu.com/news/international/trump-tells-advisers-he-may-hold-off-on-iran-attacks-barring-new-provocations-sources-say/article71702671.ece",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOckJYSDVUWDh1cTJPb3ptd2pLZmxuNXBtSEJkN0F0WWFucUZuWDgtQ0dZbzZITDBWY3dhSWZqcjcyZl9FdGpHdHJsX1dkbVowTkZ3OWRKd3pwN2NIMnBGZ1AtbDFkMkl6Vm1RZFNsZ2VDOU1nLUVmY2d4UHV2U01ER1pJTmdlSGFDdmsyM2ZhbXlXYVdEb01ERlNybGxWY0RsYlo4QlNxa0NCaUNpQjQw?oc=5"
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOckJYSDVUWDh1cTJPb3ptd2pLZmxuNXBtSEJkN0F0WWFucUZuWDgtQ0dZbzZITDBWY3dhSWZqcjcyZl9FdGpHdHJsX1dkbVowTkZ3OWRKd3pwN2NIMnBGZ1AtbDFkMkl6Vm1RZFNsZ2VDOU1nLUVmY2d4UHV2U01ER1pJTmdlSGFDdmsyM2ZhbXlXYVdEb01ERlNybGxWY0RsYlo4QlNxa0NCaUNpQjQw?oc=5",
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSi1TSllfc0ZQWDhWSlhyRkMzTjFXemdoX3o5azdSeWl6TWVtUEtQYzZubmtGNWVfWnppYklfTDR3U1V3Zk1WVnE3ZV9FMWt4SnF4VzN1bm42cE44VGpMVTBzUW51UlRlR0lId1M1MW92T0psZDBaNF92QWJkY2MyVjN0OV9VZ2RCZ3ZTejZBQVBRaDg1eTUweElTakVYWXlYenFYNXBWMU96eDBRckdwWk1RVnd6VE9XTWlnc2JRUU5wM3RzUGVrcE1mNnJMdHdCdFkwNA?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "NVIDIA LEADERSHIP CRISIS RATTLES MARKETS AMID AI BUBBLE FEARS",
+      "normalizedTokens": [
+        "nvidia",
+        "leadership",
+        "crisis",
+        "rattles",
+        "markets",
+        "bubble",
+        "fears"
+      ],
+      "date": "2026-11-14T21:58:09.823Z"
+    },
+    {
+      "title": "Investor Focus: Nvidia CEO Crisis, Anthropic IPO Valuation, and Undervalued UK Stocks After Earnings",
+      "normalizedTokens": [
+        "investor",
+        "focus",
+        "nvidia",
+        "ceo",
+        "crisis",
+        "anthropic",
+        "ipo",
+        "valuation",
+        "undervalued",
+        "stocks",
+        "earnings"
+      ],
+      "date": "2026-11-14T21:58:09.821Z"
+    },
     {
       "title": "INVESTORS FLOCK TO ANTHROPIC IPO AMID MODEL DURABILITY DOUBTS",
       "normalizedTokens": [

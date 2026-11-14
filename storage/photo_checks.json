@@ -718,5 +718,10 @@
     "relevant": false,
     "reason": "The image depicts a futuristic concept art or prediction of an Anthropic IPO 2026 with speculative valuations, whereas the news story is a real financial report about current inves",
     "at": "2026-11-14T20:52:34.017Z"
+  },
+  "0cfa2a28a356b5d5:khnwo73pp": {
+    "relevant": true,
+    "reason": "The image displays a financial news screen prominently featuring NVIDIA stock data and market coverage, fitting the story about market reactions to NVIDIA.",
+    "at": "2026-11-14T21:58:05.830Z"
   }
 }
