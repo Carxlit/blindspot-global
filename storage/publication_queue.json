@@ -18208,12 +18208,13 @@
         "close": "Read our full analysis on the Hormuz maritime crisis at the link in bio."
       },
       "rawImageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af7fff6-1794637814.jpg?resize=1920%2C1440",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-14T08:08:11.365Z",
       "cardImageUrl": "/news-cards/news-e7h5m5q9d-1794643691366.jpg",
       "reelCoverUrl": "/news-cards/news-e7h5m5q9d-1794643692272-cover.jpg",
       "instagramCardUrl": "/news-cards/news-e7h5m5q9d-1794643692905-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/mines-mandates-how-asymmetric-warfare-blockaded-f3ev/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/mines-mandates-how-asymmetric-warfare-blockaded-f3ev/",
+      "publishedAt": "2026-11-14T08:10:56.200Z"
     },
     "channels": {
       "facebook": true,
@@ -18227,10 +18228,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-14T08:08:14.236Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-14T08:08:14.236Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-14T08:09:01.683Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122108051205539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18438455230148413",
+        "permalink": "https://www.instagram.com/reel/DftvsFeDfT8/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-14T08:10:56.200Z"
   }
 ]
