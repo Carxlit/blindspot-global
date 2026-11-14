@@ -18880,12 +18880,13 @@
         "channel": "Doha News Official",
         "license": "cc-by"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-14T11:16:32.721Z",
       "cardImageUrl": "/news-cards/news-255c8wn7x-1794654992722.jpg",
       "reelCoverUrl": "/news-cards/news-255c8wn7x-1794654993282-cover.jpg",
       "instagramCardUrl": "/news-cards/news-255c8wn7x-1794654993849-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/turkey-qatar-formalize-mutual-defense-pact-c7ea/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/turkey-qatar-formalize-mutual-defense-pact-c7ea/",
+      "publishedAt": "2026-11-14T12:47:00.077Z"
     },
     "channels": {
       "facebook": true,
@@ -18899,10 +18900,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-14T12:44:48.806Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-14T11:16:34.933Z"
+    "createdAt": "2026-11-14T11:16:34.933Z",
+    "lastAttemptAt": "2026-11-14T12:45:04.104Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122108225061539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17943851433388646",
+        "permalink": "https://www.instagram.com/reel/DfuPRiDDtAD/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Reel no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Short no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      }
+    },
+    "publishedAt": "2026-11-14T12:47:00.077Z"
   },
   {
     "id": "queue-1794656456529-zzswa",
