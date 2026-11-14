@@ -113,9 +113,37 @@
     "https://www.dw.com/es/irán-informa-de-tres-petroleros-incendiados-por-la-explosión-de-minas-marinas-en-el-estrecho-de-ormuz-y-renueva-sus-advertencias/a-79946984?maca=spa-rss-sp-all-1122-rdf",
     "https://es.euronews.com/2026/11/14/el-viaje-del-papa-a-sudamerica-coincide-con-el-aumento-del-sarampion-81-muertos",
     "https://www.theverge.com/news/1033489/faa-ground-stop",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGE3d2YwNy1ONlliXzNCVDNiZU01WlB3YUdPMEZwOHJpNS1UWEtvZ3hhM1hWOGN2REsxbEw1SzNERlk3eTVfUTdlOEFJYVAwNXVjT25jczJDRE9iTE5DYjlxNnQ3UlJRVDlRdU1UeHhNZ1NUWnBVU2w2TjZLWTg5emhUZ2RVVXowVWZuMnBiTlhtWlhxUDkxODkzNVlfeGlGbVlYV0todlRQc1JZSXIyVXpsVU1WRDFFU2QxTA?oc=5"
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGE3d2YwNy1ONlliXzNCVDNiZU01WlB3YUdPMEZwOHJpNS1UWEtvZ3hhM1hWOGN2REsxbEw1SzNERlk3eTVfUTdlOEFJYVAwNXVjT25jczJDRE9iTE5DYjlxNnQ3UlJRVDlRdU1UeHhNZ1NUWnBVU2w2TjZLWTg5emhUZ2RVVXowVWZuMnBiTlhtWlhxUDkxODkzNVlfeGlGbVlYV0todlRQc1JZSXIyVXpsVU1WRDFFU2QxTA?oc=5",
+    "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test"
   ],
   "processedSignatures": [
+    {
+      "title": "HOUSE DEMOCRATS FAIL TO ADVANCE PETE HEGSETH IMPEACHMENT RESOLUTION",
+      "normalizedTokens": [
+        "house",
+        "democrats",
+        "fail",
+        "advance",
+        "pete",
+        "hegseth",
+        "impeachment",
+        "resolution"
+      ],
+      "date": "2026-11-14T11:40:56.547Z"
+    },
+    {
+      "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
+      "normalizedTokens": [
+        "hegseth",
+        "failed",
+        "impeachment",
+        "warning",
+        "democrats",
+        "they",
+        "here"
+      ],
+      "date": "2026-11-14T11:40:56.545Z"
+    },
     {
       "title": "TURKEY AND QATAR SIGN MUTUAL DEFENSE PACT IN ISTANBUL",
       "normalizedTokens": [

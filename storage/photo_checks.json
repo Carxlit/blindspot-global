@@ -668,5 +668,15 @@
     "relevant": true,
     "reason": "The image clearly depicts Qatari Emir Sheikh Tamim and Turkish President Erdogan, the two leaders involved in the agreement mentioned in the headline, shaking hands.",
     "at": "2026-11-14T11:16:32.720Z"
+  },
+  "c08b67914a11de8b:j4fo0d5pd": {
+    "relevant": false,
+    "reason": "The image shows an ON AIR sign and a monitor in a hallway, not the House chamber or Pete Hegseth, making it too abstract and disconnected from the specific political story.",
+    "at": "2026-11-14T11:40:40.762Z"
+  },
+  "a2d93ce58c22ab6f:j4fo0d5pd": {
+    "relevant": true,
+    "reason": "The image clearly depicts Pete Hegseth, the central figure of the impeachment resolution mentioned in the headline.",
+    "at": "2026-11-14T11:40:54.364Z"
   }
 }
