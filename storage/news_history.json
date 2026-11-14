@@ -118,9 +118,39 @@
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVMkIybm5QSXNTdnRac3FBOEVCdUNDc0o1ZVZyd2M3eGg4bTFzbk03bG1OalZBdW05UjE2NG5sejluR1hUdElyOFNIOTRmSk5reGtkZHNmWGNHRi16Ylo4RUNieTVUa0pOd09qXy1iMlhsdUZfMTlHYm5YTQ?oc=5",
     "https://www.marketwatch.com/story/washington-can-start-delivering-on-affordability-by-rejecting-trumps-tariffs-8f2c76fd?mod=mw_rss_topstories",
     "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary",
-    "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html"
+    "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+    "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
   ],
   "processedSignatures": [
+    {
+      "title": "OPENAI BOARD FAILURE PROVES VOLUNTARY AI SAFETY FAILS",
+      "normalizedTokens": [
+        "openai",
+        "board",
+        "failure",
+        "proves",
+        "voluntary",
+        "safety",
+        "fails"
+      ],
+      "date": "2026-11-14T17:18:15.816Z"
+    },
+    {
+      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+      "normalizedTokens": [
+        "openai",
+        "board",
+        "member",
+        "fired",
+        "sam",
+        "altman",
+        "still",
+        "8217",
+        "trust",
+        "ceos"
+      ],
+      "date": "2026-11-14T17:18:15.814Z"
+    },
     {
       "title": "TRUMP TO SIDESTEP NVIDIA AND SPY SCANDAL DURING CHINA SUMMIT",
       "normalizedTokens": [

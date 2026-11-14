@@ -693,5 +693,10 @@
     "relevant": true,
     "reason": "The image depicts Donald Trump and Xi Jinping, the central political figures of the summit mentioned in the headline.",
     "at": "2026-11-14T16:12:37.109Z"
+  },
+  "937f043dab09d377:wwc3n9084": {
+    "relevant": true,
+    "reason": "The image depicts Helen Toner, a key protagonist as a former OpenAI board member central to the discussion on the board's failure and AI safety.",
+    "at": "2026-11-14T17:18:11.758Z"
   }
 }
