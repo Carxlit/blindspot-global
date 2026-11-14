@@ -417,7 +417,7 @@ export interface CycleResult {
 /** Titulares de análisis, explicadores u opinión: densos en palabras clave pero nunca "última hora" */
 const ANALYSIS_MARKERS = /\?|¿|\b(preguntas|claves|qu[eé] significa|por qu[eé]|c[oó]mo|an[aá]lisis|opini[oó]n|lo que (hay que|debe|deber[ií]a)|explicad|guía|cr[oó]nica|entrevista|perfil|radiograf[ií]a)\b|^\s*(las|los)\s+\d+|\b(analysis|opinion|explainer|what to know|how to|why)\b|^\s*(las|los)\s+(dos|tres|cuatro|cinco|seis|siete|ocho|nueve|diez)\b/i;
 /** Hechos que sí son de última hora */
-const EVENT_MARKERS = /\b([uú]ltima hora|urgente|en directo|en vivo|muere|muri[oó]|muertos?|fallec|asesin|atentado|explosi[oó]n|terremoto|sismo|tsunami|hurac[aá]n|ataque|bombarde|invade|invasi[oó]n|declara la guerra|golpe de estado|dimite|renuncia|destituid|arrestad|detenid|derrumb|desplom|quiebra|se estrell|accidente|evacua|alerta|cierra|suspende|killed|dies|dead|death toll|explosion|earthquake|hurricane|strike on|attack|invades|coup|resigns|arrested|collapse|crash|evacuat|ceasefire|hostages|breaking)\b/i;
+const EVENT_MARKERS = /\b([uú]ltima hora|urgente|en directo|en vivo|muere|muri[oó]|muertos?|fallec|asesin|atentado|explosi[oó]n|terremoto|sismo|tsunami|hurac[aá]n|ataque|bombarde|invade|invasi[oó]n|declara la guerra|golpe de estado|dimite|renuncia|destituid|arrestad|detenid|derrumb|desplom|quiebra|se estrell|accidente|evacua|alerta|cierra|suspende|killed|dies|dead|death toll|explosion|earthquake|hurricane|strike on|attack|invades|coup|resigns|arrested|collapse|crash|evacuat|ceasefire|hostages|breaking|outage|apag[oó]n|ca[ií]da masiva)\b/i;
 
 /**
  * Última hora de verdad: urgencia alta, publicada hace poco, sin pinta de análisis,

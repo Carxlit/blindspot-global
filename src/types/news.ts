@@ -149,6 +149,7 @@ export interface QueuedPublication {
   status: 'queued' | 'publishing' | 'published' | 'failed' | 'expired';
   healAttempts?: number;
   isBreaking?: boolean;
+  igDeferred?: boolean; // El Reel de Instagram ya se reprogramó una vez a la franja de audiencia (18:00–21:00 Bogotá)
   attempts: number;
   maxAttempts: number;
   lastAttemptAt?: string;

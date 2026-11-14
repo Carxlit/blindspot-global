@@ -57,15 +57,17 @@ export function reelHashtags(news: ProcessedNews): string {
 const TRAILING_HASHTAGS = new RegExp('(\\s*#[\\p{L}\\p{N}_]+)+\\s*$', 'u');
 
 /**
- * Texto del Reel: la primera línea es la que se ve sin abrir ("gancho"), luego el resumen,
- * una pregunta que invita a comentar, el crédito del video libre y los hashtags.
+ * Texto del Reel: la primera línea es la que se ve sin abrir ("gancho"), luego el resumen
+ * —que ya cierra con la pregunta de debate del propio copy—, el crédito del video libre
+ * y los hashtags. La antigua línea genérica «What do you think?» se retiró (2026-11-14,
+ * estrategia CM): duplicaba esa pregunta y es justo el cebo que la lista negra de la
+ * marca prohíbe; los datos muestran que los Reels con pregunta concreta comentan más.
  */
 export function buildReelCaption(news: ProcessedNews): string {
   const hook = news.videoScript?.hook ? `${news.videoScript.hook.replace(/[.\s]+$/, '')} 👇` : '';
   const parts = [
     hook,
     buildInstagramCaption(news).replace(TRAILING_HASHTAGS, ''),
-    '💬 What do you think? Let us know in the comments.',
     videoCredit(news),
     news.photoCredits?.length ? `📷 Photos: ${news.photoCredits.join(' · ')}` : '',
     reelHashtags(news),

@@ -80,6 +80,10 @@ export const SCOUT_FEEDS: ExpandedFeedConfig[] = [
   { url: 'https://www.wired.com/feed/rss', sourceName: 'Wired', category: 'TECHNOLOGY & AI', weight: 8 },
   { url: 'https://www.technologyreview.com/feed/', sourceName: 'MIT Technology Review', category: 'TECHNOLOGY & AI', weight: 9 },
   { url: 'https://www.nature.com/nature.rss', sourceName: 'Nature', category: 'TECHNOLOGY & AI', weight: 8 },
+  // Radar de caídas de servicios (2026-11-14): la caída global de Microsoft 365 del 12-nov tardó ~17 h en
+  // entrar al radar porque ningún feed la traía y «outage» no sumaba urgencia. Estos dos radares la cazan.
+  { url: gnews('microsoft OR azure OR outlook OR "office 365" outage OR down when:1d'), sourceName: 'Google News – Microsoft caídas', category: 'TECHNOLOGY & AI', weight: 9 },
+  { url: gnews('"outage" OR "service disruption" OR "global outage" technology when:1d'), sourceName: 'Google News – Caídas tecnológicas', category: 'TECHNOLOGY & AI', weight: 8 },
   { url: 'https://www.bleepingcomputer.com/feed/', sourceName: 'BleepingComputer', category: 'SECURITY & DEFENSE', weight: 8 },
   { url: 'https://feeds.feedburner.com/TheHackersNews', sourceName: 'The Hacker News', category: 'SECURITY & DEFENSE', weight: 8 },
   { url: 'https://krebsonsecurity.com/feed/', sourceName: 'Krebs on Security', category: 'SECURITY & DEFENSE', weight: 8 },
@@ -566,12 +570,14 @@ export function scoreNewsImpact(title: string, snippet: string, feedWeight: numb
     'deepfake', 'cybersecurity', 'espionage', 'monopoly', 'big tech', 'earthquake', 'tsunami', 'hurricane', 'outbreak',
     'pandemic', 'ebola', 'killed', 'death toll', 'explosion', 'hostages', 'shutdown', 'default', 'recession', 'emergency',
     'massacre', 'assassination', 'indicted', 'supreme court',
+    'outage', 'outages', 'downtime', 'service disruption', 'global outage', 'blackout', 'data breach', 'ransomware',
     // Spanish
     'guerra', 'misil', 'ataque', 'sanciones', 'petróleo', 'banco central', 'aranceles', 'otan', 'pentágono',
     'golpe de estado', 'elecciones', 'inflación', 'reserva federal', 'cepa', 'fmi', 'deuda', 'soberanía', 'ciberataque',
     'renuncia', 'tratado', 'fuerzas armadas', 'invasión', 'alto el fuego', 'inteligencia artificial', 'semiconductores',
     'algoritmo', 'supercomputadora', 'cuántica', 'ciberseguridad', 'espionaje digital', 'monopolio',
-    'estado de emergencia', 'terremoto', 'huracán', 'brote', 'pandemia', 'muertos', 'masacre', 'rehenes', 'recesión'
+    'estado de emergencia', 'terremoto', 'huracán', 'brote', 'pandemia', 'muertos', 'masacre', 'rehenes', 'recesión',
+    'apagón', 'caída del servicio', 'caída masiva', 'falla masiva', 'filtración de datos'
   ];
 
   let matches = 0;
