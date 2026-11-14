@@ -109,9 +109,42 @@
     "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
     "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
     "https://www.france24.com/es/video/20261114-colombia-el-fondo-milagro-y-la-reconstrucci%C3%B3n-del-terremoto-ponen-presi%C3%B3n-a-de-la-espriella",
-    "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss"
+    "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
+    "https://www.dw.com/es/irán-informa-de-tres-petroleros-incendiados-por-la-explosión-de-minas-marinas-en-el-estrecho-de-ormuz-y-renueva-sus-advertencias/a-79946984?maca=spa-rss-sp-all-1122-rdf"
   ],
   "processedSignatures": [
+    {
+      "title": "IRAN REPORTS THREE OIL TANKERS MINED IN HORMUZ STRAIT",
+      "normalizedTokens": [
+        "iran",
+        "reports",
+        "three",
+        "oil",
+        "tankers",
+        "mined",
+        "hormuz",
+        "strait"
+      ],
+      "date": "2026-11-14T09:46:53.162Z"
+    },
+    {
+      "title": "Irán informa de tres petroleros incendiados por la explosión de minas marinas en el estrecho de Ormuz y renueva sus advertencias",
+      "normalizedTokens": [
+        "iran",
+        "informa",
+        "tres",
+        "petroleros",
+        "incendiados",
+        "explosion",
+        "minas",
+        "marinas",
+        "estrecho",
+        "ormuz",
+        "renueva",
+        "advertencias"
+      ],
+      "date": "2026-11-14T09:46:53.162Z"
+    },
     {
       "title": "25 SEAFARERS KILLED IN HORMUZ AMID NAVAL MINE ESCALATION",
       "normalizedTokens": [
