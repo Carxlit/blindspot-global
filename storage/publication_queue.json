@@ -18709,12 +18709,13 @@
         "channel": "Mo News",
         "license": "cc-by"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-14T11:02:05.149Z",
       "cardImageUrl": "/news-cards/news-plp2i3a7t-1794654125149.jpg",
       "reelCoverUrl": "/news-cards/news-plp2i3a7t-1794654126027-cover.jpg",
       "instagramCardUrl": "/news-cards/news-plp2i3a7t-1794654126648-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/legacy-systems-private-vendors-inside-faa-zaxx/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/legacy-systems-private-vendors-inside-faa-zaxx/",
+      "publishedAt": "2026-11-14T11:39:07.971Z"
     },
     "channels": {
       "facebook": true,
@@ -18728,10 +18729,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-14T11:35:48.806Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-14T11:02:07.937Z"
+    "createdAt": "2026-11-14T11:02:07.937Z",
+    "lastAttemptAt": "2026-11-14T11:36:04.103Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122108177049539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17975449635192452",
+        "permalink": "https://www.instagram.com/reel/DfuHgRYAgfH/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Reel no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Short no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      }
+    },
+    "publishedAt": "2026-11-14T11:39:07.971Z"
   },
   {
     "id": "queue-1794654994933-e7b2u",
