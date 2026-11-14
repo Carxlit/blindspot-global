@@ -708,5 +708,15 @@
     "relevant": true,
     "reason": "The image clearly depicts U.S. President Donald Trump, who is the central subject of the headline regarding decisions on Iran strikes.",
     "at": "2026-11-14T19:42:51.827Z"
+  },
+  "88f2d7447dae9e29:n4t9rzoez": {
+    "relevant": false,
+    "reason": "The image is an AI-generated fantasy illustration featuring logos of Anthropic, OpenAI, Google, and X, which does not depict actual real-world reporting or events.",
+    "at": "2026-11-14T20:52:28.055Z"
+  },
+  "835c27e577666980:n4t9rzoez": {
+    "relevant": false,
+    "reason": "The image depicts a futuristic concept art or prediction of an Anthropic IPO 2026 with speculative valuations, whereas the news story is a real financial report about current inves",
+    "at": "2026-11-14T20:52:34.017Z"
   }
 }

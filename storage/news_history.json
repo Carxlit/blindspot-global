@@ -121,9 +121,37 @@
     "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
     "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWmo1ZlZFelVnRHRmOXFUcUZjU2N0NmlGNGZucy1XRUNKRk9EMnY5eVJqSU92VldKZ0xqV3JKNkxQakxjdFA0TFJjbUhBanlhMWlLQ01jMWJySEQwZ1BDbEJlTVIxUzJjblFGd216ZmtzWF9QRW94VlFpRUhZYmZLZENrZUZLNWVGSEZLbWpXaHYxSHpmUVVJTE5sNVY3d09DMG9xOHhkZ3ZXa2tpdE83OFJjRVFlVVZPay1nZA?oc=5",
-    "https://www.thehindu.com/news/international/trump-tells-advisers-he-may-hold-off-on-iran-attacks-barring-new-provocations-sources-say/article71702671.ece"
+    "https://www.thehindu.com/news/international/trump-tells-advisers-he-may-hold-off-on-iran-attacks-barring-new-provocations-sources-say/article71702671.ece",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOckJYSDVUWDh1cTJPb3ptd2pLZmxuNXBtSEJkN0F0WWFucUZuWDgtQ0dZbzZITDBWY3dhSWZqcjcyZl9FdGpHdHJsX1dkbVowTkZ3OWRKd3pwN2NIMnBGZ1AtbDFkMkl6Vm1RZFNsZ2VDOU1nLUVmY2d4UHV2U01ER1pJTmdlSGFDdmsyM2ZhbXlXYVdEb01ERlNybGxWY0RsYlo4QlNxa0NCaUNpQjQw?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "INVESTORS FLOCK TO ANTHROPIC IPO AMID MODEL DURABILITY DOUBTS",
+      "normalizedTokens": [
+        "investors",
+        "flock",
+        "anthropic",
+        "ipo",
+        "model",
+        "durability",
+        "doubts"
+      ],
+      "date": "2026-11-14T20:52:37.575Z"
+    },
+    {
+      "title": "EXCLUSIVE: Investors flock to Anthropic IPO but question durability of AI lead",
+      "normalizedTokens": [
+        "exclusive",
+        "investors",
+        "flock",
+        "anthropic",
+        "ipo",
+        "question",
+        "durability",
+        "lead"
+      ],
+      "date": "2026-11-14T20:52:37.574Z"
+    },
     {
       "title": "TRUMP SIGNALS PAUSE ON IRAN STRIKES AMID REGIONAL PRESSURE",
       "normalizedTokens": [
