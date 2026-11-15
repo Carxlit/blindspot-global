@@ -86,9 +86,13 @@ function countInstagramPostsToday(): number {
 /**
  * YouTube (2026-11-15): desde junio de 2026 las subidas tienen su propio cupo en la API
  * (100 videos al día por proyecto), así que el tope diario es una decisión de calidad del
- * canal, no de cuota: máximo YT_DAILY_CAP Shorts al día (defecto 5), configurable por entorno.
+ * canal, no de cuota: máximo YT_DAILY_CAP Shorts al día (defecto 3), configurable por entorno.
+ * Filtro de calidad (decisión del dueño, 2026-11-15): a YouTube solo van las historias
+ * fuertes — urgencia >= YT_MIN_URGENCY (defecto 78, el mismo umbral de Instagram) o las
+ * de máxima urgencia (isBreaking) — y siempre con la voz neuronal, nunca la robótica local.
  */
-const YT_DAILY_CAP = () => Math.max(1, Number(process.env.YT_DAILY_CAP || 5) || 5);
+const YT_DAILY_CAP = () => Math.max(1, Number(process.env.YT_DAILY_CAP || 3) || 3);
+const YT_MIN_URGENCY = () => Number(process.env.YT_MIN_URGENCY || 78) || 78;
 
 /** Shorts de YouTube ya subidos hoy (hora de Bogotá), según la cola persistida */
 function countYoutubeUploadsToday(): number {
@@ -293,7 +297,8 @@ async function publishToChannel(
   channel: Channel,
   news: ProcessedNews,
   creds: ReturnType<typeof resolveCredentials>,
-  lastChance = true
+  lastChance = true,
+  ctx?: { isBreaking?: boolean }
 ): Promise<ChannelResult & Record<string, any>> {
   try {
     switch (channel) {
@@ -353,10 +358,22 @@ async function publishToChannel(
         // El canal destino lo define el token (YOUTUBE_REFRESH_TOKEN): debe ser el de
         // Punto Ciego Global (@PuntoCiegoGlob), NO el canal personal del dueño.
         if (!reelsEnabled()) return { success: false, skipped: true, error: 'Reels desactivados (REELS_ENABLED)' };
+        if (!ctx?.isBreaking && (news.urgencyScore || 0) < YT_MIN_URGENCY()) {
+          return { success: false, skipped: true, error: `YouTube: urgencia ${news.urgencyScore || 0} menor que ${YT_MIN_URGENCY()}; a YouTube solo van las historias fuertes` };
+        }
         if (countYoutubeUploadsToday() >= YT_DAILY_CAP()) {
           return { success: false, skipped: true, error: `YouTube: tope diario de ${YT_DAILY_CAP()} Shorts alcanzado` };
         }
-        const video = await getNewsReel(news, { allowAi: true }).catch((e) => ({ error: e?.message as string }));
+        let video: string | { error: string };
+        try {
+          video = await getNewsReel(news, { allowAi: true, strictVoice: true });
+        } catch (e: any) {
+          // Sin voz neuronal, YouTube espera al siguiente ciclo (no queda como omitido)
+          if (String(e?.message || '').startsWith('VOZ_NEURONAL_NO_DISPONIBLE')) {
+            return { success: false, error: 'YouTube: voz neuronal no disponible; se reintenta en el siguiente ciclo' };
+          }
+          video = { error: e?.message as string };
+        }
         if (typeof video !== 'string') return { success: false, skipped: true, error: `Short no generado: ${video.error}` };
         return await publishYoutubeShort(news, video);
       }
@@ -446,7 +463,7 @@ export async function publishMissingChannels(
         continue;
       }
     }
-    const res = await publishToChannel(ch, newsPayload, creds, item.attempts >= item.maxAttempts);
+    const res = await publishToChannel(ch, newsPayload, creds, item.attempts >= item.maxAttempts, { isBreaking: item.isBreaking });
     results[ch] = res as any;
     if (res.success) {
       item.results = { ...results };

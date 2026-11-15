@@ -284,6 +284,14 @@ ${layers}
       if (sc.type === 'photo' || sc.type === 'hook') {
         var f = document.getElementById('f' + i), side = sc.side || 1, q = back(p);
         f.style.transform = 'translateX(' + ((1 - Math.min(1, ease(p))) * 900 * side).toFixed(1) + 'px) rotate(' + (side * (2.4 - 0.6 * ease(p)) * (sc.type === 'hook' ? 0.6 : 1)).toFixed(2) + 'deg) scale(' + (0.94 + 0.06 * q).toFixed(3) + ')';
+        // Deriva Ken Burns dentro del marco tras la entrada: la foto nunca queda quieta
+        var im = f.querySelector('img');
+        if (im) {
+          var sp2 = Math.max(0, Math.min(1, (t - s.start) / Math.max(0.1, s.end - s.start)));
+          im.style.transformOrigin = '50% 30%';
+          im.style.transform = 'scale(' + (1.02 + 0.07 * sp2).toFixed(3) + ') translate(' + ((i % 2 ? 1 : -1) * 1.4 * sp2).toFixed(2) + '%, 0)';
+          if (i === cur) key.push('m' + Math.floor(sp2 * 24));
+        }
         if (i === cur) key.push(Math.round(Math.min(1, p) * 30));
       } else if (sc.type === 'stat') {
         var st = sc.stat, pp = ease((t - s.start) / 1.0), val = st.value * pp;

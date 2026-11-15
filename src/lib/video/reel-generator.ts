@@ -13,7 +13,8 @@ import { collectReelImages, imageCredits } from '@/lib/news/news-images';
  *  - voz neuronal de Microsoft Edge (edge-tts, gratis) con los tiempos de cada palabra;
  *    si no hay conexión al servicio, cae a Piper (voz local),
  *  - una página HTML animada fotograma a fotograma en el mismo Chromium de las tarjetas:
- *    foto fija (sin zoom), fundidos entre escenas y subtítulos palabra por palabra al ritmo de la voz,
+ *    foto con movimiento Ken Burns suave (zoom/paneo) y golpe de zoom al abrir el gancho,
+ *    fundidos entre escenas y subtítulos palabra por palabra al ritmo de la voz,
  *  - ffmpeg recibe los fotogramas por tubería y los une con la narración.
  *
  * Configuración (variables de entorno):
@@ -42,8 +43,8 @@ const MUSIC_DIR = path.join(process.cwd(), 'music');
  *  - allowAi=false: SOLO con las imágenes reales del video libre de la noticia (lanza si no hay).
  *  - allowAi=true: video real si existe; si no (o no se pudo descargar), el Reel narrado con la foto.
  */
-export function getNewsReel(news: ProcessedNews, opts: { allowAi?: boolean } = {}): Promise<string> {
-  const key = `${news.id || news.originalUrl}:${opts.allowAi ? 'ia' : 'real'}`;
+export function getNewsReel(news: ProcessedNews, opts: { allowAi?: boolean; strictVoice?: boolean } = {}): Promise<string> {
+  const key = `${news.id || news.originalUrl}:${opts.allowAi ? 'ia' : 'real'}${opts.strictVoice ? ':vozok' : ''}`;
   if (!cache.has(key)) {
     const p = generateNewsReel(news, opts);
     p.catch(() => cache.delete(key));
@@ -355,9 +356,30 @@ ${layers}
     bar.style.width = (Math.min(1, t / D.total) * 100).toFixed(2) + '%';
     brand.style.opacity = cur === D.sections.length - 1 ? 1 - ease((t - D.sections[cur].start) / D.fade) : 1;
 
+    // Movimiento Ken Burns (2026-11-15): la foto nunca está quieta. El gancho abre con un
+    // golpe de zoom que se asienta en ~1 s; las demás escenas derivan con zoom y paneo suaves,
+    // alternando dirección. Cuantizado a ~24 pasos por escena para no disparar las capturas.
+    var cs = D.sections[cur], csp = Math.max(0, Math.min(1, (t - cs.start) / Math.max(0.1, cs.end - cs.start)));
+    var mq = Math.floor(csp * 24);
+    var cel = scenes[cur];
+    if (cel) {
+      cel.querySelectorAll('img').forEach(function (im) {
+        im.style.transformOrigin = im.style.objectPosition || '50% 30%';
+        if (im.className === 'full') {
+          var punch = ease(Math.min(1, (t - cs.start) / 1.15));
+          im.style.transform = 'scale(' + (1.27 - 0.18 * punch + 0.02 * csp).toFixed(3) + ')';
+        } else if (im.className === 'sharp') {
+          var zin = cur % 2 === 0;
+          im.style.transform = 'scale(' + (zin ? 1.03 + 0.11 * csp : 1.14 - 0.11 * csp).toFixed(3) + ') translate(' + ((zin ? -1 : 1) * 1.6 * csp).toFixed(2) + '%, 0)';
+        } else if (im.className === 'blur') {
+          im.style.transform = 'scale(' + (1.05 + 0.05 * csp).toFixed(3) + ')';
+        }
+      });
+    }
+
     var chunk = null, active = -1;
     D.sections[cur].chunks.forEach(function (c) { if (t >= c.start && t < c.end) chunk = c; });
-    if (!chunk) { if (shown) { cap.innerHTML = ''; shown = ''; } return ''; }
+    if (!chunk) { if (shown) { cap.innerHTML = ''; shown = ''; } return 'm' + cur + ':' + mq; }
     chunk.words.forEach(function (w, i) { if (t >= w.t) active = i; });
     var key = cur + ':' + chunk.start + ':' + active;
     if (key !== shown) {
@@ -374,7 +396,7 @@ ${layers}
       var popP = ease((t - chunk.words[active].t) / 0.16);
       line.children[active].style.transform = 'scale(' + (1.14 - 0.14 * popP).toFixed(3) + ')';
     }
-    return key + ':' + Math.round(inP * 20) + ':' + bar.style.width;
+    return key + ':' + Math.round(inP * 20) + ':' + bar.style.width + ':' + mq;
   };
 </script></body></html>`;
 }
@@ -446,7 +468,7 @@ async function renderVideo(html: string, total: number, audio: string, out: stri
   await done;
 }
 
-export async function generateNewsReel(news: ProcessedNews, opts: { allowAi?: boolean } = {}): Promise<string> {
+export async function generateNewsReel(news: ProcessedNews, opts: { allowAi?: boolean; strictVoice?: boolean } = {}): Promise<string> {
   const script = scriptFor(news);
   const lines: { kind: Section['kind']; text: string }[] = [
     { kind: 'hook', text: script.hook },
@@ -474,6 +496,9 @@ export async function generateNewsReel(news: ProcessedNews, opts: { allowAi?: bo
   try {
     ({ wavs, marks } = narrateWithEdge(texts, work));
   } catch (err: any) {
+    // Modo estricto (YouTube): sin voz neuronal no hay video; mejor esperar al próximo ciclo
+    // que publicar con la voz robótica local. El llamante reconoce el prefijo del mensaje.
+    if (opts.strictVoice) throw new Error(`VOZ_NEURONAL_NO_DISPONIBLE: ${err?.message}`);
     console.warn(`[Reel] Voz neuronal no disponible (${err?.message}); se usa Piper`);
     wavs = narrateWithPiper(texts, work);
     voice = 'Piper';
