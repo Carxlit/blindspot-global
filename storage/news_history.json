@@ -127,9 +127,40 @@
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUhZd1pxN2d0N3pmR2RCbjhCQk9teURKLThfYzR0bC1rVWJpVGUwNkpJelBNeVNLY3hxS1B0c0p2bTk5VmhCeFVGUWpHSFVNdHFKZjcydUdYNDEyMThuQ3hTRmFNSTQ0Z05ZSWRSd1A3QnM3eTRjWkNJbkN2Z2E5M1FQaUdrdUtaYzVNcWtVMC1LOU1yUkpoUk82d0ZQejM5cDR3YXVqcE5xMlJkTVU2dGduMDdsUWp2UG5ERFZUZw?oc=5",
     "https://www.france24.com/en/middle-east/20261115-three-sentenced-to-death-over-jordan-church-attack",
     "https://www.dw.com/es/jordania-condena-a-muerte-a-los-autores-del-atentado-contra-una-iglesia-ortodoxa/a-79951383?maca=spa-rss-sp-all-1122-rdf",
-    "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "ELON MUSK WARNS NVIDIA RISKS CRITICAL DEALS WITHOUT JENSEN HUANG",
+      "normalizedTokens": [
+        "elon",
+        "musk",
+        "warns",
+        "nvidia",
+        "risks",
+        "critical",
+        "deals",
+        "without",
+        "jensen",
+        "huang"
+      ],
+      "date": "2026-11-15T11:02:35.743Z"
+    },
+    {
+      "title": "Musk says Nvidia will lose 'critical' deals without Jensen Huang",
+      "normalizedTokens": [
+        "musk",
+        "nvidia",
+        "lose",
+        "critical",
+        "deals",
+        "without",
+        "jensen",
+        "huang"
+      ],
+      "date": "2026-11-15T11:02:35.742Z"
+    },
     {
       "title": "FIFTH CANADIAN SOLDIER DIES FOLLOWING ALBERTA TRAINING FIRE",
       "normalizedTokens": [
