@@ -20988,12 +20988,13 @@
         "close": "Read our full geopolitical analysis at the link in our bio."
       },
       "rawImageUrl": "https://static.dw.com/image/79749672_6.jpg",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-15T09:17:08.105Z",
       "cardImageUrl": "/news-cards/news-f0bux7hrs-1794734228105.jpg",
       "reelCoverUrl": "/news-cards/news-f0bux7hrs-1794734228897-cover.jpg",
       "instagramCardUrl": "/news-cards/news-f0bux7hrs-1794734229387-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/jordan-hands-down-death-sentences-following-7qm4/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/jordan-hands-down-death-sentences-following-7qm4/",
+      "publishedAt": "2026-11-15T09:21:06.082Z"
     },
     "channels": {
       "facebook": true,
@@ -21007,10 +21008,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-15T09:17:10.382Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-15T09:17:10.382Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-15T09:18:03.793Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122109091911539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18649105429062481",
+        "permalink": "https://www.instagram.com/reel/Dfwcg0WDNas/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-15T09:21:06.082Z"
   }
 ]
