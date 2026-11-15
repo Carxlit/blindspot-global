@@ -728,5 +728,10 @@
     "relevant": true,
     "reason": "The image shows emergency response workers searching through the rubble of a destroyed building following an airstrike in Gaza.",
     "at": "2026-11-15T05:02:02.990Z"
+  },
+  "a386b044d29e9419:nu2h4zpcs": {
+    "relevant": true,
+    "reason": "The image shows a funeral procession outside a church, directly representing the context of the church attack mentioned in the headline.",
+    "at": "2026-11-15T09:01:26.135Z"
   }
 }
