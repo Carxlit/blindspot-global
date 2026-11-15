@@ -83,6 +83,23 @@ function countInstagramPostsToday(): number {
   }).length;
 }
 
+/**
+ * YouTube (2026-11-15): desde junio de 2026 las subidas tienen su propio cupo en la API
+ * (100 videos al día por proyecto), así que el tope diario es una decisión de calidad del
+ * canal, no de cuota: máximo YT_DAILY_CAP Shorts al día (defecto 5), configurable por entorno.
+ */
+const YT_DAILY_CAP = () => Math.max(1, Number(process.env.YT_DAILY_CAP || 5) || 5);
+
+/** Shorts de YouTube ya subidos hoy (hora de Bogotá), según la cola persistida */
+function countYoutubeUploadsToday(): number {
+  const today = bogotaParts(new Date()).dateKey;
+  return getPublicationQueue().filter((q) => {
+    if (!q.results?.youtube?.success) return false;
+    const when = q.publishedAt || q.lastAttemptAt;
+    return when ? bogotaParts(new Date(when)).dateKey === today : false;
+  }).length;
+}
+
 /** Próxima apertura de la franja de Instagram (Bogotá es UTC-5 todo el año: 18:00 = 23:00 UTC) */
 function nextInstagramWindowStart(): Date {
   const start = new Date();
@@ -330,8 +347,16 @@ async function publishToChannel(
       case 'threads':
         return await publishToThreads(news);
       case 'youtube': {
-        if (!wantsReel(news)) return { success: false, skipped: true, error: 'Noticia sin video libre: no se sube a YouTube' };
-        const video = await getNewsReel(news).catch((e) => ({ error: e?.message as string }));
+        // Desde 2026-11-15 (decisión del dueño): YouTube usa el mismo video del Reel de
+        // Instagram (el real si hay video libre; si no, el narrado con la foto). Exigir
+        // video libre dejaba el canal en cero: 124 de las últimas 128 historias se omitían.
+        // El canal destino lo define el token (YOUTUBE_REFRESH_TOKEN): debe ser el de
+        // Punto Ciego Global (@PuntoCiegoGlob), NO el canal personal del dueño.
+        if (!reelsEnabled()) return { success: false, skipped: true, error: 'Reels desactivados (REELS_ENABLED)' };
+        if (countYoutubeUploadsToday() >= YT_DAILY_CAP()) {
+          return { success: false, skipped: true, error: `YouTube: tope diario de ${YT_DAILY_CAP()} Shorts alcanzado` };
+        }
+        const video = await getNewsReel(news, { allowAi: true }).catch((e) => ({ error: e?.message as string }));
         if (typeof video !== 'string') return { success: false, skipped: true, error: `Short no generado: ${video.error}` };
         return await publishYoutubeShort(news, video);
       }
