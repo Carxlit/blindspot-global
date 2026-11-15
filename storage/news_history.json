@@ -129,9 +129,39 @@
     "https://www.dw.com/es/jordania-condena-a-muerte-a-los-autores-del-atentado-contra-una-iglesia-ortodoxa/a-79951383?maca=spa-rss-sp-all-1122-rdf",
     "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5",
-    "https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/"
+    "https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTVlSTFUWUh3d3hoRUVkeHNEX0lpTXFqQUx2dG1FUjR0TnBNVkJqQ19sQWt3Y2loVHplWlpHZGFOZHNyTjdNMDRQQS1Dd0ZLT2dSSTVxRjY5MURzT1JabnNQdHo1RkFJNjBsR2hFV29LQmhfaENsVFk0X2hDSTZaVFRFYjVfaUJOd3J4MjFjcW13ZEVYTkpiMQ?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "POPE FRANCIS DEMANDS JUSTICE FOR KILLED AMAZON DEFENDERS",
+      "normalizedTokens": [
+        "pope",
+        "francis",
+        "demands",
+        "justice",
+        "killed",
+        "amazon",
+        "defenders"
+      ],
+      "date": "2026-11-15T23:16:58.382Z"
+    },
+    {
+      "title": "Pope in Peruvian rainforest demands justice for environmental defenders killed for protecting Amazon",
+      "normalizedTokens": [
+        "pope",
+        "peruvian",
+        "rainforest",
+        "demands",
+        "justice",
+        "environmental",
+        "defenders",
+        "killed",
+        "protecting",
+        "amazon"
+      ],
+      "date": "2026-11-15T23:16:58.379Z"
+    },
     {
       "title": "CHINESE SCIENTISTS UNCOVER ANCIENT GIANT FUNGUS WITH UNUSUAL GENOMIC STRUCTURE",
       "normalizedTokens": [
