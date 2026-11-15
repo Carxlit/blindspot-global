@@ -21333,12 +21333,13 @@
         "title": "Nvidia's Next CEO Won't Have Same Drive as Huang, warns Munster",
         "channel": "Bloomberg Podcasts"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-15T11:02:33.391Z",
       "cardImageUrl": "/news-cards/news-etbfjf8gz-1794740553392.jpg",
       "reelCoverUrl": "/news-cards/news-etbfjf8gz-1794740554013-cover.jpg",
       "instagramCardUrl": "/news-cards/news-etbfjf8gz-1794740554626-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/elon-musk-warns-nvidia-risks-losing-8oii/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/elon-musk-warns-nvidia-risks-losing-8oii/",
+      "publishedAt": "2026-11-15T11:16:58.979Z"
     },
     "channels": {
       "facebook": true,
@@ -21352,9 +21353,179 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-15T11:16:35.708Z",
+    "status": "published",
+    "attempts": 1,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-15T11:02:35.732Z",
+    "lastAttemptAt": "2026-11-15T11:16:50.977Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122109143991539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": false,
+        "skipped": true,
+        "error": "Estrategia IG: fuera de la franja 18:00–21:00 (Bogotá); el Reel se reprograma a la franja"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-15T11:16:58.979Z"
+  },
+  {
+    "id": "queue-1794741418933-04ewl",
+    "news": {
+      "id": "etbfjf8gz",
+      "originalUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5",
+      "originalTitle": "Musk says Nvidia will lose 'critical' deals without Jensen Huang",
+      "sourceName": "Reuters",
+      "category": "GLOBAL ECONOMY",
+      "urgencyScore": 82,
+      "headline": "ELON MUSK WARNS NVIDIA RISKS CRITICAL DEALS WITHOUT JENSEN HUANG",
+      "subHeadline": "Elon Musk publicly cautioned that Nvidia risks losing critical supply agreements if Chief Executive Jensen Huang steps down, noting that a significant portion of hardware allocation relies on informal handshake deals.",
+      "blindSpotAngle": "While Wall Street evaluates Nvidia through financial statements and chip benchmarks, the company's real distribution power rests on personalistic executive relationships. The revelation that critical semiconductor allocations depend on informal handshakes rather than institutionalized supply contracts exposes a systemic governance vulnerability across the AI supply chain.",
+      "facebookPost": "Elon Musk has raised alarms over Nvidia's operational stability, warning that the semiconductor giant could lose critical supply deals without CEO Jensen Huang at the helm. According to reports corroborated by multiple financial outlets, Musk highlighted that many of Nvidia's key distribution agreements were secured through informal handshake arrangements rather than binding corporate contracts.\n\nThis dependence on personal executive relationships reveals a glaring structural fragility in the global artificial intelligence infrastructure. While markets price Nvidia on tech dominance and margin expansion, the physical distribution of high-demand GPUs appears tied to personal trust between key industry figures, leaving enterprise customers exposed to severe leadership key-person risk.\n\nDoes reliance on personal informal agreements signal an immature supply chain governance model for critical global infrastructure?\n\nSource: Reuters\n\n📖 Full analysis & sources in the first comment 👇\n\n#Semiconductors #GlobalEconomy #Blindspot",
+      "telegramPost": "<b>ELON MUSK WARNS NVIDIA RISKS CRITICAL DEALS WITHOUT JENSEN HUANG</b>\n\n• <b>What happened:</b> Elon Musk stated publicly that Nvidia risks losing critical chip supply deals if CEO Jensen Huang leaves the company, revealing that many agreements were negotiated on informal handshakes.\n• <b>Why it matters:</b> The disclosure highlights that access to scarce AI compute clusters relies on executive rapport rather than standardized corporate contracts, exposing hyperscalers to acute key-person risk.\n• <b>What is next:</b> Expect enterprise clients and institutional investors to demand formal long-term supply guarantees from Nvidia to insulate computational roadmaps against executive turnover.",
+      "linkedInPost": "Elon Musk's recent warning regarding Nvidia underscores a overlooked vulnerability in global technology supply chains: key-person dependencies in critical hardware allocation. Musk revealed that several key agreements governing Nvidia's GPU distribution were negotiated via informal handshakes with CEO Jensen Huang.\n\nFor enterprise buyers and institutional investors, this highlights significant counterparty and operational risk. When allocation mechanisms for critical dual-use technology depend on personal executive relationships rather than standardized enterprise contracts, strategic continuity remains precarious.\n\nAs capital expenditure in AI infrastructure escalates worldwide, corporate governance standardizations will become mandatory to hedge against executive leadership transitions.\n\nSource: Reuters\n\nFull analysis: https://blindspotglobal.pages.dev/news/elon-musk-warns-nvidia-risks-losing-8oii/\n\n#SupplyChain #CorporateGovernance #Blindspot",
+      "blueskyPost": "Elon Musk warns Nvidia risks critical supply deals without Jensen Huang, revealing how AI hardware allocation relies on informal handshakes over institutional contracts. #Blindspot #GlobalEconomy",
+      "copies": {
+        "facebook": "Elon Musk has raised alarms over Nvidia's operational stability, warning that the semiconductor giant could lose critical supply deals without CEO Jensen Huang at the helm. According to reports corroborated by multiple financial outlets, Musk highlighted that many of Nvidia's key distribution agreements were secured through informal handshake arrangements rather than binding corporate contracts.\n\nThis dependence on personal executive relationships reveals a glaring structural fragility in the global artificial intelligence infrastructure. While markets price Nvidia on tech dominance and margin expansion, the physical distribution of high-demand GPUs appears tied to personal trust between key industry figures, leaving enterprise customers exposed to severe leadership key-person risk.\n\nDoes reliance on personal informal agreements signal an immature supply chain governance model for critical global infrastructure? #Semiconductors #GlobalEconomy #Blindspot",
+        "telegram": "<b>ELON MUSK WARNS NVIDIA RISKS CRITICAL DEALS WITHOUT JENSEN HUANG</b>\n\n• <b>What happened:</b> Elon Musk stated publicly that Nvidia risks losing critical chip supply deals if CEO Jensen Huang leaves the company, revealing that many agreements were negotiated on informal handshakes.\n• <b>Why it matters:</b> The disclosure highlights that access to scarce AI compute clusters relies on executive rapport rather than standardized corporate contracts, exposing hyperscalers to acute key-person risk.\n• <b>What is next:</b> Expect enterprise clients and institutional investors to demand formal long-term supply guarantees from Nvidia to insulate computational roadmaps against executive turnover.",
+        "bluesky": "Elon Musk warns Nvidia risks critical supply deals without Jensen Huang, revealing how AI hardware allocation relies on informal handshakes over institutional contracts. #Blindspot #GlobalEconomy",
+        "linkedIn": "Elon Musk's recent warning regarding Nvidia underscores a overlooked vulnerability in global technology supply chains: key-person dependencies in critical hardware allocation. Musk revealed that several key agreements governing Nvidia's GPU distribution were negotiated via informal handshakes with CEO Jensen Huang.\n\nFor enterprise buyers and institutional investors, this highlights significant counterparty and operational risk. When allocation mechanisms for critical dual-use technology depend on personal executive relationships rather than standardized enterprise contracts, strategic continuity remains precarious.\n\nAs capital expenditure in AI infrastructure escalates worldwide, corporate governance standardizations will become mandatory to hedge against executive leadership transitions. #SupplyChain #CorporateGovernance #Blindspot"
+      },
+      "article": {
+        "slug": "elon-musk-warns-nvidia-risks-losing-8oii",
+        "title": "Elon Musk warns Nvidia risks losing critical supply deals without CEO Jensen Huang",
+        "dek": "Elon Musk cautions that key chip allocation agreements rely on informal executive handshakes rather than rigid corporate contracts. The revelation exposes deep governance fragile spots within the global AI supply chain.",
+        "keyFacts": [
+          "Elon Musk publicly stated Nvidia risks losing critical supply deals if CEO Jensen Huang exits the company.",
+          "Musk disclosed that many key Nvidia supply arrangements were established through personal handshake agreements.",
+          "Reporting corroborated across Reuters, The Hill, Investing.com, CTech, and The Jerusalem Post."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "Elon Musk has publicly warned that Nvidia risks losing critical supply deals should Chief Executive Officer Jensen Huang depart the enterprise. According to reports corroborated by Reuters and financial news outlets, Musk emphasized that a substantial volume of Nvidia's supply agreements relies on personal executive rapport rather than traditional binding corporate contracts.",
+              "Musk noted that many existing arrangements securing high-demand graphics processing units were negotiated directly through informal handshake agreements between leadership figures, placing execution risk directly on executive continuity."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "Nvidia currently occupies a dominant position in the global artificial intelligence hardware market, supplying the advanced processors necessary to train and deploy large-scale foundation models. Demand for the firm's flagships has consistently outstripped manufacturing capacity, turning hardware allocation into a major strategic priority for major technology firms and sovereign entities alike.",
+              "Because capital allocation toward data center construction has surged dramatically, secure access to Nvidia hardware has become a primary bottleneck for enterprise technology roadmaps."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "While financial analysts focus primarily on Nvidia's earnings reports, gross margins, and technological leads, the operational mechanics of hardware distribution remain largely opaque. Musk's disclosure reveals that the allocation of critical computational resources operates less like a standardized commodity market and more like an informal network driven by personal relationships.",
+              "This informal structure creates systemic governance vulnerabilities. If access to essential compute relies on personal rapport with a single executive, clients face heightened key-person risk that traditional financial disclosures fail to capture."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "Current tech leaders with direct access to Nvidia leadership benefit from preferential hardware queues established under past informal agreements. These legacy arrangements allow agile firms to maintain hardware advantages over competitors relying strictly on standard procurement channels.",
+              "Conversely, enterprise buyers without established personal channels and traditional institutional investors bear unhedged operational risk. Any unexpected leadership transition at Nvidia could disrupt supply timelines and reorder hardware priority queues."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "Institutional investors and corporate governance boards are likely to pressure Nvidia to formalize hardware allocation frameworks and reduce reliance on personalistic dealmaking.",
+              "Observers will monitor whether enterprise clients demand long-term, legally binding supply contracts to hedge against potential executive changes and stabilize future artificial intelligence infrastructure deployments."
+            ]
+          }
+        ],
+        "tags": [
+          "Nvidia",
+          "Elon Musk",
+          "Jensen Huang",
+          "Semiconductors",
+          "AI Hardware",
+          "Corporate Governance"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "title": "Musk says Nvidia will lose 'critical' deals without Jensen Huang",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5"
+          },
+          {
+            "name": "The Hill",
+            "title": "Musk: ‘Critical deals will be lost’ at Nvidia without Huang",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdzhfU1JDbkEzVXBnbUF4MVJVeHg3cE5KZ0tPU1R2M0N3OHlWenA4ZHRpVHdMT3JmNDU3eVBLdFNPTjBiRkJQaG1iVDhKcWY2NXNHRjlqNkJkLXoyVU1ldkdRZzNQb0dOU09zVVY0YVY1ODVxZloyNlRqNnk5b1pDXy1EQVZkQdIBiwFBVV95cUxORHlFWE1wZlNvLVVhcFhYVG5ORkVBVFhSdUtOWGxPS3p6S2JjaTBROGtsUFdCUEdJRUl4aXlMdVU0dHhlSGJHWmhUSDVRSHRYNkdPY0Y4VWhzNmNXV1lmOVNLb2FwSS1fTGlsNGk4Ulk5cndzUGVldExlZ1FCUEFEeTMzM1B1cndzQk5J?oc=5"
+          },
+          {
+            "name": "Investing.com",
+            "title": "Musk says Nvidia will lose ’critical’ deals without Jensen Huang By Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXRSV1N0b1dnV2ZocWJVZTR3MjNacGpFSWNXcE5kRF9jSVI1aGx6S2dqNnJaZm9vM28yYmJoTEVnaHR6WTFCbzdSZXFEUDJBSklNUzdhaFFuVUJVeTJwNzl4RHpaSmsxMGhUcHB2MDZ5dVNGRzZSWHVhZFdaY1luNkNDYVEzdmh1b2xRLUlvOU1XSEZZZHFyeHZkaVdHZkd1UG9qbDB5cERaTTVHa1VPc25idzl6cDF3c0hj?oc=5"
+          },
+          {
+            "name": "CTech",
+            "title": "Musk warns Nvidia could lose critical supply deals without Jensen Huang: “Many were a handshake”",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PMWJHd3loSVdjVDhhYmVEXzd1Vnc5eGRmZ1l2Ui1JMmJuelBYMXF6d2k0YS0zLTNqazF5RlhHaHNrSTUtSU1hdEl5aENVTHNvTnpPbExDVUdwX3BQQVdvZDVhY2ZpZ3c?oc=5"
+          },
+          {
+            "name": "The Jerusalem Post",
+            "title": "Elon Musk says Nvidia risks losing ‘critical’ deals after Jensen Huang exit",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WY001bkpyM0R3aC1Mb1dKclNZZUN3V1pYekp5dUVFYlowSHBWa2NUaXJjY3hRdTM3UGw2WXZSOGh1UzhPVGlWYkFsa29VdC1zNHItVUlmUWVMX180eWd2S0FsNzRGX2FVVlkxYg?oc=5"
+          }
+        ],
+        "wordCount": 382
+      },
+      "videoScript": {
+        "hook": "What happens when global AI infrastructure relies on a single executive handshake?",
+        "beats": [
+          "Elon Musk warned Nvidia risks losing critical supply deals without chief executive Jensen Huang.",
+          "Musk revealed that key chip allocations rely on personal handshakes rather than formal corporate contracts.",
+          "Here is the catch, global AI supply chains carry massive unhedged key-person risk."
+        ],
+        "close": "Read our full geopolitical analysis at the link in bio."
+      },
+      "rawImageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746284",
+      "sourceVideo": {
+        "provider": "youtube",
+        "id": "p2EbXl87W_U",
+        "title": "Nvidia's Next CEO Won't Have Same Drive as Huang, warns Munster",
+        "channel": "Bloomberg Podcasts"
+      },
+      "status": "pending",
+      "createdAt": "2026-11-15T11:02:33.391Z",
+      "cardImageUrl": "/news-cards/news-etbfjf8gz-1794740553392.jpg",
+      "reelCoverUrl": "/news-cards/news-etbfjf8gz-1794740554013-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-etbfjf8gz-1794740554626-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/elon-musk-warns-nvidia-risks-losing-8oii/"
+    },
+    "channels": {
+      "facebook": false,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": false,
+      "mastodon": false,
+      "threads": false,
+      "youtube": false
+    },
+    "scheduledFor": "2026-11-15T23:00:00.000Z",
     "status": "queued",
     "attempts": 0,
     "maxAttempts": 3,
-    "createdAt": "2026-11-15T11:02:35.732Z"
+    "createdAt": "2026-11-15T11:16:58.933Z",
+    "igDeferred": true
   }
 ]
