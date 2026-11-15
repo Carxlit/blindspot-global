@@ -723,5 +723,10 @@
     "relevant": true,
     "reason": "The image displays a financial news screen prominently featuring NVIDIA stock data and market coverage, fitting the story about market reactions to NVIDIA.",
     "at": "2026-11-14T21:58:05.830Z"
+  },
+  "fa08c2c984ce1779:x86qd4ud9": {
+    "relevant": true,
+    "reason": "The image shows emergency response workers searching through the rubble of a destroyed building following an airstrike in Gaza.",
+    "at": "2026-11-15T05:02:02.990Z"
   }
 }
