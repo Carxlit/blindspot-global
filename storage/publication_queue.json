@@ -20823,12 +20823,13 @@
         "close": "Read the full analysis at the link in our bio."
       },
       "rawImageUrl": "https://s.france24.com/media/display/eb10e528-e0d1-11f1-ba89-695cb59fade5/w:1024/p:16x9/AP26299487770405.jpg",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-15T09:01:27.856Z",
       "cardImageUrl": "/news-cards/news-nu2h4zpcs-1794733287857.jpg",
       "reelCoverUrl": "/news-cards/news-nu2h4zpcs-1794733288677-cover.jpg",
       "instagramCardUrl": "/news-cards/news-nu2h4zpcs-1794733289364-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/jordan-hands-down-death-sentences-following-j81v/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/jordan-hands-down-death-sentences-following-j81v/",
+      "publishedAt": "2026-11-15T09:04:05.838Z"
     },
     "channels": {
       "facebook": true,
@@ -20842,10 +20843,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-15T09:01:30.513Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-15T09:01:30.513Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-15T09:02:12.902Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122109076863539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17913428034576415",
+        "permalink": "https://www.instagram.com/reel/DfwakKuFSPD/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-15T09:04:05.838Z"
   }
 ]
