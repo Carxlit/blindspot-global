@@ -128,9 +128,39 @@
     "https://www.france24.com/en/middle-east/20261115-three-sentenced-to-death-over-jordan-church-attack",
     "https://www.dw.com/es/jordania-condena-a-muerte-a-los-autores-del-atentado-contra-una-iglesia-ortodoxa/a-79951383?maca=spa-rss-sp-all-1122-rdf",
     "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5"
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5",
+    "https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/"
   ],
   "processedSignatures": [
+    {
+      "title": "CHINESE SCIENTISTS UNCOVER ANCIENT GIANT FUNGUS WITH UNUSUAL GENOMIC STRUCTURE",
+      "normalizedTokens": [
+        "chinese",
+        "scientists",
+        "uncover",
+        "ancient",
+        "giant",
+        "fungus",
+        "unusual",
+        "genomic",
+        "structure"
+      ],
+      "date": "2026-11-15T11:19:03.741Z"
+    },
+    {
+      "title": "New Species of Giant Fungus Discovered in China Grows up to 20 Inches Tall",
+      "normalizedTokens": [
+        "species",
+        "giant",
+        "fungus",
+        "discovered",
+        "china",
+        "grows",
+        "inches",
+        "tall"
+      ],
+      "date": "2026-11-15T11:19:03.740Z"
+    },
     {
       "title": "ELON MUSK WARNS NVIDIA RISKS CRITICAL DEALS WITHOUT JENSEN HUANG",
       "normalizedTokens": [
