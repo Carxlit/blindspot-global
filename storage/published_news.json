@@ -1,5 +1,125 @@
 [
   {
+    "id": "khnwo73pp",
+    "originalUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSi1TSllfc0ZQWDhWSlhyRkMzTjFXemdoX3o5azdSeWl6TWVtUEtQYzZubmtGNWVfWnppYklfTDR3U1V3Zk1WVnE3ZV9FMWt4SnF4VzN1bm42cE44VGpMVTBzUW51UlRlR0lId1M1MW92T0psZDBaNF92QWJkY2MyVjN0OV9VZ2RCZ3ZTejZBQVBRaDg1eTUweElTakVYWXlYenFYNXBWMU96eDBRckdwWk1RVnd6VE9XTWlnc2JRUU5wM3RzUGVrcE1mNnJMdHdCdFkwNA?oc=5",
+    "originalTitle": "Investor Focus: Nvidia CEO Crisis, Anthropic IPO Valuation, and Undervalued UK Stocks After Earnings",
+    "sourceName": "Morningstar",
+    "category": "TECHNOLOGY & AI",
+    "urgencyScore": 88,
+    "headline": "NVIDIA LEADERSHIP CRISIS RATTLES MARKETS AMID AI BUBBLE FEARS",
+    "subHeadline": "Reports surrounding Jensen Huang's executive status triggered market sell-offs across technology equities, amplifying broader concerns over artificial intelligence valuations.",
+    "blindSpotAngle": "While mainstream coverage focuses on daily share price fluctuations and executive governance headlines, the deeper strategic issue is the extreme concentration of key-person risk within the primary AI hardware bottleneck. Trillions of dollars in enterprise cloud debt and global compute infrastructure rely on uninterrupted execution from a single corporate management structure.",
+    "facebookPost": "Reports surrounding Jensen Huang’s leadership status at Nvidia sent shockwaves through technology equities, dragging down major stock indices and forcing an immediate reassessment of hardware market valuations. At the Web Summit, industry leaders pivoted from celebrating generative AI breakthroughs to discussing systemic fragility and heightened fears of a broader financial bubble across the sector.\n\nThe real blind spot is not merely executive succession, but how deeply global financial markets have concentrated systemic risk into a single corporate hardware supplier. Trillions of dollars in data center buildouts, hyperscaler debt, and venture capital valuations rely entirely on Nvidia maintaining its hardware roadmap and founder guidance without disruption.\n\nCan global financial markets sustain current AI valuations if foundational hardware providers face prolonged leadership turbulence?\n\nSource: Morningstar\n\n#Technology #ArtificialIntelligence #Blindspot",
+    "telegramPost": "<b>NVIDIA LEADERSHIP CRISIS RATTLES MARKETS AMID AI BUBBLE FEARS</b>\n\n• <b>What happened:</b> Reports surrounding Jensen Huang's executive status sparked sell-offs in Nvidia shares, dragging technology indices down and dominating discussions on market stability at Web Summit.\n\n• <b>Why it matters:</b> Key-person risk at Nvidia directly impacts global hyperscaler capital expenditure plans, semiconductor ETF stability, and the financial collateral backing massive compute infrastructure investments worldwide.\n\n• <b>What is next:</b> Institutional investors and market analysts are monitoring upcoming corporate communications and chip rival positioning to evaluate potential shifts in supply chain dominance.",
+    "linkedInPost": "The market volatility following reports of a leadership crisis at Nvidia exposes a structural vulnerability in the global technology stack: extreme key-person concentration risk across hardware supply chains. As Web Summit participants deliberate on AI valuation risks, institutional investors must reassess the financial collateral supporting multi-billion-dollar enterprise infrastructure buildouts.\n\nIf corporate governance at primary chip suppliers falters, secondary impacts will extend far beyond public equity markets. Hyperscaler capital allocation strategies, semiconductor ETF flows, and sovereign compute initiatives face project timelines disruption, creating a tactical opening for rival semiconductor architectures.\n\nChief risk officers and institutional managers must evaluate single-point-of-failure vulnerabilities across critical compute supply chains.\n\nSource: Morningstar\n\n#Technology #SupplyChain #Blindspot",
+    "blueskyPost": "Nvidia's leadership turmoil triggers market sell-offs as Web Summit debates AI bubble risks. The real issue: market over-reliance on single-founder hardware supply chains. #Blindspot #Technology",
+    "copies": {
+      "facebook": "Reports surrounding Jensen Huang’s leadership status at Nvidia sent shockwaves through technology equities, dragging down major stock indices and forcing an immediate reassessment of hardware market valuations. At the Web Summit, industry leaders pivoted from celebrating generative AI breakthroughs to discussing systemic fragility and heightened fears of a broader financial bubble across the sector.\n\nThe real blind spot is not merely executive succession, but how deeply global financial markets have concentrated systemic risk into a single corporate hardware supplier. Trillions of dollars in data center buildouts, hyperscaler debt, and venture capital valuations rely entirely on Nvidia maintaining its hardware roadmap and founder guidance without disruption.\n\nCan global financial markets sustain current AI valuations if foundational hardware providers face prolonged leadership turbulence? #Technology #ArtificialIntelligence #Blindspot",
+      "telegram": "<b>NVIDIA LEADERSHIP CRISIS RATTLES MARKETS AMID AI BUBBLE FEARS</b>\n\n• <b>What happened:</b> Reports surrounding Jensen Huang's executive status sparked sell-offs in Nvidia shares, dragging technology indices down and dominating discussions on market stability at Web Summit.\n\n• <b>Why it matters:</b> Key-person risk at Nvidia directly impacts global hyperscaler capital expenditure plans, semiconductor ETF stability, and the financial collateral backing massive compute infrastructure investments worldwide.\n\n• <b>What is next:</b> Institutional investors and market analysts are monitoring upcoming corporate communications and chip rival positioning to evaluate potential shifts in supply chain dominance.",
+      "bluesky": "Nvidia's leadership turmoil triggers market sell-offs as Web Summit debates AI bubble risks. The real issue: market over-reliance on single-founder hardware supply chains. #Blindspot #Technology",
+      "linkedIn": "The market volatility following reports of a leadership crisis at Nvidia exposes a structural vulnerability in the global technology stack: extreme key-person concentration risk across hardware supply chains. As Web Summit participants deliberate on AI valuation risks, institutional investors must reassess the financial collateral supporting multi-billion-dollar enterprise infrastructure buildouts.\n\nIf corporate governance at primary chip suppliers falters, secondary impacts will extend far beyond public equity markets. Hyperscaler capital allocation strategies, semiconductor ETF flows, and sovereign compute initiatives face project timelines disruption, creating a tactical opening for rival semiconductor architectures.\n\nChief risk officers and institutional managers must evaluate single-point-of-failure vulnerabilities across critical compute supply chains. #Technology #SupplyChain #Blindspot"
+    },
+    "article": {
+      "slug": "nvidia-leadership-turbulence-exposes-systemic-fragility-q5fo",
+      "title": "Nvidia Leadership Turbulence Exposes Systemic Fragility in Global AI Capital Markets",
+      "dek": "Market reactions to Jensen Huang's executive status triggered tech stock declines while Web Summit debated AI bubble risks. Beyond public equity volatility lies total financial market reliance on a single corporate choke point.",
+      "keyFacts": [
+        "Nvidia stock experienced downward market pressure following reports and speculation surrounding CEO Jensen Huang's executive status.",
+        "Discussions at the Web Summit centered on potential artificial intelligence valuation bubbles and financial crisis risks.",
+        "Market analysts noted that Nvidia leadership turbulence opened strategic focus on rival chipmakers and semiconductor ETFs.",
+        "The volatility highlighted growing institutional concerns over key-person dependence within primary AI hardware infrastructure providers."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Market confidence across the technology sector faltered following news and market speculation regarding Jensen Huang's leadership status at Nvidia. The development triggered a decline in Nvidia equity, dragging down broader technology indices and rattling institutional investors across global markets.",
+            "The market reaction coincided with the final days of the Web Summit, where industry executives and financial analysts focused heavily on systemic risk, market overextension, and growing fears of an artificial intelligence asset bubble."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Nvidia has established itself as the primary hardware foundation of the generative AI boom, controlling the vast majority of advanced graphics processing unit (GPU) manufacturing and enterprise delivery schedules. This dominance has elevated the company's valuation into the top tier of global capital markets.",
+            "Consequently, investor sensitivity to executive continuity within Nvidia is disproportionately high. Any perceived governance disruption or leadership uncertainty at the dominant hardware provider cascades immediately across public software firms, hardware OEMs, and specialized investment funds."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While financial media frame the story around short-term share price drops or executive succession narratives, the core issue is structural. Global financial markets and corporate balance sheets have committed massive capital investments based on the assumption of uninterrupted hardware execution by a single company's leadership team.",
+            "When key-person risk strikes the central supplier of AI infrastructure, the risk is not contained to market capitalization. Cloud operators, debt-financed data center projects, and venture-backed AI ventures face immediate operational risks if supply guarantees or strategic roadmaps face uncertainty."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Competing semiconductor manufacturers and specialized sector ETFs stand to attract defensive capital allocation as enterprise clients and asset managers seek to diversify away from single-vendor reliance.",
+            "Conversely, heavily leveraged tech funds and hyperscaler cloud providers face increased borrowing costs and potential valuation compressions if execution risks persist at the hardware layer."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Institutional investors will closely analyze upcoming corporate filings, governance clarifications, and executive statements from Nvidia to evaluate leadership continuity. Analysts will also monitor whether cloud providers accelerate internal custom chip deployment to hedge against future supply chain governance shocks."
+          ]
+        }
+      ],
+      "tags": [
+        "Semiconductors",
+        "Nvidia",
+        "Artificial Intelligence",
+        "Corporate Governance",
+        "Global Economy"
+      ],
+      "sources": [
+        {
+          "name": "Morningstar",
+          "title": "Investor Focus: Nvidia CEO Crisis, Anthropic IPO Valuation, and Undervalued UK Stocks After Earnings",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSi1TSllfc0ZQWDhWSlhyRkMzTjFXemdoX3o5azdSeWl6TWVtUEtQYzZubmtGNWVfWnppYklfTDR3U1V3Zk1WVnE3ZV9FMWt4SnF4VzN1bm42cE44VGpMVTBzUW51UlRlR0lId1M1MW92T0psZDBaNF92QWJkY2MyVjN0OV9VZ2RCZ3ZTejZBQVBRaDg1eTUweElTakVYWXlYenFYNXBWMU96eDBRckdwWk1RVnd6VE9XTWlnc2JRUU5wM3RzUGVrcE1mNnJMdHdCdFkwNA?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "title": "Huang's exit, AI bubble and financial crisis fears in focus on Web Summit's last day",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSzM0VkhmaFFObDVSVzBoNkV4UjlJeHg4RHBwVnZ4NXdpZnY0dmsxNklGUnUtdHdXclVZUktST0NmMXl5M2d4T0Zmd2pYWmFLN1Y3REdJN3FFemctZXNMS3AtMDF1S0NYUjBKd3JoZE1iVGpCam9hd09xTEtpUmdZUlk4OEdVSzBEalNJT1NpM1Y5QU4tQUl4TXRTVQ?oc=5"
+        },
+        {
+          "name": "Business Insider Africa",
+          "title": "Stocks drop as Jensen Huang's resignation drags Nvidia and rattles AI bulls",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS2RMNEN0UEZTdFBiSmdPTTg4a3d0Q3JxelYwcUloU0N4VzlLUVViSnFDYXBqVEhnWmRmSXZiWVdVWGp6NHhsZ2ZRaXlaOXIyZS00Q0E3Sk1Yb0JIM2dwQW83VUFCaUxFUnFfdm1EelJXVW5ON0F3Umw0UmZ3MFJZSFJRSktoZXJZaExLdk40NTBFbk02RS1pX085cjNwTUIyMFYtUWduMkVoYVNYOFhhaTlUaGtvek11WEoyN1JUS2prOXc?oc=5"
+        },
+        {
+          "name": "TradingView",
+          "title": "NVIDIA Leadership Crisis Opens Door for Chip Rivals? ETFs in Focus",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeDZRSXBBMEZnWVhfS3BWRVg4ODBhemRwYzQ5UFJkRkhXbnZkY0EtTTZZbzV6bTBId1NLSjY2ek8weW1PRVYwdnotbEVRSVctM0FkWUhVV1M3a3NCRDJXeG9KQ3c3Uy1WTHR2cTRfbkpoNFFsUHFTUndVMkFraU1md0pnYTMxekRRWFVhTG9nT09BcUIySFgwTTBpWXVoWDZtRjVGZ2dIUC1BTzdDeHBBemhLT04xQ0M3UUtxTUtn?oc=5"
+        },
+        {
+          "name": "entARABI",
+          "title": "Jensen Huang’s Crisis Threatens Nvidia’s Leadership: Will the Founder’s Absence Become Artificial Intelligence’s Biggest Investment Risk?",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaVU3cWZTVHhLamQwNlRyUWRBU21MbHV6YjgyZkU1S0t6TFJrTUJ6ckdIY0Mwb2h2SkRyS3BSQmlmQlVtUHdULTR2ZTBYMDhGbFg2MW9GWFRtNzY2SHNlLVBGd3NPOG1jNEF3UUtpRktBcm5ocmFfbWhIbW5NWE55RkpuSHFOX3c?oc=5"
+        }
+      ],
+      "wordCount": 361
+    },
+    "videoScript": {
+      "hook": "Could a leadership crisis at Nvidia pop the entire AI investment bubble?",
+      "beats": [
+        "Reports regarding Jensen Huang's executive status triggered immediate sell-offs across global technology equities.",
+        "Debates at Web Summit highlighted growing fears that AI market valuations are dangerously concentrated.",
+        "What nobody is talking about is how global tech infrastructure is reliant on single-vendor execution risks."
+      ],
+      "close": "Read the full strategic breakdown at the link in our bio."
+    },
+    "rawImageUrl": "https://ocdn.eu/pulscms-transforms/1/c2DktkuTURBXy80MTRmZDQ5MC01YmU2LTQxMjctOWRjNy03ZWJlNzc2NzQxOWQuanBlZ5GTBc0EsM0Cdg",
+    "status": "published",
+    "createdAt": "2026-11-14T21:58:07.384Z",
+    "cardImageUrl": "/news-cards/news-khnwo73pp-1794693487385.jpg",
+    "reelCoverUrl": "/news-cards/news-khnwo73pp-1794693488066-cover.jpg",
+    "instagramCardUrl": "/news-cards/news-khnwo73pp-1794693488668-ig.jpg",
+    "articleUrl": "https://blindspotglobal.pages.dev/news/nvidia-leadership-turbulence-exposes-systemic-fragility-q5fo/",
+    "publishedAt": "2026-11-15T00:03:27.997Z"
+  },
+  {
     "id": "n4t9rzoez",
     "originalUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOckJYSDVUWDh1cTJPb3ptd2pLZmxuNXBtSEJkN0F0WWFucUZuWDgtQ0dZbzZITDBWY3dhSWZqcjcyZl9FdGpHdHJsX1dkbVowTkZ3OWRKd3pwN2NIMnBGZ1AtbDFkMkl6Vm1RZFNsZ2VDOU1nLUVmY2d4UHV2U01ER1pJTmdlSGFDdmsyM2ZhbXlXYVdEb01ERlNybGxWY0RsYlo4QlNxa0NCaUNpQjQw?oc=5",
     "originalTitle": "EXCLUSIVE: Investors flock to Anthropic IPO but question durability of AI lead",

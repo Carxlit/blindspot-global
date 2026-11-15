@@ -20489,12 +20489,13 @@
         "close": "Read the full strategic breakdown at the link in our bio."
       },
       "rawImageUrl": "https://ocdn.eu/pulscms-transforms/1/c2DktkuTURBXy80MTRmZDQ5MC01YmU2LTQxMjctOWRjNy03ZWJlNzc2NzQxOWQuanBlZ5GTBc0EsM0Cdg",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-14T21:58:07.384Z",
       "cardImageUrl": "/news-cards/news-khnwo73pp-1794693487385.jpg",
       "reelCoverUrl": "/news-cards/news-khnwo73pp-1794693488066-cover.jpg",
       "instagramCardUrl": "/news-cards/news-khnwo73pp-1794693488668-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/nvidia-leadership-turbulence-exposes-systemic-fragility-q5fo/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/nvidia-leadership-turbulence-exposes-systemic-fragility-q5fo/",
+      "publishedAt": "2026-11-15T00:03:27.997Z"
     },
     "channels": {
       "facebook": true,
@@ -20508,9 +20509,33 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-15T00:03:04.066Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-14T21:58:09.814Z"
+    "createdAt": "2026-11-14T21:58:09.814Z",
+    "lastAttemptAt": "2026-11-15T00:03:19.411Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122108722041539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": false,
+        "skipped": true,
+        "error": "Estrategia IG: límite diario de 5 Reels alcanzado"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: no se sube a YouTube"
+      }
+    },
+    "publishedAt": "2026-11-15T00:03:27.997Z"
   }
 ]
