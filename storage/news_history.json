@@ -135,9 +135,36 @@
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFF3czVab0VWVUpGMVNfVjZlcU12U0g5Q2FJcU56LXZpZ1RFSGNtRjBWSTdyZGxsNWp4WWpCX0NPdzBVZkMtZGdYQzJKTXVoTlkwenctczZDbDNUakhPNHNDYjFSa2djcTVmMEExZjRHaFZPemNBVlBBaHkybFpFcndDcWJPcl9sSFZCek1hV04wTUJTQ21CVEVHeXNOMlJKNXVGZzlFaw?oc=5",
     "http://www.africanews.com/2026/11/15/daily-life-in-sudan-paralysed-by-deepening-fuel-crisis-and-rising-costs/",
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQajNNLXYxX0RVWkY2bTZiTWFzdkgzdTVOa1FXOEZmY1praWc1cDNIRURKWTZ5eWt6a01ZU1VPYkJ2QThDandBTWJnX3RXcjdyM3I2N214T3ctRk1XTE9JRFg4QVpUcEdHZGV3b2ZGaWo1SzBGNWZldnM0am9qekt1Rm1rUjhBYTV6MVFqTzZPV3BIc0diS1QwU05hQnZuaXcxWHNPcHpsYlF1alJWMlRaLWdUdjkyOGJLd3NMZVVIZTBIWlJ6RDZjMTI2blN5azhnTUxWMXNhUHIwOWFVT25QdnQyS2JTZHlB?oc=5",
-    "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+    "https://www.thehindu.com/news/international/many-killed-several-injured-phuket-shophouse/article71706768.ece"
   ],
   "processedSignatures": [
+    {
+      "title": "PHUKET SHOPHOUSE FIRE KILLS ELEVEN SPARKING INFRASTRUCTURE SAFETY CONCERNS",
+      "normalizedTokens": [
+        "phuket",
+        "shophouse",
+        "fire",
+        "kills",
+        "eleven",
+        "sparking",
+        "infrastructure",
+        "safety",
+        "concerns"
+      ],
+      "date": "2026-11-16T05:17:14.355Z"
+    },
+    {
+      "title": "11 killed, 16 injured in fire at Phuket shophouse",
+      "normalizedTokens": [
+        "killed",
+        "injured",
+        "fire",
+        "phuket",
+        "shophouse"
+      ],
+      "date": "2026-11-16T05:17:14.354Z"
+    },
     {
       "title": "AUSTRALIAN MP HELEN HAINES DISCHARGED FOLLOWING VEHICULAR ATTACK",
       "normalizedTokens": [
