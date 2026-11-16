@@ -136,9 +136,37 @@
     "http://www.africanews.com/2026/11/15/daily-life-in-sudan-paralysed-by-deepening-fuel-crisis-and-rising-costs/",
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQajNNLXYxX0RVWkY2bTZiTWFzdkgzdTVOa1FXOEZmY1praWc1cDNIRURKWTZ5eWt6a01ZU1VPYkJ2QThDandBTWJnX3RXcjdyM3I2N214T3ctRk1XTE9JRFg4QVpUcEdHZGV3b2ZGaWo1SzBGNWZldnM0am9qekt1Rm1rUjhBYTV6MVFqTzZPV3BIc0diS1QwU05hQnZuaXcxWHNPcHpsYlF1alJWMlRaLWdUdjkyOGJLd3NMZVVIZTBIWlJ6RDZjMTI2blN5azhnTUxWMXNhUHIwOWFVT25QdnQyS2JTZHlB?oc=5",
     "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
-    "https://www.thehindu.com/news/international/many-killed-several-injured-phuket-shophouse/article71706768.ece"
+    "https://www.thehindu.com/news/international/many-killed-several-injured-phuket-shophouse/article71706768.ece",
+    "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "ARCHITECT OF THE MEXICAN CARTEL SYSTEM DIES AT EIGHTY",
+      "normalizedTokens": [
+        "architect",
+        "mexican",
+        "cartel",
+        "system",
+        "dies",
+        "eighty"
+      ],
+      "date": "2026-11-16T05:31:39.332Z"
+    },
+    {
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "normalizedTokens": [
+        "mexican",
+        "drug",
+        "lord",
+        "miguel",
+        "angel",
+        "felix",
+        "gallardo",
+        "dies",
+        "age"
+      ],
+      "date": "2026-11-16T05:31:39.331Z"
+    },
     {
       "title": "PHUKET SHOPHOUSE FIRE KILLS ELEVEN SPARKING INFRASTRUCTURE SAFETY CONCERNS",
       "normalizedTokens": [
