@@ -22289,12 +22289,13 @@
         "close": "Read the full intelligence analysis at the link in our bio."
       },
       "rawImageUrl": "https://images.euronews.com/articles/stories/09/99/31/08/1024x538_cmsv2_df8f15ec-5de2-5dab-b1b0-42482f3c6309-9993108.jpg",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-16T01:59:10.622Z",
       "cardImageUrl": "/news-cards/news-zz8sgx5jj-1794794350622.jpg",
       "reelCoverUrl": "/news-cards/news-zz8sgx5jj-1794794351308-cover.jpg",
       "instagramCardUrl": "/news-cards/news-zz8sgx5jj-1794794352114-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/sudan-s-energy-paralysis-how-infrastructure-vrcc/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/sudan-s-energy-paralysis-how-infrastructure-vrcc/",
+      "publishedAt": "2026-11-16T11:26:23.789Z"
     },
     "channels": {
       "facebook": true,
@@ -22308,10 +22309,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-16T11:26:00.000Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-16T01:59:13.356Z"
+    "createdAt": "2026-11-16T01:59:13.356Z",
+    "lastAttemptAt": "2026-11-16T11:26:15.388Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122109626223539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": false,
+        "skipped": true,
+        "error": "Estrategia IG: fuera de la franja 18:00–21:00 (Bogotá); el Reel se reprograma a la franja"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "YouTube: tope diario de 3 Shorts alcanzado"
+      }
+    },
+    "publishedAt": "2026-11-16T11:26:23.789Z"
   },
   {
     "id": "queue-1794798384163-pohcf",
@@ -22453,7 +22478,7 @@
       "threads": false,
       "youtube": true
     },
-    "scheduledFor": "2026-11-16T12:15:00.000Z",
+    "scheduledFor": "2026-11-16T12:25:15.377Z",
     "status": "queued",
     "attempts": 0,
     "maxAttempts": 3,
@@ -23141,5 +23166,128 @@
       }
     },
     "publishedAt": "2026-11-16T07:37:21.243Z"
+  },
+  {
+    "id": "queue-1794828383744-ki6iu",
+    "news": {
+      "id": "zz8sgx5jj",
+      "originalUrl": "http://www.africanews.com/2026/11/15/daily-life-in-sudan-paralysed-by-deepening-fuel-crisis-and-rising-costs/",
+      "originalTitle": "Daily life in Sudan paralysed by deepening fuel crisis and rising costs",
+      "sourceName": "Africanews",
+      "category": "POWER & SOCIETY",
+      "urgencyScore": 88,
+      "headline": "WAR AND CURRENCY COLLAPSE SPARK PARALYZING FUEL CRISIS IN SUDAN",
+      "subHeadline": "Drone strikes and infrastructure destruction have knocked out the Khartoum refinery, forcing complete reliance on foreign oil imports as local currency depreciation drives gasoline prices to $58 per gallon.",
+      "blindSpotAngle": "Mainstream reporting treats fuel shortages in conflict zones as collateral hardship, but the systematic destruction of domestic refining shifts the battleground from frontlines to civil survival systems. By crippling energy infrastructure, the conflict transforms essential daily transit and food delivery into mechanisms of economic attrition, weaponizing supply chains against urban populations.",
+      "facebookPost": "Daily life across Sudan has ground to a near halt as queues at petrol stations stretch for hours and fuel prices spike by more than $8 in a matter of days. Official accounts cite Middle East market instability and foreign currency shortages, while residents face a daily choice between attending work or securing fuel.\n\nThe real fracture lies in the structural destruction of domestic production. With the Khartoum refinery knocked offline by drone attacks—a facility that previously met 70% of national demand—and major oil fields shut down since fighting began in April 2023, the country is entirely dependent on expensive foreign imports paid for with a plummeting currency.\n\nWhen basic energy logistics become privatized battlegrounds, can institutional stabilization ever precede humanitarian relief?\n\nSource: Africanews\n\n📖 Full analysis & sources in the first comment 👇\n\n#Sudan #PowerAndSociety #Blindspot",
+      "telegramPost": "<b>WAR AND CURRENCY COLLAPSE SPARK PARALYZING FUEL CRISIS IN SUDAN</b>\n\n• <b>What happened:</b> Drone attacks and ongoing combat have shut down the Khartoum refinery and key oil fields, forcing gasoline prices up by $8 in days to $58 per gallon.\n• <b>Why it matters:</b> Loss of the refinery, which supplied 70% of national fuel, forces complete reliance on imported oil while currency depreciation creates runaway inflation for basic goods.\n• <b>What is next:</b> Transport gridlock will further inflate food costs like bread and vegetables, exacerbating human displacement and economic paralysis across major cities.",
+      "linkedInPost": "Sudan's energy crisis highlights the catastrophic compounding effect of infrastructure failure and macroeconomic collapse in active conflict zones.\n\nFollowing drone strikes that disabled the Khartoum refinery—historically responsible for 70% of domestic fuel supply—and the shutdown of key oil fields, Sudan has been forced onto international spot markets for energy imports. This import reliance coincides with severe depreciation of the Sudanese pound, escalating gasoline costs to $58 per gallon and forcing station operators into continuous operational halts.\n\nFrom a macro-strategic perspective, the failure of fuel supply chains directly degrades logistics networks, driving food hyperinflation and destabilizing local markets. Organizations evaluating East African regional risk must monitor how infrastructure paralysis accelerates state fragility and humanitarian fallout.\n\nSource: Africanews\n\nFull analysis: https://blindspotglobal.pages.dev/news/sudan-s-energy-paralysis-how-infrastructure-vrcc/\n\n#Macroeconomics #EnergySecurity #Blindspot",
+      "blueskyPost": "#Blindspot #PowerAndSociety Sudan's refinery collapse forced complete import reliance, pushing gasoline to $58 per gallon. The core driver is not just global market shifts, but the systemic destruction of energy infrastructure.",
+      "copies": {
+        "facebook": "Daily life across Sudan has ground to a near halt as queues at petrol stations stretch for hours and fuel prices spike by more than $8 in a matter of days. Official accounts cite Middle East market instability and foreign currency shortages, while residents face a daily choice between attending work or securing fuel.\n\nThe real fracture lies in the structural destruction of domestic production. With the Khartoum refinery knocked offline by drone attacks—a facility that previously met 70% of national demand—and major oil fields shut down since fighting began in April 2023, the country is entirely dependent on expensive foreign imports paid for with a plummeting currency.\n\nWhen basic energy logistics become privatized battlegrounds, can institutional stabilization ever precede humanitarian relief?\n\n#Sudan #PowerAndSociety #Blindspot",
+        "telegram": "<b>WAR AND CURRENCY COLLAPSE SPARK PARALYZING FUEL CRISIS IN SUDAN</b>\n\n• <b>What happened:</b> Drone attacks and ongoing combat have shut down the Khartoum refinery and key oil fields, forcing gasoline prices up by $8 in days to $58 per gallon.\n• <b>Why it matters:</b> Loss of the refinery, which supplied 70% of national fuel, forces complete reliance on imported oil while currency depreciation creates runaway inflation for basic goods.\n• <b>What is next:</b> Transport gridlock will further inflate food costs like bread and vegetables, exacerbating human displacement and economic paralysis across major cities.",
+        "bluesky": "#Blindspot #PowerAndSociety Sudan's refinery collapse forced complete import reliance, pushing gasoline to $58 per gallon. The core driver is not just global market shifts, but the systemic destruction of energy infrastructure.",
+        "linkedIn": "Sudan's energy crisis highlights the catastrophic compounding effect of infrastructure failure and macroeconomic collapse in active conflict zones.\n\nFollowing drone strikes that disabled the Khartoum refinery—historically responsible for 70% of domestic fuel supply—and the shutdown of key oil fields, Sudan has been forced onto international spot markets for energy imports. This import reliance coincides with severe depreciation of the Sudanese pound, escalating gasoline costs to $58 per gallon and forcing station operators into continuous operational halts.\n\nFrom a macro-strategic perspective, the failure of fuel supply chains directly degrades logistics networks, driving food hyperinflation and destabilizing local markets. Organizations evaluating East African regional risk must monitor how infrastructure paralysis accelerates state fragility and humanitarian fallout.\n\n#Macroeconomics #EnergySecurity #Blindspot"
+      },
+      "article": {
+        "slug": "sudan-s-energy-paralysis-how-infrastructure-vrcc",
+        "title": "Sudan's Energy Paralysis: How Infrastructure Destruction and Currency Depreciations Fuel Civil Crisis",
+        "dek": "Drone strikes and fighting have severed Sudan's domestic oil refining capacity, plunging urban centers into gridlock. The resulting dependency on costly imports is pushing basic survival beyond the reach of ordinary citizens.",
+        "keyFacts": [
+          "The Khartoum refinery, which historically covered 70% of national fuel requirements, is offline following drone strikes and combat.",
+          "Gasoline prices in Khartoum jumped by over $8 in a span of days, reaching $58 per gallon.",
+          "Fighting between the Sudanese Armed Forces and the Rapid Support Forces has raged since April 2023, forcing major oil fields to shut down."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "According to Africanews, daily life across Sudan has been paralyzed by a severe fuel shortage, leaving motorists queuing for hours at the few operational petrol stations. In Khartoum, residents report spending entire days in line only to face dramatically higher prices at the pump.",
+              "Local drivers noted that gasoline costs surged by more than $8 over several days, reaching approximately $58 per gallon. Station owners, caught between fluctuating global energy prices and a rapidly depreciating local currency, frequently pause operations to reset prices or close pumps entirely."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "The current scarcity is rooted in the armed conflict that erupted in April 2023 between the Sudanese Armed Forces and the paramilitary Rapid Support Forces. The fighting has targeted critical energy infrastructure, disabling major production fields across the country.",
+              "Most critically, drone strikes forced the closure of the Khartoum refinery, an asset that previously satisfied approximately 70% of Sudan's domestic fuel requirements. With domestic refining offline, the nation has been compelled to transition almost entirely to imported fuel shipments."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "While international attention focuses on military movements and frontline control, the systemic destruction of civil energy networks represents a secondary vector of societal breakdown. Energy scarcity in Sudan is not merely a byproduct of warfare; it functions as a force multiplier for domestic instability.",
+              "Because imported oil must be purchased in foreign currency, the severe depreciation of the Sudanese pound against the US dollar turns every imported tanker into an unsustainable expenditure. The external shock of global market volatility is thus magnified locally, converting fuel infrastructure into an engine of hyperinflation that directly impacts access to food and essential supplies."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "The clear losers are urban populations and domestic businesses, where transportation costs have driven up the price of staple foods such as bread and vegetables, deepening the humanitarian emergency.",
+              "Conversely, foreign fuel suppliers and informal market brokers hold increased leverage, exploiting Sudan's structural import dependency to extract premium margins during acute supply shortages."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "Key indicators include whether sovereign exchange rates stabilize and whether repair access can be secured for the Khartoum refinery. Continued failure to restore domestic processing will inevitably escalate transport costs, further accelerating civilian displacement and economic collapse."
+            ]
+          }
+        ],
+        "tags": [
+          "Sudan",
+          "Energy Crisis",
+          "Economic Failure",
+          "Infrastructure",
+          "Humanitarian Impact"
+        ],
+        "sources": [
+          {
+            "name": "Africanews",
+            "title": "Daily life in Sudan paralysed by deepening fuel crisis and rising costs",
+            "url": "http://www.africanews.com/2026/11/15/daily-life-in-sudan-paralysed-by-deepening-fuel-crisis-and-rising-costs/"
+          },
+          {
+            "name": "巴士的報",
+            "title": "Sudan paralyzed by fuel crisis as war, currency collapse choke supply",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV3N5MU02T2VFUUF5TjlDQVlaQnFaNW8xdjdaeHlGaE85OGM0TF9FNXhsUTl3c3FROENpOWFuZloyMkdwaUR4S19rTURFR04ycy1vSXp3VHVad0xrOUJMWnpPM2cteXpnTG1MSHZZMFl4YVB1WDgtYVFzYXNIdDZTWGtfUFJZTWVhX0lnY2piRFl4NGQ2ektBaThMV3VZYl9qeFRLNmpyNHA2OVhUZGpXeTM3TV83bjJ2cXdRSw?oc=5"
+          }
+        ],
+        "wordCount": 388
+      },
+      "videoScript": {
+        "hook": "Sudanese drivers are now forced to pay $58 for a single gallon of gasoline.",
+        "beats": [
+          "Drone strikes disabled the national refinery which previously supplied 70% of domestic fuel needs.",
+          "With domestic production offline, the state relies entirely on expensive imports while the local currency collapses.",
+          "Here is the catch: destruction of civil energy infrastructure quietly transforms basic transit into an unsustainable luxury."
+        ],
+        "close": "Read the full intelligence analysis at the link in our bio."
+      },
+      "rawImageUrl": "https://images.euronews.com/articles/stories/09/99/31/08/1024x538_cmsv2_df8f15ec-5de2-5dab-b1b0-42482f3c6309-9993108.jpg",
+      "status": "pending",
+      "createdAt": "2026-11-16T01:59:10.622Z",
+      "cardImageUrl": "/news-cards/news-zz8sgx5jj-1794794350622.jpg",
+      "reelCoverUrl": "/news-cards/news-zz8sgx5jj-1794794351308-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-zz8sgx5jj-1794794352114-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/sudan-s-energy-paralysis-how-infrastructure-vrcc/"
+    },
+    "channels": {
+      "facebook": false,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": false,
+      "mastodon": false,
+      "threads": false,
+      "youtube": false
+    },
+    "scheduledFor": "2026-11-16T23:00:00.000Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-16T11:26:23.744Z",
+    "igDeferred": true
   }
 ]
