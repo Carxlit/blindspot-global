@@ -798,5 +798,10 @@
     "relevant": true,
     "reason": "The image shows rescue workers and an ambulance responding to a severe building fire incident in Thailand, directly illustrating the emergency response and casualties mentioned in",
     "at": "2026-11-16T07:34:02.217Z"
+  },
+  "788dc434619f12d8:2jf74pyol": {
+    "relevant": true,
+    "reason": "The image depicts Sam Altman, the OpenAI chief referenced in the headline and context.",
+    "at": "2026-11-16T23:04:55.401Z"
   }
 }

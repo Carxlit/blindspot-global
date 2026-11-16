@@ -138,9 +138,37 @@
     "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
     "https://www.thehindu.com/news/international/many-killed-several-injured-phuket-shophouse/article71706768.ece",
     "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
-    "https://www.dw.com/es/once-muertos-en-un-incendio-en-isla-turística-en-tailandia/a-79954395?maca=spa-rss-sp-all-1122-rdf"
+    "https://www.dw.com/es/once-muertos-en-un-incendio-en-isla-turística-en-tailandia/a-79954395?maca=spa-rss-sp-all-1122-rdf",
+    "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor"
   ],
   "processedSignatures": [
+    {
+      "title": "OPENAI CHIEF DOWNPLAYS RAM SHORTAGE BLAME AS HARDWARE COSTS SOAR",
+      "normalizedTokens": [
+        "openai",
+        "chief",
+        "downplays",
+        "ram",
+        "shortage",
+        "blame",
+        "hardware",
+        "costs",
+        "soar"
+      ],
+      "date": "2026-11-16T23:05:02.026Z"
+    },
+    {
+      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "normalizedTokens": [
+        "sam",
+        "altman",
+        "wants",
+        "everyone",
+        "lot",
+        "ram"
+      ],
+      "date": "2026-11-16T23:05:02.025Z"
+    },
     {
       "title": "FED RATE HIKE BETS CRUSH CANADIAN DOLLAR",
       "normalizedTokens": [
