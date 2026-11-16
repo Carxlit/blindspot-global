@@ -23092,12 +23092,13 @@
         "title": "🚨 TRAGEDIA EN TAILANDIA | 11 muertos en incendio en Phuket",
         "channel": "Última Hora Global"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-16T07:34:02.219Z",
       "cardImageUrl": "/news-cards/news-qh6x7jsyi-1794814442219.jpg",
       "reelCoverUrl": "/news-cards/news-qh6x7jsyi-1794814442930-cover.jpg",
       "instagramCardUrl": "/news-cards/news-qh6x7jsyi-1794814443607-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/fatal-phuket-building-fire-highlights-systemic-jz4v/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/fatal-phuket-building-fire-highlights-systemic-jz4v/",
+      "publishedAt": "2026-11-16T07:37:21.243Z"
     },
     "channels": {
       "facebook": true,
@@ -23111,10 +23112,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-16T07:34:04.625Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-16T07:34:04.625Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-16T07:34:53.311Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122109527259539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17934107004426489",
+        "permalink": "https://www.instagram.com/reel/Dfy1cZUEf3x/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "YouTube: tope diario de 3 Shorts alcanzado"
+      }
+    },
+    "publishedAt": "2026-11-16T07:37:21.243Z"
   }
 ]
