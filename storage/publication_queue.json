@@ -22750,12 +22750,13 @@
         "title": "Thailand Phuket Fire Leaves 11 People Dead | NewsX World",
         "channel": "NewsX World"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-16T05:17:12.018Z",
       "cardImageUrl": "/news-cards/news-oes1p6md4-1794806232018.jpg",
       "reelCoverUrl": "/news-cards/news-oes1p6md4-1794806232609-cover.jpg",
       "instagramCardUrl": "/news-cards/news-oes1p6md4-1794806233142-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/phuket-shophouse-fire-kills-eleven-exposing-339i/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/phuket-shophouse-fire-kills-eleven-exposing-339i/",
+      "publishedAt": "2026-11-16T05:25:18.923Z"
     },
     "channels": {
       "facebook": true,
@@ -22769,10 +22770,33 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-16T05:17:14.341Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-16T05:17:14.341Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-16T05:18:27.373Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122109483387539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18136525792682025",
+        "permalink": "https://www.instagram.com/reel/DfymHDoiJrg/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": true,
+        "url": "https://youtube.com/shorts/ty5MrMVZeOE"
+      }
+    },
+    "publishedAt": "2026-11-16T05:25:18.923Z"
   }
 ]
