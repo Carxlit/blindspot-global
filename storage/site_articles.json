@@ -1,5 +1,84 @@
 [
   {
+    "slug": "sudan-s-energy-paralysis-how-infrastructure-vrcc",
+    "path": "news/sudan-s-energy-paralysis-how-infrastructure-vrcc/",
+    "title": "Sudan's Energy Paralysis: How Infrastructure Destruction and Currency Depreciations Fuel Civil Crisis",
+    "headline": "WAR AND CURRENCY COLLAPSE SPARK PARALYZING FUEL CRISIS IN SUDAN",
+    "dek": "Drone strikes and fighting have severed Sudan's domestic oil refining capacity, plunging urban centers into gridlock. The resulting dependency on costly imports is pushing basic survival beyond the reach of ordinary citizens.",
+    "category": "POWER & SOCIETY",
+    "sourceName": "Africanews",
+    "image": "img/sudan-s-energy-paralysis-how-infrastructure-vrcc.jpg",
+    "photo": "img/sudan-s-energy-paralysis-how-infrastructure-vrcc-foto.jpg",
+    "publishedAt": "2026-11-16T01:59:13.255Z",
+    "article": {
+      "slug": "sudan-s-energy-paralysis-how-infrastructure-vrcc",
+      "title": "Sudan's Energy Paralysis: How Infrastructure Destruction and Currency Depreciations Fuel Civil Crisis",
+      "dek": "Drone strikes and fighting have severed Sudan's domestic oil refining capacity, plunging urban centers into gridlock. The resulting dependency on costly imports is pushing basic survival beyond the reach of ordinary citizens.",
+      "keyFacts": [
+        "The Khartoum refinery, which historically covered 70% of national fuel requirements, is offline following drone strikes and combat.",
+        "Gasoline prices in Khartoum jumped by over $8 in a span of days, reaching $58 per gallon.",
+        "Fighting between the Sudanese Armed Forces and the Rapid Support Forces has raged since April 2023, forcing major oil fields to shut down."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "According to Africanews, daily life across Sudan has been paralyzed by a severe fuel shortage, leaving motorists queuing for hours at the few operational petrol stations. In Khartoum, residents report spending entire days in line only to face dramatically higher prices at the pump.",
+            "Local drivers noted that gasoline costs surged by more than $8 over several days, reaching approximately $58 per gallon. Station owners, caught between fluctuating global energy prices and a rapidly depreciating local currency, frequently pause operations to reset prices or close pumps entirely."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The current scarcity is rooted in the armed conflict that erupted in April 2023 between the Sudanese Armed Forces and the paramilitary Rapid Support Forces. The fighting has targeted critical energy infrastructure, disabling major production fields across the country.",
+            "Most critically, drone strikes forced the closure of the Khartoum refinery, an asset that previously satisfied approximately 70% of Sudan's domestic fuel requirements. With domestic refining offline, the nation has been compelled to transition almost entirely to imported fuel shipments."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While international attention focuses on military movements and frontline control, the systemic destruction of civil energy networks represents a secondary vector of societal breakdown. Energy scarcity in Sudan is not merely a byproduct of warfare; it functions as a force multiplier for domestic instability.",
+            "Because imported oil must be purchased in foreign currency, the severe depreciation of the Sudanese pound against the US dollar turns every imported tanker into an unsustainable expenditure. The external shock of global market volatility is thus magnified locally, converting fuel infrastructure into an engine of hyperinflation that directly impacts access to food and essential supplies."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The clear losers are urban populations and domestic businesses, where transportation costs have driven up the price of staple foods such as bread and vegetables, deepening the humanitarian emergency.",
+            "Conversely, foreign fuel suppliers and informal market brokers hold increased leverage, exploiting Sudan's structural import dependency to extract premium margins during acute supply shortages."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Key indicators include whether sovereign exchange rates stabilize and whether repair access can be secured for the Khartoum refinery. Continued failure to restore domestic processing will inevitably escalate transport costs, further accelerating civilian displacement and economic collapse."
+          ]
+        }
+      ],
+      "tags": [
+        "Sudan",
+        "Energy Crisis",
+        "Economic Failure",
+        "Infrastructure",
+        "Humanitarian Impact"
+      ],
+      "sources": [
+        {
+          "name": "Africanews",
+          "title": "Daily life in Sudan paralysed by deepening fuel crisis and rising costs",
+          "url": "http://www.africanews.com/2026/11/15/daily-life-in-sudan-paralysed-by-deepening-fuel-crisis-and-rising-costs/"
+        },
+        {
+          "name": "巴士的報",
+          "title": "Sudan paralyzed by fuel crisis as war, currency collapse choke supply",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV3N5MU02T2VFUUF5TjlDQVlaQnFaNW8xdjdaeHlGaE85OGM0TF9FNXhsUTl3c3FROENpOWFuZloyMkdwaUR4S19rTURFR04ycy1vSXp3VHVad0xrOUJMWnpPM2cteXpnTG1MSHZZMFl4YVB1WDgtYVFzYXNIdDZTWGtfUFJZTWVhX0lnY2piRFl4NGQ2ektBaThMV3VZYl9qeFRLNmpyNHA2OVhUZGpXeTM3TV83bjJ2cXdRSw?oc=5"
+        }
+      ],
+      "wordCount": 388
+    },
+    "blindSpot": "Mainstream reporting treats fuel shortages in conflict zones as collateral hardship, but the systematic destruction of domestic refining shifts the battleground from frontlines to civil survival systems. By crippling energy infrastructure, the conflict transforms essential daily transit and food delivery into mechanisms of economic attrition, weaponizing supply chains against urban populations."
+  },
+  {
     "slug": "jensen-huang-resigns-nvidia-congressional-probe-6a4y",
     "path": "news/jensen-huang-resigns-nvidia-congressional-probe-6a4y/",
     "title": "Jensen Huang Resigns from Nvidia as Congressional Probe and Intelligence Risks Erupt",

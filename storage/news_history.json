@@ -132,9 +132,39 @@
     "https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTVlSTFUWUh3d3hoRUVkeHNEX0lpTXFqQUx2dG1FUjR0TnBNVkJqQ19sQWt3Y2loVHplWlpHZGFOZHNyTjdNMDRQQS1Dd0ZLT2dSSTVxRjY5MURzT1JabnNQdHo1RkFJNjBsR2hFV29LQmhfaENsVFk0X2hDSTZaVFRFYjVfaUJOd3J4MjFjcW13ZEVYTkpiMQ?oc=5",
     "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFF3czVab0VWVUpGMVNfVjZlcU12U0g5Q2FJcU56LXZpZ1RFSGNtRjBWSTdyZGxsNWp4WWpCX0NPdzBVZkMtZGdYQzJKTXVoTlkwenctczZDbDNUakhPNHNDYjFSa2djcTVmMEExZjRHaFZPemNBVlBBaHkybFpFcndDcWJPcl9sSFZCek1hV04wTUJTQ21CVEVHeXNOMlJKNXVGZzlFaw?oc=5"
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFF3czVab0VWVUpGMVNfVjZlcU12U0g5Q2FJcU56LXZpZ1RFSGNtRjBWSTdyZGxsNWp4WWpCX0NPdzBVZkMtZGdYQzJKTXVoTlkwenctczZDbDNUakhPNHNDYjFSa2djcTVmMEExZjRHaFZPemNBVlBBaHkybFpFcndDcWJPcl9sSFZCek1hV04wTUJTQ21CVEVHeXNOMlJKNXVGZzlFaw?oc=5",
+    "http://www.africanews.com/2026/11/15/daily-life-in-sudan-paralysed-by-deepening-fuel-crisis-and-rising-costs/"
   ],
   "processedSignatures": [
+    {
+      "title": "WAR AND CURRENCY COLLAPSE SPARK PARALYZING FUEL CRISIS IN SUDAN",
+      "normalizedTokens": [
+        "war",
+        "currency",
+        "collapse",
+        "spark",
+        "paralyzing",
+        "fuel",
+        "crisis",
+        "sudan"
+      ],
+      "date": "2026-11-16T01:59:13.372Z"
+    },
+    {
+      "title": "Daily life in Sudan paralysed by deepening fuel crisis and rising costs",
+      "normalizedTokens": [
+        "daily",
+        "life",
+        "sudan",
+        "paralysed",
+        "deepening",
+        "fuel",
+        "crisis",
+        "rising",
+        "costs"
+      ],
+      "date": "2026-11-16T01:59:13.370Z"
+    },
     {
       "title": "MEGASPEED LAUNCHES INTERNAL PROBE FOLLOWING NVIDIA SCANDAL FALLOUT",
       "normalizedTokens": [
