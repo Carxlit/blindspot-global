@@ -133,9 +133,40 @@
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTVlSTFUWUh3d3hoRUVkeHNEX0lpTXFqQUx2dG1FUjR0TnBNVkJqQ19sQWt3Y2loVHplWlpHZGFOZHNyTjdNMDRQQS1Dd0ZLT2dSSTVxRjY5MURzT1JabnNQdHo1RkFJNjBsR2hFV29LQmhfaENsVFk0X2hDSTZaVFRFYjVfaUJOd3J4MjFjcW13ZEVYTkpiMQ?oc=5",
     "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFF3czVab0VWVUpGMVNfVjZlcU12U0g5Q2FJcU56LXZpZ1RFSGNtRjBWSTdyZGxsNWp4WWpCX0NPdzBVZkMtZGdYQzJKTXVoTlkwenctczZDbDNUakhPNHNDYjFSa2djcTVmMEExZjRHaFZPemNBVlBBaHkybFpFcndDcWJPcl9sSFZCek1hV04wTUJTQ21CVEVHeXNOMlJKNXVGZzlFaw?oc=5",
-    "http://www.africanews.com/2026/11/15/daily-life-in-sudan-paralysed-by-deepening-fuel-crisis-and-rising-costs/"
+    "http://www.africanews.com/2026/11/15/daily-life-in-sudan-paralysed-by-deepening-fuel-crisis-and-rising-costs/",
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQajNNLXYxX0RVWkY2bTZiTWFzdkgzdTVOa1FXOEZmY1praWc1cDNIRURKWTZ5eWt6a01ZU1VPYkJ2QThDandBTWJnX3RXcjdyM3I2N214T3ctRk1XTE9JRFg4QVpUcEdHZGV3b2ZGaWo1SzBGNWZldnM0am9qekt1Rm1rUjhBYTV6MVFqTzZPV3BIc0diS1QwU05hQnZuaXcxWHNPcHpsYlF1alJWMlRaLWdUdjkyOGJLd3NMZVVIZTBIWlJ6RDZjMTI2blN5azhnTUxWMXNhUHIwOWFVT25QdnQyS2JTZHlB?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "FED RATE HIKE BETS CRUSH CANADIAN DOLLAR",
+      "normalizedTokens": [
+        "fed",
+        "rate",
+        "hike",
+        "bets",
+        "crush",
+        "canadian",
+        "dollar"
+      ],
+      "date": "2026-11-16T03:06:24.174Z"
+    },
+    {
+      "title": "Fed rate hike bets and falling oil prices weigh on Canadian Dollar against US Dollar",
+      "normalizedTokens": [
+        "fed",
+        "rate",
+        "hike",
+        "bets",
+        "falling",
+        "oil",
+        "prices",
+        "weigh",
+        "canadian",
+        "dollar",
+        "dollar"
+      ],
+      "date": "2026-11-16T03:06:24.173Z"
+    },
     {
       "title": "WAR AND CURRENCY COLLAPSE SPARK PARALYZING FUEL CRISIS IN SUDAN",
       "normalizedTokens": [
