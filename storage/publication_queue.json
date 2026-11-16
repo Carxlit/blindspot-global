@@ -21813,12 +21813,13 @@
         "close": "Read our full geopolitical analysis at the link in our bio."
       },
       "rawImageUrl": "https://bloximages.chicago2.vip.townnews.com/journalgazette.net/content/tncms/assets/v3/editorial/b/21/b214bc2b-7238-51ac-8252-e2a6940f267f/6afa32ebd26be.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-15T23:16:56.223Z",
       "cardImageUrl": "/news-cards/news-vb4nl1hqf-1794784616223.jpg",
       "reelCoverUrl": "/news-cards/news-vb4nl1hqf-1794784616777-cover.jpg",
       "instagramCardUrl": "/news-cards/news-vb4nl1hqf-1794784617262-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/pope-francis-demands-justice-slain-environmental-g3x8/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/pope-francis-demands-justice-slain-environmental-g3x8/",
+      "publishedAt": "2026-11-16T01:05:10.290Z"
     },
     "channels": {
       "facebook": true,
@@ -21832,10 +21833,33 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-16T01:03:00.000Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-15T23:16:58.369Z"
+    "createdAt": "2026-11-15T23:16:58.369Z",
+    "lastAttemptAt": "2026-11-16T01:03:15.500Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122109406575539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": false,
+        "skipped": true,
+        "error": "Estrategia IG: límite diario de 5 Reels alcanzado"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": true,
+        "url": "https://youtube.com/shorts/1iZT0hjlqGA"
+      }
+    },
+    "publishedAt": "2026-11-16T01:05:10.290Z"
   },
   {
     "id": "queue-1794787631245-uf9yj",
@@ -21978,7 +22002,7 @@
       "threads": false,
       "youtube": true
     },
-    "scheduledFor": "2026-11-16T01:48:00.000Z",
+    "scheduledFor": "2026-11-16T01:55:15.477Z",
     "status": "queued",
     "attempts": 0,
     "maxAttempts": 3,
