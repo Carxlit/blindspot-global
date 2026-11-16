@@ -131,9 +131,41 @@
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5",
     "https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTVlSTFUWUh3d3hoRUVkeHNEX0lpTXFqQUx2dG1FUjR0TnBNVkJqQ19sQWt3Y2loVHplWlpHZGFOZHNyTjdNMDRQQS1Dd0ZLT2dSSTVxRjY5MURzT1JabnNQdHo1RkFJNjBsR2hFV29LQmhfaENsVFk0X2hDSTZaVFRFYjVfaUJOd3J4MjFjcW13ZEVYTkpiMQ?oc=5",
-    "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/"
+    "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFF3czVab0VWVUpGMVNfVjZlcU12U0g5Q2FJcU56LXZpZ1RFSGNtRjBWSTdyZGxsNWp4WWpCX0NPdzBVZkMtZGdYQzJKTXVoTlkwenctczZDbDNUakhPNHNDYjFSa2djcTVmMEExZjRHaFZPemNBVlBBaHkybFpFcndDcWJPcl9sSFZCek1hV04wTUJTQ21CVEVHeXNOMlJKNXVGZzlFaw?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "MEGASPEED LAUNCHES INTERNAL PROBE FOLLOWING NVIDIA SCANDAL FALLOUT",
+      "normalizedTokens": [
+        "megaspeed",
+        "launches",
+        "internal",
+        "probe",
+        "following",
+        "nvidia",
+        "scandal",
+        "fallout"
+      ],
+      "date": "2026-11-16T01:07:42.075Z"
+    },
+    {
+      "title": "Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout",
+      "normalizedTokens": [
+        "megaspeed",
+        "alice",
+        "huang",
+        "left",
+        "2025",
+        "company",
+        "conducts",
+        "internal",
+        "probe",
+        "nvidia",
+        "fallout"
+      ],
+      "date": "2026-11-16T01:07:42.073Z"
+    },
     {
       "title": "JENSEN HUANG RESIGNS FROM NVIDIA AMID CHINA SPY ALLEGATIONS",
       "normalizedTokens": [
