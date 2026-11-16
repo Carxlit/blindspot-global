@@ -21984,12 +21984,13 @@
         "channel": "Agents of Tech",
         "license": "cc-by"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-16T00:07:08.715Z",
       "cardImageUrl": "/news-cards/news-eg0m97j96-1794787628715.jpg",
       "reelCoverUrl": "/news-cards/news-eg0m97j96-1794787629394-cover.jpg",
       "instagramCardUrl": "/news-cards/news-eg0m97j96-1794787630020-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/jensen-huang-resigns-nvidia-congressional-probe-6a4y/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/jensen-huang-resigns-nvidia-congressional-probe-6a4y/",
+      "publishedAt": "2026-11-16T01:56:52.975Z"
     },
     "channels": {
       "facebook": true,
@@ -22003,10 +22004,33 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-16T01:55:15.477Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-16T00:07:11.245Z"
+    "createdAt": "2026-11-16T00:07:11.245Z",
+    "lastAttemptAt": "2026-11-16T01:55:30.981Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122109426231539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": false,
+        "skipped": true,
+        "error": "Estrategia IG: límite diario de 5 Reels alcanzado"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Reel no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      },
+      "youtube": {
+        "success": true,
+        "url": "https://youtube.com/shorts/DLC1GqrIz7U"
+      }
+    },
+    "publishedAt": "2026-11-16T01:56:52.975Z"
   },
   {
     "id": "queue-1794791262039-vbykh",
@@ -22137,7 +22161,7 @@
       "threads": false,
       "youtube": true
     },
-    "scheduledFor": "2026-11-16T02:45:15.477Z",
+    "scheduledFor": "2026-11-16T03:03:30.970Z",
     "status": "queued",
     "attempts": 0,
     "maxAttempts": 3,
