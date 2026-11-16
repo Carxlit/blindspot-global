@@ -22920,12 +22920,13 @@
         "title": "Miguel Angel Felix Gallardo, the 'Boss of Bosses,' Dies at 80 in Guadalajara",
         "channel": "US TrendWatch"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-16T05:31:35.385Z",
       "cardImageUrl": "/news-cards/news-xlrrw2vtt-1794807095385.jpg",
       "reelCoverUrl": "/news-cards/news-xlrrw2vtt-1794807097755-cover.jpg",
       "instagramCardUrl": "/news-cards/news-xlrrw2vtt-1794807098304-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/death-miguel-angel-felix-gallardo-marks-rttt/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/death-miguel-angel-felix-gallardo-marks-rttt/",
+      "publishedAt": "2026-11-16T05:36:13.083Z"
     },
     "channels": {
       "facebook": true,
@@ -22939,10 +22940,33 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-16T05:31:39.321Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-16T05:31:39.321Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-16T05:32:34.464Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122109487173539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18123845162067762",
+        "permalink": "https://www.instagram.com/reel/DfynZ8zJYsD/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": true,
+        "url": "https://youtube.com/shorts/q4pk31uHecY"
+      }
+    },
+    "publishedAt": "2026-11-16T05:36:13.083Z"
   }
 ]
