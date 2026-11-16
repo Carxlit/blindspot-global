@@ -23290,12 +23290,13 @@
         "close": "Read the full intelligence analysis at the link in our bio."
       },
       "rawImageUrl": "https://images.euronews.com/articles/stories/09/99/31/08/1024x538_cmsv2_df8f15ec-5de2-5dab-b1b0-42482f3c6309-9993108.jpg",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-16T01:59:10.622Z",
       "cardImageUrl": "/news-cards/news-zz8sgx5jj-1794794350622.jpg",
       "reelCoverUrl": "/news-cards/news-zz8sgx5jj-1794794351308-cover.jpg",
       "instagramCardUrl": "/news-cards/news-zz8sgx5jj-1794794352114-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/sudan-s-energy-paralysis-how-infrastructure-vrcc/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/sudan-s-energy-paralysis-how-infrastructure-vrcc/",
+      "publishedAt": "2026-11-16T23:02:52.875Z"
     },
     "channels": {
       "facebook": false,
@@ -23309,11 +23310,20 @@
       "youtube": false
     },
     "scheduledFor": "2026-11-16T23:00:00.000Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-16T11:26:23.744Z",
-    "igDeferred": true
+    "igDeferred": true,
+    "lastAttemptAt": "2026-11-16T23:00:15.284Z",
+    "results": {
+      "instagram": {
+        "success": true,
+        "mediaId": "17891493915479854",
+        "permalink": "https://www.instagram.com/reel/Df0fWDrEzpd/"
+      }
+    },
+    "publishedAt": "2026-11-16T23:02:52.875Z"
   },
   {
     "id": "queue-1794831939214-4nkds",
