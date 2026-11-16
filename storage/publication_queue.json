@@ -22580,12 +22580,13 @@
         "title": "MP Helen Haines discharged from hospital four weeks after alleged attack",
         "channel": "Australian Community Media"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-16T05:01:47.564Z",
       "cardImageUrl": "/news-cards/news-9mcnphu5f-1794805307565.jpg",
       "reelCoverUrl": "/news-cards/news-9mcnphu5f-1794805308454-cover.jpg",
       "instagramCardUrl": "/news-cards/news-9mcnphu5f-1794805309055-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/australian-independent-mp-helen-haines-discharged-6n1b/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/australian-independent-mp-helen-haines-discharged-6n1b/",
+      "publishedAt": "2026-11-16T05:07:21.484Z"
     },
     "channels": {
       "facebook": true,
@@ -22599,10 +22600,33 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-16T05:01:50.207Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-16T05:01:50.207Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-16T05:02:59.722Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122109478785539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17893035096653443",
+        "permalink": "https://www.instagram.com/reel/DfykEYxAB3D/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": true,
+        "url": "https://youtube.com/shorts/CjT0-L4oUpY"
+      }
+    },
+    "publishedAt": "2026-11-16T05:07:21.484Z"
   }
 ]
