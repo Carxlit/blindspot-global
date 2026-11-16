@@ -22144,11 +22144,12 @@
         "close": "Read the complete analysis at the link in our bio."
       },
       "rawImageUrl": "https://static01.nyt.com/images/2026/11/15/multimedia/15xp-megaspeed1-zcvq/15xp-megaspeed1-zcvq-facebookJumbo.jpg",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-16T01:07:40.342Z",
       "cardImageUrl": "/news-cards/news-q3zmay442-1794791260342.jpg",
       "reelCoverUrl": "/news-cards/news-q3zmay442-1794791260950-cover.jpg",
-      "instagramCardUrl": "/news-cards/news-q3zmay442-1794791261485-ig.jpg"
+      "instagramCardUrl": "/news-cards/news-q3zmay442-1794791261485-ig.jpg",
+      "publishedAt": "2026-11-16T03:04:47.772Z"
     },
     "channels": {
       "facebook": true,
@@ -22162,10 +22163,33 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-16T03:03:30.970Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-16T01:07:42.039Z"
+    "createdAt": "2026-11-16T01:07:42.039Z",
+    "lastAttemptAt": "2026-11-16T03:03:46.059Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122109442557539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": false,
+        "skipped": true,
+        "error": "Estrategia IG: límite diario de 5 Reels alcanzado"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": true,
+        "url": "https://youtube.com/shorts/45edIdBrUOw"
+      }
+    },
+    "publishedAt": "2026-11-16T03:04:47.772Z"
   },
   {
     "id": "queue-1794794353356-vv6lv",
