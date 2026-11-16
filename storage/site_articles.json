@@ -1,5 +1,109 @@
 [
   {
+    "slug": "jensen-huang-resigns-nvidia-congressional-probe-6a4y",
+    "path": "news/jensen-huang-resigns-nvidia-congressional-probe-6a4y/",
+    "title": "Jensen Huang Resigns from Nvidia as Congressional Probe and Intelligence Risks Erupt",
+    "headline": "JENSEN HUANG RESIGNS FROM NVIDIA AMID CHINA SPY ALLEGATIONS",
+    "dek": "Nvidia CEO Jensen Huang resigned following board inquiries into affairs linked to Chinese intelligence risks. The sudden exit exposes critical governance gaps at the foundation of global artificial intelligence hardware.",
+    "category": "TECHNOLOGY & AI",
+    "sourceName": "TechCrunch",
+    "image": "img/jensen-huang-resigns-nvidia-congressional-probe-6a4y.jpg",
+    "photo": "img/jensen-huang-resigns-nvidia-congressional-probe-6a4y-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "lcUW5NhqJAo",
+      "title": "Nvidia CEO Jensen Huang Resigns. Good News for the Anthropic IPO?",
+      "channel": "Agents of Tech",
+      "license": "cc-by"
+    },
+    "publishedAt": "2026-11-16T00:07:11.119Z",
+    "article": {
+      "slug": "jensen-huang-resigns-nvidia-congressional-probe-6a4y",
+      "title": "Jensen Huang Resigns from Nvidia as Congressional Probe and Intelligence Risks Erupt",
+      "dek": "Nvidia CEO Jensen Huang resigned following board inquiries into affairs linked to Chinese intelligence risks. The sudden exit exposes critical governance gaps at the foundation of global artificial intelligence hardware.",
+      "keyFacts": [
+        "Jensen Huang resigned as CEO of Nvidia following an internal board investigation into undisclosed personal relationships.",
+        "One affair involved a former executive at Megaspeed with alleged ties to Chinese intelligence, prompting a congressional summons for Huang to testify.",
+        "Intelligence reports regarding Huang's security risk circulated within national security circles for nearly a year prior to his resignation.",
+        "Nvidia Chief Financial Officer Collette Kress was appointed interim CEO without a pre-existing formal succession plan."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Nvidia Chief Executive Officer Jensen Huang has officially resigned following a high-stakes internal board investigation into executive conduct. The inquiry confirmed Huang had engaged in undisclosed personal relationships, including an affair with a former executive at Megaspeed, an Nvidia customer firm, who is alleged to have ties to Chinese intelligence.",
+            "Following the disclosure, Nvidia appointed Chief Financial Officer Collette Kress as interim Chief Executive Officer. The board faced immediate operational scrutiny due to the absence of an established executive succession plan, leaving Kress to manage expense control while Congress issued a formal summons demanding Huang testify regarding national security exposure."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "According to TechCrunch, the corporate collapse caught industry analysts off guard, as Huang was widely viewed as synonymous with Nvidia's explosive market capitalization and dominant market share in artificial intelligence hardware. As the primary shareholder and public architect of the company, Huang maintained centralized authority over the entire AI investment ecosystem.",
+            "The corporate shockwaves resonated immediately across capital markets. According to reporting from the New York Post and The Daily Upside, short sellers capitalized heavily on Nvidia's sudden leadership vacuum, while rival semiconductor firms led by competing executives experienced sharp market rallies."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While mainstream reporting focuses primarily on corporate ethics and personal scandal, the core blind spot concerns critical infrastructure counterintelligence. Reports detailing Huang's relationship with the Megaspeed executive had circulated within intelligence circles for nearly a year before corporate governance protocols triggered an internal board investigation.",
+            "This significant delay underscores a structural vulnerability in high-tech supply chain security: critical chip monopolies operate with limited national security vetting at the board level. The fact that decisions governing top-tier AI hardware were exposed to foreign intelligence proximity without timely corporate intervention challenges assumptions of tech sovereignty in Western markets."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Short sellers and direct market rivals emerge as immediate beneficiaries, exploiting Nvidia's strategic uncertainty and leadership vacuum. Competing chipmakers stand to gain traction among enterprise clients seeking hardware procurement stability during executive restructuring.",
+            "Conversely, Nvidia and its institutional shareholders face substantial operational friction, elevated legal exposure, and impending regulatory oversight. The lack of a clear succession plan threatens to slow strategic deployments across Nvidia's broader artificial intelligence portfolio."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Focus now turns to the upcoming congressional hearings, where lawmakers intend to question Huang regarding corporate security protocols, potential data compromise, and intelligence exposure related to Megaspeed.",
+            "Market observers must track whether interim CEO Collette Kress focuses exclusively on cost management, and how rapidly the board can select a permanent chief executive capable of re-establishing regulatory confidence."
+          ]
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Semiconductors",
+        "Artificial Intelligence",
+        "Geopolitics",
+        "Counterintelligence"
+      ],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+          "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/"
+        },
+        {
+          "name": "BBC",
+          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HY0g2NTA4UDg1bGFHUXhyZkJCeGJsYXdGeVFFWXNBWHlSNGlDYzVXQkw5YkxheFhEbG1jNGRpXzVVeThsMkJYWENEQ3ZtNi1SZkZfT0RZWnNrckE?oc=5"
+        },
+        {
+          "name": "Forbes",
+          "title": "Jensen Huang’s Bad Week Leading To His Resignation, Explained",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTFJDSmUzd0JTcWpDNXB4bXJqZDRCUEliYjFoZl9OcHVIWTlEb195eXdlaTBlY2JWVWxkTmFua3RNck1QcTNQMWc3UWxPS3NJSFJmRzV3dXJnaUd2MDdDQml3QmNRQTg4MjZoanN6d1JWVU5xUGxUc25MekIzX0pLeDNtMDR5cUNkdWZTVjctX0txbGx4ZzZ6T3VTVkw4X04xLVpJdTdRNA?oc=5"
+        },
+        {
+          "name": "New York Post",
+          "title": "Consider Nvidia’s Jensen Huang-led implosion a massive win for short sellers",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYVhneWgwRmZSUVp3UjNrajZNR2pJX1FTQ09HLXJobHd0VHhWU2Z0U2RUYWNxeS1HaVoxOWE4WXR6ZW1YQXpqQ2g0QWRxWUtyVUc3SlVmSUhDZW9ZRUIyOWdLQlF2WUJiTHBuRjIySVZXb244UklyNV9BRmhDR1hraXFnelpKc1l2NTliYmtnaWVfeHNaX0xEeU44OEtWakdMV3JmUmk0UTdSVWtjemJndUlLMWVPdExqTFF0RVhn?oc=5"
+        },
+        {
+          "name": "The Daily Upside",
+          "title": "When Bad News Is Good News: Nvidia Rival Led by Jensen Huang’s Cousin Rallies Amid Ex-CEO’s ‘Spy Soap Opera’",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcFZWdnlkYTR0bTIxNm4xd1BYcmtLZWR5bENlWjlEX2N2bUdmX2VrMzZHeXFoemFCSUY1Tm54LWF2SnVJSklHVVNlZjI5WWt2MUVCX2NwNVU5QXlVYi1YNTVJYWplZHZRUHNUYjBkbjRpeUYzSmFKMjh0SF9ZTkVnbUZ1Q045SG1mX29ZM3F3RDE0NzFQX2k4amh4UnFncTdWUzNGZXZ6NGl2WGdYT3ZWWkRhZHpVZG93VjZwX19QYjRIQnRFem5QZkdFcmNteV82Q19PczNfVGFocGZQcGlOR25GaUNQUDFNR0dKbkVrZWZQZ0FGWWFXLUdKQ2N1SkU?oc=5"
+        }
+      ],
+      "wordCount": 443
+    },
+    "blindSpot": "While mainstream coverage focuses on executive personal drama, the core vulnerability lies in national security oversight at the summit of critical AI hardware supply chains. Federal intelligence circles held reports concerning Huang's risk profile for nearly a year prior to board action, exposing deep structural flaws in semiconductor governance."
+  },
+  {
     "slug": "pope-francis-demands-justice-slain-environmental-g3x8",
     "path": "news/pope-francis-demands-justice-slain-environmental-g3x8/",
     "title": "Pope Francis Demands Justice for Slain Environmental Defenders in the Peruvian Amazon",
