@@ -21654,12 +21654,13 @@
         "close": "Read the full genomic analysis on our website at the link in bio."
       },
       "rawImageUrl": "https://media.wired.com/photos/6af5dd41ea249e5173fa2e83/master/pass/Weixin%20Image_2025-07-15_230629_400.jpg",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-15T11:19:01.051Z",
       "cardImageUrl": "/news-cards/news-w16h52vsq-1794741541052.jpg",
       "reelCoverUrl": "/news-cards/news-w16h52vsq-1794741541939-cover.jpg",
       "instagramCardUrl": "/news-cards/news-w16h52vsq-1794741542562-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/ancient-giant-fungus-discovered-china-reveals-dgp6/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/ancient-giant-fungus-discovered-china-reveals-dgp6/",
+      "publishedAt": "2026-11-16T00:05:24.219Z"
     },
     "channels": {
       "facebook": true,
@@ -21673,10 +21674,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-16T00:05:00.000Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-15T11:19:03.725Z"
+    "createdAt": "2026-11-15T11:19:03.725Z",
+    "lastAttemptAt": "2026-11-16T00:05:15.479Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122109392745539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": false,
+        "skipped": true,
+        "error": "Estrategia IG: urgencia 72 menor que 78; Instagram solo recibe lo mejor del día"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "YouTube: urgencia 72 menor que 78; a YouTube solo van las historias fuertes"
+      }
+    },
+    "publishedAt": "2026-11-16T00:05:24.219Z"
   },
   {
     "id": "queue-1794784618369-fms4n",
