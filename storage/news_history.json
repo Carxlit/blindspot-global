@@ -151,6 +151,34 @@
   ],
   "processedSignatures": [
     {
+      "title": "MICROSOFT OUTAGE EXPOSES FRAGILITY OF GLOBAL CLOUD INFRASTRUCTURE",
+      "normalizedTokens": [
+        "microsoft",
+        "outage",
+        "exposes",
+        "fragility",
+        "global",
+        "cloud",
+        "infrastructure"
+      ],
+      "date": "2026-11-17T12:10:23.860Z"
+    },
+    {
+      "title": "Microsoft identifies months-old bug as a root cause of global outage",
+      "normalizedTokens": [
+        "microsoft",
+        "identifies",
+        "months",
+        "old",
+        "bug",
+        "root",
+        "cause",
+        "global",
+        "outage"
+      ],
+      "date": "2026-11-17T12:10:23.858Z"
+    },
+    {
       "title": "RUSSIAN STRIKES HIT KYIV BRIDGES AMID WIDER ESCALATION",
       "normalizedTokens": [
         "russian",
