@@ -23447,12 +23447,13 @@
         "channel": "BCR Global",
         "license": "cc-by"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-16T03:06:21.824Z",
       "cardImageUrl": "/news-cards/news-zc866dz05-1794798381825.jpg",
       "reelCoverUrl": "/news-cards/news-zc866dz05-1794798382430-cover.jpg",
       "instagramCardUrl": "/news-cards/news-zc866dz05-1794798382998-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/federal-reserve-rate-hike-bets-oil-jffl/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/federal-reserve-rate-hike-bets-oil-jffl/",
+      "publishedAt": "2026-11-17T00:10:15.558Z"
     },
     "channels": {
       "facebook": false,
@@ -23466,11 +23467,20 @@
       "youtube": false
     },
     "scheduledFor": "2026-11-17T00:10:00.000Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-16T12:25:39.214Z",
-    "igDeferred": true
+    "igDeferred": true,
+    "lastAttemptAt": "2026-11-17T00:10:15.437Z",
+    "results": {
+      "instagram": {
+        "success": false,
+        "skipped": true,
+        "error": "Estrategia IG: límite diario de 5 Reels alcanzado"
+      }
+    },
+    "publishedAt": "2026-11-17T00:10:15.558Z"
   },
   {
     "id": "queue-1794870302014-8sxq8",
