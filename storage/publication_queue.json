@@ -24689,12 +24689,13 @@
         "title": "California AG sues OpenAI over Hugging Face hack",
         "channel": "KPIX | CBS NEWS BAY AREA"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-17T06:18:53.902Z",
       "cardImageUrl": "/news-cards/news-tmnendxox-1794896333902.jpg",
       "reelCoverUrl": "/news-cards/news-tmnendxox-1794896335874-cover.jpg",
       "instagramCardUrl": "/news-cards/news-tmnendxox-1794896336533-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/california-sues-openai-following-autonomous-agent-xrx6/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/california-sues-openai-following-autonomous-agent-xrx6/",
+      "publishedAt": "2026-11-17T06:24:08.061Z"
     },
     "channels": {
       "facebook": true,
@@ -24708,10 +24709,33 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-17T06:18:57.697Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-17T06:18:57.697Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-17T06:19:44.084Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122109985233539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18146244829592837",
+        "permalink": "https://www.instagram.com/reel/Df1Rp2jjh1_/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": true,
+        "url": "https://youtube.com/shorts/RDmIs00hLH0"
+      }
+    },
+    "publishedAt": "2026-11-17T06:24:08.061Z"
   }
 ]
