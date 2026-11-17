@@ -141,9 +141,40 @@
     "https://www.dw.com/es/once-muertos-en-un-incendio-en-isla-turística-en-tailandia/a-79954395?maca=spa-rss-sp-all-1122-rdf",
     "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmhGNVhidkt3TlpMM3l5UmpTaGYyRnEyZ0pDQnhydG0wWm9sS3VGN0pndWVSODhUbFhYTW5EalBIMEljZEVsNndnbVVNd1dmVzNOMVNHYmtpOEZjVXBaOHNfQ0dzQjlva0QyNEU5OS1vMm50TmhuVEFaZDZ0THpwTDUtX3dpeV9HUEYwOEZaVkhBNzBrZXg1dXljcmVFRC1CT0hqclh2cU9uSklvSTRnSUxXVTlmQmNhNlI1Q1E0S2hSdzF3?oc=5",
-    "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures"
+    "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+    "https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine"
   ],
   "processedSignatures": [
+    {
+      "title": "RUSSIAN STRIKES HIT KYIV BRIDGES AMID WIDER ESCALATION",
+      "normalizedTokens": [
+        "russian",
+        "strikes",
+        "hit",
+        "kyiv",
+        "bridges",
+        "wider",
+        "escalation"
+      ],
+      "date": "2026-11-17T02:02:46.974Z"
+    },
+    {
+      "title": "Russian strikes hit two key bridges in Kyiv, disrupting water and power supplies",
+      "normalizedTokens": [
+        "russian",
+        "strikes",
+        "hit",
+        "two",
+        "key",
+        "bridges",
+        "kyiv",
+        "disrupting",
+        "water",
+        "power",
+        "supplies"
+      ],
+      "date": "2026-11-17T02:02:46.973Z"
+    },
     {
       "title": "UNITED AIRLINES OUTAGE EXPOSES CRITICAL INFRASTRUCTURE FRAGILITY",
       "normalizedTokens": [

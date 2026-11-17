@@ -813,5 +813,15 @@
     "relevant": true,
     "reason": "The image clearly shows multiple United Airlines aircraft grounded and parked at airport gates, directly illustrating a nationwide flight grounding and airline infrastructure disru",
     "at": "2026-11-17T01:05:31.096Z"
+  },
+  "52aebe6e5188df99:mng5edvun": {
+    "relevant": false,
+    "reason": "The image shows workers clearing debris in a damaged industrial facility, not the Kyiv bridges targeted in the headline.",
+    "at": "2026-11-17T02:02:11.664Z"
+  },
+  "fada4ce877c186c4:mng5edvun": {
+    "relevant": true,
+    "reason": "The image shows smoke from a missile strike directly adjacent to a bridge in Kyiv.",
+    "at": "2026-11-17T02:02:44.461Z"
   }
 }
