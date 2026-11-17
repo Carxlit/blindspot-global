@@ -23925,12 +23925,13 @@
         "title": "United Airlines reports ‘widespread system outage’",
         "channel": "CNN"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-17T01:05:31.097Z",
       "cardImageUrl": "/news-cards/news-j9qz4h3ga-1794877531098.jpg",
       "reelCoverUrl": "/news-cards/news-j9qz4h3ga-1794877531734-cover.jpg",
       "instagramCardUrl": "/news-cards/news-j9qz4h3ga-1794877532337-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/united-airlines-outage-exposes-operational-fragility-f572/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/united-airlines-outage-exposes-operational-fragility-f572/",
+      "publishedAt": "2026-11-17T03:02:26.962Z"
     },
     "channels": {
       "facebook": true,
@@ -23944,10 +23945,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-17T03:02:00.000Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-17T01:05:33.535Z"
+    "createdAt": "2026-11-17T01:05:33.535Z",
+    "lastAttemptAt": "2026-11-17T03:02:15.327Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122109928851539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": false,
+        "skipped": true,
+        "error": "Estrategia IG: límite diario de 5 Reels alcanzado"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "YouTube: tope diario de 3 Shorts alcanzado"
+      }
+    },
+    "publishedAt": "2026-11-17T03:02:26.962Z"
   },
   {
     "id": "queue-1794880966959-r4kkb",
