@@ -143,9 +143,37 @@
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmhGNVhidkt3TlpMM3l5UmpTaGYyRnEyZ0pDQnhydG0wWm9sS3VGN0pndWVSODhUbFhYTW5EalBIMEljZEVsNndnbVVNd1dmVzNOMVNHYmtpOEZjVXBaOHNfQ0dzQjlva0QyNEU5OS1vMm50TmhuVEFaZDZ0THpwTDUtX3dpeV9HUEYwOEZaVkhBNzBrZXg1dXljcmVFRC1CT0hqclh2cU9uSklvSTRnSUxXVTlmQmNhNlI1Q1E0S2hSdzF3?oc=5",
     "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
     "https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine",
-    "https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause"
+    "https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause",
+    "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "ISRAELI SETTLERS OPEN FIRE IN WEST BANK NEAR JERICHO",
+      "normalizedTokens": [
+        "israeli",
+        "settlers",
+        "open",
+        "fire",
+        "west",
+        "bank",
+        "near",
+        "jericho"
+      ],
+      "date": "2026-11-17T05:32:16.208Z"
+    },
+    {
+      "title": "Gunfire erupts in occupied West Bank settler attack",
+      "normalizedTokens": [
+        "gunfire",
+        "erupts",
+        "occupied",
+        "west",
+        "bank",
+        "settler",
+        "attack"
+      ],
+      "date": "2026-11-17T05:32:16.207Z"
+    },
     {
       "title": "MICROSOFT OUTAGE EXPOSES FRAGILITY OF GLOBAL CLOUD INFRASTRUCTURE",
       "normalizedTokens": [

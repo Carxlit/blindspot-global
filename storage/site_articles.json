@@ -1,5 +1,80 @@
 [
   {
+    "slug": "settler-violence-escalates-near-jericho-armed-dx9c",
+    "path": "news/settler-violence-escalates-near-jericho-armed-dx9c/",
+    "title": "Settler Violence Escalates Near Jericho as Armed Incursions Target Palestinian Homes",
+    "headline": "ISRAELI SETTLERS OPEN FIRE IN WEST BANK NEAR JERICHO",
+    "dek": "An attack in al Duyuk resulted in the death of one Palestinian woman following property seizures in Jericho. The escalating violence underscores a tactical push into strategic eastern West Bank corridors.",
+    "category": "GEOPOLITICS",
+    "sourceName": "Al Jazeera",
+    "image": "img/settler-violence-escalates-near-jericho-armed-dx9c.jpg",
+    "photo": "img/settler-violence-escalates-near-jericho-armed-dx9c-foto.jpg",
+    "publishedAt": "2026-11-17T05:32:16.124Z",
+    "article": {
+      "slug": "settler-violence-escalates-near-jericho-armed-dx9c",
+      "title": "Settler Violence Escalates Near Jericho as Armed Incursions Target Palestinian Homes",
+      "dek": "An attack in al Duyuk resulted in the death of one Palestinian woman following property seizures in Jericho. The escalating violence underscores a tactical push into strategic eastern West Bank corridors.",
+      "keyFacts": [
+        "Israeli settlers opened fire in the village of al Duyuk near Jericho, killing one woman and injuring several Palestinians.",
+        "In early November, a group of settlers moved into Palestinian homes in Jericho and barred the owners from entering their properties.",
+        "Jericho is located in the eastern West Bank, serving as a critical geographic link near the Jordanian border."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "According to reports from Al Jazeera, Israeli settlers opened fire in the Palestinian village of al Duyuk, situated near Jericho. The gunfire resulted in the death of one Palestinian woman and left several other residents injured.",
+            "This violent event follows a documented incident in early November, during which a group of settlers forcibly entered Palestinian residential properties within Jericho and prevented the owners from accessing their homes."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The Jericho area has historically experienced distinct security dynamics compared to northern West Bank cities like Jenin or Nablus. Situated near the Jordan Valley, Jericho represents a vital geographic hub for Palestinian trade, agriculture, and cross-border access.",
+            "The recent movement of settler groups into residential areas of Jericho marks a clear expansion of operational scope, transferring friction points into previously calmer eastern territories."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream reporting frequently frames settler incidents as isolated civil friction. However, the sequence of property takeovers followed by armed force in al Duyuk highlights a coordinated pattern of micro-annexation.",
+            "By establishing physical presences in critical transit zones, settler factions construct new realities on the ground. This strategy incrementally fractures the territorial continuity of Palestinian communities without relying on official administrative decrees."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Settler movements expand their geographic footprint into key eastern access corridors, effectively weakening the viability of a contiguous Palestinian territory.",
+            "Local Palestinian populations bear the immediate cost through loss of property, displacement, and severe physical insecurity, while international legal frameworks governing occupied territories face further erosion."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Key indicators include whether law enforcement agencies act to vacate the occupied homes in Jericho or allow the seizures to become permanent outposts.",
+            "Attention must also be paid to potential diplomatic reactions from neighboring Jordan, given Jericho's geographic proximity to the border and the broader strategic sensitivity of the Jordan Valley."
+          ]
+        }
+      ],
+      "tags": [
+        "West Bank",
+        "Jericho",
+        "Middle East",
+        "Geopolitics",
+        "Territorial Disputes"
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "title": "Gunfire erupts in occupied West Bank settler attack",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss"
+        }
+      ],
+      "wordCount": 319
+    },
+    "blindSpot": "While diplomatic attention remains focused on broader regional conflict fronts, targeted settler incursions into the Jericho area signal an intentional push into historically stable zones. By occupying homes and deploying live fire in eastern corridors, settler factions create irreversible demographic facts on the ground, systematically severing Palestinian geographic continuity toward the Jordanian border."
+  },
+  {
     "slug": "microsoft-outage-exposes-hidden-fragility-global-79jy",
     "path": "news/microsoft-outage-exposes-hidden-fragility-global-79jy/",
     "title": "Microsoft outage exposes the hidden fragility of global cloud infrastructure",
