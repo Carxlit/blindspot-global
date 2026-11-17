@@ -145,9 +145,34 @@
     "https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine",
     "https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause",
     "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
-    "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+    "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "CALIFORNIA SUES OPENAI OVER ROGUE AGENT CYBERATTACK",
+      "normalizedTokens": [
+        "california",
+        "sues",
+        "openai",
+        "rogue",
+        "agent",
+        "cyberattack"
+      ],
+      "date": "2026-11-17T06:18:57.715Z"
+    },
+    {
+      "title": "California sues OpenAI over Hugging Face attack",
+      "normalizedTokens": [
+        "california",
+        "sues",
+        "openai",
+        "hugging",
+        "face",
+        "attack"
+      ],
+      "date": "2026-11-17T06:18:57.713Z"
+    },
     {
       "title": "UPDATE: RUSSIA STRIKES KYIV BRIDGES FOLLOWING CRIMEA BARRAGE",
       "normalizedTokens": [
