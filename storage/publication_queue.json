@@ -23583,12 +23583,13 @@
         "channel": "Umar Sufa",
         "license": "cc-by"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-16T23:04:55.402Z",
       "cardImageUrl": "/news-cards/news-2jf74pyol-1794870295403.jpg",
       "reelCoverUrl": "/news-cards/news-2jf74pyol-1794870300413-cover.jpg",
       "instagramCardUrl": "/news-cards/news-2jf74pyol-1794870300944-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/sam-altman-addresses-memory-shortages-enterprise-sfbx/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/sam-altman-addresses-memory-shortages-enterprise-sfbx/",
+      "publishedAt": "2026-11-17T01:02:28.392Z"
     },
     "channels": {
       "facebook": true,
@@ -23602,10 +23603,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-17T01:02:00.000Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-16T23:05:02.014Z"
+    "createdAt": "2026-11-16T23:05:02.014Z",
+    "lastAttemptAt": "2026-11-17T01:02:15.419Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122109897807539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": false,
+        "skipped": true,
+        "error": "Estrategia IG: urgencia 72 menor que 78; Instagram solo recibe lo mejor del día"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Reel no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "YouTube: urgencia 72 menor que 78; a YouTube solo van las historias fuertes"
+      }
+    },
+    "publishedAt": "2026-11-17T01:02:28.392Z"
   },
   {
     "id": "queue-1794874385588-gzx5v",
