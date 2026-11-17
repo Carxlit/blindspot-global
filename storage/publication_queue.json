@@ -23755,12 +23755,13 @@
         "channel": "Kanal13",
         "license": "cc-by"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-17T00:13:02.965Z",
       "cardImageUrl": "/news-cards/news-bkfz7rjas-1794874382965.jpg",
       "reelCoverUrl": "/news-cards/news-bkfz7rjas-1794874383652-cover.jpg",
       "instagramCardUrl": "/news-cards/news-bkfz7rjas-1794874384359-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/kyiv-launches-record-1-300-drone-3g3y/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/kyiv-launches-record-1-300-drone-3g3y/",
+      "publishedAt": "2026-11-17T01:59:40.386Z"
     },
     "channels": {
       "facebook": true,
@@ -23774,10 +23775,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-17T01:59:00.000Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-17T00:13:05.588Z"
+    "createdAt": "2026-11-17T00:13:05.588Z",
+    "lastAttemptAt": "2026-11-17T01:59:15.272Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122109911205539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": false,
+        "skipped": true,
+        "error": "Estrategia IG: límite diario de 5 Reels alcanzado"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Reel no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "YouTube: tope diario de 3 Shorts alcanzado"
+      }
+    },
+    "publishedAt": "2026-11-17T01:59:40.386Z"
   },
   {
     "id": "queue-1794877533535-hf21r",
