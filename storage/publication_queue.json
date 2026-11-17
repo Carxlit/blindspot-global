@@ -24095,12 +24095,13 @@
         "channel": "Thinking Clearly - Where You Come For Common Sense",
         "license": "cc-by"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-17T02:02:44.462Z",
       "cardImageUrl": "/news-cards/news-mng5edvun-1794880964462.jpg",
       "reelCoverUrl": "/news-cards/news-mng5edvun-1794880965095-cover.jpg",
       "instagramCardUrl": "/news-cards/news-mng5edvun-1794880965677-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/russian-strikes-hit-kyiv-bridges-mutual-rt1d/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/russian-strikes-hit-kyiv-bridges-mutual-rt1d/",
+      "publishedAt": "2026-11-17T11:06:28.515Z"
     },
     "channels": {
       "facebook": true,
@@ -24114,10 +24115,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-17T11:06:00.000Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-17T02:02:46.959Z"
+    "createdAt": "2026-11-17T02:02:46.959Z",
+    "lastAttemptAt": "2026-11-17T11:06:15.437Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122110095021539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": false,
+        "skipped": true,
+        "error": "Estrategia IG: fuera de la franja 18:00–21:00 (Bogotá); el Reel se reprograma a la franja"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Reel no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "YouTube: tope diario de 3 Shorts alcanzado"
+      }
+    },
+    "publishedAt": "2026-11-17T11:06:28.515Z"
   },
   {
     "id": "queue-1794884641702-zjqg5",
@@ -24888,5 +24913,151 @@
       }
     },
     "publishedAt": "2026-11-17T08:05:10.555Z"
+  },
+  {
+    "id": "queue-1794913586559-x244m",
+    "news": {
+      "id": "mng5edvun",
+      "originalUrl": "https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine",
+      "originalTitle": "Russian strikes hit two key bridges in Kyiv, disrupting water and power supplies",
+      "sourceName": "France 24",
+      "category": "GEOPOLITICS",
+      "urgencyScore": 92,
+      "headline": "RUSSIAN STRIKES HIT KYIV BRIDGES AMID WIDER ESCALATION",
+      "subHeadline": "Russian forces targeted two major bridges crossing the Dnipro River in Kyiv late Monday, disrupting water and power supplies across the Ukrainian capital.",
+      "blindSpotAngle": "While mainstream coverage focuses on the immediate humanitarian toll in Kyiv, the strikes are part of a direct tit-for-tat escalation triggered by a massive 1,300-drone Ukrainian barrage targeting Russian strategic assets including the Crimea bridge, the Akhtubinsk airfield, and Urals oil export hubs. This reciprocal infrastructure targeting signals a dangerous operational shift toward total systemic exhaustion.",
+      "facebookPost": "Russian forces launched late-night missile and drone strikes hitting two critical bridges crossing the Dnipro River in Kyiv, triggering widespread water and power cuts across the Ukrainian capital as confirmed by Mayor Vitali Klitschko.\n\nYet this tactical assault on urban infrastructure does not happen in a vacuum. It follows a coordinated Ukrainian counter-offensive involving a 1,300-drone overnight barrage targeting the Kerch bridge, the Akhtubinsk airfield, the Tsymbulova drone base, and a key Urals oil export hub in Russia.\n\nWhen both belligerents systematically target each other's arterial logistics and energy lifelines, how much longer can metropolitan centers sustain basic municipal functionality before strategic attrition breaks the home front?\n\nSource: France 24\n\n📖 Full analysis & sources in the first comment 👇\n\n#Geopolitics #Ukraine #Blindspot",
+      "telegramPost": "<b>RUSSIAN STRIKES HIT KYIV BRIDGES AMID WIDER ESCALATION</b>\n\n• <b>What happened:</b> Russian forces struck two major bridges crossing the Dnipro River in Kyiv late Monday, causing water and power cuts in parts of the capital following a massive 1,300-drone Ukrainian barrage across Russian targets.\n• <b>Why it matters:</b> The attacks mark a synchronized escalation moving beyond frontline combat into systemic infrastructure destruction, with Ukraine hitting oil export hubs and airfields while Russia retaliates against urban lifelines.\n• <b>What is next:</b> Expect continued tit-for-tat degradation of energy networks and transport arteries as both sides test the breaking point of domestic resilience.",
+      "linkedInPost": "The recent escalation involving Russian strikes on Kyiv's Dnipro River bridges and simultaneous Ukrainian long-range operations against Urals oil export hubs and military airfields highlights a critical shift in supply chain vulnerability. Strategic infrastructure destruction is no longer peripheral; it is the core mechanism of attrition. Organizations operating in the region must re-evaluate continuity risks as energy grids and logistics arteries become primary targets of statecraft.\n\nSource: France 24\n\nFull analysis: https://blindspotglobal.pages.dev/news/russian-strikes-hit-kyiv-bridges-mutual-rt1d/\n\n#Geopolitics #GlobalEconomy #Blindspot",
+      "blueskyPost": "Kyiv bridge strikes and water cuts follow a 1,300-drone Ukrainian barrage hitting Russian oil hubs and airfields. Beyond the headlines, mutual infrastructure destruction is the new baseline of attrition. #Blindspot #Geopolitics",
+      "copies": {
+        "facebook": "Russian forces launched late-night missile and drone strikes hitting two critical bridges crossing the Dnipro River in Kyiv, triggering widespread water and power cuts across the Ukrainian capital as confirmed by Mayor Vitali Klitschko.\n\nYet this tactical assault on urban infrastructure does not happen in a vacuum. It follows a coordinated Ukrainian counter-offensive involving a 1,300-drone overnight barrage targeting the Kerch bridge, the Akhtubinsk airfield, the Tsymbulova drone base, and a key Urals oil export hub in Russia.\n\nWhen both belligerents systematically target each other's arterial logistics and energy lifelines, how much longer can metropolitan centers sustain basic municipal functionality before strategic attrition breaks the home front? #Geopolitics #Ukraine #Blindspot",
+        "telegram": "<b>RUSSIAN STRIKES HIT KYIV BRIDGES AMID WIDER ESCALATION</b>\n\n• <b>What happened:</b> Russian forces struck two major bridges crossing the Dnipro River in Kyiv late Monday, causing water and power cuts in parts of the capital following a massive 1,300-drone Ukrainian barrage across Russian targets.\n• <b>Why it matters:</b> The attacks mark a synchronized escalation moving beyond frontline combat into systemic infrastructure destruction, with Ukraine hitting oil export hubs and airfields while Russia retaliates against urban lifelines.\n• <b>What is next:</b> Expect continued tit-for-tat degradation of energy networks and transport arteries as both sides test the breaking point of domestic resilience.",
+        "bluesky": "Kyiv bridge strikes and water cuts follow a 1,300-drone Ukrainian barrage hitting Russian oil hubs and airfields. Beyond the headlines, mutual infrastructure destruction is the new baseline of attrition. #Blindspot #Geopolitics",
+        "linkedIn": "The recent escalation involving Russian strikes on Kyiv's Dnipro River bridges and simultaneous Ukrainian long-range operations against Urals oil export hubs and military airfields highlights a critical shift in supply chain vulnerability. Strategic infrastructure destruction is no longer peripheral; it is the core mechanism of attrition. Organizations operating in the region must re-evaluate continuity risks as energy grids and logistics arteries become primary targets of statecraft. #Geopolitics #GlobalEconomy #Blindspot"
+      },
+      "article": {
+        "slug": "russian-strikes-hit-kyiv-bridges-mutual-rt1d",
+        "title": "Russian strikes hit Kyiv bridges as mutual infrastructure destruction escalates",
+        "dek": "Russian forces struck two major bridges in Kyiv following a massive 1,300-drone Ukrainian barrage targeting Russian oil hubs and airfields. Beyond the immediate municipal damage lies a systemic strategy of mutual infrastructure destruction.",
+        "keyFacts": [
+          "Russian forces struck two major bridges crossing the Dnipro River in Kyiv late Monday.",
+          "The strikes caused water and power cuts in parts of the Ukrainian capital, according to Mayor Vitali Klitschko.",
+          "The attacks followed a 1,300-drone overnight barrage by Ukraine hitting the Crimea bridge.",
+          "Ukrainian forces also struck the Akhtubinsk airfield, the Tsymbulova drone base, and a Russian Urals oil export hub."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "According to France 24 and local reports, Russian forces struck two major bridges crossing the Dnipro River in Kyiv late Monday. The coordinated missile and drone attacks damaged critical infrastructure and caused immediate water and power cuts across parts of the Ukrainian capital.",
+              "According to Kyiv Mayor Vitali Klitschko, the strikes on the capital were part of a wider wave of Russian drone and missile attacks that also impacted the Cherkasy and Kharkiv regions."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "According to Le Monde.fr and The Guardian, the strikes on Kyiv came directly after a massive 1,300-drone overnight barrage launched by Ukraine against key Russian targets, including the strategic Kerch bridge connecting Russia to occupied Crimea.",
+              "According to reports from Kyiv Post and UNITED24 Media, the broader Ukrainian campaign also struck the Akhtubinsk airfield, the Tsymbulova drone base, and a key Russian Urals oil export hub, alongside a military airfield in Lipetsk."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "Mainstream coverage frequently isolates the attack on Kyiv as an unprovoked assault on civilian infrastructure, omitting the systemic tit-for-taste logic driving the current phase of the war. By executing a 1,300-drone barrage against Russian energy export infrastructure and military bases, Ukraine forced a reciprocal response targeting metropolitan lifelines.",
+              "This mutual targeting demonstrates that both Moscow and Kyiv have fully transitioned into a strategy of structural exhaustion, where the objective is to degrade the opponent's economic and municipal viability faster than one's own home front collapses."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "The immediate losers are the civilian populations in Kyiv and surrounding regions facing severed water and power supplies. On the economic front, Russian oil export hubs and military logistics sustain direct financial and operational friction.",
+              "Neither state gains a decisive battlefield advantage from these exchanges; instead, state planners on both sides are betting that the adversary's domestic population will fracture first under the weight of mounting infrastructural decay."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "Monitor the resilience of Kyiv's municipal repair networks and the frequency of Ukrainian deep-strike operations against Russian energy corridors in the Urals. The sustainability of these parallel campaigns will dictate the trajectory of the winter conflict."
+            ]
+          }
+        ],
+        "tags": [
+          "Geopolitics",
+          "Ukraine",
+          "Russia",
+          "Infrastructure",
+          "Energy"
+        ],
+        "sources": [
+          {
+            "name": "France 24",
+            "title": "Russian strikes hit two key bridges in Kyiv, disrupting water and power supplies",
+            "url": "https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine"
+          },
+          {
+            "name": "Le Monde.fr",
+            "title": "After Ukraine hits key Crimea bridge in 1,300-drone overnight barrage, Russia strikes Kyiv",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZU1KeS1EYll3X1V2ZkZTTTRjRXlKTXhfbXJ0bFV0NTRVYk5EcTBGN0R0ZFZ1ZWNtalEyU19fd015MENITDZiSUdWUXhic0VieWcybGVoa3RqdmhEdFBPLXZPYXhnV2M3MVFLcWRaeWFvTHdVTWtVTTctVG9jRkpaLVBhV3dtRlQ5MUwwWHVDVlRWcW9wLTRQdktiN0t5Tm5RVFRuRngyQ0kxVFFuXzBnLTF5RlV3RC02MFVjOVg5T2pUOXhaOFE?oc=5"
+          },
+          {
+            "name": "Kyiv Post",
+            "title": "Ukraine Hits Akhtubinsk Airfield and Tsymbulova Drone Base in Russia",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiamkwNkxGM1hyOUJQVThSRnUxRGZUMWp1WE9QLXNLRW5HQkJOc1Qta0FHVjVGRjEtU2MtVkJ3a0dCc001REhuSzJoRQ?oc=5"
+          },
+          {
+            "name": "UNITED24 Media",
+            "title": "Ukraine Strikes Key Russian Urals Oil Export Hub and Damages Military Airfield in Lipetsk",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN09td21oQ2lTanUyNXN4Zlh0RFJ4OGw4bElIOEZVZVpEZGtmZGVKWjBDQjgxaDk1Vi1wLUIzdnQwRXRBbF9JMm1KMWVNc1FaSnVUSWxub1A2eFV4R0k4SnB5RWhsd2RrMmM1ZnR0RUxpbk1mVmdLNjhiWEpnemJ0WGh2aXhjUlM2OTJGcjBCalJ4MzQ4aDJld1RYRXNJdzloN2hfa0VfQ1VrNTlFNmN1eG04ZDlfSExSUmwzcXY3Wk9aMmkwX0hRckJzeEl1TGJfalE?oc=5"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTEZvZ1pFSGNkdXh4bXdESEZXLVpHdHFIMWJnd0VLVDhrMHBaUVF3c2VHNVZEOU95cWk1UzE5RWFyQmJFLUFfTjlEbzRteXBOa0RVdFFtTzdQN183V2htYzBMSGprcEZQVHdWTDgzbnRpY1pSUjhpeW5adklHMU02VDFfZkhTQUNoZEhkSEZ3TXU3cWw5VExLdHRJRQ?oc=5"
+          }
+        ],
+        "wordCount": 368
+      },
+      "videoScript": {
+        "hook": "Russian strikes just hit two key bridges in Kyiv.",
+        "beats": [
+          "Mayor Vitali Klitschko confirmed the attacks caused water and power cuts across parts of the Ukrainian capital.",
+          "The strikes followed a massive 1,300-drone overnight Ukrainian barrage targeting Russian oil hubs and military airfields.",
+          "What nobody is talking about is how this mutual infrastructure destruction has become the core strategy of mutual exhaustion."
+        ],
+        "close": "Read the full analysis at the link in our bio."
+      },
+      "rawImageUrl": "https://ichef.bbci.co.uk/news/976/cpsprodpb/11E6/production/_127028540_p0d5w8fm.jpg",
+      "sourceVideo": {
+        "provider": "youtube",
+        "id": "s8bG91ZEYnQ",
+        "title": "Dems Ok Kyiv Ok To Strike Deep Into Russia:Hands $15B  Over",
+        "channel": "Thinking Clearly - Where You Come For Common Sense",
+        "license": "cc-by"
+      },
+      "status": "pending",
+      "createdAt": "2026-11-17T02:02:44.462Z",
+      "cardImageUrl": "/news-cards/news-mng5edvun-1794880964462.jpg",
+      "reelCoverUrl": "/news-cards/news-mng5edvun-1794880965095-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-mng5edvun-1794880965677-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/russian-strikes-hit-kyiv-bridges-mutual-rt1d/"
+    },
+    "channels": {
+      "facebook": false,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": false,
+      "mastodon": false,
+      "threads": false,
+      "youtube": false
+    },
+    "scheduledFor": "2026-11-17T23:00:00.000Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-17T11:06:26.559Z",
+    "igDeferred": true
   }
 ]

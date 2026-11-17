@@ -151,6 +151,36 @@
   ],
   "processedSignatures": [
     {
+      "title": "RUSSIAN STRIKES HIT KYIV BRIDGES AMID WIDER ESCALATION",
+      "normalizedTokens": [
+        "russian",
+        "strikes",
+        "hit",
+        "kyiv",
+        "bridges",
+        "wider",
+        "escalation"
+      ],
+      "date": "2026-11-17T11:06:26.574Z"
+    },
+    {
+      "title": "Russian strikes hit two key bridges in Kyiv, disrupting water and power supplies",
+      "normalizedTokens": [
+        "russian",
+        "strikes",
+        "hit",
+        "two",
+        "key",
+        "bridges",
+        "kyiv",
+        "disrupting",
+        "water",
+        "power",
+        "supplies"
+      ],
+      "date": "2026-11-17T11:06:26.572Z"
+    },
+    {
       "title": "IRANIAN DRONE BARRAGE TARGETS US RADAR SYSTEMS IN BAHRAIN",
       "normalizedTokens": [
         "iranian",
