@@ -853,5 +853,20 @@
     "relevant": true,
     "reason": "The image is a map showing the location of the plane crash in Siberia, Russia, which directly illustrates the news story.",
     "at": "2026-11-17T23:03:39.560Z"
+  },
+  "3aad31135a2e10b6:hwaklalut": {
+    "relevant": false,
+    "reason": "The image shows a cow, which has no direct connection to Google, AI innovation, or the business and financial topics in the news story.",
+    "at": "2026-11-17T23:59:03.899Z"
+  },
+  "0c8926dcfb63986b:hwaklalut": {
+    "relevant": false,
+    "reason": "The image depicts an unrelated individual and does not represent Google, Alphabet, or AI innovation.",
+    "at": "2026-11-17T23:59:19.622Z"
+  },
+  "5493989e6367ddb2:hwaklalut": {
+    "relevant": false,
+    "reason": "The image depicts a courtroom scene with individuals who have no relation to Google or AI innovation.",
+    "at": "2026-11-17T23:59:24.945Z"
   }
 }
