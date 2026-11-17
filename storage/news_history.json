@@ -142,9 +142,38 @@
     "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmhGNVhidkt3TlpMM3l5UmpTaGYyRnEyZ0pDQnhydG0wWm9sS3VGN0pndWVSODhUbFhYTW5EalBIMEljZEVsNndnbVVNd1dmVzNOMVNHYmtpOEZjVXBaOHNfQ0dzQjlva0QyNEU5OS1vMm50TmhuVEFaZDZ0THpwTDUtX3dpeV9HUEYwOEZaVkhBNzBrZXg1dXljcmVFRC1CT0hqclh2cU9uSklvSTRnSUxXVTlmQmNhNlI1Q1E0S2hSdzF3?oc=5",
     "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
-    "https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine"
+    "https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine",
+    "https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause"
   ],
   "processedSignatures": [
+    {
+      "title": "MICROSOFT OUTAGE EXPOSES FRAGILITY OF GLOBAL CLOUD INFRASTRUCTURE",
+      "normalizedTokens": [
+        "microsoft",
+        "outage",
+        "exposes",
+        "fragility",
+        "global",
+        "cloud",
+        "infrastructure"
+      ],
+      "date": "2026-11-17T03:04:01.720Z"
+    },
+    {
+      "title": "Microsoft identifies months-old bug as a root cause of global outage",
+      "normalizedTokens": [
+        "microsoft",
+        "identifies",
+        "months",
+        "old",
+        "bug",
+        "root",
+        "cause",
+        "global",
+        "outage"
+      ],
+      "date": "2026-11-17T03:04:01.718Z"
+    },
     {
       "title": "RUSSIAN STRIKES HIT KYIV BRIDGES AMID WIDER ESCALATION",
       "normalizedTokens": [

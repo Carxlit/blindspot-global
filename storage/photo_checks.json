@@ -823,5 +823,10 @@
     "relevant": true,
     "reason": "The image shows smoke from a missile strike directly adjacent to a bridge in Kyiv.",
     "at": "2026-11-17T02:02:44.461Z"
+  },
+  "6e75b4dcc4bc880c:06exajxlb": {
+    "relevant": true,
+    "reason": "The image clearly displays a Microsoft logo on a corporate building, directly representing the main subject and company involved in the global outage headline.",
+    "at": "2026-11-17T03:03:57.014Z"
   }
 }
