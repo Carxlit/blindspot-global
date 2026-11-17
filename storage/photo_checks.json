@@ -803,5 +803,10 @@
     "relevant": true,
     "reason": "The image depicts Sam Altman, the OpenAI chief referenced in the headline and context.",
     "at": "2026-11-16T23:04:55.401Z"
+  },
+  "b3f63a11cd3161f1:bkfz7rjas": {
+    "relevant": true,
+    "reason": "The image depicts a large explosion and smoke over a city skyline, visually representing a massive drone barrage and strike inside Russia as mentioned in the headline.",
+    "at": "2026-11-17T00:13:02.964Z"
   }
 }

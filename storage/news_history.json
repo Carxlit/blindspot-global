@@ -139,9 +139,42 @@
     "https://www.thehindu.com/news/international/many-killed-several-injured-phuket-shophouse/article71706768.ece",
     "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
     "https://www.dw.com/es/once-muertos-en-un-incendio-en-isla-turística-en-tailandia/a-79954395?maca=spa-rss-sp-all-1122-rdf",
-    "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor"
+    "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmhGNVhidkt3TlpMM3l5UmpTaGYyRnEyZ0pDQnhydG0wWm9sS3VGN0pndWVSODhUbFhYTW5EalBIMEljZEVsNndnbVVNd1dmVzNOMVNHYmtpOEZjVXBaOHNfQ0dzQjlva0QyNEU5OS1vMm50TmhuVEFaZDZ0THpwTDUtX3dpeV9HUEYwOEZaVkhBNzBrZXg1dXljcmVFRC1CT0hqclh2cU9uSklvSTRnSUxXVTlmQmNhNlI1Q1E0S2hSdzF3?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "UKRAINE LAUNCHES RECORD 1,300 DRONE BARRAGE AGAINST RUSSIA",
+      "normalizedTokens": [
+        "ukraine",
+        "launches",
+        "record",
+        "300",
+        "drone",
+        "barrage",
+        "russia"
+      ],
+      "date": "2026-11-17T00:13:05.603Z"
+    },
+    {
+      "title": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows",
+      "normalizedTokens": [
+        "ukraine",
+        "launches",
+        "biggest",
+        "drone",
+        "attack",
+        "russia",
+        "since",
+        "war",
+        "began",
+        "defence",
+        "ministry",
+        "data",
+        "shows"
+      ],
+      "date": "2026-11-17T00:13:05.602Z"
+    },
     {
       "title": "OPENAI CHIEF DOWNPLAYS RAM SHORTAGE BLAME AS HARDWARE COSTS SOAR",
       "normalizedTokens": [
