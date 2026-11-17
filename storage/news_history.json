@@ -147,9 +147,37 @@
     "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
     "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-    "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss"
+    "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdXdUMzJNWXItalNlM2xFWFlCdUM3X1lqTllNY0htY2lQZl8tYUYybkE4bFlwRWlaUFBJZ3NBcnVfSUY0cmtyeS1ZSHpNN2dKdHU2S19RVF9nbTBnY3VkaWpRMFdCSzFWbDdReFV0RzJaRXprS1ZaZmNFLVNiWTRZb0JlUzE5MGtMbWF5eUJwM0pwY2FQcEpBTFBzRW9HVXdTRUpQYi03Nk9uOXpUUTFMYUxLM05UR3VCY2c?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "RUSSIAN MILITARY TRANSPORT AIRCRAFT CRASHES IN SIBERIA",
+      "normalizedTokens": [
+        "russian",
+        "military",
+        "transport",
+        "aircraft",
+        "crashes",
+        "siberia"
+      ],
+      "date": "2026-11-17T23:03:41.346Z"
+    },
+    {
+      "title": "Russian military transport aircraft crashes in Siberia, 19 dead, defence ministry says",
+      "normalizedTokens": [
+        "russian",
+        "military",
+        "transport",
+        "aircraft",
+        "crashes",
+        "siberia",
+        "dead",
+        "defence",
+        "ministry"
+      ],
+      "date": "2026-11-17T23:03:41.345Z"
+    },
     {
       "title": "MICROSOFT OUTAGE EXPOSES FRAGILITY OF GLOBAL CLOUD INFRASTRUCTURE",
       "normalizedTokens": [
