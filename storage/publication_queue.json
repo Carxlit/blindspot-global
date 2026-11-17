@@ -24352,12 +24352,13 @@
         "close": "Read our full analysis on the West Bank blind spot at the link in bio."
       },
       "rawImageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794888000.jpg?resize=1200%2C675",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-17T05:32:10.576Z",
       "cardImageUrl": "/news-cards/news-b4dz3jym5-1794893530576.jpg",
       "reelCoverUrl": "/news-cards/news-b4dz3jym5-1794893534544-cover.jpg",
       "instagramCardUrl": "/news-cards/news-b4dz3jym5-1794893535151-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/settler-violence-escalates-near-jericho-armed-dx9c/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/settler-violence-escalates-near-jericho-armed-dx9c/",
+      "publishedAt": "2026-11-17T05:36:28.393Z"
     },
     "channels": {
       "facebook": true,
@@ -24371,10 +24372,33 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-17T05:32:16.196Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-17T05:32:16.196Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-17T05:33:14.096Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122109969927539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "17903392731387528",
+        "permalink": "https://www.instagram.com/reel/Df1MP9ijfPU/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": true,
+        "url": "https://youtube.com/shorts/_uMTqTbBOrs"
+      }
+    },
+    "publishedAt": "2026-11-17T05:36:28.393Z"
   }
 ]
