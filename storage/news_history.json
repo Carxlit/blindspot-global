@@ -144,9 +144,38 @@
     "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
     "https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine",
     "https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause",
-    "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss"
+    "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
+    "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "UPDATE: RUSSIA STRIKES KYIV BRIDGES FOLLOWING CRIMEA BARRAGE",
+      "normalizedTokens": [
+        "update",
+        "russia",
+        "strikes",
+        "kyiv",
+        "bridges",
+        "following",
+        "crimea",
+        "barrage"
+      ],
+      "date": "2026-11-17T05:46:31.803Z"
+    },
+    {
+      "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
+      "normalizedTokens": [
+        "two",
+        "major",
+        "kyiv",
+        "bridges",
+        "hit",
+        "russian",
+        "attack",
+        "mayor"
+      ],
+      "date": "2026-11-17T05:46:31.799Z"
+    },
     {
       "title": "ISRAELI SETTLERS OPEN FIRE IN WEST BANK NEAR JERICHO",
       "normalizedTokens": [

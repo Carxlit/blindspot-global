@@ -1,5 +1,109 @@
 [
   {
+    "slug": "russian-ballistic-missiles-target-kyiv-bridges-8leo",
+    "path": "news/russian-ballistic-missiles-target-kyiv-bridges-8leo/",
+    "title": "Russian Ballistic Missiles Target Kyiv Bridges in Major Operational Escalation",
+    "headline": "UPDATE: RUSSIA STRIKES KYIV BRIDGES FOLLOWING CRIMEA BARRAGE",
+    "dek": "Strikes on the Northern and Southern bridges in Kyiv disrupted power and water across the Ukrainian capital. The attack followed consecutive Ukrainian hits on the Kerch Bridge in Crimea.",
+    "category": "GEOPOLITICS",
+    "sourceName": "BBC News",
+    "image": "img/russian-ballistic-missiles-target-kyiv-bridges-8leo.jpg",
+    "photo": "img/russian-ballistic-missiles-target-kyiv-bridges-8leo-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "9cpnRMVU2-0",
+      "title": "Russia Hits Two Kyiv Bridges, Cuts Water and Power",
+      "channel": "Daily News Explained",
+      "license": "cc-by"
+    },
+    "publishedAt": "2026-11-17T05:46:31.716Z",
+    "article": {
+      "slug": "russian-ballistic-missiles-target-kyiv-bridges-8leo",
+      "title": "Russian Ballistic Missiles Target Kyiv Bridges in Major Operational Escalation",
+      "dek": "Strikes on the Northern and Southern bridges in Kyiv disrupted power and water across the Ukrainian capital. The attack followed consecutive Ukrainian hits on the Kerch Bridge in Crimea.",
+      "keyFacts": [
+        "Kyiv Mayor Vitali Klitschko confirmed Russian ballistic missile strikes on the Northern and Southern bridges over the Dnipro River.",
+        "An estimated 3 million residents in Kyiv rely on eight major bridges spanning the Dnipro River for daily transit.",
+        "Ukraine struck the Kerch Bridge connecting Russia to occupied Crimea for a second consecutive day, suspending traffic.",
+        "High-level online talks were held with US envoys Jared Kushner and Steve Witkoff prior to the strikes."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Russian ballistic missiles struck two major bridges in Kyiv overnight, targeting key transport corridors across the Dnipro River according to municipal officials. Kyiv Mayor Vitali Klitschko reported that the Northern and Southern bridges suffered direct strikes, causing immediate disruptions to the city's power, heating, and water distribution networks.",
+            "The attack damaged above-ground subway infrastructure, forcing municipal authorities to halt select transit services while directing residents to civil defense shelters. Local officials in the Cherkasy region separately reported three injuries resulting from concurrent Russian missile strikes."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The overnight bombardment followed consecutive Ukrainian strikes against the Kerch Bridge, the primary physical conduit linking southern Russia to occupied Crimea. Moscow-installed governor Sergei Aksyonov confirmed on Telegram that Ukrainian forces targeted the bridge for a second straight day, forcing authorities to suspend all vehicle traffic.",
+            "These operational developments coincided with high-level digital diplomacy involving US envoys Jared Kushner and Steve Witkoff. The discussions followed Ukraine's massive long-range aerial strike involving over 1,300 drones targeted against military infrastructure inside Russian territory."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream reporting presents the strikes as reactive retaliatory volleys. However, the systematic targeting of river crossings represents a deliberate doctrinal shift toward physical isolation. Kyiv relies on eight main bridges across the Dnipro River to integrate its eastern and western sectors. Disrupting these arterial spans threatens to split the capital's civil logistics and emergency response capacity.",
+            "By striking major bridges, Moscow is testing the operational threshold of total urban disruption in Kyiv. This strategy mirrors Ukraine's systematic interdiction of Crimean logistics, creating a scenario where structural leverage over civilian mobility is directly linked to diplomatic maneuvers."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Moscow gains immediate tactical leverage by demonstrating its ability to paralyze urban life in Kyiv and sever internal transportation lines across the Dnipro River.",
+            "The civilian population and municipal administration of Kyiv bear the primary burden, facing structural damage to essential heating, water, and transport networks as winter conditions persist."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Developments will depend on whether Russian forces expand missile strikes to the six remaining bridges spanning the Dnipro River in Kyiv. Continued disruption of transit nodes would escalate civil emergency conditions.",
+            "Concurrently, the durability of Russia's Crimean supply routes remains critical as Ukrainian forces maintain targeting pressure against the Kerch Bridge."
+          ]
+        }
+      ],
+      "tags": [
+        "Geopolitics",
+        "Kyiv",
+        "Dnipro River",
+        "Kerch Bridge",
+        "Infrastructure Warfare"
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
+          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC",
+          "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSRU00UVItWVBVOXhnT1ozc2E0NXk5V3VNTlN4eERVeGVRRlJKc3dHLUMxbTRISm5RbEhoeEJUdEhCbldiU0txRExramJVWF9OcVdIV3dBOEo3czA?oc=5"
+        },
+        {
+          "name": "Kyiv Post",
+          "title": "Russian Missiles Hit 2 Major Kyiv Bridges, Damage Critical Infrastructure After Zelensky’s Warning",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1N2lueV8zUjdxYXBZX25MQW10MmZaX3gtUWtYY01XZElCX093VnZISUYycGV6czFvNnF1czV0ZXpPUFA5N2JkNnROMA?oc=5"
+        },
+        {
+          "name": "DW.com",
+          "title": "Ukraine: Russian strikes hit bridges in Kyiv, mayor says",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOV9jVllmYTZFOFFyTllHQi1tY1RTUDhSdnh2RENTWXpUOXBoa2xXTzh1VHV5WndlZDQ3V2tEN3A2VFdJWEs3c0E5U0FjaWhfNUo1Zmwtclp4XzZJQy16cldCV2t2a25BR3FmTUZuSXBubXQyb1NrcTRNQUI3NmFNMGFXRWQxeHF5NzZSd09xeHpjYzA1?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Ukraine war briefing: Crimea bridge attacked again after Russia strikes major Kyiv bridges",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTmg0aDByRUM0SnpqOVZlZmZncVpLOW5zZGl0SG9xemhVbVNhcndfNGNCZHhxdVdRZGZ1U3NiN2JfWTBMcGhHQnlCa2lGRWxpNUxlcmxENzFteHJiZzhzV3ZrZ0tkZ2tUVG1ZOEpDS1M4UnJFQ01PdVYwM3RUTWE5Ykh0WHhua3J6Skx5RWVEcHVzVDlMRmRESksxNlNPSS01RFRyZUNWM0wyQjFoYlVkbjNzM1VUZHJJUGhJSlZLbzczWmFDRXJTV2JfQlZaSnps?oc=5"
+        }
+      ],
+      "wordCount": 392
+    },
+    "blindSpot": "While diplomatic talks involving US envoys Jared Kushner and Steve Witkoff proceed online, both belligerents are aggressively accelerating targeted infrastructure sabotage. Moscow is actively testing the threshold of total urban paralysis in Kyiv to leverage tactical dominance ahead of potential ceasefire terms, matching Ukraine's systematic targeting of Crimean supply routes.",
+    "updateOf": "kyiv-launches-record-1-300-drone-3g3y"
+  },
+  {
     "slug": "settler-violence-escalates-near-jericho-armed-dx9c",
     "path": "news/settler-violence-escalates-near-jericho-armed-dx9c/",
     "title": "Settler Violence Escalates Near Jericho as Armed Incursions Target Palestinian Homes",
@@ -477,7 +581,8 @@
       ],
       "wordCount": 493
     },
-    "blindSpot": "While headlines focus on the raw tally of intercepted drones, the strategic objective lies in depleting Russia's costly air defense missile stockpiles through cheap mass attrition. By forcing Moscow to expend multi-million-dollar interceptors against mass-produced unmanned aerial vehicles, Kyiv tests the operational threshold of Russian logistics behind the frontline."
+    "blindSpot": "While headlines focus on the raw tally of intercepted drones, the strategic objective lies in depleting Russia's costly air defense missile stockpiles through cheap mass attrition. By forcing Moscow to expend multi-million-dollar interceptors against mass-produced unmanned aerial vehicles, Kyiv tests the operational threshold of Russian logistics behind the frontline.",
+    "updatedBy": "russian-ballistic-missiles-target-kyiv-bridges-8leo"
   },
   {
     "slug": "sam-altman-addresses-memory-shortages-enterprise-sfbx",
