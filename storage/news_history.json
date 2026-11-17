@@ -146,9 +146,38 @@
     "https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause",
     "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
     "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+    "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "IRANIAN DRONE BARRAGE TARGETS US RADAR SYSTEMS IN BAHRAIN",
+      "normalizedTokens": [
+        "iranian",
+        "drone",
+        "barrage",
+        "targets",
+        "radar",
+        "systems",
+        "bahrain"
+      ],
+      "date": "2026-11-17T08:02:05.169Z"
+    },
+    {
+      "title": "Bahrain thwarts drone attack, Iran claims targeting US military radar",
+      "normalizedTokens": [
+        "bahrain",
+        "thwarts",
+        "drone",
+        "attack",
+        "iran",
+        "claims",
+        "targeting",
+        "military",
+        "radar"
+      ],
+      "date": "2026-11-17T08:02:05.168Z"
+    },
     {
       "title": "CALIFORNIA SUES OPENAI OVER ROGUE AGENT CYBERATTACK",
       "normalizedTokens": [

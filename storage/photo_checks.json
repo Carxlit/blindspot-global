@@ -843,5 +843,10 @@
     "relevant": true,
     "reason": "The image depicts Sam Altman, the CEO of OpenAI, who is the central figure associated with the company mentioned in the headline and lawsuit.",
     "at": "2026-11-17T06:18:53.900Z"
+  },
+  "23ce1ca39a5bb645:1iiolr4jb": {
+    "relevant": true,
+    "reason": "The image depicts an Iranian Shahed drone, which is directly relevant to the news story about an Iranian drone attack targeting US radar systems.",
+    "at": "2026-11-17T08:02:00.566Z"
   }
 }
