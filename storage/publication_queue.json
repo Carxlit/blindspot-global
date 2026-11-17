@@ -24524,12 +24524,13 @@
         "license": "cc-by"
       },
       "updateOf": "kyiv-launches-record-1-300-drone-3g3y",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-17T05:46:29.373Z",
       "cardImageUrl": "/news-cards/news-5ztrg4rvk-1794894389373.jpg",
       "reelCoverUrl": "/news-cards/news-5ztrg4rvk-1794894390109-cover.jpg",
       "instagramCardUrl": "/news-cards/news-5ztrg4rvk-1794894390689-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/russian-ballistic-missiles-target-kyiv-bridges-8leo/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/russian-ballistic-missiles-target-kyiv-bridges-8leo/",
+      "publishedAt": "2026-11-17T05:50:53.595Z"
     },
     "channels": {
       "facebook": true,
@@ -24543,10 +24544,33 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-17T05:46:31.788Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-17T05:46:31.788Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-17T05:47:19.649Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122109976017539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18122802862752140",
+        "permalink": "https://www.instagram.com/reel/Df1N5ENjv3o/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Reel no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      },
+      "youtube": {
+        "success": true,
+        "url": "https://youtube.com/shorts/3LnlsSXrhro"
+      }
+    },
+    "publishedAt": "2026-11-17T05:50:53.595Z"
   }
 ]
