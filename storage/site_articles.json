@@ -1,5 +1,107 @@
 [
   {
+    "slug": "united-airlines-outage-exposes-operational-fragility-f572",
+    "path": "news/united-airlines-outage-exposes-operational-fragility-f572/",
+    "title": "United Airlines Outage Exposes Operational Fragility in Centralized Aviation Systems",
+    "headline": "UNITED AIRLINES OUTAGE EXPOSES CRITICAL INFRASTRUCTURE FRAGILITY",
+    "dek": "United Airlines restored departing flights following a critical breakdown in its load calculation software. The disruption underscores systemic vulnerabilities across heavily digitized aviation infrastructure.",
+    "category": "TECHNOLOGY & AI",
+    "sourceName": "The Verge",
+    "image": "img/united-airlines-outage-exposes-operational-fragility-f572.jpg",
+    "photo": "img/united-airlines-outage-exposes-operational-fragility-f572-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "kQhhmBWl-Ao",
+      "title": "United Airlines reports ‘widespread system outage’",
+      "channel": "CNN"
+    },
+    "publishedAt": "2026-11-17T01:05:33.401Z",
+    "article": {
+      "slug": "united-airlines-outage-exposes-operational-fragility-f572",
+      "title": "United Airlines Outage Exposes Operational Fragility in Centralized Aviation Systems",
+      "dek": "United Airlines restored departing flights following a critical breakdown in its load calculation software. The disruption underscores systemic vulnerabilities across heavily digitized aviation infrastructure.",
+      "keyFacts": [
+        "United Airlines resolved a systemwide technology outage impacting departing flights at 6:13PM ET on November 16th.",
+        "The disruption was tied to a failure in United's internal weight and balance calculation software required for takeoff clearance.",
+        "Mainline United departing flights were suspended, while flights in progress and United Express operations remained active.",
+        "The outage occurred less than a week after an FAA air traffic control radar and communications failure caused a nationwide ground stop."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "According to statement updates from United Airlines, the carrier resolved a technology-related issue impacting departing flights at 6:13PM ET on November 16th. The airline reported that airborne flights and operations under the United Express regional banner were not affected by the disruption.",
+            "Social media updates and pilot reports indicated that the internal failure hit United's weight and balance calculator. Without functional load figures required for mandatory safety clearances, flight crews were unable to depart, causing aircraft to hold at gates nationwide."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The flight disruption occurred less than a week after a major air traffic control outage forced the Federal Aviation Administration to order a nationwide ground stop due to communications and radar failures. The event also follows recent high-profile digital interruptions, including widespread cloud outages and financial system failures.",
+            "Commercial airlines operate under rigid regulatory protocols that forbid takeoffs without precise weight and balance calculations. When automated software fails, manual calculation alternatives are often unavailable or impractical, turning minor software bugs into fleet-wide groundings."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Media coverage routinely characterizes airline IT failures as isolated operational glitches, overlooking the broader structural risks of centralized software architecture. Modern carriers use real-time software models to optimize fuel efficiency and passenger seating, creating hyper-efficient but brittle dispatch operations.",
+            "The blind spot is the vulnerability created when rigid regulatory safety mandates intersect with single-point cloud software dependencies. A failure in one centralized calculation script exerts the same halting force on aviation infrastructure as physical fleet damage."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Legacy air carriers bear the financial and reputational consequences of software downtime through delay compensation and gate management costs. Conversely, regional operational partners like United Express avoided disruption by relying on independent dispatch setups.",
+            "Software suppliers and infrastructure regulators face mounting scrutiny to implement fault-tolerant backup systems for core flight dispatch tools."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Industry oversight bodies are expected to review whether software redundancy standards should be mandated alongside ongoing federal air traffic modernization programs.",
+            "Key indicators will include carrier capital allocations toward offline dispatch tools designed to prevent localized IT issues from escalating into regional transit stops."
+          ]
+        }
+      ],
+      "tags": [
+        "Aviation",
+        "Technology",
+        "United Airlines",
+        "Infrastructure",
+        "Supply Chain"
+      ],
+      "sources": [
+        {
+          "name": "The Verge",
+          "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+          "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures"
+        },
+        {
+          "name": "The New York Times",
+          "title": "United Airlines Flights Resume After ‘Widespread System Outage’",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWU5TTEMwajFpdFFfcjFxc2RWdFZ5dGxWamh6UjZ5ZHM2ZHhfODVDVWx3Tm5zanVacS1CclgyWkhQUGE1R29jemxHSS1vTGFzenRZLTRtUHZPWmFnRHlFZDB6anRETHBqS3pzd0FzeEI5SXFfdVpocFF2cnVQM00yX0gtaEFMdw?oc=5"
+        },
+        {
+          "name": "San Francisco Chronicle",
+          "title": "United Airlines resolves outage after flights disrupted at SFO",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORUJVS1RyeUNWNnNJVWUxZlhIbzZUS2NKVlJGNldGODE5Xzd4a3ZkWWgyaWxUbjV1R00xcGdwWThOY3lra1lTNGJDc2p1MlRkZ1RJb2lKb1VSZk1vX2FHVk5MQ01tUXQ4NUlYQ2JVZG9tQ1BXbE5RMGFMR1FrYUZCNGxmNjZpeGZGekhZ?oc=5"
+        },
+        {
+          "name": "Alton Telegraph",
+          "title": "United Airlines outage briefly disrupts departing flights",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNUZXMW5BN3JfeF9JTGZsRXpqMlo4cnNMenJXSjM5TFN2cHRGd2dnSFp6RkJubDJJNWJUakJOczFVQ3JqRGdlNzdhaUEzWHQ1MmNHUE9DXzMzWWRuTjgwcVpqWVUxMDdxOFpfVy1WcDhjeWlPd1FhaDU4N1VPVWFpRVFZemQ2Ung1bjhpaA?oc=5"
+        },
+        {
+          "name": "ABC7 New York",
+          "title": "United Airlines briefly has 'systemwide' disruption to departing flights",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDVOQjMzZ291ZERBZ09ubjVUMGhiVWJGcm5MeFdLc0RwcmFxaFhTVW5yY0dRN2UzTVNySm5vbXp3NFBKRWtoc0xQSWtTMzFQVW5zZlU1ZTV0REl0UzNBRDlUUDFhZG5sZllzRHVOT2ZscnhRSmF6dEhadDMyUGtRREJSYVZYSjl6RkpsN3BGWC1Vb2R4bGFxd191OGR3bENmcFRBWg?oc=5"
+        }
+      ],
+      "wordCount": 360
+    },
+    "blindSpot": "While airlines present these disruptions as isolated technical glitches, modern commercial aviation relies heavily on centralized single-point-of-failure algorithms for essential dispatch operations. The convergence of carrier-specific software outages and broader air traffic control failures highlights an unpriced fragility in digital transit infrastructure."
+  },
+  {
     "slug": "kyiv-launches-record-1-300-drone-3g3y",
     "path": "news/kyiv-launches-record-1-300-drone-3g3y/",
     "title": "Kyiv Launches Record 1,300 Drone Strike Against Russian Strategic Targets",

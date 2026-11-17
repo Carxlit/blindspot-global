@@ -140,9 +140,39 @@
     "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
     "https://www.dw.com/es/once-muertos-en-un-incendio-en-isla-turística-en-tailandia/a-79954395?maca=spa-rss-sp-all-1122-rdf",
     "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmhGNVhidkt3TlpMM3l5UmpTaGYyRnEyZ0pDQnhydG0wWm9sS3VGN0pndWVSODhUbFhYTW5EalBIMEljZEVsNndnbVVNd1dmVzNOMVNHYmtpOEZjVXBaOHNfQ0dzQjlva0QyNEU5OS1vMm50TmhuVEFaZDZ0THpwTDUtX3dpeV9HUEYwOEZaVkhBNzBrZXg1dXljcmVFRC1CT0hqclh2cU9uSklvSTRnSUxXVTlmQmNhNlI1Q1E0S2hSdzF3?oc=5"
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmhGNVhidkt3TlpMM3l5UmpTaGYyRnEyZ0pDQnhydG0wWm9sS3VGN0pndWVSODhUbFhYTW5EalBIMEljZEVsNndnbVVNd1dmVzNOMVNHYmtpOEZjVXBaOHNfQ0dzQjlva0QyNEU5OS1vMm50TmhuVEFaZDZ0THpwTDUtX3dpeV9HUEYwOEZaVkhBNzBrZXg1dXljcmVFRC1CT0hqclh2cU9uSklvSTRnSUxXVTlmQmNhNlI1Q1E0S2hSdzF3?oc=5",
+    "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures"
   ],
   "processedSignatures": [
+    {
+      "title": "UNITED AIRLINES OUTAGE EXPOSES CRITICAL INFRASTRUCTURE FRAGILITY",
+      "normalizedTokens": [
+        "united",
+        "airlines",
+        "outage",
+        "exposes",
+        "critical",
+        "infrastructure",
+        "fragility"
+      ],
+      "date": "2026-11-17T01:05:33.551Z"
+    },
+    {
+      "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+      "normalizedTokens": [
+        "united",
+        "airlines",
+        "system",
+        "outage",
+        "disrupts",
+        "departures",
+        "days",
+        "big",
+        "ground",
+        "stop"
+      ],
+      "date": "2026-11-17T01:05:33.549Z"
+    },
     {
       "title": "UKRAINE LAUNCHES RECORD 1,300 DRONE BARRAGE AGAINST RUSSIA",
       "normalizedTokens": [
