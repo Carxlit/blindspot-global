@@ -24839,12 +24839,13 @@
         "title": "Trump Faces Iran Warning After Bahrain Radar Attack",
         "channel": "World News HQ"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-17T08:02:00.567Z",
       "cardImageUrl": "/news-cards/news-1iiolr4jb-1794902520567.jpg",
       "reelCoverUrl": "/news-cards/news-1iiolr4jb-1794902523566-cover.jpg",
       "instagramCardUrl": "/news-cards/news-1iiolr4jb-1794902524043-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/iranian-drone-strikes-target-us-radar-4qwh/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/iranian-drone-strikes-target-us-radar-4qwh/",
+      "publishedAt": "2026-11-17T08:05:10.555Z"
     },
     "channels": {
       "facebook": true,
@@ -24858,10 +24859,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-17T08:02:05.157Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
     "createdAt": "2026-11-17T08:02:05.157Z",
-    "isBreaking": true
+    "isBreaking": true,
+    "lastAttemptAt": "2026-11-17T08:02:57.671Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122110023369539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": true,
+        "mediaId": "18390268861232853",
+        "permalink": "https://www.instagram.com/reel/Df1dZwAiouG/"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "YouTube: tope diario de 3 Shorts alcanzado"
+      }
+    },
+    "publishedAt": "2026-11-17T08:05:10.555Z"
   }
 ]
