@@ -154,9 +154,36 @@
     "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
     "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
     "https://www.euronews.com/2026/11/17/dead-melbourne-cup-racehorse-found-dumped-in-sydney-waste-facility",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc3BURzBTMklXSGpvLUpPTzFpMHlVY1FCZlRYbl9BemFRSFpxNjlxQ0Z4RzFXM3h1V1RmS3h1dko5ajhOc19zeldyemU4Q2xMbUQ1ckw1MHcySWQ4MUV5MUx2QmR3Q3lyem01WUkzTWRlWFBid3U4TVpGS2wxeFV6NVNTWXFJQzZ5amxtaGl5b0Y1cnpnd29aTWlXQWxybHNLSUc4Sm1IX19NUV9LUW1hUTMtWk5WY3Ay?oc=5"
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc3BURzBTMklXSGpvLUpPTzFpMHlVY1FCZlRYbl9BemFRSFpxNjlxQ0Z4RzFXM3h1V1RmS3h1dko5ajhOc19zeldyemU4Q2xMbUQ1ckw1MHcySWQ4MUV5MUx2QmR3Q3lyem01WUkzTWRlWFBid3U4TVpGS2wxeFV6NVNTWXFJQzZ5amxtaGl5b0Y1cnpnd29aTWlXQWxybHNLSUc4Sm1IX19NUV9LUW1hUTMtWk5WY3Ay?oc=5",
+    "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "RUBIO INSISTS RECENT US TECH OUTAGES LACK SYSTEMIC THREAT",
+      "normalizedTokens": [
+        "rubio",
+        "insists",
+        "recent",
+        "tech",
+        "outages",
+        "lack",
+        "systemic",
+        "threat"
+      ],
+      "date": "2026-11-18T08:09:20.168Z"
+    },
+    {
+      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+      "normalizedTokens": [
+        "rubio",
+        "systemic",
+        "attack",
+        "series",
+        "tech",
+        "outages"
+      ],
+      "date": "2026-11-18T08:09:20.167Z"
+    },
     {
       "title": "UPDATE: UKRAINIAN DRONES TARGET TWO KRASNODAR REFINERIES",
       "normalizedTokens": [

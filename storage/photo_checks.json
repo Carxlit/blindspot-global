@@ -898,5 +898,10 @@
     "relevant": false,
     "reason": "The image shows a gas station in Russia (Gazprom Neft) with civilian cars, which is unrelated to the drone strikes on Krasnodar oil refineries.",
     "at": "2026-11-18T06:50:32.321Z"
+  },
+  "07ec40ba4e1c188c:8x9f98mn0": {
+    "relevant": true,
+    "reason": "The image clearly depicts Marco Rubio, the central figure mentioned in the headline, speaking in an official setting.",
+    "at": "2026-11-18T08:09:13.217Z"
   }
 }
