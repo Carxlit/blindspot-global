@@ -868,5 +868,10 @@
     "relevant": false,
     "reason": "The image depicts a courtroom scene with individuals who have no relation to Google or AI innovation.",
     "at": "2026-11-17T23:59:24.945Z"
+  },
+  "a80141cc32d71fa7:725h8wjqt": {
+    "relevant": true,
+    "reason": "The image clearly shows the Kerch Strait Bridge, which is the central subject of the headline regarding security and strikes on the Crimean bridge.",
+    "at": "2026-11-18T01:04:29.038Z"
   }
 }

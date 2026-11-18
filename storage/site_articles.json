@@ -1,5 +1,103 @@
 [
   {
+    "slug": "beyond-kerch-strait-how-strikes-crimean-3dva",
+    "path": "news/beyond-kerch-strait-how-strikes-crimean-3dva/",
+    "title": "Beyond the Kerch Strait: How Strikes on Crimean Bridge Cripple Russian Logistics",
+    "headline": "RUSSIA STRUGGLES TO SECURE CRIMEAN BRIDGE AGAINST UKRAINIAN STRIKES",
+    "dek": "Repeated Ukrainian attacks on the Kerch Strait Bridge expose Moscow's structural reliance on a single supply bottleneck. As damage mounts, Russia's southern military operations face growing logistical disruption.",
+    "category": "SECURITY & DEFENSE",
+    "sourceName": "Reuters",
+    "image": "img/beyond-kerch-strait-how-strikes-crimean-3dva.jpg",
+    "photo": "img/beyond-kerch-strait-how-strikes-crimean-3dva-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "poo1E_-UiRQ",
+      "title": "Ukraine’s massive seven-stage operation shattered Putin’s Crimea Bridge, crippled vital supply route",
+      "channel": "Kanal13",
+      "license": "cc-by"
+    },
+    "publishedAt": "2026-11-18T01:04:31.470Z",
+    "article": {
+      "slug": "beyond-kerch-strait-how-strikes-crimean-3dva",
+      "title": "Beyond the Kerch Strait: How Strikes on Crimean Bridge Cripple Russian Logistics",
+      "dek": "Repeated Ukrainian attacks on the Kerch Strait Bridge expose Moscow's structural reliance on a single supply bottleneck. As damage mounts, Russia's southern military operations face growing logistical disruption.",
+      "keyFacts": [
+        "The Crimean Bridge spans 19 kilometers across the Kerch Strait, connecting mainland Russia directly to Crimea.",
+        "The bridge serves as the primary rail and highway corridor for supplying Russian troops in southern Ukraine.",
+        "Repeated Ukrainian strikes using naval drones and long-range missiles have disrupted rail and road traffic across the Kerch Strait.",
+        "Alternative overland supply routes run through occupied territories in Donetsk and Zaporizhzhia, within range of Ukrainian artillery."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "The Kerch Strait Bridge, a 19-kilometer dual rail and highway link connecting the Russian mainland directly to the occupied Crimean peninsula, has become a primary focal point of operational friction in the Russia-Ukraine war. According to reporting from Reuters, repeated Ukrainian strikes leveraging naval drones, long-range missiles, and clandestine sabotage have inflicted significant structural damage on both the roadway and rail sections of the bridge.",
+            "Official statements from Moscow have consistently attempted to downplay the impact, framing repair efforts as routine engineering tasks and asserting that transport links remain functional. However, regional intelligence reports and satellite analysis confirm that heavy freight capacity across the bridge has been sharply curtailed, forcing military transports to endure protracted delays and stringent security inspections."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Constructed following Russia's annexation of Crimea, the bridge was heralded by the Kremlin as an engineering triumph and a permanent symbol of Russian sovereignty over the peninsula. Beyond its political symbolism, the bridge plays an irreplaceable operational role in Russia's military posture across the region.",
+            "Prior to the full-scale invasion, the Kerch Strait corridor handled the bulk of heavy freight, ammunition shipments, and personnel transfers entering Crimea. Following the opening of the southern front, the structure became the primary logistical artery sustaining Russian army groups operating in southern Kherson and Zaporizhzhia regions. Denying Moscow the unhindered use of this corridor has consequently emerged as a top strategic priority for Ukrainian command."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream analysis frequently evaluates attacks on the Crimean Bridge through the lens of political symbolism or immediate tactical retaliation. However, the critical blind spot lies in the compound economic and logistical strain these strikes exert on Russia's wider war effort.",
+            "By rendering the Kerch rail and road links unreliable, Ukraine effectively forces Russian logistics officers to reroute supply trains through the land bridge in occupied eastern Ukraine. This alternative route, running through Donetsk and Zaporizhzhia, passes significantly closer to the front line, bringing Russian supply trains and fuel convoys within range of Ukrainian precision artillery and drone reconnaissance. What appears on the surface as damage to a single bridge actually forces a systemic reallocation of Russian air defense systems and engineering units to protect hundreds of kilometers of exposed mainland railway."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Kyiv gains significant strategic leverage from these strikes, demonstrating an ability to disrupt Russian force projection far behind the immediate contact line while consuming Russian defensive resources. The continuous vulnerability of the Kerch Strait also undercuts Moscow's narrative of permanent control over Crimea, generating psychological pressure on Russian command structures.",
+            "Conversely, the Russian military command bears severe operational costs. Moscow is forced to expend millions in structural repairs, deploy high-value S-400 air defense batteries to guard the strait, and accept prolonged supply bottlenecks that limit the operational mobility of its forces in southern Ukraine."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "In the coming months, monitor whether Russia can establish redundant heavy-rail capacity through the occupied mainland to lessen its dependence on the Kerch Strait. Observers should also track Ukrainian long-range strike capabilities targeting repair barges, air defense emplacements, and security checkpoints around the bridge.",
+            "Any sustained disruption to the Kerch rail span during major military operations on the southern front could severely restrict Moscow's ability to reinforce its front-line units."
+          ]
+        }
+      ],
+      "tags": [
+        "Security",
+        "Crimean Bridge",
+        "Russia Ukraine War",
+        "Kerch Strait",
+        "Military Logistics"
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "What is the Crimean Bridge and why does it matter in the Russia-Ukraine war?",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQnR5S0xzeDVGTnpYR0UyWEJCdTNiZzUyUW9TNmpuRU4yby1ndElhR2dYcDYxMmFDRmJna2ROZ2MxNEt3czFDemhzYTU3OHVlTnNQNlhlVFloanJzUWVndFdfTkZGOVdQekI4VUdYeG0tVUFGeGVnYkdMZ2t1QjZGQWxBTFJkUVlvS3NVZU5sUjZzY0g3OXVTRVVoVklyb3dHN0FqN0xQYlQ3eDBwTHc?oc=5"
+        },
+        {
+          "name": "U.S. News & World Report",
+          "title": "Factbox-What Is the Crimean Bridge and Why Does It Matter in the Russia-Ukraine War?",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYU9XU1FUZzNOYlo3WlNZdlBmc19LMjFHc1I1Q3pDS0FQSUM2X2lXZ1FxQVFZZWNKVDY0eVAwX2tzQ25aM3ZuZFdHZGpyaC10b0ZPWk5JZ3dqM2dIUy1JRm1qS1lyVGJaa0ZHd1RxOUxDbml6TWxYOV9tOHFaUzhWd1R5ZFk4TmQtMFVSTmpKYWxPRG1pTTdxMVA3cHBKQUtpbHl6bzl3LXFTRmh3OGV0WVdyTW8xbllqck1lX2hkS3pyTXZMYjc3d0NPZ0pLMGp1MnE0?oc=5"
+        },
+        {
+          "name": "ИФЗ РАН",
+          "title": "Why The Latest Crimea Bridge Strike Matters More Than Moscow Admits",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45Z3VxRXRsaDJ5cWhGU0RpNndwdGNnRXdVeDQ1OXNZU1FUYVpEa0ZTWFh1a0tISEo5TlJCMzQ0bWxhYk5aRkxGcXg0SXNoMlNBOGlZWHJuYVJpTTFvamMyZWZ3WmJtVmQ3NWJ0eklvdjhGeUVXbDZnTG1RalVKVk0?oc=5"
+        },
+        {
+          "name": "National Security Journal",
+          "title": "Putin Can't Hide This Military Defeat to Ukraine: Part of the Crimean Bridge, One of Russia’s Crowning Achievements, Has Collapsed",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQa08zTEgzMGRsTlBMaDVtQ3JSc3hEV3E3RFhENElOVHh5WGdNVWY4SnJEa0R5NnU0dGt0MG1sTldGaFo2MWk4ZGZiWlpvVDBiVkc0TXBSS0tCVk5RSHB0bktWMzRtSHU4MEttX0RFSnlrRTQxdG44Y0xITUFIVGlFenJiZTRuNXFEQjJfN1p4T1N6M1lBc0dCVFhFa1F0WldPTF9TMDRlRXYwQ0c1QVdNTGRzTlplVWFycjdqYlFhdUpnRG9YZWw2Yy16SVp2bENVdEF2RFh6WnBTcDdudWRsWHRQVzlZWlZMdUFFM0pQbWVLM0tt?oc=5"
+        }
+      ],
+      "wordCount": 554
+    },
+    "blindSpot": "While Moscow frames the Kerch Strait Bridge as an integrated fortress, Ukraine's asymmetric strikes expose Russia's single-point-of-failure logistics. The strategic crisis is not merely physical damage, but the forced diversion of military freight through shell-exposed rail corridors across occupied territory."
+  },
+  {
     "slug": "innovator-s-dilemma-google-faces-cost-lhmx",
     "path": "news/innovator-s-dilemma-google-faces-cost-lhmx/",
     "title": "The innovator's dilemma: Google faces the cost of its own invention",
