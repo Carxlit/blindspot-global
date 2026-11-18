@@ -1,5 +1,120 @@
 [
   {
+    "id": "z8eip6l40",
+    "originalUrl": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
+    "originalTitle": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing",
+    "sourceName": "MarketWatch",
+    "category": "GLOBAL ECONOMY",
+    "urgencyScore": 82,
+    "headline": "COREWAVE GAINS DESPITE NVIDIA FINANCING CAUTION",
+    "subHeadline": "CoreWeave's stock pops while Nvidia interim CEO Colette Kress signals a disciplined approach to customer financing.",
+    "blindSpotAngle": "While public markets celebrate immediate neocloud valuations, the underlying vendor-financing loop exposes structural credit risks. Neocloud expansion relies heavily on debt-backed infrastructure purchases tied directly to the hardware provider's balance sheet.",
+    "facebookPost": "CoreWeave shares have posted gains even as Nvidia leadership publicly emphasizes a highly disciplined approach toward customer financing and neocloud support. Public markets continue to price in uninterrupted growth for specialized cloud providers dependent on high-end hardware.\n\nYet beneath the market enthusiasm lies a tight feedback loop of vendor-backed expansion and leverage. When the hardware supplier acts as both architect and financial enabler, traditional risk metrics become obscured.\n\nHow sustainable is a capital expenditure cycle where infrastructure growth is funded by the ecosystem's primary beneficiary?\n\nSource: MarketWatch\n\n#GlobalEconomy #TechMarkets #Blindspot",
+    "telegramPost": "<b>COREWAVE GAINS DESPITE NVIDIA FINANCING CAUTION</b>\n\n• <b>What happened:</b> CoreWeave's stock rose despite Nvidia interim CEO Colette Kress stating the company will take a very strong look at customer financing.\n• <b>Why it matters:</b> It highlights the delicate financial architecture binding top-tier silicon suppliers to leveraged neocloud operators.\n• <b>What is next:</b> Markets will closely monitor whether hardware vendor scrutiny tightens liquidity for secondary infrastructure players.",
+    "linkedInPost": "The valuation resilience of specialized neoclouds amid tighter scrutiny on vendor financing warrants a closer look at tech sector capital flows. While Nvidia acknowledges the growing importance of neoclouds, management's stated discipline regarding financing exposure underscores latent counterparty risk. Investors should examine how hardware debt obligations circulate within the broader artificial intelligence infrastructure buildout.\n\nSource: MarketWatch\n\n#GlobalEconomy #VentureCapital #Blindspot",
+    "blueskyPost": "CoreWeave's stock pops even as Nvidia signals strict discipline in customer financing, masking underlying leverage risks in the neocloud boom. #GlobalEconomy #Blindspot",
+    "copies": {
+      "facebook": "CoreWeave shares have posted gains even as Nvidia leadership publicly emphasizes a highly disciplined approach toward customer financing and neocloud support. Public markets continue to price in uninterrupted growth for specialized cloud providers dependent on high-end hardware.\n\nYet beneath the market enthusiasm lies a tight feedback loop of vendor-backed expansion and leverage. When the hardware supplier acts as both architect and financial enabler, traditional risk metrics become obscured.\n\nHow sustainable is a capital expenditure cycle where infrastructure growth is funded by the ecosystem's primary beneficiary? #GlobalEconomy #TechMarkets #Blindspot",
+      "telegram": "<b>COREWAVE GAINS DESPITE NVIDIA FINANCING CAUTION</b>\n\n• <b>What happened:</b> CoreWeave's stock rose despite Nvidia interim CEO Colette Kress stating the company will take a very strong look at customer financing.\n• <b>Why it matters:</b> It highlights the delicate financial architecture binding top-tier silicon suppliers to leveraged neocloud operators.\n• <b>What is next:</b> Markets will closely monitor whether hardware vendor scrutiny tightens liquidity for secondary infrastructure players.",
+      "bluesky": "CoreWeave's stock pops even as Nvidia signals strict discipline in customer financing, masking underlying leverage risks in the neocloud boom. #GlobalEconomy #Blindspot",
+      "linkedIn": "The valuation resilience of specialized neoclouds amid tighter scrutiny on vendor financing warrants a closer look at tech sector capital flows. While Nvidia acknowledges the growing importance of neoclouds, management's stated discipline regarding financing exposure underscores latent counterparty risk. Investors should examine how hardware debt obligations circulate within the broader artificial intelligence infrastructure buildout. #GlobalEconomy #VentureCapital #Blindspot"
+    },
+    "article": {
+      "slug": "coreweave-stock-rises-nvidia-signals-tighter-brjn",
+      "title": "CoreWeave stock rises as Nvidia signals tighter scrutiny on infrastructure financing",
+      "dek": "CoreWeave shares advanced despite Nvidia leadership emphasizing a disciplined stance on customer financing. The dynamic highlights the complex financial dependencies powering the current artificial intelligence infrastructure wave.",
+      "keyFacts": [
+        "CoreWeave's stock popped according to MarketWatch reports.",
+        "Nvidia interim CEO Colette Kress stated neoclouds are increasingly important.",
+        "Nvidia announced it will take a very strong look at the customers it helps with financing."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "CoreWeave's stock recently experienced an upward movement in public markets, according to MarketWatch coverage. The market reaction occurred concurrently with strategic remarks from Nvidia regarding its approach to capital deployment and customer backing.",
+            "During recent commentary, Nvidia interim CEO Colette Kress acknowledged that neocloud providers are increasingly important to the broader ecosystem. However, Kress simultaneously underscored that the chipmaker intends to take a very strong look at the specific customers it assists with financing."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The relationship between hardware designers and specialized cloud providers has become a central pillar of the technology sector's recent expansion. Neoclouds require massive capital outlays to acquire advanced graphics processing units, often relying on complex financial arrangements, debt, or vendor-adjacent backing to fund data center buildouts.",
+            "As broader market observers and analytical outlets such as Derek Thompson and TradingView have debated, the sustainability of the artificial intelligence boom is intimately tied to how these capital expenditures are absorbed and serviced over multi-year horizons."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream financial commentary frequently treats neocloud stock movements as straightforward gauges of demand for artificial intelligence compute. However, the blind spot lies in the circular nature of vendor-supported growth.",
+            "When hardware manufacturers provide financing or favorable terms to secure their own deployment pipelines, standard market signals can become distorted. Evaluating a neocloud provider purely on equity appreciation misses the structural leverage embedded in hardware-backed balance sheets."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Dominant semiconductor suppliers retain ultimate pricing power and strategic optionality, allowing them to dictate terms to secondary operators. Meanwhile, neoclouds capture near-term market enthusiasm but shoulder substantial long-term infrastructure liabilities.",
+            "As financing standards tighten, smaller infrastructure contenders lacking direct balance-sheet support or elite tier backing may struggle to maintain parity with established players."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Observers should monitor shifts in corporate debt structures among specialized cloud providers and any alterations in Nvidia's financing criteria. Future quarterly disclosures will reveal whether hardware scrutiny translates into restricted liquidity for high-growth compute providers."
+          ]
+        }
+      ],
+      "tags": [
+        "CoreWeave",
+        "Nvidia",
+        "Neoclouds",
+        "Global Economy",
+        "Tech Sector"
+      ],
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "title": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing",
+          "url": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories"
+        },
+        {
+          "name": "https://www.derekthompson.org/",
+          "title": "Did Jensen Huang Just Pop the AI Bubble?",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53NWo0bkgxSDhzQmJKMUJhRDdfSFh0aEstOVVOeFczTzNUQ09TeVpRZDVwa3F5Nm1SYnRBT3hrZmFPMlNKQk9vRTFBOHV4d3hOSk1ncTRxQzJOb0kyaDByTGZ2UmpkdlNBS3U4d0daQkFFQQ?oc=5"
+        },
+        {
+          "name": "TradingView",
+          "title": "Nvidia, AI, and the Tech Sector's Earnings Outlook",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaFY0VjJxcUdDbFVCVmJ2ZjBXLXJTQ3BhbUNDTllyV2xQV1EyVU1acjFmU0pTT2tFSFdBcDRjaFlBeVFQbDcxVzluRjZvODZOaVdvc3BfZEZ5LUdvOTlNZ21QZkdIamtCNEdad0RMcEpmbmc2WWpUTXNIOVVqUW9ib0VhUU5hS21GWkpEOTV5ajFEdDNtMXpmQ2diSXZzakY5dmx4S3prRQ?oc=5"
+        }
+      ],
+      "wordCount": 338
+    },
+    "videoScript": {
+      "hook": "CoreWeave stock is rising while Nvidia signals caution on financing.",
+      "beats": [
+        "Nvidia interim CEO Colette Kress noted that neoclouds are increasingly important to the market.",
+        "At the same time, the company announced a very strong look at customer financing.",
+        "The real question is how long leveraged infrastructure expansion can rely on vendor-backed support."
+      ],
+      "close": "Read the full analysis at the link in our bio."
+    },
+    "rawImageUrl": "https://images.mktw.net/im-40820095",
+    "sourceVideo": {
+      "provider": "youtube",
+      "id": "qGmghNwZqcc",
+      "title": "CoreWeave sparks AI cloud stock rally, lifts Nvidia",
+      "channel": "Reuters"
+    },
+    "status": "published",
+    "createdAt": "2026-11-18T03:05:23.267Z",
+    "cardImageUrl": "/news-cards/news-z8eip6l40-1794971123267.jpg",
+    "reelCoverUrl": "/news-cards/news-z8eip6l40-1794971123969-cover.jpg",
+    "instagramCardUrl": "/news-cards/news-z8eip6l40-1794971124630-ig.jpg",
+    "articleUrl": "https://blindspotglobal.pages.dev/news/coreweave-stock-rises-nvidia-signals-tighter-brjn/",
+    "publishedAt": "2026-11-18T12:21:22.570Z"
+  },
+  {
     "id": "wyqlra4r5",
     "originalUrl": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
     "originalTitle": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
