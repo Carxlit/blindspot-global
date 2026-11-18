@@ -156,9 +156,41 @@
     "https://www.euronews.com/2026/11/17/dead-melbourne-cup-racehorse-found-dumped-in-sydney-waste-facility",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc3BURzBTMklXSGpvLUpPTzFpMHlVY1FCZlRYbl9BemFRSFpxNjlxQ0Z4RzFXM3h1V1RmS3h1dko5ajhOc19zeldyemU4Q2xMbUQ1ckw1MHcySWQ4MUV5MUx2QmR3Q3lyem01WUkzTWRlWFBid3U4TVpGS2wxeFV6NVNTWXFJQzZ5amxtaGl5b0Y1cnpnd29aTWlXQWxybHNLSUc4Sm1IX19NUV9LUW1hUTMtWk5WY3Ay?oc=5",
     "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
-    "https://www.npr.org/2026/11/18/nx-s1-6044242/putin-to-meet-with-trump-and-xi-after-ukrainian-attack-on-russian-bridge"
+    "https://www.npr.org/2026/11/18/nx-s1-6044242/putin-to-meet-with-trump-and-xi-after-ukrainian-attack-on-russian-bridge",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeEJBNVB0dkdmX1h1VU1fRTJkVGdQN3oyWWZlOTBqaFVPOHBIcWk2YlJ1M2poeFpLcWxlNV9rOHBQYTRwdzRaN2ZKbkNveGgyMkFBRmY1b2t4REJSampnVjdaZnlmYVA3Vm1oU0o5T093T0t0QjNQZU8xeHRzWGZRaERvVXJpUFNqZDhQcjZfSVFHSktmVGZ5anIzZWpxMXlfU0VqR2VybTFlSzl1R0M1R01IY1BEanRJSFJQQU5pLWFXMGs?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "ETHIOPIA AND ERITREA AMASS TROOPS ALONG BORDER AS TENSIONS ESCALATE",
+      "normalizedTokens": [
+        "ethiopia",
+        "eritrea",
+        "amass",
+        "troops",
+        "along",
+        "border",
+        "tensions",
+        "escalate"
+      ],
+      "date": "2026-11-18T23:05:19.364Z"
+    },
+    {
+      "title": "Ethiopia and Eritrea amass forces along border, heightening war fears, sources say",
+      "normalizedTokens": [
+        "ethiopia",
+        "eritrea",
+        "amass",
+        "forces",
+        "along",
+        "border",
+        "heightening",
+        "war",
+        "fears",
+        "sources",
+        "say"
+      ],
+      "date": "2026-11-18T23:05:19.362Z"
+    },
     {
       "title": "COREWAVE GAINS DESPITE NVIDIA FINANCING CAUTION",
       "normalizedTokens": [

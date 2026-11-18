@@ -913,5 +913,20 @@
     "relevant": true,
     "reason": "The image shows the damaged Crimean Bridge following the attack mentioned in the headline.",
     "at": "2026-11-18T10:04:04.473Z"
+  },
+  "792dbc4a93c60210:5pzdgqa2b": {
+    "relevant": false,
+    "reason": "The image is a generic travel graphic depicting world landmarks and a globe, which does not represent the specific border tensions between Ethiopia and Eritrea.",
+    "at": "2026-11-18T23:04:38.706Z"
+  },
+  "b4bddae81efc18d8:5pzdgqa2b": {
+    "relevant": false,
+    "reason": "The image shows Bassirou Diomaye Faye, the president of Senegal, which is unrelated to the headline about Ethiopia and Eritrea.",
+    "at": "2026-11-18T23:05:11.971Z"
+  },
+  "2bc2feac9aa306e0:5pzdgqa2b": {
+    "relevant": true,
+    "reason": "The satellite image shows military artillery buildup along the Ethiopia-Eritrea border, directly illustrating the escalation of tensions and troop concentrations mentioned in the h",
+    "at": "2026-11-18T23:05:15.859Z"
   }
 }
