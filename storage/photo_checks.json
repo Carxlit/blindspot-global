@@ -903,5 +903,15 @@
     "relevant": true,
     "reason": "The image clearly depicts Marco Rubio, the central figure mentioned in the headline, speaking in an official setting.",
     "at": "2026-11-18T08:09:13.217Z"
+  },
+  "2f01c4f2d9b33134:t3l24mofb": {
+    "relevant": false,
+    "reason": "The image is a generic NPR logo and graphic that does not visually represent Putin, Trump, Xi, or the bridge attack mentioned in the headline.",
+    "at": "2026-11-18T10:03:25.868Z"
+  },
+  "5f09d63851d20ec8:t3l24mofb": {
+    "relevant": true,
+    "reason": "The image shows the damaged Crimean Bridge following the attack mentioned in the headline.",
+    "at": "2026-11-18T10:04:04.473Z"
   }
 }
