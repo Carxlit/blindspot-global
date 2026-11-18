@@ -160,6 +160,33 @@
   ],
   "processedSignatures": [
     {
+      "title": "NVIDIA BOARD RULES OUT JENSEN HUANG RETURN AMID RECORD REVENUE",
+      "normalizedTokens": [
+        "nvidia",
+        "board",
+        "rules",
+        "jensen",
+        "huang",
+        "return",
+        "record",
+        "revenue"
+      ],
+      "date": "2026-11-18T11:17:24.689Z"
+    },
+    {
+      "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+      "normalizedTokens": [
+        "nvidia",
+        "board",
+        "plans",
+        "bring",
+        "back",
+        "jensen",
+        "huang"
+      ],
+      "date": "2026-11-18T11:17:24.688Z"
+    },
+    {
       "title": "PUTIN TO MEET TRUMP AND XI AFTER BRIDGE ATTACK",
       "normalizedTokens": [
         "putin",
