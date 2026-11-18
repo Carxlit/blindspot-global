@@ -888,5 +888,15 @@
     "relevant": true,
     "reason": "The image clearly shows the racehorse 'So You Are' (number 16) competing in the Melbourne Cup, which directly illustrates the subject of the news story.",
     "at": "2026-11-18T05:01:25.519Z"
+  },
+  "d7d4d863a04e2273:iewzbvcet": {
+    "relevant": false,
+    "reason": "The image only shows a generic cloudy sky and a roof, with no visual connection to oil refineries or drone strikes.",
+    "at": "2026-11-18T06:49:53.911Z"
+  },
+  "39deb0666d426d77:iewzbvcet": {
+    "relevant": false,
+    "reason": "The image shows a gas station in Russia (Gazprom Neft) with civilian cars, which is unrelated to the drone strikes on Krasnodar oil refineries.",
+    "at": "2026-11-18T06:50:32.321Z"
   }
 }

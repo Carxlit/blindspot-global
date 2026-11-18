@@ -153,9 +153,39 @@
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQnR5S0xzeDVGTnpYR0UyWEJCdTNiZzUyUW9TNmpuRU4yby1ndElhR2dYcDYxMmFDRmJna2ROZ2MxNEt3czFDemhzYTU3OHVlTnNQNlhlVFloanJzUWVndFdfTkZGOVdQekI4VUdYeG0tVUFGeGVnYkdMZ2t1QjZGQWxBTFJkUVlvS3NVZU5sUjZzY0g3OXVTRVVoVklyb3dHN0FqN0xQYlQ3eDBwTHc?oc=5",
     "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
     "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
-    "https://www.euronews.com/2026/11/17/dead-melbourne-cup-racehorse-found-dumped-in-sydney-waste-facility"
+    "https://www.euronews.com/2026/11/17/dead-melbourne-cup-racehorse-found-dumped-in-sydney-waste-facility",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc3BURzBTMklXSGpvLUpPTzFpMHlVY1FCZlRYbl9BemFRSFpxNjlxQ0Z4RzFXM3h1V1RmS3h1dko5ajhOc19zeldyemU4Q2xMbUQ1ckw1MHcySWQ4MUV5MUx2QmR3Q3lyem01WUkzTWRlWFBid3U4TVpGS2wxeFV6NVNTWXFJQzZ5amxtaGl5b0Y1cnpnd29aTWlXQWxybHNLSUc4Sm1IX19NUV9LUW1hUTMtWk5WY3Ay?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "UPDATE: UKRAINIAN DRONES TARGET TWO KRASNODAR REFINERIES",
+      "normalizedTokens": [
+        "update",
+        "ukrainian",
+        "drones",
+        "target",
+        "two",
+        "krasnodar",
+        "refineries"
+      ],
+      "date": "2026-11-18T06:50:38.633Z"
+    },
+    {
+      "title": "2 Russian oil refineries reportedly targeted in overnight drone attack on Krasnodar Krai",
+      "normalizedTokens": [
+        "russian",
+        "oil",
+        "refineries",
+        "reportedly",
+        "targeted",
+        "overnight",
+        "drone",
+        "attack",
+        "krasnodar",
+        "krai"
+      ],
+      "date": "2026-11-18T06:50:38.632Z"
+    },
     {
       "title": "MELBOURNE CUP THOROUGHBRED FOUND DUMPED IN SYDNEY LANDFILL",
       "normalizedTokens": [
