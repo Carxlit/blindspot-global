@@ -152,9 +152,38 @@
     "https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQnR5S0xzeDVGTnpYR0UyWEJCdTNiZzUyUW9TNmpuRU4yby1ndElhR2dYcDYxMmFDRmJna2ROZ2MxNEt3czFDemhzYTU3OHVlTnNQNlhlVFloanJzUWVndFdfTkZGOVdQekI4VUdYeG0tVUFGeGVnYkdMZ2t1QjZGQWxBTFJkUVlvS3NVZU5sUjZzY0g3OXVTRVVoVklyb3dHN0FqN0xQYlQ3eDBwTHc?oc=5",
     "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
-    "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories"
+    "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
+    "https://www.euronews.com/2026/11/17/dead-melbourne-cup-racehorse-found-dumped-in-sydney-waste-facility"
   ],
   "processedSignatures": [
+    {
+      "title": "MELBOURNE CUP THOROUGHBRED FOUND DUMPED IN SYDNEY LANDFILL",
+      "normalizedTokens": [
+        "melbourne",
+        "cup",
+        "thoroughbred",
+        "found",
+        "dumped",
+        "sydney",
+        "landfill"
+      ],
+      "date": "2026-11-18T05:01:28.865Z"
+    },
+    {
+      "title": "Dead Melbourne Cup racehorse found dumped in Sydney waste facility",
+      "normalizedTokens": [
+        "dead",
+        "melbourne",
+        "cup",
+        "racehorse",
+        "found",
+        "dumped",
+        "sydney",
+        "waste",
+        "facility"
+      ],
+      "date": "2026-11-18T05:01:28.864Z"
+    },
     {
       "title": "COREWAVE GAINS DESPITE NVIDIA FINANCING CAUTION",
       "normalizedTokens": [
