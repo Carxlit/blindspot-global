@@ -161,9 +161,36 @@
     "https://www.eltiempo.com/mundo/medio-oriente/nueva-escalada-en-medio-oriente-iran-ataca-a-kuwait-y-barein-tras-bombardeo-de-estados-unidos-en-la-isla-de-qeshm-3602187",
     "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
     "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
-    "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+    "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination"
   ],
   "processedSignatures": [
+    {
+      "title": "FLORIDA PASTOR CONVICTED OVER HAITIAN PRESIDENT ASSASSINATION",
+      "normalizedTokens": [
+        "florida",
+        "pastor",
+        "convicted",
+        "haitian",
+        "president",
+        "assassination"
+      ],
+      "date": "2026-11-19T05:01:50.955Z"
+    },
+    {
+      "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
+      "normalizedTokens": [
+        "florida",
+        "pastor",
+        "found",
+        "guilty",
+        "2021",
+        "assassination",
+        "haitian",
+        "president"
+      ],
+      "date": "2026-11-19T05:01:50.954Z"
+    },
     {
       "title": "ANTHROPIC TARGETS $1.5 TRILLION VALUATION IN HISTORIC IPO",
       "normalizedTokens": [

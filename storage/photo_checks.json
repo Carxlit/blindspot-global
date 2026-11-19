@@ -948,5 +948,10 @@
     "relevant": true,
     "reason": "The image shows a news scene with individuals potentially linked to a corporate or financial event matching the context of a major market debut.",
     "at": "2026-11-19T03:08:12.565Z"
+  },
+  "4faecda5a752106c:qz1c1hxe9": {
+    "relevant": true,
+    "reason": "The image depicts Christian Emmanuel Sanon, the Florida pastor convicted for his role in the assassination of the Haitian president.",
+    "at": "2026-11-19T05:01:47.335Z"
   }
 }
