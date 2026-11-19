@@ -968,5 +968,10 @@
     "relevant": true,
     "reason": "The image depicts severe war damage to buildings and a car, directly illustrating the aftermath of Russian missile strikes on Odesa mentioned in the headline and context summary.",
     "at": "2026-11-19T08:02:12.813Z"
+  },
+  "06089584e4d163f3:1vfgr8k35": {
+    "relevant": true,
+    "reason": "The image dramatically depicts a rocket launch and atmospheric re-entry plume, visually fitting an article about an orbital deep strike weapon system and re-entry platforms.",
+    "at": "2026-11-19T23:04:21.024Z"
   }
 }

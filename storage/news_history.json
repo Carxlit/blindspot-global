@@ -165,9 +165,39 @@
     "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
     "https://www.france24.com/en/tv-shows/business/20261118-inside-limoges-city-hall-devastated-by-arson-attack",
     "https://www.euronews.com/2026/11/18/bukele-confirms-airstrike-on-haitian-gang-leader-jeffs-luxury-mansion",
-    "https://www.euronews.com/video/2026/11/19/ukraine-four-killed-and-at-least-13-injured-in-russian-strike-on-odesa"
+    "https://www.euronews.com/video/2026/11/19/ukraine-four-killed-and-at-least-13-injured-in-russian-strike-on-odesa",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM25ZMmZTOW9wa3Ytdk9EQnB6UFhtczB5dVd3UmpmNElSUHBzLXQwT3dHelpyVXdFVU5uSmdzWFdENW5feE9yS0hXRmRyZUVNV0xfQ21ocjU1VUUyVnVSVl8wekduX1hzMGZWTy1CeDg5UGkzVE1pa0syd3RGX2VKYmlQWFlNVWtLcDYzUGt4dmlsa3pTaHdFNjdRbDRrWmVhWVRvMlZURnJqZDNHbzNYS1lVTy01U3ZScEFkWDdJX3pFSGVRSHhZ?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "MBDA AND ATMOS STUDY ORBITAL DEEP STRIKE WEAPON SYSTEM",
+      "normalizedTokens": [
+        "mbda",
+        "atmos",
+        "study",
+        "orbital",
+        "deep",
+        "strike",
+        "weapon",
+        "system"
+      ],
+      "date": "2026-11-19T23:04:24.925Z"
+    },
+    {
+      "title": "MBDA and Atmos Study Orbital Strike Weapon That Could Be Mistaken for Nuclear Attack",
+      "normalizedTokens": [
+        "mbda",
+        "atmos",
+        "study",
+        "orbital",
+        "strike",
+        "weapon",
+        "mistaken",
+        "nuclear",
+        "attack"
+      ],
+      "date": "2026-11-19T23:04:24.924Z"
+    },
     {
       "title": "ANTHROPIC TARGETS $1.5 TRILLION VALUATION IN HISTORIC IPO",
       "normalizedTokens": [
