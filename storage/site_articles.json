@@ -1,5 +1,102 @@
 [
   {
+    "slug": "how-ukraine-bypassed-starshield-limits-strike-q6mk",
+    "path": "news/how-ukraine-bypassed-starshield-limits-strike-q6mk/",
+    "title": "How Ukraine bypassed Starshield limits to strike the Kerch Strait Bridge",
+    "headline": "UKRAINE BYPASSES STARLINK LIMITS TO STRIKE KERCH BRIDGE",
+    "dek": "By adapting Russian mesh-radio relay tactics, Ukrainian forces executed a devastating strike on the Kerch Strait Bridge without relying on restricted Western satellite networks.",
+    "category": "TECHNOLOGY & AI",
+    "sourceName": "Ars Technica",
+    "image": "img/how-ukraine-bypassed-starshield-limits-strike-q6mk.jpg",
+    "photo": "img/how-ukraine-bypassed-starshield-limits-strike-q6mk-foto.jpg",
+    "publishedAt": "2026-11-19T02:06:23.881Z",
+    "article": {
+      "slug": "how-ukraine-bypassed-starshield-limits-strike-q6mk",
+      "title": "How Ukraine bypassed Starshield limits to strike the Kerch Strait Bridge",
+      "dek": "By adapting Russian mesh-radio relay tactics, Ukrainian forces executed a devastating strike on the Kerch Strait Bridge without relying on restricted Western satellite networks.",
+      "keyFacts": [
+        "The strikes occurred on the nights of November 15 and November 16.",
+        "Operations involved airborne mesh radios allowing operators over 250 kilometers (155 miles) away to guide missiles.",
+        "The US-imposed Starshield restrictions prevent use on objects traveling over 100 miles per hour (161 kilometers per hour).",
+        "The attack collapsed one of two steel arches supporting the bridge's automobile roadway."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "According to an Institute for the Study of War update, coordinated waves of Ukrainian drones and missiles caused enough damage on the nights of November 15 and November 16 to collapse one of two steel arches supporting the Kerch bridge's automobile roadway. Russian sources reported that several hundred Ukrainian drones overwhelmed air defenses to clear a path for remote-controlled missile strikes, prominently featuring Ukraine’s homegrown Flamingo cruise missile.",
+            "The attack coincided with the largest Ukrainian overnight drone attack on Russia since the start of the full-scale war, according to Reuters. The operation was preceded by weeks of preparatory strikes that systematically destroyed or degraded Russian air defense weapons, radars, and electronic warfare equipment protecting the bridge."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The most striking element of the operation was the communications architecture. The Financial Times reported that Ukrainian units involved in the operation deliberately avoided using Starshield, the military version of Elon Musk’s Starlink satellite network. This decision stemmed from recent US restrictions preventing Ukraine from using Starshield on drones or items traveling faster than 100 miles per hour (161 kilometers per hour).",
+            "President Volodymyr Zelenskyy noted that the restrictions had not yet been lifted, interfering with various drone interceptor technologies designed to defend against Russian attacks on Ukrainian cities. SpaceX has denied that the restrictions had returned, but the operational reality forced Kyiv to look elsewhere for guidance systems."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While mainstream media frames the event primarily through the lens of diplomatic symbolism ahead of international meetings involving Donald Trump, Xi Jinping, and Vladimir Putin, the structural reality is technological decoupling. Ukraine successfully adopted a Russian battlefield innovation by using drones equipped with mesh radios to create an airborne communications network.",
+            "Each networked drone acts as a relay node, extending the communication link between human operators located more than 250 kilometers away and remote-guided missiles. By mimicking and refining a Russian electronic warfare tactic, Ukraine proved that Western hardware limitations can be bypassed through indigenous network engineering, undermining the control leverage that external tech providers hold over wartime strategies."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The primary loser in this architectural shift is the monopoly power of centralized satellite communications providers. When end-user restrictions collide with existential military necessity, recipient nations will engineer decentralized workarounds rather than comply with foreign export limitations.",
+            "On the physical map, Russia absorbs a severe strategic blow. The destruction of the bridge roadway complicates logistics and military basing within the occupied Crimean peninsula, even though Russian news sources indicated that the railway section sustained only moderate damage and trains resumed running shortly after."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Observers should monitor whether Ukrainian mesh-radio relay techniques proliferate across other branches of the armed forces, effectively reducing dependency on Starlink entirely. Furthermore, watch for how Western regulators respond to the revelation that export-controlled satellite architectures can be circumvented by battlefield adaptation.",
+            "As the Institute for the Study of War assesses, the compromised infrastructure will severely test Russia's ability to maintain its southern land bridge and occupation logistics, forcing Moscow to rely increasingly on alternative overland routes."
+          ]
+        }
+      ],
+      "tags": [
+        "Technology",
+        "Defense",
+        "Ukraine",
+        "Starlink",
+        "Drones",
+        "Geopolitics"
+      ],
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+          "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/"
+        },
+        {
+          "name": "The Guardian",
+          "title": "How Ukraine landed a blow to Putin’s prized bridge - The Latest",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbWZVdmkxaHluTGIwYVJjN3RUb0g4MDZDU2l6MWR0ZGozZUZnQ1VSOVUxUHZzSUtscXcySXYzMDA5TEsyc2pjTGN4dC1WUnRRWEtLeURXcENnTGo2VGNMTmF2TmVRX0dCeTVBZnNELVZMcTRrUUpsTHU4TUhqNzFlWlpGZzFaRzB5NmVrS2pSQlRMTU9oZ0lRbHVLaV9xTXZMX2dQWTh1MzRwZmhPMFFj?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Putin enjoys boost of historic Trump-Xi talks, but bridge attack deals a blow to his pride",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWmh4MWN6bkNoZDlOX19jdFU2TW9jT0tHY0JoU3ZhQUV4YnhhSnR6cElKbWZQVDUxa0N5ZjYxM2s4bHJ1MXVoUk13SWp3NjAtTnhSSk5fa2VOMjlKSm5yQjFpN3lDakNDcEV6TWVpU1lPeFk0enZFdDExclBPRUVYU2ZjQlc4NW4wQmhSeDhySHU5V3BvMEtyalFNaVpsOVAxSkh5VWlJZm01dWs?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "title": "Ukraine cripples Crimean road bridge in blow to Putin before meeting with Xi and Trump",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEg3anV0Q2ZiXzRhYjVfZkhyTlM2Q3RnX3ZFUExIQ0xQWjZqbkRmXy1mSVY5N1E2dXI0Q2s5WE5oQmNnLXZia24zNU5nUF9FNnZQMENHcFhYMUlhVklwT1RBczRnWFRiXzl3MHRoTWpPRlZJQUNlSjBHeGl5akprVmlNNnFYNmRiNEFqZUlzbUxnRU9FWGRxRGdUTU93QTQ3S3prbktDSUxQbHM2MjFsWWtpLXNOWWFC?oc=5"
+        },
+        {
+          "name": "CNN",
+          "title": "Ukraine strike collapses section of Putin’s prized bridge to occupied Crimea",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mbTkyR1c3YVZUTjdmbFRmQWJtSXMtNEVNSGJSX1c0VG1CbGYzTWNYU0FJZUxiX1V0SkwtUHdwUno5eXhFQzZJRHZPRDVVb2g2WU55cVRkeFV1QlFGbTFUcWh4MUJCY185aDFfU2hJSGgwdDBpc3QtSG5sWGlqVWc?oc=5"
+        }
+      ],
+      "wordCount": 518
+    },
+    "blindSpot": "While mainstream coverage focuses on the geopolitical symbolism of hitting Putin's bridge, the real story is technological decoupling. Ukraine proved it can wage high-end asymmetric warfare without military-grade satellite links by reverse-engineering Russian mesh relay tactics, signaling that hardware restrictions imposed by foreign allies can be systematically routed around."
+  },
+  {
     "slug": "inside-anthropic-ipo-turns-seven-ai-xba9",
     "path": "news/inside-anthropic-ipo-turns-seven-ai-xba9/",
     "title": "Inside the Anthropic IPO that turns seven AI defectors into multibillionaires",
