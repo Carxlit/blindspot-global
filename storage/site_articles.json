@@ -1,5 +1,92 @@
 [
   {
+    "slug": "anthropic-s-1-5-trillion-ipo-yjoe",
+    "path": "news/anthropic-s-1-5-trillion-ipo-yjoe/",
+    "title": "Anthropic's $1.5 trillion IPO tests public market appetite for pure-play artificial intelligence",
+    "headline": "ANTHROPIC TARGETS $1.5 TRILLION VALUATION IN HISTORIC IPO",
+    "dek": "The artificial intelligence pioneer is poised to raise $94bn in its Nasdaq debut, establishing a high-stakes valuation benchmark for the entire sector. Beneath the record-breaking capital haul lies an aggressive transfer of compute-related financial risk to public markets.",
+    "category": "GLOBAL ECONOMY",
+    "sourceName": "BBC News",
+    "image": "img/anthropic-s-1-5-trillion-ipo-yjoe.jpg",
+    "photo": "img/anthropic-s-1-5-trillion-ipo-yjoe-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "NYAc5xfi6hE",
+      "title": "Anthropic's $1.33 Trillion IPO — The Maths",
+      "channel": "Models And Money"
+    },
+    "publishedAt": "2026-11-19T03:08:16.511Z",
+    "article": {
+      "slug": "anthropic-s-1-5-trillion-ipo-yjoe",
+      "title": "Anthropic's $1.5 trillion IPO tests public market appetite for pure-play artificial intelligence",
+      "dek": "The artificial intelligence pioneer is poised to raise $94bn in its Nasdaq debut, establishing a high-stakes valuation benchmark for the entire sector. Beneath the record-breaking capital haul lies an aggressive transfer of compute-related financial risk to public markets.",
+      "keyFacts": [
+        "Anthropic is valued at up to $1.5tn (£1.14tn) ahead of its stock market debut.",
+        "Shares are priced at $83 each for the Nasdaq listing.",
+        "The company will raise more than $68bn from its initial investors and expects another $26bn from private placements, totaling $94bn.",
+        "Anthropic is the first US firm focused exclusively on artificial intelligence to go public."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Artificial intelligence developer Anthropic is poised to hit a market valuation of up to $1.5tn when its shares begin trading on the Nasdaq stock exchange in New York. According to BBC News, the company priced its shares at $83 each, surpassing its earlier targeted range of $70 to $78.",
+            "The initial public offering will see the firm raise more than $68bn from initial investors, alongside another $26bn expected from private placements. This brings Anthropic's total expected capital raise to $94bn, eclipsing the initial public listing figures recorded by Elon Musk's SpaceX earlier in the year."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Anthropic stands out as the first US enterprise focused exclusively on artificial intelligence to test public equity markets. Unlike diversified technology giants such as Microsoft and Alphabet's Google—which integrate AI into broader software and hardware ecosystems—Anthropic's corporate structure and valuation depend entirely on the commercial viability of its Claude chatbot and underlying models.",
+            "The offering arrives amid intense scrutiny over whether the staggering amounts of capital poured into generative artificial intelligence can generate sustainable returns. While SpaceX achieved a high valuation of $2.2tn during its June debut, its share price subsequently fell, highlighting the volatility awaiting high-growth market entrants."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream financial coverage has largely concentrated on the creation of seven new multi-billionaires among Anthropic's founders and the sheer velocity of capital accumulation. However, the listing serves a more urgent financial objective: offloading the astronomical cost of foundational model infrastructure onto public shareholders.",
+            "By going public ahead of its primary competitor OpenAI—which is widely anticipated to list next year—Anthropic is locking in retail and institutional capital before the industry faces a potential reckoning over operational margins. The public market is effectively being asked to underwrite the next phase of capital expenditures without a guaranteed roadmap to profitability."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The immediate winners are early private investors, institutional backers, and the seven founders securing multi-billion-dollar fortunes. Wall Street underwriters also capture substantial advisory fees from managing one of the largest technology debuts in recent history.",
+            "Conversely, retail investors bear the brunt of second-order exposure. If demand cools or regulatory pressures mount regarding data acquisition and energy consumption, public shareholders absorb the downside risk while early-stage private backers successfully liquidate their positions."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Market watchers must monitor trading volumes immediately following Thursday's opening bell to determine whether the stock can sustain its ambitious valuation. Any post-debut correction similar to the trajectory experienced by SpaceX will signal diminishing institutional appetite for high-burn tech assets.",
+            "Additionally, the market's reaction to Anthropic will establish a crucial valuation ceiling and liquidity template for OpenAI as it prepares for its own public offering in the coming year."
+          ]
+        }
+      ],
+      "tags": [
+        "Global Economy",
+        "Artificial Intelligence",
+        "Nasdaq",
+        "Venture Capital",
+        "Blindspot"
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "WWAYTV3",
+          "title": "Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnY3QUtxbG90MENxcUVVTHFmaGQ4LUNFZnhWeXFURkFlcHdZWTVCb2tjelVoZXBNTW9fR0xMRERtdUhOeXRCMjRWM2RfcWlDWHJRdGc4N3NXcmp5TmRaZHljeE83aDNZNmh5OU1uSHAtNTVjNFJZb1hhNXVLUy1hV18tZ05TdURiQy1zS3VSYm45WkVhWjVKNlloUkpDaXNCa1NDMw?oc=5"
+        }
+      ],
+      "wordCount": 469
+    },
+    "blindSpot": "While markets fixate on the record-shattering $94bn capital haul and the creation of seven new multi-billionaires, the offering bypasses the deeper liquidity stress test facing foundational model developers. By pricing at $83 per share ahead of OpenAI's expected 2026 debut, Anthropic is locking in public retail capital to offset soaring compute liabilities before profitability is empirically proven."
+  },
+  {
     "slug": "how-ukraine-bypassed-starshield-limits-strike-q6mk",
     "path": "news/how-ukraine-bypassed-starshield-limits-strike-q6mk/",
     "title": "How Ukraine bypassed Starshield limits to strike the Kerch Strait Bridge",
