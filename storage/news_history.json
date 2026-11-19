@@ -163,9 +163,38 @@
     "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
     "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
     "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
-    "https://www.france24.com/en/tv-shows/business/20261118-inside-limoges-city-hall-devastated-by-arson-attack"
+    "https://www.france24.com/en/tv-shows/business/20261118-inside-limoges-city-hall-devastated-by-arson-attack",
+    "https://www.euronews.com/2026/11/18/bukele-confirms-airstrike-on-haitian-gang-leader-jeffs-luxury-mansion"
   ],
   "processedSignatures": [
+    {
+      "title": "BUKELE CONFIRMS AIRSTRIKE ON HAITIAN GANG LEADER MANSION",
+      "normalizedTokens": [
+        "bukele",
+        "confirms",
+        "airstrike",
+        "haitian",
+        "gang",
+        "leader",
+        "mansion"
+      ],
+      "date": "2026-11-19T05:32:22.711Z"
+    },
+    {
+      "title": "Bukele confirms airstrike on Haitian gang leader Jeff's luxury mansion",
+      "normalizedTokens": [
+        "bukele",
+        "confirms",
+        "airstrike",
+        "haitian",
+        "gang",
+        "leader",
+        "jeff",
+        "luxury",
+        "mansion"
+      ],
+      "date": "2026-11-19T05:32:22.710Z"
+    },
     {
       "title": "RECONSTRUCTION BEGINS AFTER ARSON ATTACK AT LIMOGES CITY HALL",
       "normalizedTokens": [
