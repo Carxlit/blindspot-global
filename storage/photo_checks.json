@@ -933,5 +933,10 @@
     "relevant": true,
     "reason": "The image features key political figures and symbols representing the nations and conflict central to the news story about regional escalation between Iran and the United States.",
     "at": "2026-11-19T00:09:42.346Z"
+  },
+  "21deeab5c389cacd:3khq6drgt": {
+    "relevant": true,
+    "reason": "The image shows Dario Amodei and Daniela Amodei, the co-founders of Anthropic, who are the central subjects of the news story regarding the company's public debut.",
+    "at": "2026-11-19T01:02:56.527Z"
   }
 }

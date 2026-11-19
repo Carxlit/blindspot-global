@@ -1,5 +1,100 @@
 [
   {
+    "slug": "inside-anthropic-ipo-turns-seven-ai-xba9",
+    "path": "news/inside-anthropic-ipo-turns-seven-ai-xba9/",
+    "title": "Inside the Anthropic IPO that turns seven AI defectors into multibillionaires",
+    "headline": "ANTHROPIC FOUNDERS SET FOR MULTIBILLION-DOLLAR WINDFALL IN PUBLIC DEBUT",
+    "dek": "Anthropic's upcoming stock market float will value its seven co-founders' shares at a minimum of $19.3bn each. The milestone caps a rapid five-year transformation from a safety-focused breakaway group to a trillion-dollar tech titan.",
+    "category": "GLOBAL ECONOMY",
+    "sourceName": "BBC Business",
+    "image": "img/inside-anthropic-ipo-turns-seven-ai-xba9.jpg",
+    "photo": "img/inside-anthropic-ipo-turns-seven-ai-xba9-foto.jpg",
+    "publishedAt": "2026-11-19T01:03:00.919Z",
+    "article": {
+      "slug": "inside-anthropic-ipo-turns-seven-ai-xba9",
+      "title": "Inside the Anthropic IPO that turns seven AI defectors into multibillionaires",
+      "dek": "Anthropic's upcoming stock market float will value its seven co-founders' shares at a minimum of $19.3bn each. The milestone caps a rapid five-year transformation from a safety-focused breakaway group to a trillion-dollar tech titan.",
+      "keyFacts": [
+        "Anthropic was formed in 2021 by seven people who left rival OpenAI.",
+        "The company priced its US stock exchange shares at $83 each.",
+        "Each founder's shareholding will be worth at least $19.3bn (£14.7bn) at the float price.",
+        "Chief Executive Dario Amodei previously worked at Baidu, Google, and OpenAI before founding Anthropic with his sister Daniela Amodei."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "According to BBC Business, Anthropic has announced it is floating its business on the US stock exchange by pricing its shares at $83 each. The move translates into an unprecedented financial windfall for its founding team, who left rival OpenAI in 2021.",
+            "At the $83 valuation per share, the shareholdings of the seven co-founders will be worth at least $19.3bn (£14.7bn) each. The company behind the AI platform Claude has surged in just five years from an unknown start-up into a tech giant valued at more than a trillion dollars."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Dario Amodei was working for OpenAI when it launched ChatGPT, bringing generative artificial intelligence into the mainstream. Concerned that some colleagues within the company were placing profit before safety, Amodei chose to leave in 2020 and 2021.",
+            "He took his sister, Daniela Amodei, and five other colleagues with him to establish Anthropic. Dario Amodei assumed the role of chief executive at age 43, while Daniela Amodei took on the position of president, steering the company's growth and ambition."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream financial reporting frames this public offering as a classic Silicon Valley success story driven by academic pedigree and technical brilliance. However, the structural irony of the departure remains largely unexamined.",
+            "The founders structured their exodus around the principle of insulating artificial intelligence development from commercial pressures and safety compromises. By integrating into the traditional public equities market at a trillion-dollar valuation, Anthropic subjects its foundational safety mandates to the relentless short-term demands of public shareholders and institutional capital markets."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The clear financial winners are the seven co-founders, who transition in a matter of hours from private researchers and executives into multi-billionaires on paper. Early institutional backers and liquidity providers also capture massive capital gains.",
+            "Conversely, the broader public and regulatory bodies bear the latent risk. As foundational model developers cement their oligopolistic control over advanced intelligence infrastructure, public accountability diminishes while private capital reaps the rewards of technologies built on public datasets."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Market analysts will closely monitor post-IPO trading volumes and share price stability to gauge institutional appetite for high-valuation artificial intelligence assets. Furthermore, observers must track whether Anthropic alters its research governance framework as public market pressures mount."
+          ]
+        }
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "Global Economy",
+        "IPO",
+        "Tech Giants",
+        "Venture Capital"
+      ],
+      "sources": [
+        {
+          "name": "BBC Business",
+          "title": "The seven Anthropic founders who are about to become multi-billionaires",
+          "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "WSJ",
+          "title": "The Seven Anthropic Founders Who Are About to Become Multibillionaires",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZXFKNFE2YlFrN2ZJOHJtU3VTNmVtSDNGYnJ4bnF5SG5YeThxMEZMRlVhR2RpNEdHR0UzMTltM2ZDRDR2MWQ3SWYycGY5ZjcweDR3NVVsakllQlJ1bFNCZDNSQTZqNFVrc3djWE1wUkhKZHZQcXNQdHhmem9TeW5NYWFLU2dGS2xHSVdCaEhFbnQtRjhuUUhVQzFhclpiM3A2NHB0enlSSlFtZ28?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "title": "Who are Dario and Daniela Amodei, Anthropic's CEO and president?",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFVxSEpsRTlxaXJWa3F4anphdHc1cmYwSEgzSS0zZkpaT2N0emhwa2R3MTZ5VHNtQXVoMGROM3Fkek4tcGF0d3pReDFYSWtGNXVKVTY4a1Q4cTZubTNtYllUSVc3SFY3UHh6MUN3VWJmNnJkaTJOTGFtREpUSFAzT2JIeFlRV1FSUVcweDF5a21CdVlaVlltYW03djZobm9FYXRjUVJTMjlqZHZKdGpaOEY3cHlqeC0wLW93YUZR?oc=5"
+        },
+        {
+          "name": "New York Post",
+          "title": "Meet Anthropic’s oddball co-founders: An atheist who met the pope, a punk-rock fan and a shy dating-app entrepreneur",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVUlQNEhZUUpwRHpGZW00Z1hDVk9tQUUweGtCa2lSaXNtQlFtcURtbVc3ZTlrYUc4aFhpN2p3Z2tRM2FkeHV3b1dXSHpBRXlUOHFBS2xrclhnLTBadmlBMXc1OHczZ1llcXZ2aDduTXBQNGxieHUwX2pZWWloaDhSdTRQcE1JbHdDX2VKcFoxbXY0al9JT2xxOFJFMkNmX3hPM0tqQnFkQkg4WE1QQnBFNDFaaGN0dWU3dmhEY1NkU1ZCakpXcnJWa1dMSnYxamcyTTN4N3JiNVQ3ZXRFYjBOb2JNWkdOX2JfdW5lV3d0NA?oc=5"
+        },
+        {
+          "name": "BBC",
+          "title": "The seven Anthropic founders who are about to become multi-billionaires",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10aWZJT3Fra3FyWFhYbDE2YjBkTGpQTFF1aE94b2RXbERmSUd5YXNFRHJVSkhETGpIWDFDNFhlZ18wdEJOUlhUaGpUR2VlTUl4QkRLNkZub0d1bW5PTXc?oc=5"
+        }
+      ],
+      "wordCount": 392
+    },
+    "blindSpot": "While mainstream coverage fixates on the astronomical personal wealth generated by the IPO, it overlooks the centralization of immense gatekeeping power over artificial intelligence safety protocols. The mass exodus from OpenAI driven by ideological safety concerns has ultimately culminated in a massive commercial capitalization, raising questions about whether market pressures will dilute their founding safety ethos."
+  },
+  {
     "slug": "iran-retaliates-against-united-states-bases-b5x7",
     "path": "news/iran-retaliates-against-united-states-bases-b5x7/",
     "title": "Iran retaliates against United States bases in Kuwait and Bahrain as regional conflict widens",

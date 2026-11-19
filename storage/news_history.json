@@ -158,9 +158,36 @@
     "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
     "https://www.npr.org/2026/11/18/nx-s1-6044242/putin-to-meet-with-trump-and-xi-after-ukrainian-attack-on-russian-bridge",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeEJBNVB0dkdmX1h1VU1fRTJkVGdQN3oyWWZlOTBqaFVPOHBIcWk2YlJ1M2poeFpLcWxlNV9rOHBQYTRwdzRaN2ZKbkNveGgyMkFBRmY1b2t4REJSampnVjdaZnlmYVA3Vm1oU0o5T093T0t0QjNQZU8xeHRzWGZRaERvVXJpUFNqZDhQcjZfSVFHSktmVGZ5anIzZWpxMXlfU0VqR2VybTFlSzl1R0M1R01IY1BEanRJSFJQQU5pLWFXMGs?oc=5",
-    "https://www.eltiempo.com/mundo/medio-oriente/nueva-escalada-en-medio-oriente-iran-ataca-a-kuwait-y-barein-tras-bombardeo-de-estados-unidos-en-la-isla-de-qeshm-3602187"
+    "https://www.eltiempo.com/mundo/medio-oriente/nueva-escalada-en-medio-oriente-iran-ataca-a-kuwait-y-barein-tras-bombardeo-de-estados-unidos-en-la-isla-de-qeshm-3602187",
+    "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "ANTHROPIC FOUNDERS SET FOR MULTIBILLION-DOLLAR WINDFALL IN PUBLIC DEBUT",
+      "normalizedTokens": [
+        "anthropic",
+        "founders",
+        "set",
+        "multibillion",
+        "dollar",
+        "windfall",
+        "public",
+        "debut"
+      ],
+      "date": "2026-11-19T01:03:01.074Z"
+    },
+    {
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "normalizedTokens": [
+        "seven",
+        "anthropic",
+        "founders",
+        "become",
+        "multi",
+        "billionaires"
+      ],
+      "date": "2026-11-19T01:03:01.072Z"
+    },
     {
       "title": "IRAN LAUNCHES REGIONAL RETALIATION AMID ESCALATING MIDDLE EAST CONFLICT",
       "normalizedTokens": [
