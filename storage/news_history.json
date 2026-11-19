@@ -162,9 +162,36 @@
     "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
     "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
     "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-    "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination"
+    "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
+    "https://www.france24.com/en/tv-shows/business/20261118-inside-limoges-city-hall-devastated-by-arson-attack"
   ],
   "processedSignatures": [
+    {
+      "title": "RECONSTRUCTION BEGINS AFTER ARSON ATTACK AT LIMOGES CITY HALL",
+      "normalizedTokens": [
+        "reconstruction",
+        "begins",
+        "arson",
+        "attack",
+        "limoges",
+        "city",
+        "hall"
+      ],
+      "date": "2026-11-19T05:18:26.875Z"
+    },
+    {
+      "title": "Inside Limoges City Hall devastated by arson attack",
+      "normalizedTokens": [
+        "inside",
+        "limoges",
+        "city",
+        "hall",
+        "devastated",
+        "arson",
+        "attack"
+      ],
+      "date": "2026-11-19T05:18:26.873Z"
+    },
     {
       "title": "FLORIDA PASTOR CONVICTED OVER HAITIAN PRESIDENT ASSASSINATION",
       "normalizedTokens": [
