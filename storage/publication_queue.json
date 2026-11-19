@@ -1,168 +1,5 @@
 [
   {
-    "id": "queue-1794148822152-i0czz",
-    "news": {
-      "id": "ge81xg49g",
-      "originalUrl": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
-      "originalTitle": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
-      "sourceName": "The Guardian Business",
-      "category": "GLOBAL ECONOMY",
-      "urgencyScore": 88,
-      "headline": "US MIDTERM ELECTIONS PUNCTURE THE UNCHECKED AI INFRASTRUCTURE BOOM",
-      "subHeadline": "Voters across the United States passed dozens of ballot measures restricting datacentre expansion, signaling a major social and political pushback against Silicon Valley.",
-      "blindSpotAngle": "While mainstream financial commentary frames the midterms as a straightforward referendum on inflation and the war in Iran, the widespread local resistance to power-hungry tech infrastructure exposes a deeper structural vulnerability. The debt-funded model of carpeting the country in mega-sheds is colliding with raw municipal anger over energy grid strain and deteriorating local quality of life.",
-      "facebookPost": "The mainstream narrative insists that the US midterms were solely about inflation and the cost of living squeeze unleashed by the conflict in Iran. But a quiet, consequential mutiny was happening directly on the ballot.\n\nDozens of local measures successfully reined in or halted the unchecked expansion of power-hungry AI datacentres. Voters have begun drawing a hard line against the physical footprint of the tech boom, rejecting the premise that energy-guzzling mega-sheds and constant chatbot integration are acceptable public externalities.\n\nWhen local infrastructure development clashes directly with everyday basic needs, how long can federal authorities shield the tech broligarchy from mounting democratic friction?\n\nSource: The Guardian Business\n\n#GlobalEconomy #ArtificialIntelligence #Blindspot",
-      "telegramPost": "<b>US MIDTERM ELECTIONS PUNCTURE THE UNCHECKED AI INFRASTRUCTURE BOOM</b>\n\n• <b>What happened:</b> US midterm voters passed dozens of municipal and state measures limiting the expansion of power-hungry AI datacentres, signaling a sharp democratic pushback against Silicon Valley.\n• <b>Why it matters:</b> The backlash punctures the debt-funded market narrative that the public would quietly accept massive infrastructure carpeting and energy strain for the promise of future chatbot utility.\n• <b>What is next:</b> Expect stricter zoning battles, rising legal friction for debt-funded tech builds, and a broader reassessment of AI capital expenditure by wary institutional investors.",
-      "linkedInPost": "The recent US midterms introduced a new variable into the valuation of artificial intelligence: localized regulatory risk. As debt-funded datacentre expansion meets organized voter resistance at the ballot box, the physical and social constraints on Big Tech are hardening.\n\nFor enterprise leaders and capital allocators, the takeaway is clear. Infrastructure scaling is no longer just a matter of securing capital and microchips; it requires navigating acute municipal friction, energy grid strain, and a populace increasingly hostile to unchecked corporate externalities.\n\nSource: The Guardian Business\n\n#GlobalEconomy #Infrastructure #Blindspot",
-      "blueskyPost": "US midterms didn't just target Washington; voters crushed datacentre expansions nationwide. The debt-fueled AI infrastructure bubble just hit a wall of municipal reality. #Blindspot #GlobalEconomy",
-      "copies": {
-        "facebook": "The mainstream narrative insists that the US midterms were solely about inflation and the cost of living squeeze unleashed by the conflict in Iran. But a quiet, consequential mutiny was happening directly on the ballot.\n\nDozens of local measures successfully reined in or halted the unchecked expansion of power-hungry AI datacentres. Voters have begun drawing a hard line against the physical footprint of the tech boom, rejecting the premise that energy-guzzling mega-sheds and constant chatbot integration are acceptable public externalities.\n\nWhen local infrastructure development clashes directly with everyday basic needs, how long can federal authorities shield the tech broligarchy from mounting democratic friction? \n\n#GlobalEconomy #ArtificialIntelligence #Blindspot",
-        "telegram": "<b>US MIDTERM ELECTIONS PUNCTURE THE UNCHECKED AI INFRASTRUCTURE BOOM</b>\n\n• <b>What happened:</b> US midterm voters passed dozens of municipal and state measures limiting the expansion of power-hungry AI datacentres, signaling a sharp democratic pushback against Silicon Valley.\n• <b>Why it matters:</b> The backlash punctures the debt-funded market narrative that the public would quietly accept massive infrastructure carpeting and energy strain for the promise of future chatbot utility.\n• <b>What is next:</b> Expect stricter zoning battles, rising legal friction for debt-funded tech builds, and a broader reassessment of AI capital expenditure by wary institutional investors.",
-        "bluesky": "US midterms didn't just target Washington; voters crushed datacentre expansions nationwide. The debt-fueled AI infrastructure bubble just hit a wall of municipal reality. #Blindspot #GlobalEconomy",
-        "linkedIn": "The recent US midterms introduced a new variable into the valuation of artificial intelligence: localized regulatory risk. As debt-funded datacentre expansion meets organized voter resistance at the ballot box, the physical and social constraints on Big Tech are hardening.\n\nFor enterprise leaders and capital allocators, the takeaway is clear. Infrastructure scaling is no longer just a matter of securing capital and microchips; it requires navigating acute municipal friction, energy grid strain, and a populace increasingly hostile to unchecked corporate externalities. \n\n#GlobalEconomy #Infrastructure #Blindspot"
-      },
-      "article": {
-        "slug": "how-us-midterms-put-datacentres-ai-4q1x",
-        "title": "How the US midterms put datacentres, AI, and the broligarchy on trial",
-        "dek": "Recent midterm election results show voters pushing back against Silicon Valley expansion through ballot measures restricting datacentres. This grassroots friction threatens the financial narrative sustaining the AI market boom.",
-        "keyFacts": [
-          "Dozens of measures calling for limits on datacentre expansion were passed during the US midterms.",
-          "56% of observers cited data centers as a major issue in midterms coverage according to shattered.io data.",
-          "Texas senator-elect James Talarico campaigned on local complaints regarding blinding lights from neighboring datacentres.",
-          "Elon Musk poured billions of dollars into trying to buy the electorate in Texas."
-        ],
-        "sections": [
-          {
-            "heading": "What Happened",
-            "paragraphs": [
-              "Last week's midterm elections brought a wave of anti-tech sentiment directly to the ballot box across the United States. While political analysts primarily focused on the Democrat wave driven by the cost of living squeeze from the war in Iran, AI infrastructure was unexpectedly on trial.",
-              "Dozens of measures calling for strict limits on datacentre expansion were passed by voters. Across multiple jurisdictions, reining in the unchecked growth of power-hungry mega-sheds became a rallying cry that resonated deeply with local electorates."
-            ]
-          },
-          {
-            "heading": "The Context",
-            "paragraphs": [
-              "Every financial bubble requires a compelling narrative, and the current artificial intelligence boom has relied heavily on the prospect of carpeting the United States in debt-funded datacentres. These massive facilities were framed by market promoters as inevitable and essential as computational demand scales upward.",
-              "However, public relations for the sector have deteriorated. Tech firms have insisted on shoehorning chatbots and generative tools unbidden into every platform, device, and application—a phenomenon dubbed enshittification by industry critics—while average consumers continue to battle persistent inflation and soaring utility demands from nearby server farms."
-            ]
-          },
-          {
-            "heading": "The Blind Spot",
-            "paragraphs": [
-              "Mainstream coverage tends to treat the local opposition to datacentres as simple NIMBYism or secondary noise against broader national economic trends. Blindspot analysis indicates that these ballot measures represent the first structural, democratic containment of tech capital in decades.",
-              "When citizens watch the leaders of big tech firms amass unprecedented fortunes while their own neighborhoods deal with severe light pollution, grid strain, and relentless digital noise, the social contract underpinning the tech economy fractures. The assumption that the public would indefinitely tolerate massive industrial footprints for abstract technological gains has proven false."
-            ]
-          },
-          {
-            "heading": "Winners and Losers",
-            "paragraphs": [
-              "Local communities, municipal governments, and grassroots organizers emerge as unexpected victors, regaining regulatory teeth over corporate actors who previously operated with minimal friction. State legislators are finding that opposing unchecked tech sprawl is a potent populist message.",
-              "Conversely, the losers include venture capitalists, real estate developers specializing in tech infrastructure, and big tech executives who relied on unhindered physical scaling. Elon Musk's heavy financial intervention in Texas politics backfired by giving the opposition a clear target against billionaire political influence."
-            ]
-          },
-          {
-            "heading": "What to Watch",
-            "paragraphs": [
-              "Observers should monitor whether the recent tech stock sell-off deepens as institutional investors reprice the regulatory risk of future datacentre projects. If municipal resistance spreads from isolated ballot measures to state-level moratoria, the entire capital expenditure model of the AI boom will require fundamental restructuring."
-            ]
-          }
-        ],
-        "tags": [
-          "Global Economy",
-          "Artificial Intelligence",
-          "Infrastructure",
-          "Datacentres",
-          "Blindspot"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian Business",
-            "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
-            "url": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash"
-          },
-          {
-            "name": "The Guardian",
-            "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOU42NkxfMUowd0R4X0xFeGVvQmM3ZTZ1NDRwVzdOVUFHOXJGTENpV2lvbm9EdmExMVg2WWpuR3Nza2hsOVp1WXNZR0sxd0NqNFBkSDhOQzI1MnVCeUhzUVVsVUt4WGpXcFlYeWo2OXI1dUlTVFV2OV9SdDRNc2pQNGZGSTZVaHA3VmlDTkhjYUgzVXdzNFIzTFpXVVVsWDA4WUF4UQ?oc=5"
-          },
-          {
-            "name": "shattered.io",
-            "title": "Midterms Put AI on Trial: 56% Cite Data Centers [2026]",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLWNsQVhjdGYyRWZLc2l5dTdscXhjM1V4c2tYYWxZb1o0RDNvVFhfQ1A0UEdpVklELVFXOFFjWkZuNllkQndEOXdTYVFUbF9UZkxZX2t5RVBqczZxWVBPMnlxcDNCTDJKZURvMEdQemg4eEZZc3c0RHFNQ0w3bWJwNnY3YUZQQXM?oc=5"
-          },
-          {
-            "name": "USA Today",
-            "title": "Data centers were on the ballot across the nation. They got crushed.",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc2Z4bm1fQ1NLcEVzNG56SjNjQVRnVVdsSmpqVFMtczBJdGhyYVctQk5laDhObk9qSjBCM29MTnU0TDM4ZmxSc01kNl85djJqRGRPZXdETFhXaEV0YldSV00zd0NUYlZrMkZRNkNyMi00UFNweFY0bF80SjRqRGJ1X2dSZm9NYkR1Rm10S3AtMEtqem9ubjB0Z1pfV3Rodw?oc=5"
-          },
-          {
-            "name": "BBC",
-            "title": "Could the US midterms put a pin in the AI bubble?",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vd2Y0cG1paUI2cC1oS0VBTmJlemxzN3Jtd1VBaHFRZldINGZtY25HNTVFSWtYN1NRekp5b1EybWVSZTRaUXcxUjZaVWtUVjVSZlNFU3M3RmZvQ3pFY2c?oc=5"
-          }
-        ],
-        "wordCount": 417
-      },
-      "videoScript": {
-        "hook": "Data centers were on the ballot across the nation, and they just got crushed.",
-        "beats": [
-          "Voters passed dozens of local measures restricting the expansion of power-hungry tech warehouses.",
-          "56% of analysts noted that massive data center footprints became a primary electoral flashpoint.",
-          "The debt-fueled infrastructure narrative behind the AI boom is finally meeting municipal resistance."
-        ],
-        "close": "Read the full analysis at the link in our bio."
-      },
-      "rawImageUrl": "https://i.guim.co.uk/img/media/2ea7dda4257fc43543719a2d375cd85a1ce8cdb4/0_0_7157_5728/master/7157.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=263827498bd4c64475d5e2a50c48fe5d",
-      "status": "published",
-      "createdAt": "2026-11-08T14:40:19.970Z",
-      "cardImageUrl": "/news-cards/news-ge81xg49g-1794148819970.jpg",
-      "reelCoverUrl": "/news-cards/news-ge81xg49g-1794148820547-cover.jpg",
-      "instagramCardUrl": "/news-cards/news-ge81xg49g-1794148821125-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/how-us-midterms-put-datacentres-ai-4q1x/",
-      "publishedAt": "2026-11-08T16:56:13.860Z"
-    },
-    "channels": {
-      "facebook": true,
-      "telegram": false,
-      "bluesky": false,
-      "linkedIn": false,
-      "instagram": true,
-      "facebookReel": true,
-      "mastodon": false,
-      "threads": false,
-      "youtube": true
-    },
-    "scheduledFor": "2026-11-08T16:54:00.000Z",
-    "status": "published",
-    "attempts": 1,
-    "maxAttempts": 3,
-    "createdAt": "2026-11-08T14:40:22.152Z",
-    "lastAttemptAt": "2026-11-08T16:54:15.347Z",
-    "results": {
-      "facebook": {
-        "success": true,
-        "postId": "122102193759539825",
-        "simulated": false
-      },
-      "instagram": {
-        "success": true,
-        "mediaId": "18165849745522288",
-        "permalink": "https://www.instagram.com/reel/DffPCCIAVd-/"
-      },
-      "facebookReel": {
-        "success": false,
-        "skipped": true,
-        "error": "Noticia sin video libre: solo post con imagen"
-      },
-      "youtube": {
-        "success": false,
-        "skipped": true,
-        "error": "Noticia sin video libre: no se sube a YouTube"
-      }
-    },
-    "publishedAt": "2026-11-08T16:56:13.860Z"
-  },
-  {
     "id": "queue-1794152817415-xy9sf",
     "news": {
       "id": "5qfovc8c1",
@@ -24156,12 +23993,13 @@
         "close": "Read the full analysis at the link in our bio."
       },
       "rawImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Kerch-Strait-Bridge-smoke-generators-1152x648.jpg",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-19T02:06:21.422Z",
       "cardImageUrl": "/news-cards/news-sudym9ssp-1795053981423.jpg",
       "reelCoverUrl": "/news-cards/news-sudym9ssp-1795053982132-cover.jpg",
       "instagramCardUrl": "/news-cards/news-sudym9ssp-1795053982784-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/how-ukraine-bypassed-starshield-limits-strike-q6mk/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/how-ukraine-bypassed-starshield-limits-strike-q6mk/",
+      "publishedAt": "2026-11-19T11:02:23.269Z"
     },
     "channels": {
       "facebook": true,
@@ -24175,10 +24013,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-19T11:02:00.000Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-19T02:06:24.014Z"
+    "createdAt": "2026-11-19T02:06:24.014Z",
+    "lastAttemptAt": "2026-11-19T11:02:15.407Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122111004105539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": false,
+        "skipped": true,
+        "error": "Estrategia IG: fuera de la franja 18:00–21:00 (Bogotá); el Reel se reprograma a la franja"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "YouTube: tope diario de 3 Shorts alcanzado"
+      }
+    },
+    "publishedAt": "2026-11-19T11:02:23.269Z"
   },
   {
     "id": "queue-1795057696648-d24kn",
@@ -24971,5 +24833,146 @@
       }
     },
     "publishedAt": "2026-11-19T08:04:58.350Z"
+  },
+  {
+    "id": "queue-1795086143203-ra9hy",
+    "news": {
+      "id": "sudym9ssp",
+      "originalUrl": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+      "originalTitle": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+      "sourceName": "Ars Technica",
+      "category": "TECHNOLOGY & AI",
+      "urgencyScore": 88,
+      "headline": "UKRAINE BYPASSES STARLINK LIMITS TO STRIKE KERCH BRIDGE",
+      "subHeadline": "Coordinated missile and drone strikes collapsed a steel arch of the Kerch Strait Bridge as Ukrainian forces adapted mesh radio networks to circumvent US-imposed speed restrictions on Starshield.",
+      "blindSpotAngle": "While mainstream coverage focuses on the geopolitical symbolism of hitting Putin's bridge, the real story is technological decoupling. Ukraine proved it can wage high-end asymmetric warfare without military-grade satellite links by reverse-engineering Russian mesh relay tactics, signaling that hardware restrictions imposed by foreign allies can be systematically routed around.",
+      "facebookPost": "Ukrainian forces successfully collapsed a crucial segment of the Kerch Strait Bridge during coordinated nighttime strikes on November 15 and 16, utilizing homegrown Flamingo cruise missiles and an airborne mesh communications network.\n\nWhile the official narrative centers on the symbolic blow to Vladimir Putin ahead of international summits, the critical fracture lies in how the operation was executed. Ukrainian units deliberately bypassed Starshield—the military version of Elon Musk's satellite network—due to US restrictions on high-speed payloads, adopting Russian relay drone techniques instead.\n\nHow sustainable is allied technological gatekeeping when belligerents can so rapidly invent decentralized workarounds on the battlefield?\n\nSource: Ars Technica\n\n📖 Full analysis & sources in the first comment 👇\n\n#TechnologyAndAI #DefenseTech #Blindspot",
+      "telegramPost": "<b>UKRAINE BYPASSES STARLINK LIMITS TO STRIKE KERCH BRIDGE</b>\n\n• <b>What happened:</b> Coordinated waves of Ukrainian drones and missiles collapsed a steel arch of the Kerch Strait Bridge on November 15 and 16, using airborne mesh radios to guide munitions from over 250 kilometers away.\n• <b>Why it matters:</b> Ukrainian units deliberately avoided Starshield, the military version of Starlink, to bypass US restrictions capping vehicle speeds at 100 miles per hour, demonstrating operational independence from primary Western communications infrastructure.\n• <b>What is next:</b> Expect accelerated deployment of indigenous mesh-relay drone networks by Kyiv as military tech decouples from reliant satellite architectures.",
+      "linkedInPost": "The successful destruction of a Kerch Strait Bridge roadway section highlights a profound shift in military supply chains and technological sovereignty. Facing US-imposed speed restrictions on Starshield for payloads exceeding 100 miles per hour, Ukrainian forces adapted enemy battlefield innovations by deploying airborne mesh radios to maintain communication links over 250 kilometers.\n\nThis development signals a dangerous precedent for technology providers: strict end-user constraints do not halt tactical execution; they merely accelerate technological substitution and local adaptation. Institutional reliance on single-provider satellite architectures is proving increasingly fragile in contested environments.\n\nSource: Ars Technica\n\nFull analysis: https://blindspotglobal.pages.dev/news/how-ukraine-bypassed-starshield-limits-strike-q6mk/\n\n#TechnologyAndAI #DefenseTech #SupplyChain #Blindspot",
+      "blueskyPost": "Ukraine bypassed Starlink speed limits during the Kerch bridge strike by adopting Russian mesh radio relay tactics, proving military tech can route around Western controls. #Blindspot #TechnologyAndAI",
+      "copies": {
+        "facebook": "Ukrainian forces successfully collapsed a crucial segment of the Kerch Strait Bridge during coordinated nighttime strikes on November 15 and 16, utilizing homegrown Flamingo cruise missiles and an airborne mesh communications network.\n\nWhile the official narrative centers on the symbolic blow to Vladimir Putin ahead of international summits, the critical fracture lies in how the operation was executed. Ukrainian units deliberately bypassed Starshield—the military version of Elon Musk's satellite network—due to US restrictions on high-speed payloads, adopting Russian relay drone techniques instead.\n\nHow sustainable is allied technological gatekeeping when belligerents can so rapidly invent decentralized workarounds on the battlefield?\n\n#TechnologyAndAI #DefenseTech #Blindspot",
+        "telegram": "<b>UKRAINE BYPASSES STARLINK LIMITS TO STRIKE KERCH BRIDGE</b>\n\n• <b>What happened:</b> Coordinated waves of Ukrainian drones and missiles collapsed a steel arch of the Kerch Strait Bridge on November 15 and 16, using airborne mesh radios to guide munitions from over 250 kilometers away.\n• <b>Why it matters:</b> Ukrainian units deliberately avoided Starshield, the military version of Starlink, to bypass US restrictions capping vehicle speeds at 100 miles per hour, demonstrating operational independence from primary Western communications infrastructure.\n• <b>What is next:</b> Expect accelerated deployment of indigenous mesh-relay drone networks by Kyiv as military tech decouples from reliant satellite architectures.",
+        "bluesky": "Ukraine bypassed Starlink speed limits during the Kerch bridge strike by adopting Russian mesh radio relay tactics, proving military tech can route around Western controls. #Blindspot #TechnologyAndAI",
+        "linkedIn": "The successful destruction of a Kerch Strait Bridge roadway section highlights a profound shift in military supply chains and technological sovereignty. Facing US-imposed speed restrictions on Starshield for payloads exceeding 100 miles per hour, Ukrainian forces adapted enemy battlefield innovations by deploying airborne mesh radios to maintain communication links over 250 kilometers.\n\nThis development signals a dangerous precedent for technology providers: strict end-user constraints do not halt tactical execution; they merely accelerate technological substitution and local adaptation. Institutional reliance on single-provider satellite architectures is proving increasingly fragile in contested environments.\n\n#TechnologyAndAI #DefenseTech #SupplyChain #Blindspot"
+      },
+      "article": {
+        "slug": "how-ukraine-bypassed-starshield-limits-strike-q6mk",
+        "title": "How Ukraine bypassed Starshield limits to strike the Kerch Strait Bridge",
+        "dek": "By adapting Russian mesh-radio relay tactics, Ukrainian forces executed a devastating strike on the Kerch Strait Bridge without relying on restricted Western satellite networks.",
+        "keyFacts": [
+          "The strikes occurred on the nights of November 15 and November 16.",
+          "Operations involved airborne mesh radios allowing operators over 250 kilometers (155 miles) away to guide missiles.",
+          "The US-imposed Starshield restrictions prevent use on objects traveling over 100 miles per hour (161 kilometers per hour).",
+          "The attack collapsed one of two steel arches supporting the bridge's automobile roadway."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "According to an Institute for the Study of War update, coordinated waves of Ukrainian drones and missiles caused enough damage on the nights of November 15 and November 16 to collapse one of two steel arches supporting the Kerch bridge's automobile roadway. Russian sources reported that several hundred Ukrainian drones overwhelmed air defenses to clear a path for remote-controlled missile strikes, prominently featuring Ukraine’s homegrown Flamingo cruise missile.",
+              "The attack coincided with the largest Ukrainian overnight drone attack on Russia since the start of the full-scale war, according to Reuters. The operation was preceded by weeks of preparatory strikes that systematically destroyed or degraded Russian air defense weapons, radars, and electronic warfare equipment protecting the bridge."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "The most striking element of the operation was the communications architecture. The Financial Times reported that Ukrainian units involved in the operation deliberately avoided using Starshield, the military version of Elon Musk’s Starlink satellite network. This decision stemmed from recent US restrictions preventing Ukraine from using Starshield on drones or items traveling faster than 100 miles per hour (161 kilometers per hour).",
+              "President Volodymyr Zelenskyy noted that the restrictions had not yet been lifted, interfering with various drone interceptor technologies designed to defend against Russian attacks on Ukrainian cities. SpaceX has denied that the restrictions had returned, but the operational reality forced Kyiv to look elsewhere for guidance systems."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "While mainstream media frames the event primarily through the lens of diplomatic symbolism ahead of international meetings involving Donald Trump, Xi Jinping, and Vladimir Putin, the structural reality is technological decoupling. Ukraine successfully adopted a Russian battlefield innovation by using drones equipped with mesh radios to create an airborne communications network.",
+              "Each networked drone acts as a relay node, extending the communication link between human operators located more than 250 kilometers away and remote-guided missiles. By mimicking and refining a Russian electronic warfare tactic, Ukraine proved that Western hardware limitations can be bypassed through indigenous network engineering, undermining the control leverage that external tech providers hold over wartime strategies."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "The primary loser in this architectural shift is the monopoly power of centralized satellite communications providers. When end-user restrictions collide with existential military necessity, recipient nations will engineer decentralized workarounds rather than comply with foreign export limitations.",
+              "On the physical map, Russia absorbs a severe strategic blow. The destruction of the bridge roadway complicates logistics and military basing within the occupied Crimean peninsula, even though Russian news sources indicated that the railway section sustained only moderate damage and trains resumed running shortly after."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "Observers should monitor whether Ukrainian mesh-radio relay techniques proliferate across other branches of the armed forces, effectively reducing dependency on Starlink entirely. Furthermore, watch for how Western regulators respond to the revelation that export-controlled satellite architectures can be circumvented by battlefield adaptation.",
+              "As the Institute for the Study of War assesses, the compromised infrastructure will severely test Russia's ability to maintain its southern land bridge and occupation logistics, forcing Moscow to rely increasingly on alternative overland routes."
+            ]
+          }
+        ],
+        "tags": [
+          "Technology",
+          "Defense",
+          "Ukraine",
+          "Starlink",
+          "Drones",
+          "Geopolitics"
+        ],
+        "sources": [
+          {
+            "name": "Ars Technica",
+            "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+            "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/"
+          },
+          {
+            "name": "The Guardian",
+            "title": "How Ukraine landed a blow to Putin’s prized bridge - The Latest",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbWZVdmkxaHluTGIwYVJjN3RUb0g4MDZDU2l6MWR0ZGozZUZnQ1VSOVUxUHZzSUtscXcySXYzMDA5TEsyc2pjTGN4dC1WUnRRWEtLeURXcENnTGo2VGNMTmF2TmVRX0dCeTVBZnNELVZMcTRrUUpsTHU4TUhqNzFlWlpGZzFaRzB5NmVrS2pSQlRMTU9oZ0lRbHVLaV9xTXZMX2dQWTh1MzRwZmhPMFFj?oc=5"
+          },
+          {
+            "name": "NBC News",
+            "title": "Putin enjoys boost of historic Trump-Xi talks, but bridge attack deals a blow to his pride",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWmh4MWN6bkNoZDlOX19jdFU2TW9jT0tHY0JoU3ZhQUV4YnhhSnR6cElKbWZQVDUxa0N5ZjYxM2s4bHJ1MXVoUk13SWp3NjAtTnhSSk5fa2VOMjlKSm5yQjFpN3lDakNDcEV6TWVpU1lPeFk0enZFdDExclBPRUVYU2ZjQlc4NW4wQmhSeDhySHU5V3BvMEtyalFNaVpsOVAxSkh5VWlJZm01dWs?oc=5"
+          },
+          {
+            "name": "Reuters",
+            "title": "Ukraine cripples Crimean road bridge in blow to Putin before meeting with Xi and Trump",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEg3anV0Q2ZiXzRhYjVfZkhyTlM2Q3RnX3ZFUExIQ0xQWjZqbkRmXy1mSVY5N1E2dXI0Q2s5WE5oQmNnLXZia24zNU5nUF9FNnZQMENHcFhYMUlhVklwT1RBczRnWFRiXzl3MHRoTWpPRlZJQUNlSjBHeGl5akprVmlNNnFYNmRiNEFqZUlzbUxnRU9FWGRxRGdUTU93QTQ3S3prbktDSUxQbHM2MjFsWWtpLXNOWWFC?oc=5"
+          },
+          {
+            "name": "CNN",
+            "title": "Ukraine strike collapses section of Putin’s prized bridge to occupied Crimea",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mbTkyR1c3YVZUTjdmbFRmQWJtSXMtNEVNSGJSX1c0VG1CbGYzTWNYU0FJZUxiX1V0SkwtUHdwUno5eXhFQzZJRHZPRDVVb2g2WU55cVRkeFV1QlFGbTFUcWh4MUJCY185aDFfU2hJSGgwdDBpc3QtSG5sWGlqVWc?oc=5"
+          }
+        ],
+        "wordCount": 518
+      },
+      "videoScript": {
+        "hook": "How did Ukraine blow up the Kerch bridge without using Starlink?",
+        "beats": [
+          "Ukrainian forces used homegrown missiles and coordinated drone swarms to collapse a main roadway arch of the Kerch Strait Bridge.",
+          "Operators guided the munitions from over 250 kilometers away by deploying airborne mesh radios to bypass US speed restrictions on Starshield.",
+          "This marks a major shift as military technology rapidly decouples from reliant Western satellite architectures through battlefield innovation."
+        ],
+        "close": "Read the full analysis at the link in our bio."
+      },
+      "rawImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Kerch-Strait-Bridge-smoke-generators-1152x648.jpg",
+      "status": "pending",
+      "createdAt": "2026-11-19T02:06:21.422Z",
+      "cardImageUrl": "/news-cards/news-sudym9ssp-1795053981423.jpg",
+      "reelCoverUrl": "/news-cards/news-sudym9ssp-1795053982132-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-sudym9ssp-1795053982784-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/how-ukraine-bypassed-starshield-limits-strike-q6mk/"
+    },
+    "channels": {
+      "facebook": false,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": false,
+      "mastodon": false,
+      "threads": false,
+      "youtube": false
+    },
+    "scheduledFor": "2026-11-19T23:00:00.000Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-19T11:02:23.203Z",
+    "igDeferred": true
   }
 ]

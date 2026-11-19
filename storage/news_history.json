@@ -169,6 +169,35 @@
   ],
   "processedSignatures": [
     {
+      "title": "UKRAINE BYPASSES STARLINK LIMITS TO STRIKE KERCH BRIDGE",
+      "normalizedTokens": [
+        "ukraine",
+        "bypasses",
+        "starlink",
+        "limits",
+        "strike",
+        "kerch",
+        "bridge"
+      ],
+      "date": "2026-11-19T11:02:23.224Z"
+    },
+    {
+      "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+      "normalizedTokens": [
+        "ukraine",
+        "blew",
+        "putin",
+        "bridge",
+        "using",
+        "relay",
+        "drones",
+        "bypass",
+        "starlink",
+        "limits"
+      ],
+      "date": "2026-11-19T11:02:23.222Z"
+    },
+    {
       "title": "RUSSIAN STRIKES ON ODESA KILL FOUR AMID DIPLOMATIC STAGNATION",
       "normalizedTokens": [
         "russian",
