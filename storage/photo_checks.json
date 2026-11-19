@@ -963,5 +963,10 @@
     "relevant": true,
     "reason": "The image shows a protest in Haiti featuring a portrait of Salvadoran President Nayib Bukele, directly connecting to the context of foreign intervention and military support mentio",
     "at": "2026-11-19T05:32:19.978Z"
+  },
+  "aae33f59cd1d1677:771coq1ob": {
+    "relevant": true,
+    "reason": "The image depicts severe war damage to buildings and a car, directly illustrating the aftermath of Russian missile strikes on Odesa mentioned in the headline and context summary.",
+    "at": "2026-11-19T08:02:12.813Z"
   }
 }

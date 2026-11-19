@@ -1,5 +1,107 @@
 [
   {
+    "slug": "russian-strikes-odesa-expose-brutal-calculus-3qei",
+    "path": "news/russian-strikes-odesa-expose-brutal-calculus-3qei/",
+    "title": "Russian strikes on Odesa expose the brutal calculus of pre-negotiation violence",
+    "headline": "RUSSIAN STRIKES ON ODESA KILL FOUR AMID DIPLOMATIC STAGNATION",
+    "dek": "Four people were killed and 13 injured in a multi-strike assault on Odesa's historic center. The attack reveals how infrastructural degradation is being deployed to shape upcoming diplomatic talks.",
+    "category": "GEOPOLITICS",
+    "sourceName": "Euronews",
+    "image": "img/russian-strikes-odesa-expose-brutal-calculus-3qei.jpg",
+    "photo": "img/russian-strikes-odesa-expose-brutal-calculus-3qei-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "owJuXWJGotE",
+      "title": "Russian drones devastate Odesa city centre; civilians killed and wounded in multiple strikes",
+      "channel": "Kanal13",
+      "license": "cc-by"
+    },
+    "publishedAt": "2026-11-19T08:02:17.472Z",
+    "article": {
+      "slug": "russian-strikes-odesa-expose-brutal-calculus-3qei",
+      "title": "Russian strikes on Odesa expose the brutal calculus of pre-negotiation violence",
+      "dek": "Four people were killed and 13 injured in a multi-strike assault on Odesa's historic center. The attack reveals how infrastructural degradation is being deployed to shape upcoming diplomatic talks.",
+      "keyFacts": [
+        "Four people were killed and at least 13 injured in the strikes on Odesa.",
+        "Three separate Russian strikes hit the district over the course of the morning.",
+        "Oleh Kiper serves as the governor of the regional military administration.",
+        "The full-scale invasion began on 24 February 2022, over four years ago."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Three separate Russian missile strikes tore through the Odesa district during the morning hours, hitting apartment buildings, local cafés, shops, and parked vehicles. According to Oleh Kiper, governor of the regional military administration, the coordinated assault left four people dead and at least 13 injured.",
+            "State Emergency Service footage captured firefighters battling blazes inside gutted structures and extinguishing smouldering transport while medics evacuated wounded civilians on stretchers. Glass and masonry covered the streets as rescue teams combed through the debris in dense residential zones."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The assault comes more than four years after Russia initiated its full-scale invasion on 24 February 2022. Wednesday’s attack brought severe destruction to Odesa’s historic core, an area widely recognized for its landmark architecture and civilian density.",
+            "United Nations data indicates that civilian casualties throughout Ukraine in 2026 continue to outpace previous years' tolls, demonstrating an intensifying trajectory of the conflict despite fatigue among international partners."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While daily reporting highlights the immediate humanitarian response and local casualty counts, mainstream coverage often separates these tactical bombings from the broader diplomatic calendar. The strikes did not occur in a vacuum; they coincided directly with preparations for the next round of US-mediated negotiations aimed at ending the war.",
+            "According to Blindspot's analysis, the intensification of urban bombardment functions as a kinetic bargaining chip. By steadily eroding Ukrainian urban centers and infrastructure, Moscow aims to lower Kyiv's negotiating ceiling and force Western capitals to accept a compromised diplomatic framework."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The clear losers are the civilian population of Odesa and the municipal infrastructure that sustains everyday life in the region. Historic architecture and residential neighborhoods bear the direct cost of strategic messaging.",
+            "On the other hand, military planners in Moscow retain the initiative to set the tempo on the ground, utilizing terror and structural damage to shape the geopolitical environment ahead of any formal diplomatic engagement."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Observers must track the concrete timeline and institutional parameters of the upcoming US-mediated talks. Any sudden escalation in strikes on port and historic cities typically signals an hardening of negotiating stances rather than a genuine pivot toward peace."
+          ]
+        }
+      ],
+      "tags": [
+        "Geopolitics",
+        "Ukraine",
+        "Odesa",
+        "Diplomacy",
+        "Defense"
+      ],
+      "sources": [
+        {
+          "name": "Euronews",
+          "title": "Ukraine: Four killed and at least 13 injured in Russian strike on Odesa",
+          "url": "https://www.euronews.com/video/2026/11/19/ukraine-four-killed-and-at-least-13-injured-in-russian-strike-on-odesa"
+        },
+        {
+          "name": "Euronews.com",
+          "title": "Video. Ukraine: Four killed and at least 13 injured in Russian strike on Odesa",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSHdwNGN0OHhVWUlvUlYyWmxGR00xbTFqLWhVQ3hDZVJaYy12REF1VFY1OE5ZSlUxcE1wc1NwSnozU2hLb3UydlA1clY2c0wtS1I5QkZoOGFOaXZONnB0cGhzSzFaT1F1VjB4SURJaUNVUk1sa3NWdS1QR19YMWFSWnU0d1VyZ0JuRnd6MDNOUjFLQU13S2VDcUU0ejh1c21ELWNMRkp3Z2JoVlAxSGdBTDB3?oc=5"
+        },
+        {
+          "name": "UN News",
+          "title": "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2S212VmNSVjM3WHJzb3pwWDlFUjEyeEF5QTZRU3RBeV9GZjVOU2RoT1JBQjdZbzkyY0djTG4ybjFVMlFySnVYYjBWcjhPQXptMmtDTlVtdw?oc=5"
+        },
+        {
+          "name": "Al Jazeera",
+          "title": "Russian attacks on Ukraine kill at least five people",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVjFqR2o5RHdGai01ai14Q3FpTGpLdHd2aklKSlhYcVVCZzVxbVFmVGlRNEc1cDhuc0hQbzNLYjBzUzN4cjlFaTFHbTA2aHVtNGxjV2pWWk9xNE0tRnVQZ1hwMTBHUHhxU3UyOVRFV2hpMmNqcVRHdV95OHpTRGt4SEhNQUxJaF9LR3pLMGVvTllRT2RiTU5GOWJ30gGfAUFVX3lxTFBZZDlyVFcxWlUzLWpYck5BeVI5ZG5nVEwzZVRVWHdUNWxrT3RybHYweFY3V0taU3VIRDkwYmdPM1VaRzRSRnBPN0JabTh2SzhjT0RDYWJNTXpzSTJmOE9BYUh1ckhTNlBJUW9HNFY4NHFYekYxcmJXaGs5TlhEODlZRnU2OUxmTDB5VXkxWlZWUjhzNk41RDh3YnozWkFVbw?oc=5"
+        },
+        {
+          "name": "The New Voice of Ukraine",
+          "title": "Russian strikes kill four, injure at least 13 in Odesa’s historic center — photos",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWxhY2dnS21pVnJMRnJMdXl2ckllS3h0eFZZZmJkaGZ1RkRqQnNpbHNWS3RGandQNWNTMVlrM0xJcWhaOEFOaXFPbHVoYUF3OVRzazVwdkZQdjNaQWhNLXR6ZUhGamx6c2ppZHFzU0JET3FWSGIwTUxYb0FPb2hvWjJiU2d3dVF4WS1Wajg1Y3VMUHRZc1B3LU9GdHUzeHhuV3NLb05CbWh6eDVlMjJCS0R5MWdMR2d3OTFPM2x30gG6AUFVX3lxTE5sNTFtTWJrNFNJeHVpMEMtLU1DVE9aMGp6RmNiZDlPcWdHNE93NUROS04tdVpNMmUycjZlUmZsYjZBTEdfT0R6OXhQZFc1aEx0czl3b1Qwc3RNZGNCRTdva2xFTjVuS1lZX0k4OWd3VElVRkN2cExvUXh2N2ZlSXVrUENjQmY3TW9iWTAwZjMwSHpsMjREck54REhmY19GQTJ3NWYzVHJYeXpsN3BFTjcweWZ1UTNvMGR5UQ?oc=5"
+        }
+      ],
+      "wordCount": 372
+    },
+    "blindSpot": "While mainstream coverage frames these strikes as routine urban terror, the tactical timing coincides directly with quiet preparations for US-mediated negotiations. Moscow is weaponizing civilian infrastructure degradation to establish leverage on the ground before any diplomatic framework materializes."
+  },
+  {
     "slug": "inside-bukele-s-military-intervention-haiti-5sf1",
     "path": "news/inside-bukele-s-military-intervention-haiti-5sf1/",
     "title": "Inside Bukele's military intervention in Haiti and the hidden risks of outsourced security",

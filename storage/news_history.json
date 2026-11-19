@@ -164,9 +164,37 @@
     "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
     "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
     "https://www.france24.com/en/tv-shows/business/20261118-inside-limoges-city-hall-devastated-by-arson-attack",
-    "https://www.euronews.com/2026/11/18/bukele-confirms-airstrike-on-haitian-gang-leader-jeffs-luxury-mansion"
+    "https://www.euronews.com/2026/11/18/bukele-confirms-airstrike-on-haitian-gang-leader-jeffs-luxury-mansion",
+    "https://www.euronews.com/video/2026/11/19/ukraine-four-killed-and-at-least-13-injured-in-russian-strike-on-odesa"
   ],
   "processedSignatures": [
+    {
+      "title": "RUSSIAN STRIKES ON ODESA KILL FOUR AMID DIPLOMATIC STAGNATION",
+      "normalizedTokens": [
+        "russian",
+        "strikes",
+        "odesa",
+        "kill",
+        "four",
+        "diplomatic",
+        "stagnation"
+      ],
+      "date": "2026-11-19T08:02:17.559Z"
+    },
+    {
+      "title": "Ukraine: Four killed and at least 13 injured in Russian strike on Odesa",
+      "normalizedTokens": [
+        "ukraine",
+        "four",
+        "killed",
+        "least",
+        "injured",
+        "russian",
+        "strike",
+        "odesa"
+      ],
+      "date": "2026-11-19T08:02:17.558Z"
+    },
     {
       "title": "BUKELE CONFIRMS AIRSTRIKE ON HAITIAN GANG LEADER MANSION",
       "normalizedTokens": [
