@@ -1023,5 +1023,10 @@
     "relevant": true,
     "reason": "The image clearly shows a hippopotamus, which directly illustrates the news story about Fiona the hippo.",
     "at": "2026-11-20T05:47:04.954Z"
+  },
+  "df6c6b9e57152097:ogdo4rjbt": {
+    "relevant": true,
+    "reason": "The image depicts severe bomb damage on a bridge in Kyiv, directly illustrating the missile strikes mentioned in the headline and context.",
+    "at": "2026-11-20T07:03:40.969Z"
   }
 }
