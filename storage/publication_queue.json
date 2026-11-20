@@ -1,178 +1,5 @@
 [
   {
-    "id": "queue-1794222119478-84fpk",
-    "news": {
-      "id": "rxyauwhvh",
-      "originalUrl": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-      "originalTitle": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
-      "sourceName": "The Verge",
-      "category": "TECHNOLOGY & AI",
-      "urgencyScore": 92,
-      "headline": "NVIDIA INVESTIGATES CEO JENSEN HUANG OVER CHINESE ESPIONAGE ALLEGATIONS",
-      "subHeadline": "Nvidia's board of directors initiated an independent inquiry into CEO Jensen Huang following disclosures of a romantic relationship with a Megaspeed executive linked to Chinese intelligence. The distributor is simultaneously under federal investigation for illegal AI chip transfers to Beijing.",
-      "blindSpotAngle": "Beyond corporate governance, the story reveals how state intelligence agencies exploit human vectors within third-party hardware distributors to breach national tech barriers. Huang's proximity to senior U.S. officials raises critical concerns that high-level executive discussions regarding American AI strategy may have been indirectly exposed to Beijing.",
-      "facebookPost": "Nvidia's board of directors has launched an independent investigation into founder and CEO Jensen Huang following revelations of a romantic relationship with Alice Huang, an executive at customer firm Megaspeed. According to reporting from the New York Times, U.S. officials believe the executive was recruited by China's Ministry of State Security to gather intelligence on America's leading microchip developer.\n\nWhile Nvidia states it has no reason to believe national security secrets were compromised, the context is precarious. Megaspeed is currently under investigation by the U.S. Commerce Department for potentially smuggling restricted AI chips into China. Furthermore, Jensen Huang's frequent access to high-level U.S. policy discussions creates lingering concerns regarding what strategic insights may have reached foreign intelligence.\n\nDoes this probe mark a fundamental shift in how Silicon Valley executives will be vetted for national security compliance?\n\nSource: The Verge\n\n#TechnologyAI #Nvidia #Blindspot",
-      "telegramPost": "<b>NVIDIA INVESTIGATES CEO JENSEN HUANG OVER CHINESE ESPIONAGE ALLEGATIONS</b>\n\n• <b>What happened:</b> Nvidia's board launched an independent investigation into CEO Jensen Huang over a relationship with a Megaspeed executive allegedly recruited by Chinese state intelligence.\n• <b>Why it matters:</b> Megaspeed is already under U.S. Commerce Department scrutiny for illegal AI chip smuggling, highlighting critical security gaps in semiconductor supply networks.\n• <b>What is next:</b> Outside legal counsel will audit Nvidia's internal records while federal regulators re-examine executive policy access and third-party silicon distribution.",
-      "linkedInPost": "The board investigation into Nvidia CEO Jensen Huang introduces major macroeconomic and regulatory implications for the global semiconductor ecosystem. The inquiry follows disclosures of a relationship with an executive at Megaspeed—a key hardware customer currently under U.S. Commerce Department investigation for alleged AI chip smuggling to China.\n\nFor institutional investors and risk analysts, the critical vulnerability lies in supply chain intermediary integrity and executive counterintelligence exposure. With Nvidia's chips forming the bedrock of national security infrastructure, regulatory scrutiny over third-party distributors will inevitably intensify, altering cross-border hardware distribution models.\n\nHow will heightened scrutiny over silicon executive access impact corporate governance across dual-use tech supply chains?\n\nSource: The Verge\n\n#TechnologyAI #Geopolitics #Blindspot",
-      "blueskyPost": "Nvidia probes CEO Jensen Huang over ties to an alleged Chinese spy, while customer Megaspeed faces AI chip smuggling inquiries. Tech access meets intelligence risks. #Blindspot #TechnologyAI",
-      "copies": {
-        "facebook": "Nvidia's board of directors has launched an independent investigation into founder and CEO Jensen Huang following revelations of a romantic relationship with Alice Huang, an executive at customer firm Megaspeed. According to reporting from the New York Times, U.S. officials believe the executive was recruited by China's Ministry of State Security to gather intelligence on America's leading microchip developer.\n\nWhile Nvidia states it has no reason to believe national security secrets were compromised, the context is precarious. Megaspeed is currently under investigation by the U.S. Commerce Department for potentially smuggling restricted AI chips into China. Furthermore, Jensen Huang's frequent access to high-level U.S. policy discussions creates lingering concerns regarding what strategic insights may have reached foreign intelligence.\n\nDoes this probe mark a fundamental shift in how Silicon Valley executives will be vetted for national security compliance? #TechnologyAI #Nvidia #Blindspot",
-        "telegram": "<b>NVIDIA INVESTIGATES CEO JENSEN HUANG OVER CHINESE ESPIONAGE ALLEGATIONS</b>\n\n• <b>What happened:</b> Nvidia's board launched an independent investigation into CEO Jensen Huang over a relationship with a Megaspeed executive allegedly recruited by Chinese state intelligence.\n• <b>Why it matters:</b> Megaspeed is already under U.S. Commerce Department scrutiny for illegal AI chip smuggling, highlighting critical security gaps in semiconductor supply networks.\n• <b>What is next:</b> Outside legal counsel will audit Nvidia's internal records while federal regulators re-examine executive policy access and third-party silicon distribution.",
-        "bluesky": "Nvidia probes CEO Jensen Huang over ties to an alleged Chinese spy, while customer Megaspeed faces AI chip smuggling inquiries. Tech access meets intelligence risks. #Blindspot #TechnologyAI",
-        "linkedIn": "The board investigation into Nvidia CEO Jensen Huang introduces major macroeconomic and regulatory implications for the global semiconductor ecosystem. The inquiry follows disclosures of a relationship with an executive at Megaspeed—a key hardware customer currently under U.S. Commerce Department investigation for alleged AI chip smuggling to China.\n\nFor institutional investors and risk analysts, the critical vulnerability lies in supply chain intermediary integrity and executive counterintelligence exposure. With Nvidia's chips forming the bedrock of national security infrastructure, regulatory scrutiny over third-party distributors will inevitably intensify, altering cross-border hardware distribution models.\n\nHow will heightened scrutiny over silicon executive access impact corporate governance across dual-use tech supply chains? #TechnologyAI #Geopolitics #Blindspot"
-      },
-      "article": {
-        "slug": "nvidia-board-launches-probe-into-ceo-8dpm",
-        "title": "Nvidia Board Launches Probe into CEO Jensen Huang Amid Chinese Intelligence Concerns",
-        "dek": "Nvidia has opened an independent investigation into founder Jensen Huang's relationship with an executive linked to Chinese intelligence. The inquiry puts a spotlight on silicon security, executive access, and Beijing's espionage tactics.",
-        "keyFacts": [
-          "Nvidia's board of directors launched an independent investigation into CEO Jensen Huang led by a committee of independent directors and outside counsel.",
-          "The probe follows reports of Huang's romantic relationship with Alice Huang, an executive at Nvidia customer Megaspeed.",
-          "U.S. officials suspect Alice Huang was recruited by China's Ministry of State Security to feed intelligence to Beijing.",
-          "Megaspeed is under investigation by the U.S. Commerce Department for allegedly smuggling restricted AI chips into China.",
-          "Export controls established across both the Biden and Trump administrations restrict the sale of Nvidia's most powerful AI chips to Chinese firms."
-        ],
-        "sections": [
-          {
-            "heading": "What Happened",
-            "paragraphs": [
-              "Nvidia's board of directors announced an independent investigation into founder and Chief Executive Officer Jensen Huang following disclosures regarding his relationship with an executive linked to Chinese state intelligence. The board stated that a committee of independent directors, assisted by outside counsel, will oversee the inquiry to review all available information.",
-              "The announcement follows reporting by the New York Times detailing a relationship between Jensen Huang and Alice Huang, a senior executive at Megaspeed. In an internal corporate memo, Jensen Huang admitted the relationship was romantic. U.S. government officials believe Alice Huang was recruited by China's Ministry of State Security to gather intelligence on the semiconductor giant."
-            ]
-          },
-          {
-            "heading": "The Context",
-            "paragraphs": [
-              "The inquiry emerges amidst intense geopolitical friction surrounding microchip technology. Nvidia's hardware is widely considered essential to national security and artificial intelligence supremacy. Consequently, both the Biden and Trump administrations placed strict export bans on high-performance silicon shipped to Chinese entities.",
-              "Megaspeed, an Nvidia customer, is currently the target of a U.S. Department of Commerce probe examining whether the company engaged in illicit transactions to smuggle restricted AI microprocessors directly into mainland China in violation of federal restrictions."
-            ]
-          },
-          {
-            "heading": "The Blind Spot",
-            "paragraphs": [
-              "While mainstream coverage centers on executive misconduct, the strategic blind spot involves human intelligence targeting of key nodes within technology supply chains. Intelligence agencies often focus on intermediate corporate customers and supply chain intermediaries to bypass formal corporate perimeter defenses.",
-              "Furthermore, Jensen Huang has maintained close access to top U.S. government leadership, participating in confidential deliberations regarding domestic AI subsidies, hardware sanctions, and federal tech policy. The potential risk that executive insights into U.S. administrative strategy were exposed represents a critical intelligence concern."
-            ]
-          },
-          {
-            "heading": "Winners and Losers",
-            "paragraphs": [
-              "Beijing's intelligence apparatus gains actionable insight into U.S. supply chain enforcement boundaries if confidential policy details were compromised. Rival chip manufacturers may also capitalize on the corporate governance disruption to seek government procurement contracts.",
-              "Nvidia faces immediate reputational pressure, potential regulatory sanctions, and legal oversight. The inquiry directly challenges Jensen Huang's standing in Washington as a trusted advisor on national technological strategy."
-            ]
-          },
-          {
-            "heading": "What to Watch",
-            "paragraphs": [
-              "Outside counsel will evaluate internal communications and data records to verify whether proprietary technology or national security discussions were compromised. Simultaneously, the Department of Commerce's final findings on Megaspeed will dictate potential federal legal actions.",
-              "Lawmakers in Washington are expected to demand stricter counterintelligence protocols and security clearance requirements for executive leadership handling dual-use technologies."
-            ]
-          }
-        ],
-        "tags": [
-          "Nvidia",
-          "Jensen Huang",
-          "Artificial Intelligence",
-          "China",
-          "Semiconductors",
-          "Espionage"
-        ],
-        "sources": [
-          {
-            "name": "The Verge",
-            "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
-          },
-          {
-            "name": "The New York Times",
-            "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdZZkpucG9aOVF5R2JPeHljWV85XzlhbUxnbUREYWlKQzBiR1UzeWxwaF9EMnpDajI1aXlmMlo0aENzeGdyRzJDSEtJR0xVanhFSkN3bXE0R1FYV2VWZHdIV1A1MmFlczN4VnRZcVZ5QV9xdUlxZXVlZVl3eHRqVWxsVmE1dktHZzdnelB0ZjUwejJj?oc=5"
-          },
-          {
-            "name": "NPR",
-            "title": "Nvidia launches investigation into CEO’s alleged relationship with Chinese spy",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaGxWZXVRNEFmOUg1TF8tbG8tYmlTSGNwXzFzUE56VGYwUVdxUE93XzBXczNyVFVNbGZDS3l5OTgxMHU3WmhpYVIyNExuZWxRR1h3dkdqTnhLY0JzY0txaWRRc0daUlgyQ3lJREZBT3NSOFJWaGJvQ1ZyVjRhVHJwcm51a3JHSUR0OTVSNmUtVWJJSkhHVldZRXRHYjV0R1RacDJVTi1hZ19rNkxkSDdmZjlaeGJWX2pOU2ZSRm5Kaw?oc=5"
-          },
-          {
-            "name": "CNBC",
-            "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd1BJNjAwTmc1dWhNWkFEblREai1hbkhYZFBjT2MxaWV1b283RXNKTnk1emdfY2p5LWlXOEo5M0hLWWhjTG1UVmdVV2xvS09sb0tlelBpalV1Z1lTdUZ1VWJ5Uzl4cFJqeXV2ZUF5WVpTSWFGeGU4eldfdHpScTMySHpZQk9fWGc?oc=5"
-          },
-          {
-            "name": "Al Jazeera",
-            "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM2c5MDNuN29vR3VHTlVkZ1QyNXd4RWRmLWx1V2VXalh3MzhaWDBIQTF1VnlBTm4yQXpIbDNXUWtnQ2RDYXJ5eUZEdVhkdmR2YkRBYUFaQmlMaDdFTC1FVjdlU290aFZheDJwUmZoNFVIUC1uRUF1WF9XclVGZVFwVm5MWm5SRnZtOVZMLVNBSGUwZ1RHMlB5QjNYYW5zMFVqeDFiR9IBqgFBVV95cUxOMDJtdWpZYVVFTlNxWEdQWlYyR1l6eVlqNGpmSlBnQUZkWDFERVQycEo1WlV5UFZIcWJVODRfZDN4Vlh4NzNjUG1QX1lQSnFRUEdMRWVZWkhCeUdicDhpbGF4VTNCRk5RZFlvUmF0TEszaXo3U1Y4bVV5M21Cbl9OQ19FeEpwa0d0QVF2cktNVWFzRW9tbUVWM1g5cUljOG9JN3pYZjRuajh4Zw?oc=5"
-          }
-        ],
-        "wordCount": 417
-      },
-      "videoScript": {
-        "hook": "Is America's top AI chip maker facing a major foreign intelligence breach?",
-        "beats": [
-          "Nvidia opened 1 independent probe into CEO Jensen Huang over ties to an alleged Chinese intelligence operative.",
-          "The executive worked for Megaspeed, a company 2 U.S. administrations scrutinized over illegal AI chip sales to China.",
-          "The catch is Huang's close access to top officials, creating fears sensitive AI policy decisions reached Beijing."
-        ],
-        "close": "Read our full geopolitical analysis on the Nvidia probe at the link in bio."
-      },
-      "rawImageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "sourceVideo": {
-        "provider": "youtube",
-        "id": "ETc7Prw8TFk",
-        "title": "Nvidia расследует отношения гендиректора Дженсена Хуанга с возможным #DeepTech",
-        "channel": "ALTHEA Research Brief",
-        "license": "cc-by"
-      },
-      "status": "published",
-      "createdAt": "2026-11-09T11:01:56.721Z",
-      "cardImageUrl": "/news-cards/news-rxyauwhvh-1794222116721.jpg",
-      "reelCoverUrl": "/news-cards/news-rxyauwhvh-1794222117688-cover.jpg",
-      "instagramCardUrl": "/news-cards/news-rxyauwhvh-1794222118290-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/nvidia-board-launches-probe-into-ceo-8dpm/",
-      "publishedAt": "2026-11-09T11:19:27.852Z"
-    },
-    "channels": {
-      "facebook": true,
-      "telegram": false,
-      "bluesky": false,
-      "linkedIn": false,
-      "instagram": true,
-      "facebookReel": true,
-      "mastodon": false,
-      "threads": false,
-      "youtube": true
-    },
-    "scheduledFor": "2026-11-09T11:14:59.474Z",
-    "status": "published",
-    "attempts": 1,
-    "maxAttempts": 3,
-    "createdAt": "2026-11-09T11:01:59.478Z",
-    "lastAttemptAt": "2026-11-09T11:15:14.820Z",
-    "results": {
-      "facebook": {
-        "success": true,
-        "postId": "122102857359539825",
-        "simulated": false
-      },
-      "instagram": {
-        "success": true,
-        "mediaId": "17946330759087890",
-        "permalink": "https://www.instagram.com/reel/DfhNR-6ijPH/"
-      },
-      "facebookReel": {
-        "success": false,
-        "skipped": true,
-        "error": "Reel no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
-      },
-      "youtube": {
-        "success": false,
-        "skipped": true,
-        "error": "Short no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
-      }
-    },
-    "publishedAt": "2026-11-09T11:19:27.852Z"
-  },
-  {
     "id": "queue-1794223314975-o4sag",
     "news": {
       "id": "v3d5h2za9",
@@ -24062,12 +23889,13 @@
         "title": "Nvidia's Next CEO? Arm Boss Approached — Board Says NO!",
         "channel": "AI decoded"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-20T01:46:32.397Z",
       "cardImageUrl": "/news-cards/news-kiy6ncz0x-1795139192397.jpg",
       "reelCoverUrl": "/news-cards/news-kiy6ncz0x-1795139193024-cover.jpg",
       "instagramCardUrl": "/news-cards/news-kiy6ncz0x-1795139193560-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/nvidia-targets-arm-chief-rene-haas-etpz/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/nvidia-targets-arm-chief-rene-haas-etpz/",
+      "publishedAt": "2026-11-20T11:13:23.704Z"
     },
     "channels": {
       "facebook": true,
@@ -24081,10 +23909,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-20T11:13:00.000Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-20T01:46:34.608Z"
+    "createdAt": "2026-11-20T01:46:34.608Z",
+    "lastAttemptAt": "2026-11-20T11:13:15.380Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122111476401539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": false,
+        "skipped": true,
+        "error": "Estrategia IG: fuera de la franja 18:00–21:00 (Bogotá); el Reel se reprograma a la franja"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "YouTube: tope diario de 3 Shorts alcanzado"
+      }
+    },
+    "publishedAt": "2026-11-20T11:13:23.704Z"
   },
   {
     "id": "queue-1795143619288-ho6d3",
@@ -24909,5 +24761,151 @@
       }
     },
     "publishedAt": "2026-11-20T09:51:09.618Z"
+  },
+  {
+    "id": "queue-1795173203651-0ivo2",
+    "news": {
+      "id": "kiy6ncz0x",
+      "originalUrl": "https://www.theguardian.com/technology/2026/nov/19/nvidia-new-ceo-search-jensen-huang-arm-rene-haas",
+      "originalTitle": "Nvidia approaches Arm boss Rene Haas in search for new CEO",
+      "sourceName": "The Guardian Tech",
+      "category": "TECHNOLOGY & AI",
+      "urgencyScore": 94,
+      "headline": "NVIDIA HUNTERS APPROACH ARM CHIEF FOR HUANG SUCCESSOR",
+      "subHeadline": "Recruiters have targeted Arm chief executive Rene Haas to succeed Jensen Huang following his abrupt resignation over a security scandal. The board has firmly rejected public appeals for Huang's reinstatement.",
+      "blindSpotAngle": "The potential appointment of Arm's CEO by Nvidia threatens to formally collapse the fragile structural wall between neutral semiconductor intellectual property licensing and dominant hardware manufacturing. Mainstream coverage focuses on executive gossip and Trump's public lobbying, entirely ignoring the profound antitrust implications of absorbing the architectural chief of an ecosystem that supplies nearly all major tech firms into the world's most aggressive hardware monopoly.",
+      "facebookPost": "Nvidia is actively searching for a successor to co-founder Jensen Huang following his dramatic exit after admitting to an affair with a woman accused of spying for China. Headhunters have approached Arm chief executive Rene Haas to take the helm of the $3.6 trillion tech giant, making him the leading contender alongside industry heavyweights like Lisa Su and Johny Srouji.\n\nWhile political figures and Silicon Valley insiders publicly lobby for Huang's return, Nvidia's board has firmly shut the door on reinstatement. Yet, mainstream reports completely gloss over the profound structural conflict: Arm licenses its foundational chip architecture to roughly 500 companies worldwide, including rivals like Apple, Samsung, and Qualcomm. Placing Arm's chief at the top of Nvidia risks collapsing the institutional neutrality of the entire global mobile and computing design ecosystem.\n\nHow can the semiconductor industry maintain open intellectual property access when its foundational licensor is absorbed by its most dominant hardware titan?\n\nSource: The Guardian Tech\n\n📖 Full analysis & sources in the first comment 👇\n\n#Technology #Semiconductors #Blindspot",
+      "telegramPost": "<b>NVIDIA BOARD TARGETS ARM CHIEF FOR CEO ROLE AMID POLITICAL PUSHBACK</b>\n\n• <b>What happened:</b> Headhunters for Nvidia have approached Arm chief executive Rene Haas to succeed Jensen Huang, who resigned following a security scandal.\n• <b>Why it matters:</b> Merging leadership between the dominant hardware manufacturer and the industry's primary neutral chip architect threatens the foundational IP licensing model relied upon by 500 global companies.\n• <b>What is next:</b> Despite public lobbying from Donald Trump and Silicon Valley figures for Huang's return, Nvidia's board insists the transition is permanent as interim CEO Colette Kress steers record financials.",
+      "linkedInPost": "Nvidia's executive search for Jensen Huang's successor has moved to the center of global semiconductor governance. Heidrick Struggles has approached Arm CEO Rene Haas for the top job at the $3.6tn firm.\n\nWhile market commentary fixates on executive pedigree and political lobbying from Silicon Valley figures, the second-order strategic implication is severe. Arm operates as the neutral architecture provider for over 500 licensees, including Apple, Samsung, and Qualcomm. Elevating Arm's chief executive to lead Nvidia risks compromising the structural firewall that ensures fair access to foundational chip designs globally.\n\nInvestors and regulatory strategists must monitor how supply chain dependencies and licensing neutrality shift as hardware consolidation accelerates.\n\nSource: The Guardian Tech\n\nFull analysis: https://blindspotglobal.pages.dev/news/nvidia-targets-arm-chief-rene-haas-etpz/\n\n#Semiconductors #GlobalEconomy #Blindspot",
+      "blueskyPost": "Nvidia's hunt for a new CEO targets Arm chief Rene Haas, risking the neutrality of chip designs licensed to 500 global firms while markets ignore the antitrust fallout. #Blindspot #Technology",
+      "copies": {
+        "facebook": "Nvidia is actively searching for a successor to co-founder Jensen Huang following his dramatic exit after admitting to an affair with a woman accused of spying for China. Headhunters have approached Arm chief executive Rene Haas to take the helm of the $3.6 trillion tech giant, making him the leading contender alongside industry heavyweights like Lisa Su and Johny Srouji.\n\nWhile political figures and Silicon Valley insiders publicly lobby for Huang's return, Nvidia's board has firmly shut the door on reinstatement. Yet, mainstream reports completely gloss over the profound structural conflict: Arm licenses its foundational chip architecture to roughly 500 companies worldwide, including rivals like Apple, Samsung, and Qualcomm. Placing Arm's chief at the top of Nvidia risks collapsing the institutional neutrality of the entire global mobile and computing design ecosystem.\n\nHow can the semiconductor industry maintain open intellectual property access when its foundational licensor is absorbed by its most dominant hardware titan?\n\n#Technology #Semiconductors #Blindspot",
+        "telegram": "<b>NVIDIA BOARD TARGETS ARM CHIEF FOR CEO ROLE AMID POLITICAL PUSHBACK</b>\n\n• <b>What happened:</b> Headhunters for Nvidia have approached Arm chief executive Rene Haas to succeed Jensen Huang, who resigned following a security scandal.\n• <b>Why it matters:</b> Merging leadership between the dominant hardware manufacturer and the industry's primary neutral chip architect threatens the foundational IP licensing model relied upon by 500 global companies.\n• <b>What is next:</b> Despite public lobbying from Donald Trump and Silicon Valley figures for Huang's return, Nvidia's board insists the transition is permanent as interim CEO Colette Kress steers record financials.",
+        "bluesky": "Nvidia's hunt for a new CEO targets Arm chief Rene Haas, risking the neutrality of chip designs licensed to 500 global firms while markets ignore the antitrust fallout. #Blindspot #Technology",
+        "linkedIn": "Nvidia's executive search for Jensen Huang's successor has moved to the center of global semiconductor governance. Heidrick Struggles has approached Arm CEO Rene Haas for the top job at the $3.6tn firm.\n\nWhile market commentary fixates on executive pedigree and political lobbying from Silicon Valley figures, the second-order strategic implication is severe. Arm operates as the neutral architecture provider for over 500 licensees, including Apple, Samsung, and Qualcomm. Elevating Arm's chief executive to lead Nvidia risks compromising the structural firewall that ensures fair access to foundational chip designs globally.\n\nInvestors and regulatory strategists must monitor how supply chain dependencies and licensing neutrality shift as hardware consolidation accelerates.\n\n#Semiconductors #GlobalEconomy #Blindspot"
+      },
+      "article": {
+        "slug": "nvidia-targets-arm-chief-rene-haas-etpz",
+        "title": "Nvidia targets Arm chief Rene Haas as board rejects Jensen Huang return",
+        "dek": "Nvidia's search for a successor to Jensen Huang has led recruiters to Arm chief executive Rene Haas. While markets fixate on political lobbying and executive drama, the move threatens the neutral architecture underpinning global chip design.",
+        "keyFacts": [
+          "Nvidia co-founder Jensen Huang resigned last week after admitting to an extramarital affair with a woman accused of spying for China.",
+          "Recruiting firm Heidrick Struggles approached Arm CEO Rene Haas, viewed as the leading contender for the $3.6tn company.",
+          "Arm employs over 7,000 staff, has about 500 users worldwide, and is valued at $196bn.",
+          "Nvidia's quarterly revenue doubled from the same period a year ago to $115.84bn under interim CEO Colette Kress."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "According to Bloomberg and reports from The Guardian, Nvidia’s headhunters have approached Rene Haas, the chief executive of Cambridge-based chip company Arm, as part of the search for a new leader. The recruitment firm Heidrick Struggles has begun contacting potential candidates following the dramatic exit of Jensen Huang, one of the firm’s co-founders.",
+              "Huang resigned last week after admitting to an extramarital affair with a woman accused of spying for China. Haas, who joined Arm in 2013 and became chief executive in 2022, is reportedly viewed as the leading contender for the top job at the $3.6tn company, having previously spent seven years as the general manager of its computing products."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "The executive search unfolds amid intense political and industrial lobbying for Huang's reinstatement. US President Donald Trump and prominent Silicon Valley figures, including Elon Musk and venture capitalists, have publicly called for Huang to return. Huang himself stated that he would be honored to return if the board deemed it in the best interest of shareholders and America.",
+              "However, Nvidia chair Harvey Jones confirmed during the company's quarterly earnings results that the board does not intend to reinstate Huang. Interim CEO Colette Kress presented financial results showing that quarterly revenue had doubled year-on-year to $115.84bn. Alongside Haas, reported candidates for the permanent CEO role include Ian Buck, Lisa Su, and Johny Srouji."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "Mainstream coverage has largely framed the leadership transition around executive gossip, personal scandal, and political pressure from Washington. Yet, analysts note a glaring structural blind spot: Arm is the cornerstone of the global mobile and computing ecosystem. Listed in New York but headquartered in Cambridge, Arm provides chip designs to about 500 users worldwide, including direct Nvidia competitors like Apple, Samsung, and Qualcomm.",
+              "Placing Arm's sitting chief executive at the helm of Nvidia risks eroding the perceived neutrality of Arm's intellectual property licensing model. When the world's most dominant AI hardware manufacturer absorbs the leadership of the industry's primary architectural gatekeeper, antitrust regulators and rival firms face a profound conflict of interest that goes unaddressed in superficial accounts of the CEO search."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "Nvidia stands to cement its technological dominance by securing leadership deeply experienced in foundational computing architecture. Conversely, Arm's diverse global customer base—ranging from smartphone manufacturers to hyperscale cloud providers—bears the strategic cost of compromised neutrality.",
+              "Regulatory bodies in the UK, European Union, and United States also face renewed pressure, as any executive crossover between these two entities revives ghosts of abandoned acquisition attempts and market concentration anxieties."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "Observers should monitor whether Rene Haas formally enters negotiations with Nvidia's board or chooses to remain at Arm, where the company employs more than 3,000 staff in the UK alone.",
+              "Additionally, watch for formal commentary from major Arm licensees like Apple and Qualcomm regarding potential intellectual property conflicts if Nvidia succeeds in capturing Arm's executive leadership."
+            ]
+          }
+        ],
+        "tags": [
+          "Nvidia",
+          "Arm",
+          "Semiconductors",
+          "Artificial Intelligence",
+          "Corporate Governance"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian Tech",
+            "title": "Nvidia approaches Arm boss Rene Haas in search for new CEO",
+            "url": "https://www.theguardian.com/technology/2026/nov/19/nvidia-new-ceo-search-jensen-huang-arm-rene-haas"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Nvidia approaches Arm boss Rene Haas in search for new CEO",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS2F0OW5ZRHVmc3JObmpsY3V3UWZyMHMyb1dYNFZkaTMyNDJtN1FjdjVoQlZKRzB3WkxTVkM0cVJUTElVNm15a0QzWDVGNjlVbnNMLVJYZjNaYkc5TXBsMlBnZ3UwTjRQclVDWl9veGxxNU1WV2FzN1NHY0pkb3NZeDNGYk1zQVNhM3I3Q0dWTGlBLUhtRUVNeWN1dTN2RDRf?oc=5"
+          },
+          {
+            "name": "Yahoo Finance",
+            "title": "Nvidia reportedly approaches Arm CEO Rene Haas in search for Jensen Huang successor",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONkt2a1FuMHgxdndLQXlVbTExU05Vd3FoU25SWFhIY0pXZTlVZWdtWk1IUEt4Y2tzcnI2OUprTENuY0FYekpJcXVXWGhPdElMeUpvNXMtWGlob3hSaklkU0ZoWnJuU3dXM0dPR1h5bkVRVVZ2bFFSanUwdTVZMVpWdDdOMEhiZ0xBQnJRRmdtQnZWY0d4UlFyUFRtNXZzbUZsUVE?oc=5"
+          },
+          {
+            "name": "联合早报",
+            "title": "Nvidia board seeks Jensen Huang’s successor; headhunter approaches Arm CEO Haas",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbk1rU2NaVE4tTHV6dks2dGdrazU2YUQ4VkJjbEk0YjVTQVNSTFRmamlZeHBoSHNSUEpXVEJjWE1meGdZN1gzcHVBWkNKU1M2cHVRSHJucGotS0hMcEpVVUY5UlJMaEtZU09jSGFFUWtxLTFvcDIxLVBnLUtzVFl1RWprVmhzR2xMUTg0blFGWExQckY3MEFRYWRmUm1xZFdlRHhFMlFfYWZaenhPWHBwdm1SMm5YaFoy?oc=5"
+          },
+          {
+            "name": "Techloy",
+            "title": "How to Switch Characters in GTA 6: Jason and Lucia",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Zc0ZrbkNQYTcyOU1pQmEyMXBFakZNbHFNSUhZVDJxNzQxc3E0SGVzelVIaVRNOUQwTXVTYVMxUmZpMEY3NXE5SUI2MmZzMmhVdHRXamFidXFwdFc5dEt6NFpGbkFIZ0lEX0YxaQ?oc=5"
+          }
+        ],
+        "wordCount": 504
+      },
+      "videoScript": {
+        "hook": "Nvidia is hunting for a new CEO and targeting the boss of Arm.",
+        "beats": [
+          "Jensen Huang resigned following a security scandal involving accusations of Chinese espionage.",
+          "Recruiters have approached Arm chief Rene Haas, who oversees designs used by 500 global tech firms.",
+          "While markets watch executive drama, absorbing the chief of a neutral chip architect threatens global tech competition."
+        ],
+        "close": "Read the full blind spot analysis at the link in bio."
+      },
+      "rawImageUrl": "https://i.guim.co.uk/img/media/ce0d34e7679c080109b46bd269b8671589afd5e7/319_0_3193_2556/master/3193.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a203ca0d09e0a45d6944127f919593a5",
+      "sourceVideo": {
+        "provider": "youtube",
+        "id": "xMHM0506uPQ",
+        "title": "Nvidia's Next CEO? Arm Boss Approached — Board Says NO!",
+        "channel": "AI decoded"
+      },
+      "status": "pending",
+      "createdAt": "2026-11-20T01:46:32.397Z",
+      "cardImageUrl": "/news-cards/news-kiy6ncz0x-1795139192397.jpg",
+      "reelCoverUrl": "/news-cards/news-kiy6ncz0x-1795139193024-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-kiy6ncz0x-1795139193560-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/nvidia-targets-arm-chief-rene-haas-etpz/"
+    },
+    "channels": {
+      "facebook": false,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": false,
+      "mastodon": false,
+      "threads": false,
+      "youtube": false
+    },
+    "scheduledFor": "2026-11-20T23:00:00.000Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-20T11:13:23.651Z",
+    "igDeferred": true
   }
 ]
