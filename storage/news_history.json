@@ -169,9 +169,39 @@
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM25ZMmZTOW9wa3Ytdk9EQnB6UFhtczB5dVd3UmpmNElSUHBzLXQwT3dHelpyVXdFVU5uSmdzWFdENW5feE9yS0hXRmRyZUVNV0xfQ21ocjU1VUUyVnVSVl8wekduX1hzMGZWTy1CeDg5UGkzVE1pa0syd3RGX2VKYmlQWFlNVWtLcDYzUGt4dmlsa3pTaHdFNjdRbDRrWmVhWVRvMlZURnJqZDNHbzNYS1lVTy01U3ZScEFkWDdJX3pFSGVRSHhZ?oc=5",
     "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
     "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-    "https://www.theguardian.com/technology/2026/nov/19/nvidia-new-ceo-search-jensen-huang-arm-rene-haas"
+    "https://www.theguardian.com/technology/2026/nov/19/nvidia-new-ceo-search-jensen-huang-arm-rene-haas",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFBtSTFsdTBzdnM2dzloZXROSmMtM0IwWkVOYVpCQzFlMlo1UHZYT3p6WmpMcTJVYWRycHN6bDBPS0Iwa2lNWkNoQUNUMlplUk5VMWJCYmN5SjZNc3FlemRDakZsQjFxMm9iV3ZYYjdTTndrb21SQ2dvcHhzSEpHNHhtNjNWajNTajNqY05tSXEySHJBc3k0?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "TRUMP ELECTION SECURITY NOMINEE DENIES JANUARY SIX WAS ATTACK",
+      "normalizedTokens": [
+        "trump",
+        "election",
+        "security",
+        "nominee",
+        "denies",
+        "january",
+        "six",
+        "attack"
+      ],
+      "date": "2026-11-20T03:00:19.309Z"
+    },
+    {
+      "title": "Trump’s pick to lead an agency protecting US elections says Jan. 6 wasn’t an ‘attack’",
+      "normalizedTokens": [
+        "trump",
+        "pick",
+        "lead",
+        "agency",
+        "protecting",
+        "elections",
+        "jan",
+        "wasn",
+        "attack"
+      ],
+      "date": "2026-11-20T03:00:19.302Z"
+    },
     {
       "title": "NVIDIA HUNTERS APPROACH ARM CHIEF FOR HUANG SUCCESSOR",
       "normalizedTokens": [

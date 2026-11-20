@@ -1,5 +1,108 @@
 [
   {
+    "slug": "trump-s-pick-federal-election-security-a05r",
+    "path": "news/trump-s-pick-federal-election-security-a05r/",
+    "title": "Trump's Pick for Federal Election Security Agency Claims January 6 Was Not an Attack",
+    "headline": "TRUMP ELECTION SECURITY NOMINEE DENIES JANUARY SIX WAS ATTACK",
+    "dek": "The nomination of a January 6 skeptic to head the nation's election security agency signals a structural shift in federal oversight. This move threatens to politicize core institutional guardrails protecting American electoral infrastructure.",
+    "category": "POWER & SOCIETY",
+    "sourceName": "AP News",
+    "image": "img/trump-s-pick-federal-election-security-a05r.jpg",
+    "photo": "img/trump-s-pick-federal-election-security-a05r-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "tUoZDHR33fs",
+      "title": "Trump’s CISA Pick Says Jan. 6 Was Not an ‘Attack’",
+      "channel": "First Alert 6"
+    },
+    "publishedAt": "2026-11-20T03:00:19.154Z",
+    "article": {
+      "slug": "trump-s-pick-federal-election-security-a05r",
+      "title": "Trump's Pick for Federal Election Security Agency Claims January 6 Was Not an Attack",
+      "dek": "The nomination of a January 6 skeptic to head the nation's election security agency signals a structural shift in federal oversight. This move threatens to politicize core institutional guardrails protecting American electoral infrastructure.",
+      "keyFacts": [
+        "President-elect Donald Trump selected a nominee to lead the federal agency in charge of U.S. election infrastructure security.",
+        "The nominee publicly asserted that the January 6, 2021, assault on the U.S. Capitol did not constitute an attack.",
+        "The appointment was reported by major media outlets including AP News, NBC News, and The Boston Globe.",
+        "The targeted agency is responsible for coordinating cybersecurity and physical security support for state and local election officials."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "President-elect Donald Trump selected a candidate to lead the key federal agency responsible for safeguarding U.S. election security who has publicly claimed that the events of January 6, 2021, were not an attack. The nominee's statements directly contradict official law enforcement assessments and judicial findings regarding the violent breach of the U.S. Capitol.",
+            "According to reporting by AP News and corroborated by NBC News, the selection targets an agency tasked with mitigating physical and cyber threats to national voting infrastructure. The agency provides technical guidance, intelligence sharing, and operational support to state and local election administrators across the United States."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The agency in question was established to provide non-partisan technical assistance and secure critical infrastructure following heightened concerns over foreign election interference and cyber vulnerabilities. Historically, its leadership maintained a neutral posture to build trust among both Democratic and Republican state election directors.",
+            "During the 2020 election cycle, federal election security officials repeatedly affirmed the integrity of the vote, contradicting false claims of widespread fraud. That stance created severe friction between the agency's professional leadership and political allies of Donald Trump, setting the stage for subsequent efforts to overhaul the agency's executive management."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While media commentary focuses primarily on the partisan friction surrounding the nominee's statements, the underlying blind spot is the systemic neutralization of federal election defense mechanisms. Placing an individual who denies documented security breaches at the helm creates an internal mandate to downplay domestic political violence and internal threats to democratic processes.",
+            "Furthermore, this leadership change risks alienating career intelligence analysts and cybersecurity experts within the agency. If technical assessments are subjected to ideological litmus tests, the agency's capacity to detect and neutralize coordinated disinformation or cyber intrusion operations will be compromised from within."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The primary beneficiaries of this appointment are political factions seeking to dismantle federal oversight of state election administration. By installing leadership sympathetic to claims of election weaponization, the administration gains significant influence over how federal security resources are deployed during future election cycles.",
+            "Conversely, state and local election workers, local election infrastructure resilience, and public confidence in election outcomes stand to lose. Non-partisan election officials who rely on objective federal threat intelligence may find themselves isolated without reliable federal backing."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "The upcoming Senate confirmation process will serve as a crucial test of legislative independence. Lawmakers will be forced to take explicit positions on whether denying the reality of January 6 disqualifies a candidate from managing national security infrastructure.",
+            "Observers must also track potential policy revisions regarding how the agency defines and categorizes domestic violent extremism. Any shifts in federal threat assessments prior to upcoming local and national elections will indicate how deeply ideological alignment has reshaped federal security priorities."
+          ]
+        }
+      ],
+      "tags": [
+        "Election Security",
+        "United States",
+        "Politics",
+        "Democracy",
+        "Governance",
+        "Cybersecurity"
+      ],
+      "sources": [
+        {
+          "name": "AP News",
+          "title": "Trump’s pick to lead an agency protecting US elections says Jan. 6 wasn’t an ‘attack’",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFBtSTFsdTBzdnM2dzloZXROSmMtM0IwWkVOYVpCQzFlMlo1UHZYT3p6WmpMcTJVYWRycHN6bDBPS0Iwa2lNWkNoQUNUMlplUk5VMWJCYmN5SjZNc3FlemRDakZsQjFxMm9iV3ZYYjdTTndrb21SQ2dvcHhzSEpHNHhtNjNWajNTajNqY05tSXEySHJBc3k0?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Trump’s pick for agency providing election security says Jan. 6 was not an attack",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUG9GMHpwREtNTVlUcDdQV1U2ZE5GN3U5MFNIbGNmWkdZM1FRMU5mcjduOFh3WGF4VjNjYnUySHBLWHhTZHRVV3ZKY1FxS2V1aC1iZjZJbnlna2w5T3RsMkQyenM4S2lISEpyQW9IRlhoTVBOQWRmbk9FX3hHcFR5cmZfVTZhdUFYWlE5Nkx5eFA1YXVMeFY3THVnV0tjNUhPcFJFYUJ5VTBLOWhoQ3ZQVzJaV20tRU1BX09QV0VBeEpFdWczLTI0TUJiNWtycW45?oc=5"
+        },
+        {
+          "name": "The Boston Globe",
+          "title": "Trump’s pick to lead agency protecting US elections says Jan. 6 wasn’t an ‘attack’",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZGpfbElxbnpOeW9fUkhWTjcyenhYUzdjc2dIUks1d2ZPRDlJMnpqY1ZEbmtpemJSSnBTNDBYOE5PUzRsa1B6c25wUWY0eGJibUhJOHk0LW1DVFk0cXktQmwxMjh6cmpOdC1rRnZBN25TSVItcW9pcXJZNXNnUnRYQw?oc=5"
+        },
+        {
+          "name": "The Seattle Times",
+          "title": "Trump’s pick to lead an agency protecting US elections says Jan. 6 wasn’t an ‘attack’",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeTVXRlNPYjhvSEpIQ3hGci1Ubm9UMS1zend3M21oaFh1cTRVWVdMNjB5WDJLZjhtNlpPMHkxby12d3VDUW5YaXdTZHpTYkFYVWZhb1VkZkJrRUhzZUNjc3VrWms5cGRqcGtDX1FFRU1qQ3ROcUxqTjlhb2ZCSGNEYXNpQnN3ZS02RjV6Vnl0bzhudUgtSlIwLUVVd3dyS1l0Y2M4TWVvaUlPYmpWYjBodGJuTkx5Nm4ybGFRVnpiTlUtWWRBRjl0bUVvVGJLWEk1SDFDMTRwSQ?oc=5"
+        },
+        {
+          "name": "Monterey Herald",
+          "title": "Trump’s pick to lead an agency protecting US elections says Jan. 6 wasn’t an ‘attack’",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13MHJDQkVQM2FyQWFQRHNleUFfWVg4bFJMdTJyWTNhN21vR19kY1gtaUxJaE1tcnlrUFFIcjdMSm9HZGFfZ2JWbGZPMjQxS1dobzM3VzBCWngyUjAtMENHVWlEVjBSX2xhckk3Z2ZCWjloNzkyQ0V1UnBUZw?oc=5"
+        }
+      ],
+      "wordCount": 479
+    },
+    "blindSpot": "The appointment signals a deliberate redefinition of the federal mandate for election security, shifting focus away from institutional protection and partisan non-interference toward ideological compliance. By placing a skeptic of the Capitol assault at the helm, the incoming administration aims to neutralize federal oversight mechanisms that previously challenged claims of electoral fraud."
+  },
+  {
     "slug": "nvidia-targets-arm-chief-rene-haas-etpz",
     "path": "news/nvidia-targets-arm-chief-rene-haas-etpz/",
     "title": "Nvidia targets Arm chief Rene Haas as board rejects Jensen Huang return",
