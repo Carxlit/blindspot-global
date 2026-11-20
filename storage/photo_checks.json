@@ -988,5 +988,10 @@
     "relevant": false,
     "reason": "The image does not depict Anthropic, its founders, or a stock market event related to the company's IPO.",
     "at": "2026-11-20T00:59:11.053Z"
+  },
+  "fd8ddebfb157fb69:kiy6ncz0x": {
+    "relevant": true,
+    "reason": "The image shows Rene Haas, the Arm chief executive mentioned as the target for the successor role in the headline.",
+    "at": "2026-11-20T01:46:32.396Z"
   }
 }

@@ -168,9 +168,37 @@
     "https://www.euronews.com/video/2026/11/19/ukraine-four-killed-and-at-least-13-injured-in-russian-strike-on-odesa",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM25ZMmZTOW9wa3Ytdk9EQnB6UFhtczB5dVd3UmpmNElSUHBzLXQwT3dHelpyVXdFVU5uSmdzWFdENW5feE9yS0hXRmRyZUVNV0xfQ21ocjU1VUUyVnVSVl8wekduX1hzMGZWTy1CeDg5UGkzVE1pa0syd3RGX2VKYmlQWFlNVWtLcDYzUGt4dmlsa3pTaHdFNjdRbDRrWmVhWVRvMlZURnJqZDNHbzNYS1lVTy01U3ZScEFkWDdJX3pFSGVRSHhZ?oc=5",
     "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
-    "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates"
+    "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+    "https://www.theguardian.com/technology/2026/nov/19/nvidia-new-ceo-search-jensen-huang-arm-rene-haas"
   ],
   "processedSignatures": [
+    {
+      "title": "NVIDIA HUNTERS APPROACH ARM CHIEF FOR HUANG SUCCESSOR",
+      "normalizedTokens": [
+        "nvidia",
+        "hunters",
+        "approach",
+        "arm",
+        "chief",
+        "huang",
+        "successor"
+      ],
+      "date": "2026-11-20T01:46:34.622Z"
+    },
+    {
+      "title": "Nvidia approaches Arm boss Rene Haas in search for new CEO",
+      "normalizedTokens": [
+        "nvidia",
+        "approaches",
+        "arm",
+        "boss",
+        "rene",
+        "haas",
+        "search",
+        "ceo"
+      ],
+      "date": "2026-11-20T01:46:34.621Z"
+    },
     {
       "title": "ANTHROPIC LISTS AT $1.3 TRILLION AS MARKETS TUMBLE",
       "normalizedTokens": [

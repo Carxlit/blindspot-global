@@ -1,5 +1,107 @@
 [
   {
+    "slug": "nvidia-targets-arm-chief-rene-haas-etpz",
+    "path": "news/nvidia-targets-arm-chief-rene-haas-etpz/",
+    "title": "Nvidia targets Arm chief Rene Haas as board rejects Jensen Huang return",
+    "headline": "NVIDIA HUNTERS APPROACH ARM CHIEF FOR HUANG SUCCESSOR",
+    "dek": "Nvidia's search for a successor to Jensen Huang has led recruiters to Arm chief executive Rene Haas. While markets fixate on political lobbying and executive drama, the move threatens the neutral architecture underpinning global chip design.",
+    "category": "TECHNOLOGY & AI",
+    "sourceName": "The Guardian Tech",
+    "image": "img/nvidia-targets-arm-chief-rene-haas-etpz.jpg",
+    "photo": "img/nvidia-targets-arm-chief-rene-haas-etpz-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "xMHM0506uPQ",
+      "title": "Nvidia's Next CEO? Arm Boss Approached — Board Says NO!",
+      "channel": "AI decoded"
+    },
+    "publishedAt": "2026-11-20T01:46:34.506Z",
+    "article": {
+      "slug": "nvidia-targets-arm-chief-rene-haas-etpz",
+      "title": "Nvidia targets Arm chief Rene Haas as board rejects Jensen Huang return",
+      "dek": "Nvidia's search for a successor to Jensen Huang has led recruiters to Arm chief executive Rene Haas. While markets fixate on political lobbying and executive drama, the move threatens the neutral architecture underpinning global chip design.",
+      "keyFacts": [
+        "Nvidia co-founder Jensen Huang resigned last week after admitting to an extramarital affair with a woman accused of spying for China.",
+        "Recruiting firm Heidrick Struggles approached Arm CEO Rene Haas, viewed as the leading contender for the $3.6tn company.",
+        "Arm employs over 7,000 staff, has about 500 users worldwide, and is valued at $196bn.",
+        "Nvidia's quarterly revenue doubled from the same period a year ago to $115.84bn under interim CEO Colette Kress."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "According to Bloomberg and reports from The Guardian, Nvidia’s headhunters have approached Rene Haas, the chief executive of Cambridge-based chip company Arm, as part of the search for a new leader. The recruitment firm Heidrick Struggles has begun contacting potential candidates following the dramatic exit of Jensen Huang, one of the firm’s co-founders.",
+            "Huang resigned last week after admitting to an extramarital affair with a woman accused of spying for China. Haas, who joined Arm in 2013 and became chief executive in 2022, is reportedly viewed as the leading contender for the top job at the $3.6tn company, having previously spent seven years as the general manager of its computing products."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The executive search unfolds amid intense political and industrial lobbying for Huang's reinstatement. US President Donald Trump and prominent Silicon Valley figures, including Elon Musk and venture capitalists, have publicly called for Huang to return. Huang himself stated that he would be honored to return if the board deemed it in the best interest of shareholders and America.",
+            "However, Nvidia chair Harvey Jones confirmed during the company's quarterly earnings results that the board does not intend to reinstate Huang. Interim CEO Colette Kress presented financial results showing that quarterly revenue had doubled year-on-year to $115.84bn. Alongside Haas, reported candidates for the permanent CEO role include Ian Buck, Lisa Su, and Johny Srouji."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream coverage has largely framed the leadership transition around executive gossip, personal scandal, and political pressure from Washington. Yet, analysts note a glaring structural blind spot: Arm is the cornerstone of the global mobile and computing ecosystem. Listed in New York but headquartered in Cambridge, Arm provides chip designs to about 500 users worldwide, including direct Nvidia competitors like Apple, Samsung, and Qualcomm.",
+            "Placing Arm's sitting chief executive at the helm of Nvidia risks eroding the perceived neutrality of Arm's intellectual property licensing model. When the world's most dominant AI hardware manufacturer absorbs the leadership of the industry's primary architectural gatekeeper, antitrust regulators and rival firms face a profound conflict of interest that goes unaddressed in superficial accounts of the CEO search."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Nvidia stands to cement its technological dominance by securing leadership deeply experienced in foundational computing architecture. Conversely, Arm's diverse global customer base—ranging from smartphone manufacturers to hyperscale cloud providers—bears the strategic cost of compromised neutrality.",
+            "Regulatory bodies in the UK, European Union, and United States also face renewed pressure, as any executive crossover between these two entities revives ghosts of abandoned acquisition attempts and market concentration anxieties."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Observers should monitor whether Rene Haas formally enters negotiations with Nvidia's board or chooses to remain at Arm, where the company employs more than 3,000 staff in the UK alone.",
+            "Additionally, watch for formal commentary from major Arm licensees like Apple and Qualcomm regarding potential intellectual property conflicts if Nvidia succeeds in capturing Arm's executive leadership."
+          ]
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Arm",
+        "Semiconductors",
+        "Artificial Intelligence",
+        "Corporate Governance"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian Tech",
+          "title": "Nvidia approaches Arm boss Rene Haas in search for new CEO",
+          "url": "https://www.theguardian.com/technology/2026/nov/19/nvidia-new-ceo-search-jensen-huang-arm-rene-haas"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Nvidia approaches Arm boss Rene Haas in search for new CEO",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS2F0OW5ZRHVmc3JObmpsY3V3UWZyMHMyb1dYNFZkaTMyNDJtN1FjdjVoQlZKRzB3WkxTVkM0cVJUTElVNm15a0QzWDVGNjlVbnNMLVJYZjNaYkc5TXBsMlBnZ3UwTjRQclVDWl9veGxxNU1WV2FzN1NHY0pkb3NZeDNGYk1zQVNhM3I3Q0dWTGlBLUhtRUVNeWN1dTN2RDRf?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "title": "Nvidia reportedly approaches Arm CEO Rene Haas in search for Jensen Huang successor",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONkt2a1FuMHgxdndLQXlVbTExU05Vd3FoU25SWFhIY0pXZTlVZWdtWk1IUEt4Y2tzcnI2OUprTENuY0FYekpJcXVXWGhPdElMeUpvNXMtWGlob3hSaklkU0ZoWnJuU3dXM0dPR1h5bkVRVVZ2bFFSanUwdTVZMVpWdDdOMEhiZ0xBQnJRRmdtQnZWY0d4UlFyUFRtNXZzbUZsUVE?oc=5"
+        },
+        {
+          "name": "联合早报",
+          "title": "Nvidia board seeks Jensen Huang’s successor; headhunter approaches Arm CEO Haas",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbk1rU2NaVE4tTHV6dks2dGdrazU2YUQ4VkJjbEk0YjVTQVNSTFRmamlZeHBoSHNSUEpXVEJjWE1meGdZN1gzcHVBWkNKU1M2cHVRSHJucGotS0hMcEpVVUY5UlJMaEtZU09jSGFFUWtxLTFvcDIxLVBnLUtzVFl1RWprVmhzR2xMUTg0blFGWExQckY3MEFRYWRmUm1xZFdlRHhFMlFfYWZaenhPWHBwdm1SMm5YaFoy?oc=5"
+        },
+        {
+          "name": "Techloy",
+          "title": "How to Switch Characters in GTA 6: Jason and Lucia",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Zc0ZrbkNQYTcyOU1pQmEyMXBFakZNbHFNSUhZVDJxNzQxc3E0SGVzelVIaVRNOUQwTXVTYVMxUmZpMEY3NXE5SUI2MmZzMmhVdHRXamFidXFwdFc5dEt6NFpGbkFIZ0lEX0YxaQ?oc=5"
+        }
+      ],
+      "wordCount": 504
+    },
+    "blindSpot": "The potential appointment of Arm's CEO by Nvidia threatens to formally collapse the fragile structural wall between neutral semiconductor intellectual property licensing and dominant hardware manufacturing. Mainstream coverage focuses on executive gossip and Trump's public lobbying, entirely ignoring the profound antitrust implications of absorbing the architectural chief of an ecosystem that supplies nearly all major tech firms into the world's most aggressive hardware monopoly."
+  },
+  {
     "slug": "anthropic-debuts-1-3-trillion-valuation-nn0p",
     "path": "news/anthropic-debuts-1-3-trillion-valuation-nn0p/",
     "title": "Anthropic Debuts at $1.3 Trillion Valuation as Markets Fall on Bubble Fears",
