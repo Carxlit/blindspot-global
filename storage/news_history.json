@@ -175,9 +175,38 @@
     "https://www.dw.com/en/cincinnati-s-famous-hippo-fiona-dies-after-eating-visitor-s-hat/a-79998371?maca=en-rss-en-all-1573-rdf",
     "https://www.dw.com/es/ataque-de-misiles-rusos-dañan-tres-puentes-y-dejan-tres-muertos-en-la-capital-ucraniana/a-79998916?maca=spa-rss-sp-all-1122-rdf",
     "https://www.aljazeera.com/video/newsfeed/2026/11/20/russias-day-long-attack-on-kyiv-damages-embassies?traffic_source=rss",
-    "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+    "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "FIRE DESTROYS MAJOR FOIE GRAS FARM AMID LEGAL BATTLES",
+      "normalizedTokens": [
+        "fire",
+        "destroys",
+        "major",
+        "foie",
+        "gras",
+        "farm",
+        "legal",
+        "battles"
+      ],
+      "date": "2026-11-20T23:56:13.033Z"
+    },
+    {
+      "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
+      "normalizedTokens": [
+        "birds",
+        "killed",
+        "blaze",
+        "one",
+        "largest",
+        "foie",
+        "gras",
+        "farms"
+      ],
+      "date": "2026-11-20T23:56:13.031Z"
+    },
     {
       "title": "TRUMP THREATENS TAXES ON OVERSEAS US AI DATA CENTERS",
       "normalizedTokens": [

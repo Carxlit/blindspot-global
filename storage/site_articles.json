@@ -1,5 +1,101 @@
 [
   {
+    "slug": "industrial-blaze-major-us-foie-gras-j0p1",
+    "path": "news/industrial-blaze-major-us-foie-gras-j0p1/",
+    "title": "Industrial blaze at major US foie gras facility highlights mounting regulatory and operational pressure",
+    "headline": "FIRE DESTROYS MAJOR FOIE GRAS FARM AMID LEGAL BATTLES",
+    "dek": "A multi-department emergency response destroyed key production infrastructure at Hudson Valley Foie Gras. The operational disruption coincides with a wave of municipal bans reshaping the market.",
+    "category": "POWER & SOCIETY",
+    "sourceName": "BBC Science",
+    "image": "img/industrial-blaze-major-us-foie-gras-j0p1.jpg",
+    "photo": "img/industrial-blaze-major-us-foie-gras-j0p1-foto.jpg",
+    "publishedAt": "2026-11-20T23:56:12.889Z",
+    "article": {
+      "slug": "industrial-blaze-major-us-foie-gras-j0p1",
+      "title": "Industrial blaze at major US foie gras facility highlights mounting regulatory and operational pressure",
+      "dek": "A multi-department emergency response destroyed key production infrastructure at Hudson Valley Foie Gras. The operational disruption coincides with a wave of municipal bans reshaping the market.",
+      "keyFacts": [
+        "The emergency response required 200 first responders from 37 separate fire departments in Sullivan County, New York.",
+        "Farm manager Marcus Henley confirmed two buildings housing ducks and geese were completely destroyed.",
+        "Hudson Valley Foie Gras has been in ongoing litigation regarding New York City's 2019 sales ban.",
+        "Voters in Washington D.C. and Denver recently passed municipal bans against foie gras sales."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "In the early hours of Thursday morning, a rapid fire broke out at Hudson Valley Foie Gras in Mongaup Valley, near Ferndale, New York. According to local reporting from News12 Westchester and the BBC, the blaze engulfed two large metal-clad, wood-frame barns housing ducks and geese before emergency personnel could access the interiors.",
+            "A massive emergency effort involving 200 first responders and 37 fire departments deployed to contain the fire. Farm manager Marcus Henley stated that while hundreds of young birds and hatchlings were successfully rescued, an undetermined number of birds perished. No farm staff or emergency responders sustained injuries. Henley noted a suspected electrical malfunction, though local authorities have not officially confirmed the root cause."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Hudson Valley Foie Gras represents one of the largest commercial producers of force-fed duck and goose liver products in North America. The industry relies on force-feeding techniques, known as gavage, using plastic tubes to significantly increase organ mass, a process that enables birds to gain over a third of their body weight in a compressed timeframe.",
+            "Because of these production methods, the facility has long been a focal point for animal advocacy groups. In 2019, New York City enacted legislation to ban the sale of foie gras, triggering extensive legal challenges from Hudson Valley Foie Gras against the state and municipal governments. In recent elections, voters in both Washington D.C. and Denver backed similar municipal bans, further restricting domestic retail markets."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream coverage has framed the incident largely as a localized fire emergency coupled with animal welfare debates. However, the critical blind spot lies in the financial and structural fragile state of specialized animal agriculture under mounting legislative prohibition.",
+            "When an industry faces systemic legislative contraction, insurance costs, municipal restrictions, and capital replacement expenses create prohibitive barriers to rebuilding. A physical asset destruction event of this magnitude substantially reduces domestic supply, accelerating market consolidation or transition toward imported products from jurisdictions with different regulatory standards."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Animal welfare advocacy organizations gain legislative momentum and structural pressure against intensive production practices. Municipalities advancing sales restrictions see reduced domestic opposition as local production capacity diminishes.",
+            "Conversely, domestic producers face compounding liabilities. Hudson Valley Foie Gras suffers immediate capacity loss alongside existing defense expenditures in court. Specialty hospitality venues and high-end culinary distributors face acute supply shortages and elevated wholesale pricing."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Attention turns to official cause-of-origin findings from Sullivan County fire investigators and insurance assessment disclosures. Further updates will indicate whether the farm intends to reconstruct the destroyed facilities or consolidate operations.",
+            "Observers must also track pending state court rulings regarding the legal validity of municipal foie gras bans, as these legal outcomes will determine whether remaining domestic producers retain viable distribution channels."
+          ]
+        }
+      ],
+      "tags": [
+        "Agriculture",
+        "Regulation",
+        "SupplyChain",
+        "FoodPolicy",
+        "Litigation"
+      ],
+      "sources": [
+        {
+          "name": "BBC Science",
+          "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
+          "url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC",
+          "title": "Birds killed in a blaze at one of the largest foie gras farms in the US",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84UHdoOW1sb2hhLW5lSVJYZDZTakhoZ2prSURkLUJyVjRBNVNBVjZQUWFONWVscE1yVXpTRGtUTXo2bXVWX3dZbEZ1OGRvNzZhRXFqVHpHVnUwX3c?oc=5"
+        },
+        {
+          "name": "Vox",
+          "title": "Barns full of birds from America’s biggest foie gras company just burned down",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WUHpwaWRHbTdJRkxadG9ZN21Lck5lWUJhTk9zT0IyUkxXdWFkYXdSS0ZDVUlZamlpTmRTaDg3UXVxazk3ejlveXRQYWY0V2RCNFZsb1oydVBPbkg4ekpYNkZqWnZyWkw5MVNhWjNpS2VtczhZZmliNmJR?oc=5"
+        },
+        {
+          "name": "DailyVoice.com",
+          "title": "Huge Early Morning Blaze Breaks Out At Foie Gras Facility In Mongaup Valley, Kills Birds",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbndtREJ3ak9RZXF4U3dwamlJeElBcl9GWmNfS2RBWWpWQktWcTdZMUpmVHB6OVdkWFFGN3dkYks5VXBNUVQ0R0NhMlVKeUpRM1ZDdloyQUFKaHIxQXkwMGJ0b3dNdGQ5UE9HbS1NTGZtLU9YSHdUQTBvSUo4LU4ySXN0U0wyYmhaXzZKaVIwUkhBU1docWVaamlIcEMzS0owUjFuOHMtZ3NzS3VuMktJQjVMWGpqZ2ZPbVpnYQ?oc=5"
+        },
+        {
+          "name": "News12 | Westchester",
+          "title": "Massive fire destroys buildings at Sullivan County foie gras facility, kills ducks and geese",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZUVpQ1QzQUJudHJKSFBuUkNxOGVFSEpXM29xdXZhcU43MlNJQUtOWXdlbEtWdWcwQkJ1dmFUMzZtSFRZaTVBaWpERzM1V2VIcU04ME9VdGhybGFaLUZBc0hBX2xZRTB3RUhLZ2NnY191ejNwWTFPUjIyRUZvOUtfd3F5M2tOd2d6X04yQWtIMURBS0ViLVNDbEpRc24zclVZbUd4NjBnNmJFYlFEdnpqbk1yTnI1U0VoY2ZyZjZXVkxXR2RScVNrSjlQYTFSNTNjX3M5N1hsYTFER2s?oc=5"
+        }
+      ],
+      "wordCount": 471
+    },
+    "blindSpot": "While initial reports focus on physical damage and animal welfare concerns, the incident strikes at the single largest producer in a market fighting existential regulatory pressure. With municipal bans advancing from New York City to Washington D.C. and Denver, industrial livestock operators face accelerating structural contraction driven by simultaneous legal friction and operational risk."
+  },
+  {
     "slug": "trump-threatens-tax-penalties-u-s-3dwh",
     "path": "news/trump-threatens-tax-penalties-u-s-3dwh/",
     "title": "Trump Threatens Tax Penalties on U.S. Tech Firms Building AI Data Centers Overseas",
