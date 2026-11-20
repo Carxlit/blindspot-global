@@ -173,9 +173,37 @@
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFBtSTFsdTBzdnM2dzloZXROSmMtM0IwWkVOYVpCQzFlMlo1UHZYT3p6WmpMcTJVYWRycHN6bDBPS0Iwa2lNWkNoQUNUMlplUk5VMWJCYmN5SjZNc3FlemRDakZsQjFxMm9iV3ZYYjdTTndrb21SQ2dvcHhzSEpHNHhtNjNWajNTajNqY05tSXEySHJBc3k0?oc=5",
     "https://www.france24.com/en/americas/20261119-major-anti-gang-offensive-in-haiti-kills-34-suspected-gang-members",
     "https://www.dw.com/en/cincinnati-s-famous-hippo-fiona-dies-after-eating-visitor-s-hat/a-79998371?maca=en-rss-en-all-1573-rdf",
-    "https://www.dw.com/es/ataque-de-misiles-rusos-dañan-tres-puentes-y-dejan-tres-muertos-en-la-capital-ucraniana/a-79998916?maca=spa-rss-sp-all-1122-rdf"
+    "https://www.dw.com/es/ataque-de-misiles-rusos-dañan-tres-puentes-y-dejan-tres-muertos-en-la-capital-ucraniana/a-79998916?maca=spa-rss-sp-all-1122-rdf",
+    "https://www.aljazeera.com/video/newsfeed/2026/11/20/russias-day-long-attack-on-kyiv-damages-embassies?traffic_source=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "RUSSIA POUNDS KYIV EMBASSIES AS UKRAINE STRIKES KERCH BRIDGE",
+      "normalizedTokens": [
+        "russia",
+        "pounds",
+        "kyiv",
+        "embassies",
+        "ukraine",
+        "strikes",
+        "kerch",
+        "bridge"
+      ],
+      "date": "2026-11-20T09:47:38.973Z"
+    },
+    {
+      "title": "Russia’s day-long attack on Kyiv damages embassies",
+      "normalizedTokens": [
+        "russia",
+        "day",
+        "long",
+        "attack",
+        "kyiv",
+        "damages",
+        "embassies"
+      ],
+      "date": "2026-11-20T09:47:38.971Z"
+    },
     {
       "title": "RUSSIAN MISSILES STRIKE KYIV BRIDGES RETALIATING FOR KERCH ATTACKS",
       "normalizedTokens": [

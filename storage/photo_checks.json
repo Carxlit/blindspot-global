@@ -1028,5 +1028,20 @@
     "relevant": true,
     "reason": "The image depicts severe bomb damage on a bridge in Kyiv, directly illustrating the missile strikes mentioned in the headline and context.",
     "at": "2026-11-20T07:03:40.969Z"
+  },
+  "e84f5268f52e2038:ucloaqdd8": {
+    "relevant": false,
+    "reason": "The image shows an explosion in an urban area, but it does not specifically depict the Kyiv embassies or the Kerch Bridge mentioned in the headline.",
+    "at": "2026-11-20T09:46:59.981Z"
+  },
+  "9f72b0a81b0a63cd:ucloaqdd8": {
+    "relevant": false,
+    "reason": "The image shows soldiers riding on a tank in a field, which does not depict Kyiv embassies, the Kerch Bridge, or the strikes mentioned in the headline.",
+    "at": "2026-11-20T09:47:19.896Z"
+  },
+  "dbf23952a5d03193:ucloaqdd8": {
+    "relevant": true,
+    "reason": "The image shows severe damage to a building in Kyiv caused by the Russian aerial assault mentioned in the headline.",
+    "at": "2026-11-20T09:47:36.655Z"
   }
 }
