@@ -174,9 +174,36 @@
     "https://www.france24.com/en/americas/20261119-major-anti-gang-offensive-in-haiti-kills-34-suspected-gang-members",
     "https://www.dw.com/en/cincinnati-s-famous-hippo-fiona-dies-after-eating-visitor-s-hat/a-79998371?maca=en-rss-en-all-1573-rdf",
     "https://www.dw.com/es/ataque-de-misiles-rusos-dañan-tres-puentes-y-dejan-tres-muertos-en-la-capital-ucraniana/a-79998916?maca=spa-rss-sp-all-1122-rdf",
-    "https://www.aljazeera.com/video/newsfeed/2026/11/20/russias-day-long-attack-on-kyiv-damages-embassies?traffic_source=rss"
+    "https://www.aljazeera.com/video/newsfeed/2026/11/20/russias-day-long-attack-on-kyiv-damages-embassies?traffic_source=rss",
+    "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "TRUMP THREATENS TAXES ON OVERSEAS US AI DATA CENTERS",
+      "normalizedTokens": [
+        "trump",
+        "threatens",
+        "taxes",
+        "overseas",
+        "data",
+        "centers"
+      ],
+      "date": "2026-11-20T23:04:29.943Z"
+    },
+    {
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "normalizedTokens": [
+        "trump",
+        "threatens",
+        "ban",
+        "firms",
+        "building",
+        "data",
+        "centres",
+        "overseas"
+      ],
+      "date": "2026-11-20T23:04:29.941Z"
+    },
     {
       "title": "TRUMP ELECTION SECURITY NOMINEE DENIES JANUARY SIX WAS ATTACK",
       "normalizedTokens": [
