@@ -178,6 +178,35 @@
   ],
   "processedSignatures": [
     {
+      "title": "TRUMP ELECTION SECURITY NOMINEE DENIES JANUARY SIX WAS ATTACK",
+      "normalizedTokens": [
+        "trump",
+        "election",
+        "security",
+        "nominee",
+        "denies",
+        "january",
+        "six",
+        "attack"
+      ],
+      "date": "2026-11-20T12:13:32.237Z"
+    },
+    {
+      "title": "Trump’s pick to lead an agency protecting US elections says Jan. 6 wasn’t an ‘attack’",
+      "normalizedTokens": [
+        "trump",
+        "pick",
+        "lead",
+        "agency",
+        "protecting",
+        "elections",
+        "jan",
+        "wasn",
+        "attack"
+      ],
+      "date": "2026-11-20T12:13:32.235Z"
+    },
+    {
       "title": "NVIDIA HUNTERS APPROACH ARM CHIEF FOR HUANG SUCCESSOR",
       "normalizedTokens": [
         "nvidia",
