@@ -170,9 +170,37 @@
     "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
     "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
     "https://www.theguardian.com/technology/2026/nov/19/nvidia-new-ceo-search-jensen-huang-arm-rene-haas",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFBtSTFsdTBzdnM2dzloZXROSmMtM0IwWkVOYVpCQzFlMlo1UHZYT3p6WmpMcTJVYWRycHN6bDBPS0Iwa2lNWkNoQUNUMlplUk5VMWJCYmN5SjZNc3FlemRDakZsQjFxMm9iV3ZYYjdTTndrb21SQ2dvcHhzSEpHNHhtNjNWajNTajNqY05tSXEySHJBc3k0?oc=5"
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFBtSTFsdTBzdnM2dzloZXROSmMtM0IwWkVOYVpCQzFlMlo1UHZYT3p6WmpMcTJVYWRycHN6bDBPS0Iwa2lNWkNoQUNUMlplUk5VMWJCYmN5SjZNc3FlemRDakZsQjFxMm9iV3ZYYjdTTndrb21SQ2dvcHhzSEpHNHhtNjNWajNTajNqY05tSXEySHJBc3k0?oc=5",
+    "https://www.france24.com/en/americas/20261119-major-anti-gang-offensive-in-haiti-kills-34-suspected-gang-members"
   ],
   "processedSignatures": [
+    {
+      "title": "UPDATE: HAITIAN FORCES KILL 34 IN MARTISSANT OFFENSIVE",
+      "normalizedTokens": [
+        "update",
+        "haitian",
+        "forces",
+        "kill",
+        "martissant",
+        "offensive"
+      ],
+      "date": "2026-11-20T05:02:23.772Z"
+    },
+    {
+      "title": "Major anti-gang offensive in Haiti kills 34 suspected gang members",
+      "normalizedTokens": [
+        "major",
+        "anti",
+        "gang",
+        "offensive",
+        "haiti",
+        "kills",
+        "suspected",
+        "gang",
+        "members"
+      ],
+      "date": "2026-11-20T05:02:23.770Z"
+    },
     {
       "title": "TRUMP ELECTION SECURITY NOMINEE DENIES JANUARY SIX WAS ATTACK",
       "normalizedTokens": [

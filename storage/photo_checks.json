@@ -998,5 +998,20 @@
     "relevant": true,
     "reason": "The photo shows the election security nominee mentioned in the headline.",
     "at": "2026-11-20T03:00:16.473Z"
+  },
+  "e7306b5e19cbb7bc:49ul5kqhf": {
+    "relevant": false,
+    "reason": "The image shows military personnel from El Salvador instead of Haitian security forces.",
+    "at": "2026-11-20T05:01:55.694Z"
+  },
+  "f46b7599b53b42b8:49ul5kqhf": {
+    "relevant": false,
+    "reason": "The image shows a crowd of civilians marching rather than Haitian security forces or the offensive in Martissant.",
+    "at": "2026-11-20T05:02:12.227Z"
+  },
+  "a8c1b306e4f0b71a:49ul5kqhf": {
+    "relevant": false,
+    "reason": "The image shows a child and a woman smiling inside an airplane, which has no connection to a police offensive and gang deaths in Haiti.",
+    "at": "2026-11-20T05:02:22.113Z"
   }
 }
