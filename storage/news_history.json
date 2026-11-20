@@ -166,9 +166,39 @@
     "https://www.france24.com/en/tv-shows/business/20261118-inside-limoges-city-hall-devastated-by-arson-attack",
     "https://www.euronews.com/2026/11/18/bukele-confirms-airstrike-on-haitian-gang-leader-jeffs-luxury-mansion",
     "https://www.euronews.com/video/2026/11/19/ukraine-four-killed-and-at-least-13-injured-in-russian-strike-on-odesa",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM25ZMmZTOW9wa3Ytdk9EQnB6UFhtczB5dVd3UmpmNElSUHBzLXQwT3dHelpyVXdFVU5uSmdzWFdENW5feE9yS0hXRmRyZUVNV0xfQ21ocjU1VUUyVnVSVl8wekduX1hzMGZWTy1CeDg5UGkzVE1pa0syd3RGX2VKYmlQWFlNVWtLcDYzUGt4dmlsa3pTaHdFNjdRbDRrWmVhWVRvMlZURnJqZDNHbzNYS1lVTy01U3ZScEFkWDdJX3pFSGVRSHhZ?oc=5"
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM25ZMmZTOW9wa3Ytdk9EQnB6UFhtczB5dVd3UmpmNElSUHBzLXQwT3dHelpyVXdFVU5uSmdzWFdENW5feE9yS0hXRmRyZUVNV0xfQ21ocjU1VUUyVnVSVl8wekduX1hzMGZWTy1CeDg5UGkzVE1pa0syd3RGX2VKYmlQWFlNVWtLcDYzUGt4dmlsa3pTaHdFNjdRbDRrWmVhWVRvMlZURnJqZDNHbzNYS1lVTy01U3ZScEFkWDdJX3pFSGVRSHhZ?oc=5",
+    "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race"
   ],
   "processedSignatures": [
+    {
+      "title": "DEMOCRAT SCOTT COLOM WINS HISTORIC MISSISSIPPI SENATE ELECTION",
+      "normalizedTokens": [
+        "democrat",
+        "scott",
+        "colom",
+        "wins",
+        "historic",
+        "mississippi",
+        "senate",
+        "election"
+      ],
+      "date": "2026-11-20T00:13:11.575Z"
+    },
+    {
+      "title": "'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race",
+      "normalizedTokens": [
+        "bigger",
+        "barack",
+        "obama",
+        "election",
+        "scholars",
+        "reflect",
+        "mississippi",
+        "senate",
+        "race"
+      ],
+      "date": "2026-11-20T00:13:11.574Z"
+    },
     {
       "title": "MBDA AND ATMOS STUDY ORBITAL DEEP STRIKE WEAPON SYSTEM",
       "normalizedTokens": [

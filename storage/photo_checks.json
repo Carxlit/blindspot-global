@@ -973,5 +973,15 @@
     "relevant": true,
     "reason": "The image dramatically depicts a rocket launch and atmospheric re-entry plume, visually fitting an article about an orbital deep strike weapon system and re-entry platforms.",
     "at": "2026-11-19T23:04:21.024Z"
+  },
+  "2f01c4f2d9b33134:33yeik633": {
+    "relevant": false,
+    "reason": "The image shows a generic NPR graphic with headphones and a radio tower, which does not visually represent Scott Colom or the Mississippi Senate election.",
+    "at": "2026-11-20T00:13:02.693Z"
+  },
+  "22768567f8cf236a:33yeik633": {
+    "relevant": true,
+    "reason": "The image depicts Scott Colom and Cindy Hyde-Smith, the two central figures of the Mississippi Senate election described in the headline.",
+    "at": "2026-11-20T00:13:05.896Z"
   }
 }

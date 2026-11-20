@@ -24802,5 +24802,132 @@
     "attempts": 0,
     "maxAttempts": 3,
     "createdAt": "2026-11-19T23:04:24.905Z"
+  },
+  {
+    "id": "queue-1795133591562-5l4d4",
+    "news": {
+      "id": "33yeik633",
+      "originalUrl": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
+      "originalTitle": "'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race",
+      "sourceName": "NPR News",
+      "category": "POWER & SOCIETY",
+      "urgencyScore": 84,
+      "headline": "DEMOCRAT SCOTT COLOM WINS HISTORIC MISSISSIPPI SENATE ELECTION",
+      "subHeadline": "Scott Colom defeated incumbent Republican Cindy Hyde-Smith to become Mississippi's first Black U.S. senator in nearly 150 years. The outcome comes three years after Hyde-Smith blocked Colom's nomination to a federal judgeship.",
+      "blindSpotAngle": "Mainstream commentary presents Scott Colom's victory primarily as a symbolic victory or an unexpected partisan fluke. In reality, the win was produced by precise county-by-county mathematical voter targeting designed to neutralize aggressive state-level redistricting. By out-organizing structural gerrymandering in Deep South strongholds, the campaign exposes key vulnerabilities in national GOP electoral strategy.",
+      "facebookPost": "Democrat Scott Colom has won the Mississippi Senate race, defeating incumbent Republican Cindy Hyde-Smith and becoming the state's first Black U.S. senator in nearly 150 years. Three years after Hyde-Smith blocked his nomination to the federal bench, Colom flipped the seat following a year-long campaign across Deep South precincts.\n\nWhile national commentators treat the victory as a spontaneous political anomaly, the true mechanics lay in ground-level organizing against Republican redistricting pushes. Organizers in counties like DeSoto, Holmes, Jackson, and Hinds mobilized targeted turnout calculations that systematically dismantled traditional GOP margin assumptions.\n\nDoes this Deep South realignment reflect a permanent shift in Southern grassroots strategy, or will state legislatures counter with stricter structural barriers?\n\nSource: NPR News\n\n#PowerAndSociety #SouthernPolitics #Blindspot",
+      "telegramPost": "<b>DEMOCRAT SCOTT COLOM WINS HISTORIC MISSISSIPPI SENATE ELECTION</b>\n\n• <b>What happened:</b> Democrat Scott Colom defeated incumbent Cindy Hyde-Smith, becoming Mississippi's first Black U.S. senator in nearly 150 years.\n• <b>Why it matters:</b> Colom's victory defeated the politician who blocked his federal judgeship three years ago, proving that targeted county turnout can overcome state gerrymandering.\n• <b>What is next:</b> National political strategists will recalibrate their Southern electoral maps ahead of upcoming congressional battles.",
+      "linkedInPost": "The outcome of the Mississippi Senate election presents a critical case study in institutional risk and electoral strategy across the Deep South. Scott Colom's victory over incumbent Cindy Hyde-Smith—nearly 150 years after Mississippi last sent a Black senator to Washington—highlights how ground-level precinct coordination can bypass entrenched political geography.\n\nFor policy analysts and strategic planners, the result demonstrates that state-level redistricting initiatives are no longer guaranteed insurance against shifting voter turnout in key counties like Hinds, DeSoto, and Jackson. As political risk models adapt to shifting demographic dynamics in Southern markets, national legislative strategy will require significant adjustment.\n\nSource: NPR News\n\n#PowerAndSociety #ElectoralRisk #Blindspot",
+      "blueskyPost": "Scott Colom flips a Mississippi Senate seat nearly 150 years after Reconstruction. Ground math in DeSoto and Hinds defeated state redistricting plans. #Blindspot #PowerAndSociety",
+      "copies": {
+        "facebook": "Democrat Scott Colom has won the Mississippi Senate race, defeating incumbent Republican Cindy Hyde-Smith and becoming the state's first Black U.S. senator in nearly 150 years. Three years after Hyde-Smith blocked his nomination to the federal bench, Colom flipped the seat following a year-long campaign across Deep South precincts.\n\nWhile national commentators treat the victory as a spontaneous political anomaly, the true mechanics lay in ground-level organizing against Republican redistricting pushes. Organizers in counties like DeSoto, Holmes, Jackson, and Hinds mobilized targeted turnout calculations that systematically dismantled traditional GOP margin assumptions.\n\nDoes this Deep South realignment reflect a permanent shift in Southern grassroots strategy, or will state legislatures counter with stricter structural barriers? #PowerAndSociety #SouthernPolitics #Blindspot",
+        "telegram": "<b>DEMOCRAT SCOTT COLOM WINS HISTORIC MISSISSIPPI SENATE ELECTION</b>\n\n• <b>What happened:</b> Democrat Scott Colom defeated incumbent Cindy Hyde-Smith, becoming Mississippi's first Black U.S. senator in nearly 150 years.\n• <b>Why it matters:</b> Colom's victory defeated the politician who blocked his federal judgeship three years ago, proving that targeted county turnout can overcome state gerrymandering.\n• <b>What is next:</b> National political strategists will recalibrate their Southern electoral maps ahead of upcoming congressional battles.",
+        "bluesky": "Scott Colom flips a Mississippi Senate seat nearly 150 years after Reconstruction. Ground math in DeSoto and Hinds defeated state redistricting plans. #Blindspot #PowerAndSociety",
+        "linkedIn": "The outcome of the Mississippi Senate election presents a critical case study in institutional risk and electoral strategy across the Deep South. Scott Colom's victory over incumbent Cindy Hyde-Smith—nearly 150 years after Mississippi last sent a Black senator to Washington—highlights how ground-level precinct coordination can bypass entrenched political geography.\n\nFor policy analysts and strategic planners, the result demonstrates that state-level redistricting initiatives are no longer guaranteed insurance against shifting voter turnout in key counties like Hinds, DeSoto, and Jackson. As political risk models adapt to shifting demographic dynamics in Southern markets, national legislative strategy will require significant adjustment.\n\n#PowerAndSociety #ElectoralRisk #Blindspot"
+      },
+      "article": {
+        "slug": "scott-colom-defeats-cindy-hyde-smith-historic-xt8j",
+        "title": "Scott Colom Defeats Cindy Hyde-Smith in Historic Mississippi Senate Upset",
+        "dek": "Scott Colom became Mississippi's first Black U.S. senator in nearly 150 years after defeating incumbent Cindy Hyde-Smith. The victory underscores how local voter mobilization successfully countered statewide gerrymandering strategies.",
+        "keyFacts": [
+          "Scott Colom defeated Republican incumbent Cindy Hyde-Smith to become Mississippi's first Black U.S. senator in nearly 150 years.",
+          "Three years prior to the election, Cindy Hyde-Smith blocked Scott Colom's nomination to a federal judgeship.",
+          "Organizers targeted precise voter turnout numbers across Mississippi jurisdictions including DeSoto, Holmes, Jackson, and Hinds counties.",
+          "The victory followed grassroots mobilization responding to Republican redistricting proposals backed by Donald Trump."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "Democrat Scott Colom has won Mississippi's U.S. Senate election, defeating incumbent Republican Cindy Hyde-Smith in a landmark political outcome. According to NPR News, the victory sends Colom to Washington as the state's first Black U.S. senator in nearly 150 years, marking a historic shift in a state where Black political participation was systematically suppressed following the Reconstruction era.",
+              "The victory carried deep personal and political resonance. Three years prior to the election, Hyde-Smith had directly blocked Colom's nomination to become a federal judge. Rather than stepping back from public office, Colom launched a statewide campaign spanning over a year, speaking directly with voters outside political rallies and constructing a broad coalition across rural and urban Mississippi precincts."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "Mississippi's political history has long been shaped by struggles over franchise access and representation. Following Reconstruction, state authorities established Jim Crow restrictions and backed racial terror that forced millions of Black residents to leave the state during the Great Migration. Families like Colom's remained, sustaining community networks despite decades of institutional disenfranchisement.",
+              "In recent years, state Republican leaders sought to consolidate their governing majorities through redistricting initiatives encouraged by national figures including Donald Trump. In response, local civil rights organizations, including the NAACP led by Derrick Johnson and veteran lawmakers like Congressman Bennie Thompson, coordinated regional voter mobilization efforts under the banner 'All Roads Lead to the South.'"
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "Mainstream political coverage has overwhelmingly focused on the symbolic nature of Colom's milestone or framed the result as an unrepeatable partisan anomaly. What this perspective overlooks is the calculated field strategy executed across local precincts. Campaign organizers avoided relying on generic media airwaves, choosing instead to focus on explicit turnout metrics in specific geographic jurisdictions.",
+              "By calculating exact turnout numbers required in key counties such as DeSoto, Holmes, Jackson, and Hinds, organizers systematically outmaneuvered the structural assumptions built into state redistricting maps. The result proves that targeted, precinct-level field math can effectively bypass state-level gerrymandering, exposing structural weaknesses in national party assumptions regarding Southern political geography."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "The clear victors are the grassroots organizers and voters across Mississippi who demonstrated that established structural barriers can be overcome through disciplined local execution. Scott Colom gains significant national prominence, transitioning from a blocked judicial nominee to a key vote in the United States Senate.",
+              "Conversely, incumbent Cindy Hyde-Smith and national Republican strategists face a major defeat. The outcome illustrates the risks of relying strictly on favorable district lines and top-level rally appearances when opposed by organized, data-driven local field operations."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "In the coming months, political strategists will monitor how Southern state legislatures react to the Mississippi election result. Conservative lawmakers may seek to pass stricter voting protocols or adjust administrative boundaries to protect existing legislative majorities.",
+              "Simultaneously, national Democratic strategists will face pressure to duplicate Mississippi's county-by-county field operations across other Southern states. Whether Colom's win stands as an isolated milestone or signals a broader structural shift will depend on sustained investment in ground-level electoral infrastructure."
+            ]
+          }
+        ],
+        "tags": [
+          "Mississippi",
+          "US Senate",
+          "Elections",
+          "Voting Rights",
+          "Power and Society",
+          "Scott Colom"
+        ],
+        "sources": [
+          {
+            "name": "NPR News",
+            "title": "'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race",
+            "url": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race"
+          }
+        ],
+        "wordCount": 517
+      },
+      "videoScript": {
+        "hook": "A blocked federal nominee just flipped a Deep South Senate seat.",
+        "beats": [
+          "Scott Colom became Mississippi's first Black senator in nearly 150 years by defeating Cindy Hyde-Smith.",
+          "Three years after she blocked his judgeship, Colom targeted precinct turnout to counter state gerrymandering.",
+          "What nobody is talking about is how precinct math broke national assumptions across the Deep South."
+        ],
+        "close": "Read the full analysis of the Mississippi election at our link in bio."
+      },
+      "rawImageUrl": "https://gray-wlbt-prod.gtv-cdn.com/resizer/v2/2Z6YJVOBJJDDDGFLFNNFTSXFBY.jpg?auth=c1356ee9fea3cca3e20caafbac693ddab8523c7a0712505777f1fd33c459b837&width=1200&height=600&smart=true",
+      "sourceVideo": {
+        "provider": "youtube",
+        "id": "8tyoIcOZfx4",
+        "title": "CNN Projects Colom Beats Hyde-Smith in Mississippi",
+        "channel": "The Musk Rag",
+        "license": "cc-by"
+      },
+      "status": "pending",
+      "createdAt": "2026-11-20T00:13:06.337Z",
+      "cardImageUrl": "/news-cards/news-33yeik633-1795133586337.jpg",
+      "reelCoverUrl": "/news-cards/news-33yeik633-1795133590053-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-33yeik633-1795133590525-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/scott-colom-defeats-cindy-hyde-smith-historic-xt8j/"
+    },
+    "channels": {
+      "facebook": true,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": true,
+      "mastodon": false,
+      "threads": false,
+      "youtube": true
+    },
+    "scheduledFor": "2026-11-20T01:39:15.408Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-20T00:13:11.563Z"
   }
 ]
