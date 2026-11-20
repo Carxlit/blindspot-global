@@ -1013,5 +1013,15 @@
     "relevant": false,
     "reason": "The image shows a child and a woman smiling inside an airplane, which has no connection to a police offensive and gang deaths in Haiti.",
     "at": "2026-11-20T05:02:22.113Z"
+  },
+  "5cf0e3198d9f4700:yzagt5ued": {
+    "relevant": false,
+    "reason": "The image shows a young hippo celebrating a third birthday, whereas the headline reports the death of Fiona at age nine after swallowing a hat.",
+    "at": "2026-11-20T05:46:52.515Z"
+  },
+  "faf36ed3ae0e1580:yzagt5ued": {
+    "relevant": true,
+    "reason": "The image clearly shows a hippopotamus, which directly illustrates the news story about Fiona the hippo.",
+    "at": "2026-11-20T05:47:04.954Z"
   }
 }

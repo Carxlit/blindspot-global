@@ -1,5 +1,107 @@
 [
   {
+    "slug": "death-fiona-hippo-exposes-vulnerabilities-zoo-2s2k",
+    "path": "news/death-fiona-hippo-exposes-vulnerabilities-zoo-2s2k/",
+    "title": "The death of Fiona the hippo exposes vulnerabilities in zoo exhibit security",
+    "headline": "CINCINNATI HIPPO FIONA DIES AFTER SWALLOWING VISITOR HAT",
+    "dek": "Fiona the Cincinnati Zoo hippo has died at age nine after swallowing a visitor's hat, exposing systemic gaps in enclosure security.",
+    "category": "POWER & SOCIETY",
+    "sourceName": "DW News",
+    "image": "img/death-fiona-hippo-exposes-vulnerabilities-zoo-2s2k.jpg",
+    "photo": "img/death-fiona-hippo-exposes-vulnerabilities-zoo-2s2k-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "Gz5cOqbrgFI",
+      "title": "Cincinnati Zoo says Fiona the hippo has died, days after ingesting a visitor’s hat",
+      "channel": "Eyewitness News ABC7NY"
+    },
+    "publishedAt": "2026-11-20T05:47:07.087Z",
+    "article": {
+      "slug": "death-fiona-hippo-exposes-vulnerabilities-zoo-2s2k",
+      "title": "The death of Fiona the hippo exposes vulnerabilities in zoo exhibit security",
+      "dek": "Fiona the Cincinnati Zoo hippo has died at age nine after swallowing a visitor's hat, exposing systemic gaps in enclosure security.",
+      "keyFacts": [
+        "Fiona died at the Cincinnati Zoo at nine years old.",
+        "The cause of death was swallowing a visitor's hat accidentally thrown into her enclosure.",
+        "She was born prematurely in 2017, weighing only 29 pounds (13 kilograms).",
+        "Political figures including Second Lady Usha Vance, Mayor Aftab Pureval, and Senator Bernie Moreno publicly reacted to her death."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Fiona the hippo has died at the Cincinnati Zoo in the US after swallowing a visitor's hat that was accidentally thrown into her enclosure, according to DW News. She was nine years old.",
+            "Despite multiple medical attempts to clear the obstruction, the foreign object proved fatal. According to statements released by the zoo, supportive care was administered to save her, but the animal ultimately failed to recover from the blockage."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Fiona achieved global recognition following her birth in 2017. Born prematurely, she weighed a mere 29 pounds (13 kilograms) and faced severe early survival hurdles. Daily updates on her development turned her into a viral social media sensation, drawing fans worldwide and inspiring her naming after a character from the Shrek film series.",
+            "Her death triggered widespread reactions from the public and prominent political figures. Second Lady Usha Vance, wife of Vice President JD Vance, shared memories of visiting the enclosure, while Cincinnati Mayor Aftab Pureval lauded her as a symbol of perseverance. Ohio Governor-Elect Amy Acton and Senator Bernie Moreno similarly emphasized her cultural importance to the region."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While mainstream media coverage remains fixated on the emotional grief of fans and tributes from political leaders, the core structural failure is frequently overlooked. The fact that a visitor's hat could easily find its way into a hippo's enclosure points directly to inadequate physical barriers and visitor containment.",
+            "High-profile animal exhibits routinely balance public accessibility with safety, yet incidents involving foreign-object ingestion underscore persistent vulnerabilities in crowd supervision. The loss of a major institution's primary attraction due to a discarded accessory highlights a distinct operational oversight in wildlife management."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Zoological institutions and municipal tourism boards absorb the primary losses, as the death of a high-profile animal diminishes local engagement and economic draw. Visitors and the public at large lose an accessible cultural icon that served as a unifying regional symbol.",
+            "Conversely, regulatory watchdogs and safety equipment manufacturers gain renewed leverage to push for stricter enclosure reinforcement and enhanced visitor surveillance across major wildlife attractions."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Observers should monitor upcoming policy adjustments at major North American zoos regarding barrier distances and stricter penalties for unauthorized object tossing.",
+            "Further developments will likely center on whether the Cincinnati Zoo implements physical redesigns of its hippo habitat to prevent future access hazards."
+          ]
+        }
+      ],
+      "tags": [
+        "Wildlife",
+        "Cincinnati",
+        "Zoo Security",
+        "Animal Welfare",
+        "Public Policy"
+      ],
+      "sources": [
+        {
+          "name": "DW News",
+          "title": "Cincinnati's famous hippo Fiona dies after eating visitor's hat",
+          "url": "https://www.dw.com/en/cincinnati-s-famous-hippo-fiona-dies-after-eating-visitor-s-hat/a-79998371?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "WLWT",
+          "title": "Fiona, famed Cincinnati Zoo hippo, dies after swallowing child’s hat",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XM250ZDZkcUxrQ0IxcVVBV25hRFJRemk3eG5YVVY3YXpKTEV0ZjVBQkJGOWNJdlZqdnRxZHhlUkxaMWdBeHNNM0xfUnluQjlrdjEyODNUVE03em5rQkpyZ0xjcmtkeWNiTUkyZXRPdzAzMm1qZGlDMEtOZnpVdw?oc=5"
+        },
+        {
+          "name": "DW.com",
+          "title": "Cincinnati's beloved hippo, Fionna, passes away after eating visitor's hat",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcC02U0V2V3lzaWpuRENJQjgwZ2ctWWRRaWVDQW5SQnlpTFpiYjFJYWdfUlQ2cU5ZS2MzTTNMR1AzaGtaVDgzeG1WSUt4Um1JTWlqUElqNy03SWEwWExJcktNbHdhVmlMMk5tQ3BJVWdZMnlNMXR1aUIxazc5MV8taXFjV2tqQkVOT2ZndU03U2R4X08wbVo5VFd3?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Fiona the Hippo, Star of Cincinnati Zoo and Beyond, Dies After Eating Child’s Hat",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WcUd2V0pYbFFZeXhBYTVxNERSVXB6ejMyNjFFRUN1eEhhTUNEb0RoS2dLQnZMaWpEaERJTmtWaDliVEZZR1Q5RXVERjlral9qcHVDcjg5VGlzYkNXWG44dmdrX0ZCczZuVnctTkJoSmFvcHozejRUQmpRTjdrZFU?oc=5"
+        },
+        {
+          "name": "AP News",
+          "title": "Cincinnati Zoo’s famed Fiona the hippo dies days after eating a visitor’s hat",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT1F6b2VpdzJoMkhmTGt0cEdfbm1xa3QwMTlWc1gyZlphbVR2eFVLMXpOeDRBVktXa25TNmkzSmttaFRjSDJnRC04SDJWSkRrRE1TUlJnYTBwMjV5dXNtb1dTbHNkQ2tDdnNLV1E4bEk1NWZjQUtRZ2h5QkIwWGJIdkQzRmUzbXlXYmVXUmJmdmd6dFFw?oc=5"
+        }
+      ],
+      "wordCount": 397
+    },
+    "blindSpot": "While mainstream coverage focuses on the emotional outpouring from fans and political figures like Usha Vance and Mayor Aftab Pureval, the incident exposes the persistent security and behavioral vulnerabilities of open-exhibit zoo designs. The ease with which a visitor's hat can reach a high-profile animal highlights a systemic gap in crowd control and enclosure safety protocols."
+  },
+  {
     "slug": "haitian-security-forces-retake-vital-corridor-ov0w",
     "path": "news/haitian-security-forces-retake-vital-corridor-ov0w/",
     "title": "Haitian Security Forces Retake Vital Corridor in Major Anti-Gang Offensive",
