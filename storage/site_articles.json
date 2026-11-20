@@ -1,5 +1,92 @@
 [
   {
+    "slug": "anthropic-debuts-1-3-trillion-valuation-nn0p",
+    "path": "news/anthropic-debuts-1-3-trillion-valuation-nn0p/",
+    "title": "Anthropic Debuts at $1.3 Trillion Valuation as Markets Fall on Bubble Fears",
+    "headline": "ANTHROPIC LISTS AT $1.3 TRILLION AS MARKETS TUMBLE",
+    "dek": "Anthropic completed the largest initial public offering in stock market history, closing at $97 per share. However, major US stock indexes posted broad losses as investors weighed systemic debt risks across the technology sector.",
+    "category": "GLOBAL ECONOMY",
+    "sourceName": "The Guardian Business",
+    "image": "img/anthropic-debuts-1-3-trillion-valuation-nn0p.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "Ryh-sqapmrw",
+      "title": "The Biggest IPO In History Is Here",
+      "channel": "Patrick Kenney",
+      "license": "cc-by"
+    },
+    "publishedAt": "2026-11-20T00:59:18.203Z",
+    "article": {
+      "slug": "anthropic-debuts-1-3-trillion-valuation-nn0p",
+      "title": "Anthropic Debuts at $1.3 Trillion Valuation as Markets Fall on Bubble Fears",
+      "dek": "Anthropic completed the largest initial public offering in stock market history, closing at $97 per share. However, major US stock indexes posted broad losses as investors weighed systemic debt risks across the technology sector.",
+      "keyFacts": [
+        "Anthropic shares closed at $97 on their first day of trading, placing its valuation at $1.3 trillion after briefly touching $2 trillion.",
+        "The IPO raised $8.1 billion at an initial offering price of $83 per share, making it the largest debut on record.",
+        "The Dow Jones Industrial Average dropped 2.2%, the S&P 500 fell 2%, and the Nasdaq Composite declined 2.3% during the session.",
+        "The S&P 500 recorded its sixth consecutive daily loss, its longest losing streak since April 19, 2024.",
+        "A sector-wide sell-off wiped $500 billion in market value over six days following the departure of Nvidia CEO Jensen Huang."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Anthropic made its debut on the Nasdaq on Thursday, completing the largest initial public offering in financial history. According to market data reported by Reuters and official exchange records, the creator of the Claude chatbot priced its IPO at $83 per share, raising $8.1 billion. Trading opened at $111.50 per share, briefly driving the company's market valuation to $2 trillion.",
+            "The stock settled by the close of the trading session, ending at $97 per share. This represented a 17% gain over the initial offering price and established a final day-one market capitalization of approximately $1.3 trillion. The listing generated massive paper wealth for Anthropic's leadership, with its seven co-founders holding a combined equity value exceeding $180 billion.",
+            "Shortly before ringing the Nasdaq opening bell, Anthropic Chief Executive Officer Dario Amodei addressed the public risks associated with advanced artificial intelligence systems. Amodei stated that the technology presents real risks ranging from misuse by state actors to broad economic disruption, emphasizing that safety considerations must dictate industry development."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Despite Anthropic's headline figures, Wall Street benchmarks suffered severe losses throughout the session. Preliminary exchange figures indicated that the Dow Jones Industrial Average fell 2.2%, the S&P 500 declined 2%, and the Nasdaq Composite dropped 2.3%. The S&P 500 recorded its sixth straight losing session, marking its longest negative streak since April 19, 2024.",
+            "The broader market weakness follows acute volatility in semiconductor equities. The tech sector lost an estimated $500 billion in total market value over six trading days following the abrupt departure of Nvidia CEO Jensen Huang last week. The instability at Nvidia dragged on broader market sentiment, overshadowing Anthropic's listing.",
+            "Public reactions outside the stock exchange reflected growing societal opposition. Protesters assembled in New York and San Francisco outside corporate facilities to voice concerns over energy consumption, job displacement, and systemic risks associated with rapid AI deployment."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream financial coverage focused almost exclusively on Anthropic's paper valuation and founder wealth creation. However, the broader market sell-off reveals deeper institutional nervousness regarding the financial mechanics supporting the AI sector. Much of the industry's rapid infrastructure build-out has been funded through complex, opaque debt arrangements premised on sustained high growth rates.",
+            "This dynamic drew formal warning from US Democratic Senator Adam Schiff, who published an opinion piece in the Wall Street Journal highlighting structural economic risks. Schiff noted that artificial intelligence now accounts for approximately 3.6% of US gross domestic product, warning that high leverage makes the broader economy vulnerable to tech sector downturns.",
+            "Schiff explicitly called on Congress to establish clear boundaries regarding state intervention, asserting that taxpayers must not backstop tech companies or private credit structures if the industry experiences a debt crisis. The contrast between Anthropic's valuation and falling equity indexes highlights growing public market reluctance to absorb private leverage."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The primary immediate beneficiaries of the listing are Anthropic's seven co-founders and early venture capital backers, who unlocked liquidity and secured paper fortunes totaling $180 billion. The transaction also establishes a liquid benchmark for private frontier labs, providing potential valuation baselines for entities such as OpenAI.",
+            "Conversely, broader equity holders and institutional funds absorbed losses as market indexes slipped across the board. Retail investors who purchased Anthropic shares near the intraday peak of $111.50 faced immediate paper losses as the stock normalized to $97 by the close of trading."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Market observers will focus on whether Anthropic's equity price can maintain its premium as mandatory lock-up periods expire and quarterly earnings reports demand concrete revenue disclosures. Investors will evaluate whether commercial cash flows can offset massive capital expenditure requirements for compute power.",
+            "In Washington, lawmakers are expected to debate legislative proposals aimed at restricting federal intervention or bailouts for the technology sector. The performance of Anthropic will also dictate the timeline and pricing expectations for competing private AI developers seeking public listings."
+          ]
+        }
+      ],
+      "tags": [
+        "Anthropic",
+        "Stock Market",
+        "Artificial Intelligence",
+        "Initial Public Offering",
+        "Nvidia",
+        "Wall Street"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian Business",
+          "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – as it happened",
+          "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates"
+        }
+      ],
+      "wordCount": 665
+    },
+    "blindSpot": "While headlines focused on Anthropic's record valuation, the debut failed to halt a deeper Wall Street sell-off triggered by leadership turmoil at Nvidia. Market liquidity is contracting as investors begin questioning the sustainability of debt-leveraged capital expenditures across the artificial intelligence supply chain."
+  },
+  {
     "slug": "scott-colom-defeats-cindy-hyde-smith-historic-xt8j",
     "path": "news/scott-colom-defeats-cindy-hyde-smith-historic-xt8j/",
     "title": "Scott Colom Defeats Cindy Hyde-Smith in Historic Mississippi Senate Upset",

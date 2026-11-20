@@ -983,5 +983,10 @@
     "relevant": true,
     "reason": "The image depicts Scott Colom and Cindy Hyde-Smith, the two central figures of the Mississippi Senate election described in the headline.",
     "at": "2026-11-20T00:13:05.896Z"
+  },
+  "f58f33fdecfc5dce:gvwiz8oje": {
+    "relevant": false,
+    "reason": "The image does not depict Anthropic, its founders, or a stock market event related to the company's IPO.",
+    "at": "2026-11-20T00:59:11.053Z"
   }
 }
