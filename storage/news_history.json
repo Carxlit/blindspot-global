@@ -187,6 +187,36 @@
   ],
   "processedSignatures": [
     {
+      "title": "TWO SALVADORAN SOLDIERS KILLED IN HAITI EXPLOSION INCIDENT",
+      "normalizedTokens": [
+        "two",
+        "salvadoran",
+        "soldiers",
+        "killed",
+        "haiti",
+        "explosion",
+        "incident"
+      ],
+      "date": "2026-11-21T11:17:27.303Z"
+    },
+    {
+      "title": "Two Salvadorans killed in Haiti handling explosives in first official deaths since deployment",
+      "normalizedTokens": [
+        "two",
+        "salvadorans",
+        "killed",
+        "haiti",
+        "handling",
+        "explosives",
+        "first",
+        "official",
+        "deaths",
+        "since",
+        "deployment"
+      ],
+      "date": "2026-11-21T11:17:27.301Z"
+    },
+    {
       "title": "FATAL BLAZE SHUTS DOWN MAJOR IRAQI POWER PLANT",
       "normalizedTokens": [
         "fatal",
