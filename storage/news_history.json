@@ -182,9 +182,39 @@
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSnJIY2MzcUJjNVY3MzNYaGxKYUIySGw3TzNnVjltNDBIS2JPOHV4Y1BTaDRTRTRxSWp3R0M4Z3VSeU1IWmdoTGl6SU15bHh6UkZobTZ3aWpxUmU5c2dsODBPTjI3V0NQTEhjMWZBWE1fZnNQVHdYcjdONk43LVhleEdaUEs2d0hsV3dqMURGRUcyQzZnTFduVGZuTmJMU0taYzNreTJ4c2ZqeWV6b0l2X1FCQm5SQllFa09PZFRIcGJ5aGs?oc=5",
     "https://www.eltiempo.com/mundo/latinoamerica/videos-del-fuerte-temblor-de-6-9-en-peru-la-noche-de-este-20-de-noviembre-que-se-sintio-en-bogota-y-varias-ciudades-de-colombia-asi-se-vivio-el-sismo-3602909",
     "https://www.thehindu.com/news/international/peru-andes-earthquake-toll-updates-november-21-2026/article71727128.ece",
-    "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss"
+    "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss",
+    "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "FATAL BLAZE SHUTS DOWN MAJOR IRAQI POWER PLANT",
+      "normalizedTokens": [
+        "fatal",
+        "blaze",
+        "shuts",
+        "down",
+        "major",
+        "iraqi",
+        "power",
+        "plant"
+      ],
+      "date": "2026-11-21T08:01:30.650Z"
+    },
+    {
+      "title": "At least two killed, 28 injured in fire at power station in Iraq’s Basra",
+      "normalizedTokens": [
+        "least",
+        "two",
+        "killed",
+        "injured",
+        "fire",
+        "power",
+        "station",
+        "iraq",
+        "basra"
+      ],
+      "date": "2026-11-21T08:01:30.649Z"
+    },
     {
       "title": "NETANYAHU EXPLOITS SECTARIAN RIFTS TO MAINTAIN LEGISLATIVE CONTROL",
       "normalizedTokens": [
