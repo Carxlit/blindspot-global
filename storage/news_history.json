@@ -183,9 +183,35 @@
     "https://www.eltiempo.com/mundo/latinoamerica/videos-del-fuerte-temblor-de-6-9-en-peru-la-noche-de-este-20-de-noviembre-que-se-sintio-en-bogota-y-varias-ciudades-de-colombia-asi-se-vivio-el-sismo-3602909",
     "https://www.thehindu.com/news/international/peru-andes-earthquake-toll-updates-november-21-2026/article71727128.ece",
     "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss",
-    "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss"
+    "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEdyaGtabnZRdHhGLWIzeGx0MkhleGZEYlVpTmFySVFYdlUtd3JfamE1YjlXQmwzWW1xTE83UzJRZ2lra1pEWmFsTXZMbDRlUm9CNTllRHdXR0VWRExIaTlQanhkTDFaU2RjU2dCYkI3WDd2WElmSlFfY1pwVkdxVEw0cDBYNGEwTGFLUGFqUTZPMFIxU0Y4Z25pREJEai16RGNfX3JlWXZOZ05hT3liNUJnU2stVlQ5RV9NZmVBUmhlQQ?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "PENTAGON REJECTS IRANIAN CLAIMS OF F16 STRIKE OVER GULF",
+      "normalizedTokens": [
+        "pentagon",
+        "rejects",
+        "iranian",
+        "claims",
+        "f16",
+        "strike",
+        "gulf"
+      ],
+      "date": "2026-11-21T23:04:47.756Z"
+    },
+    {
+      "title": "US denies Iranian account that missile damaged F-16 over Gulf",
+      "normalizedTokens": [
+        "denies",
+        "iranian",
+        "account",
+        "missile",
+        "damaged",
+        "gulf"
+      ],
+      "date": "2026-11-21T23:04:47.754Z"
+    },
     {
       "title": "TRUMP AND XI AGREE HUMANS MUST CONTROL MILITARY AI",
       "normalizedTokens": [
