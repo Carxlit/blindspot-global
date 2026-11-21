@@ -1058,5 +1058,15 @@
     "relevant": true,
     "reason": "The image shows traders on a trading floor reacting intently to market movements, effectively illustrating a major stock market drop and sell-off.",
     "at": "2026-11-21T00:54:36.778Z"
+  },
+  "fcc3af7015a97516:bw2p74fog": {
+    "relevant": false,
+    "reason": "The image shows an armored vehicle and street scene in Haiti, but it does not depict the specific explosive handling incident or the Salvadoran soldiers mentioned in the headline.",
+    "at": "2026-11-21T02:02:22.351Z"
+  },
+  "2b7390ed29f6422e:bw2p74fog": {
+    "relevant": true,
+    "reason": "The image shows armored security vehicles on a street in Haiti, illustrating the military/security mission context where the incident occurred.",
+    "at": "2026-11-21T02:02:36.029Z"
   }
 }

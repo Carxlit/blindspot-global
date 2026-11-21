@@ -177,9 +177,40 @@
     "https://www.aljazeera.com/video/newsfeed/2026/11/20/russias-day-long-attack-on-kyiv-damages-embassies?traffic_source=rss",
     "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxQY09GMmxTYlpRMnQ3YVJ4Q3BUdmg3NEFJWG5lVlh4TC0zZGxxZVcydTkwSkpiZUZfS3BXdlRab05HSW5TS0h5TDY5NFRKajBDSWdFbUdhNFIxMzUxc3pLRnEtMXVNblBwZmgteFlUWVhuS0lRU3diRGpWQnkyeWtDMGJiS3hzd2xCdUtDVHIxc0hOWGkwTHdPZ1FfenUwQQ?oc=5"
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQY09GMmxTYlpRMnQ3YVJ4Q3BUdmg3NEFJWG5lVlh4TC0zZGxxZVcydTkwSkpiZUZfS3BXdlRab05HSW5TS0h5TDY5NFRKajBDSWdFbUdhNFIxMzUxc3pLRnEtMXVNblBwZmgteFlUWVhuS0lRU3diRGpWQnkyeWtDMGJiS3hzd2xCdUtDVHIxc0hOWGkwTHdPZ1FfenUwQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWVFEY3BpSjFXR0tvcTN4Tnk4MEtTb1I2aHh0eUgtelVQcVd1amJLMWpXR2FvS3NBbTdSOElaQUZIQ0E1YjZfS0ZENHdnOGVldWlVMHFGSkN6cFlNUUlNUXNnUmFER2dOSzhPZGxfaDBRV0phWjB0Nkw1c3JYa1dBQWpDb18xLVVhcS13aVE0eHYwT3M3LWFTdU9mRnBZUTg3S0NxQ3Y2enVxUFlrVEw1YkNzSGxkUzduOWVN?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "TWO SALVADORAN SOLDIERS KILLED IN HAITI EXPLOSION INCIDENT",
+      "normalizedTokens": [
+        "two",
+        "salvadoran",
+        "soldiers",
+        "killed",
+        "haiti",
+        "explosion",
+        "incident"
+      ],
+      "date": "2026-11-21T02:02:39.749Z"
+    },
+    {
+      "title": "Two Salvadorans killed in Haiti handling explosives in first official deaths since deployment",
+      "normalizedTokens": [
+        "two",
+        "salvadorans",
+        "killed",
+        "haiti",
+        "handling",
+        "explosives",
+        "first",
+        "official",
+        "deaths",
+        "since",
+        "deployment"
+      ],
+      "date": "2026-11-21T02:02:39.748Z"
+    },
     {
       "title": "S&P 500 SINKS AS TECH STOCK ROUT ERASES ANNUAL GAINS",
       "normalizedTokens": [
