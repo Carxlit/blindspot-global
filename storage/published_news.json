@@ -1,5 +1,131 @@
 [
   {
+    "id": "1sz2iiy28",
+    "originalUrl": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+    "originalTitle": "Trump threatens ban on US firms building AI data centres overseas",
+    "sourceName": "BBC Business",
+    "category": "GLOBAL ECONOMY",
+    "urgencyScore": 82,
+    "headline": "TRUMP THREATENS TAXES ON OVERSEAS US AI DATA CENTERS",
+    "subHeadline": "Following a trip to Asia, Donald Trump announced plans to penalize U.S. technology companies building AI data centers abroad, citing fears that China will exploit overseas computing infrastructure.",
+    "blindSpotAngle": "Forcing U.S. hyperscalers like Meta and Google to keep data infrastructure domestic ignores the severe power grid bottlenecks already crippling American energy markets. Moreover, attempting to wall off computing infrastructure undermines the decentralized nature of global cloud architecture, driving foreign governments directly into municipal partnerships with non-U.S. tech vendors.",
+    "facebookPost": "U.S. President Donald Trump has declared an intent to ban American technology firms from constructing AI data centers outside the country, threatening heavy tax penalties for non-compliance. Citing national security concerns, the administration argues that overseas computing facilities risk falling under Chinese influence or providing Beijing backdoor access to advanced artificial intelligence systems.\n\nThe underlying friction lies in physical reality versus political decree. U.S. energy grids are already struggling to supply the immense power required by domestic data centers, prompting firms like Meta and Google to seek global capacity. Forcing hyperscalers to localize infrastructure inside the U.S. risks creating severe power rationing and skyrocketing energy prices, while alienating Southeast Asian nations that rely on digital infrastructure investments.\n\nCan mercantilist capital controls effectively contain AI development without destabilizing domestic energy markets?\n\nSource: BBC Business\n\n#GlobalEconomy #ArtificialIntelligence #Blindspot",
+    "telegramPost": "<b>TRUMP THREATENS TAXES ON OVERSEAS US AI DATA CENTERS</b>\n\n• <b>What happened:</b> Donald Trump announced a potential ban and severe tax penalties on U.S. tech companies constructing AI data centers overseas following his trip to Asia.\n• <b>Why it matters:</b> Tech giants including Meta and Google rely on international data centers to bypass U.S. power grid constraints and access global markets, while Washington seeks to block Chinese access to advanced computing power.\n• <b>What is next:</b> Washington will face mounting pushback from major tech firms and energy regulators over domestic power limits and global market compliance.",
+    "linkedInPost": "The administration’s proposal to impose heavy tax penalties on U.S. technology firms building AI data centers abroad signals a shift toward digital mercantilism. While the policy aims to restrict Chinese access to cloud computing capacity, it introduces structural risks for U.S. hyperscalers.\n\nDomestic energy infrastructure in the United States already faces capacity bottlenecks from data center power consumption. Restricting foreign infrastructure construction limits global scalability for companies like Meta and Google, while penalizing Southeast Asian economies that have positioned themselves as regional digital hubs. Executives must now evaluate foreign market exposure against potential tax liabilities and domestic power availability.\n\nSource: BBC Business\n\n#GlobalEconomy #TechnologyPolicy #Blindspot",
+    "blueskyPost": "Trump threatens heavy taxes on U.S. tech firms building AI data centers abroad. Forcing infrastructure inside U.S. borders clashes directly with severe domestic power grid shortages. #GlobalEconomy #Blindspot",
+    "copies": {
+      "facebook": "U.S. President Donald Trump has declared an intent to ban American technology firms from constructing AI data centers outside the country, threatening heavy tax penalties for non-compliance. Citing national security concerns, the administration argues that overseas computing facilities risk falling under Chinese influence or providing Beijing backdoor access to advanced artificial intelligence systems.\n\nThe underlying friction lies in physical reality versus political decree. U.S. energy grids are already struggling to supply the immense power required by domestic data centers, prompting firms like Meta and Google to seek global capacity. Forcing hyperscalers to localize infrastructure inside the U.S. risks creating severe power rationing and skyrocketing energy prices, while alienating Southeast Asian nations that rely on digital infrastructure investments.\n\nCan mercantilist capital controls effectively contain AI development without destabilizing domestic energy markets? #GlobalEconomy #ArtificialIntelligence #Blindspot",
+      "telegram": "<b>TRUMP THREATENS TAXES ON OVERSEAS US AI DATA CENTERS</b>\n\n• <b>What happened:</b> Donald Trump announced a potential ban and severe tax penalties on U.S. tech companies constructing AI data centers overseas following his trip to Asia.\n• <b>Why it matters:</b> Tech giants including Meta and Google rely on international data centers to bypass U.S. power grid constraints and access global markets, while Washington seeks to block Chinese access to advanced computing power.\n• <b>What is next:</b> Washington will face mounting pushback from major tech firms and energy regulators over domestic power limits and global market compliance.",
+      "bluesky": "Trump threatens heavy taxes on U.S. tech firms building AI data centers abroad. Forcing infrastructure inside U.S. borders clashes directly with severe domestic power grid shortages. #GlobalEconomy #Blindspot",
+      "linkedIn": "The administration’s proposal to impose heavy tax penalties on U.S. technology firms building AI data centers abroad signals a shift toward digital mercantilism. While the policy aims to restrict Chinese access to cloud computing capacity, it introduces structural risks for U.S. hyperscalers.\n\nDomestic energy infrastructure in the United States already faces capacity bottlenecks from data center power consumption. Restricting foreign infrastructure construction limits global scalability for companies like Meta and Google, while penalizing Southeast Asian economies that have positioned themselves as regional digital hubs. Executives must now evaluate foreign market exposure against potential tax liabilities and domestic power availability.\n\n#GlobalEconomy #TechnologyPolicy #Blindspot"
+    },
+    "article": {
+      "slug": "trump-threatens-tax-penalties-u-s-3dwh",
+      "title": "Trump Threatens Tax Penalties on U.S. Tech Firms Building AI Data Centers Overseas",
+      "dek": "The U.S. administration proposes strict tariffs and construction bans on foreign data infrastructure to restrict Chinese access to computing power. The move threatens U.S. hyperscalers already facing domestic grid bottlenecks.",
+      "keyFacts": [
+        "Donald Trump proposed banning U.S. tech companies from building AI data centers overseas during a press briefing following an Asian trip.",
+        "The proposed measure includes a heavy tax penalty for American companies that build infrastructure abroad.",
+        "Tech giants such as Meta and Google have already established agreements to construct data centers in foreign jurisdictions.",
+        "The announcement follows new Washington licensing restrictions designed to monitor advanced chip exports and prevent smuggling into China."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Donald Trump stated that his administration will move to ban American technology companies from constructing artificial intelligence data centers outside the United States. Speaking to reporters in a press briefing following a trip to Asia, Trump warned that firms choosing to build data facilities abroad would face severe tax penalties. He asserted that the administration would keep all such computing infrastructure within domestic borders to prevent foreign powers, specifically China, from utilizing American-developed technology.",
+            "According to reports from BBC and major news outlets, Trump noted that he had not yet briefed his full cabinet on the specific enforcement mechanisms of the proposed policy. However, he emphasized that allowing American tech conglomerates to construct facilities overseas risks enabling Chinese firms to rent or appropriate processing power generated by advanced microprocessors."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The proposal comes amid expanding U.S. export controls aimed at safeguarding critical technological assets. Washington recently instituted licensing requirements for the export of advanced computer chips to monitor whether international data centers are serving Chinese corporations or facilitating illicit chip transfers.",
+            "Major technology corporations, including Meta and Google, have increasingly entered international agreements to construct warehouse-scale data facilities in regions such as Southeast Asia to support global cloud operations like Claude and ChatGPT. Data centers was also a central topic during the recent midterm elections, where candidates campaigned on tighter regulation of digital infrastructure projects."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While the official narrative focuses on national security and technological containment, the proposed policy overlooks critical structural limits within the United States. American power grids are experiencing historic strain due to the enormous electricity demands of domestic data centers. Restricting U.S. tech firms from expanding abroad creates an operational bottleneck, forcing companies to compete for limited domestic energy supplies while driving up electricity costs for local communities.",
+            "Furthermore, imposing capital restrictions on physical digital infrastructure risks accelerating technological decoupling. Developing nations seeking AI infrastructure may turn to non-U.S. providers if American firms are legally restricted from building facilities abroad, undermining long-term Western influence in global digital architecture."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Domestic energy producers and national security hawks stand to gain increased leverage as data infrastructure is forced inside U.S. borders. Conversely, U.S. hyperscalers face rising operational expenses, regulatory uncertainty, and potential loss of market share in rapidly growing international markets.",
+            "Southeast Asian economies that invested heavily to attract American tech capital now risk economic disruption and reduced foreign direct investment, potentially accelerating their alignment with non-Western tech vendors."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Attention now turns to whether the administration formulates formal executive orders or legislative proposals to implement the announced policy. Industry observers will monitor how major technology firms lobby against domestic grid constraints and whether foreign governments seek alternative partnerships with non-U.S. cloud infrastructure providers."
+          ]
+        }
+      ],
+      "tags": [
+        "Data Centers",
+        "Artificial Intelligence",
+        "US Economy",
+        "Tech Regulation",
+        "Trade Policy"
+      ],
+      "sources": [
+        {
+          "name": "BBC Business",
+          "title": "Trump threatens ban on US firms building AI data centres overseas",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12Mkg2SE1JVDFlZVVlTmlpalBIRUJpSFAwSFFCS1NlYWhKZThkX0ZTWm1OWGVuM2o2ZG83XzIzeUw0TTF5d2l5R05VeHZ4a3g2dVdFb2RVSjBkR1RHT2xXMm1vb3A2bllUeHI5djdNN05IcUZoMjdJY01jazBLc2s?oc=5"
+        },
+        {
+          "name": "NBC News",
+          "title": "Trump threatens ‘tremendous penalties’ on companies that build AI data centers overseas",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM0o5WHN5SDItSlJ4bDJtMTE3YWZUYi1kbUpzaDMwb29jTW93QjhuN0QxMVB4VDRyUE1ZZzh1WElUX1h0V3VCc3V4VV9rZ202WUhnQ25oYXNJeFAtOHRXZ1Jpd3B5LVFLNmg5bEkzbXVwWDlCdWI2bVJoN1VmbVR4V1lYNVdnWml0RW9DZ25CV2wxTUtUeDlaeG93?oc=5"
+        },
+        {
+          "name": "CNBC",
+          "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JRGVqM1Z4V2NpZ3Z4QWU0YTlvMzVZNDRyRFBxbW5JUktoRzVhWW1sTTh0UE13aWw1UmFiUTFUN3BkRHNpVURLdlNqMVVLWkJNUTlGc2pIaVN1S2xPUllGeGdFTWdnOVRGajUxUTBGdGhueXMwc1NKUEYwemPSAYIBQVVfeXFMTkplV2N4Mk5zbGJBNndiWVFBS3FSNGV4WkRzYWJGNXU3THB6QTR2eGRuWTFkQkYtM3lRb0dJRDNrRDN4Ymp1QlNoNXNqZHEyTE5BczVhRXgtNS1DM2tHbUc0cUVjalNUdEs3RmJuZlRuRk5aWHMxNmFJR1VJQU5LR01sZw?oc=5"
+        },
+        {
+          "name": "BBC",
+          "title": "Trump threatens ban on US firms building AI data centres overseas",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FN1czMHRKVUtSTm5GaHkwOExlem5uSU53SnYzT3V2RE1vYnIyeDFvOFNwaV9DU1p4VHRocU9BM1Uwc1lENGdpal9hYm5uMEZEMU5YVG1tYVlUX0dNSUE?oc=5"
+        }
+      ],
+      "wordCount": 473
+    },
+    "videoScript": {
+      "hook": "Washington wants to block American tech firms from building AI data centers overseas.",
+      "beats": [
+        "Donald Trump threatened heavy tax penalties for companies constructing data facilities outside the United States.",
+        "The official goal is preventing China from tapping into advanced American artificial intelligence power.",
+        "Here is the catch: forcing facilities home risks overwhelming an already strained U.S. power grid."
+      ],
+      "close": "Read our full geopolitical breakdown at the link in our bio."
+    },
+    "rawImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
+    "sourceVideo": {
+      "provider": "youtube",
+      "id": "sim-mobVyUs",
+      "title": "Trump Threatens \"Tremendous Tax\" on US Firms Building AI Data Centres Overseas | APT",
+      "channel": "APT"
+    },
+    "status": "published",
+    "createdAt": "2026-11-20T23:04:27.445Z",
+    "cardImageUrl": "/news-cards/news-1sz2iiy28-1795215867445.jpg",
+    "reelCoverUrl": "/news-cards/news-1sz2iiy28-1795215868077-cover.jpg",
+    "instagramCardUrl": "/news-cards/news-1sz2iiy28-1795215868676-ig.jpg",
+    "articleUrl": "https://blindspotglobal.pages.dev/news/trump-threatens-tax-penalties-u-s-3dwh/",
+    "publishedAt": "2026-11-21T00:52:25.991Z"
+  },
+  {
     "id": "w08mqn11f",
     "originalUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFBtSTFsdTBzdnM2dzloZXROSmMtM0IwWkVOYVpCQzFlMlo1UHZYT3p6WmpMcTJVYWRycHN6bDBPS0Iwa2lNWkNoQUNUMlplUk5VMWJCYmN5SjZNc3FlemRDakZsQjFxMm9iV3ZYYjdTTndrb21SQ2dvcHhzSEpHNHhtNjNWajNTajNqY05tSXEySHJBc3k0?oc=5",
     "originalTitle": "Trump’s pick to lead an agency protecting US elections says Jan. 6 wasn’t an ‘attack’",
