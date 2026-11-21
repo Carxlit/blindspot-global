@@ -179,9 +179,42 @@
     "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQY09GMmxTYlpRMnQ3YVJ4Q3BUdmg3NEFJWG5lVlh4TC0zZGxxZVcydTkwSkpiZUZfS3BXdlRab05HSW5TS0h5TDY5NFRKajBDSWdFbUdhNFIxMzUxc3pLRnEtMXVNblBwZmgteFlUWVhuS0lRU3diRGpWQnkyeWtDMGJiS3hzd2xCdUtDVHIxc0hOWGkwTHdPZ1FfenUwQQ?oc=5",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWVFEY3BpSjFXR0tvcTN4Tnk4MEtTb1I2aHh0eUgtelVQcVd1amJLMWpXR2FvS3NBbTdSOElaQUZIQ0E1YjZfS0ZENHdnOGVldWlVMHFGSkN6cFlNUUlNUXNnUmFER2dOSzhPZGxfaDBRV0phWjB0Nkw1c3JYa1dBQWpDb18xLVVhcS13aVE0eHYwT3M3LWFTdU9mRnBZUTg3S0NxQ3Y2enVxUFlrVEw1YkNzSGxkUzduOWVN?oc=5",
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSnJIY2MzcUJjNVY3MzNYaGxKYUIySGw3TzNnVjltNDBIS2JPOHV4Y1BTaDRTRTRxSWp3R0M4Z3VSeU1IWmdoTGl6SU15bHh6UkZobTZ3aWpxUmU5c2dsODBPTjI3V0NQTEhjMWZBWE1fZnNQVHdYcjdONk43LVhleEdaUEs2d0hsV3dqMURGRUcyQzZnTFduVGZuTmJMU0taYzNreTJ4c2ZqeWV6b0l2X1FCQm5SQllFa09PZFRIcGJ5aGs?oc=5"
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSnJIY2MzcUJjNVY3MzNYaGxKYUIySGw3TzNnVjltNDBIS2JPOHV4Y1BTaDRTRTRxSWp3R0M4Z3VSeU1IWmdoTGl6SU15bHh6UkZobTZ3aWpxUmU5c2dsODBPTjI3V0NQTEhjMWZBWE1fZnNQVHdYcjdONk43LVhleEdaUEs2d0hsV3dqMURGRUcyQzZnTFduVGZuTmJMU0taYzNreTJ4c2ZqeWV6b0l2X1FCQm5SQllFa09PZFRIcGJ5aGs?oc=5",
+    "https://www.eltiempo.com/mundo/latinoamerica/videos-del-fuerte-temblor-de-6-9-en-peru-la-noche-de-este-20-de-noviembre-que-se-sintio-en-bogota-y-varias-ciudades-de-colombia-asi-se-vivio-el-sismo-3602909"
   ],
   "processedSignatures": [
+    {
+      "title": "PERU EARTHQUAKE EXPOSES FRAGILITY IN REGIONAL INFRASTRUCTURE",
+      "normalizedTokens": [
+        "peru",
+        "earthquake",
+        "exposes",
+        "fragility",
+        "regional",
+        "infrastructure"
+      ],
+      "date": "2026-11-21T05:31:52.444Z"
+    },
+    {
+      "title": "Videos del fuerte temblor de 6,9 en Perú la noche de este 20 de noviembre que se sintió en Bogotá y varias ciudades de Colombia: así se vivió el sismo",
+      "normalizedTokens": [
+        "videos",
+        "fuerte",
+        "temblor",
+        "peru",
+        "noche",
+        "noviembre",
+        "sintio",
+        "bogota",
+        "varias",
+        "ciudades",
+        "colombia",
+        "asi",
+        "vivio",
+        "sismo"
+      ],
+      "date": "2026-11-21T05:31:52.443Z"
+    },
     {
       "title": "TRUMP AND XI AGREE HUMANS MUST CONTROL MILITARY AI",
       "normalizedTokens": [
