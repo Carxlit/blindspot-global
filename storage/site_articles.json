@@ -1,5 +1,101 @@
 [
   {
+    "slug": "tech-stocks-drop-s-p-500-brov",
+    "path": "news/tech-stocks-drop-s-p-500-brov/",
+    "title": "Tech Stocks Drop as S&P 500 Falls 3.7 Percent and Nasdaq Erases Gains",
+    "headline": "S&P 500 SINKS AS TECH STOCK ROUT ERASES ANNUAL GAINS",
+    "dek": "A severe equity sell-off pushed the S&P 500 down 3.7% and forced the Nasdaq composite into negative territory for the year. The market drop highlights growing institutional resistance to capital-intensive technology spending under high interest rates.",
+    "category": "GLOBAL ECONOMY",
+    "sourceName": "AP News",
+    "image": "img/tech-stocks-drop-s-p-500-brov.jpg",
+    "photo": "img/tech-stocks-drop-s-p-500-brov-foto.jpg",
+    "publishedAt": "2026-11-21T00:54:42.552Z",
+    "article": {
+      "slug": "tech-stocks-drop-s-p-500-brov",
+      "title": "Tech Stocks Drop as S&P 500 Falls 3.7 Percent and Nasdaq Erases Gains",
+      "dek": "A severe equity sell-off pushed the S&P 500 down 3.7% and forced the Nasdaq composite into negative territory for the year. The market drop highlights growing institutional resistance to capital-intensive technology spending under high interest rates.",
+      "keyFacts": [
+        "The S&P 500 index sank 3.7% during a broad market downturn.",
+        "The Nasdaq composite erased its year-to-date performance, shifting into negative territory.",
+        "The equity decline was driven primarily by a sharp sell-off in technology and artificial intelligence equities.",
+        "Market volatility surged following public market activity, including the Anthropic initial public offering."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Financial markets recorded sharp declines as the S&P 500 index dropped 3.7% in a single trading session, according to reporting by AP News. The downturn erased months of equity gains and forced the tech-heavy Nasdaq composite index into negative territory for the year.",
+            "Corroborating reporting from Houston Public Media and WTHR noted that the sell-off affected major equity benchmarks, driven by aggressive distribution in mega-cap technology stocks. Broad-market pressure intensified following sector developments, including the Anthropic initial public offering highlighted by Beinsure."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "For over a year, U.S. stock markets experienced significant upward momentum fueled by investor enthusiasm for artificial intelligence and next-generation computing infrastructure. Institutional capital poured into major technology companies, betting on future enterprise productivity gains and high profit margins.",
+            "However, macroeconomic conditions have altered financial risk equations. Benchmark interest rates remain elevated as central banks combat persistent inflation pressures. High borrowing costs have raised the expense of funding large-scale technological research and massive capital expenditure projects, placing severe stress on high-valuation firms."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While financial commentators often describe equity dips as routine profit-taking or temporary market pullbacks, the current sell-off reflects a deeper structural shift in global asset allocation. Institutional investors are conducting a critical reassessment of capital expenditure models within the technology sector.",
+            "Sovereign wealth funds and pension managers face demanding yield expectations. As sovereign debt and money market instruments offer attractive risk-adjusted returns, capital is flowing out of long-duration growth equities and into real assets and fixed income. This capital migration threatens to restrict funding for capital-intensive AI developments and global technology infrastructure expansion."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Fixed-income asset managers, short-duration debt holders, and defensive equity sectors such as healthcare and utility providers stand to gain as institutional investors seek risk mitigation. Capital preservation strategies are regaining priority over high-beta growth allocations.",
+            "Conversely, early-stage technology enterprises, capital-intensive software firms, and debt-reliant chip design companies face severe valuation pressure. Asian component manufacturers and hardware exporters tied to U.S. capital expenditures also risk reduced contract volumes as tech firms curb capital investments."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Market participants will analyze upcoming corporate earnings reports and executive guidance on capital expenditure budgets. Any indication that major tech corporations plan to scale back infrastructure spending could prompt further declines across global hardware supply lines.",
+            "Additionally, central bank interest rate decisions and sovereign bond yields will dictate broader liquidity conditions. Persistent tight monetary policy will likely sustain pressure on tech equity valuations, reshaping cross-border technology investments over the coming quarters."
+          ]
+        }
+      ],
+      "tags": [
+        "Global Economy",
+        "Stock Market",
+        "Technology",
+        "Wall Street",
+        "Financial Markets"
+      ],
+      "sources": [
+        {
+          "name": "AP News",
+          "title": "S&P 500 sinks 3.7% and Nasdaq composite goes negative for the year as tech sell-off worsens",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY09GMmxTYlpRMnQ3YVJ4Q3BUdmg3NEFJWG5lVlh4TC0zZGxxZVcydTkwSkpiZUZfS3BXdlRab05HSW5TS0h5TDY5NFRKajBDSWdFbUdhNFIxMzUxc3pLRnEtMXVNblBwZmgteFlUWVhuS0lRU3diRGpWQnkyeWtDMGJiS3hzd2xCdUtDVHIxc0hOWGkwTHdPZ1FfenUwQQ?oc=5"
+        },
+        {
+          "name": "Houston Public Media",
+          "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2RmOGxSLVZMN0k0bTdxbmNkYVRtaUpPUlB5V3RnMXk3MTM1Q2MwaElLSjRSaWVBdWEtUEd6LVlwU1FiY0JzRDN1LVpGeG5hMUJ0SzlSaENjMV9nQm11RkFTTE9TR01rNEhoaVM0Y3ZFQjl4TTNkUkZEQ2N3VmZQQ1RMSV9YSFlJNlhXcGdOSDM2Zk1JV3YxUGZpOTJvWmJvc283VDhNZE1TYmdZRmtCZDhRc0llVVZhWHMtUnNpQVRqVWljSlZLSk45bw?oc=5"
+        },
+        {
+          "name": "WHEC.com",
+          "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year as rout in tech stocks tanks the market",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUFJmUzJtcGFNcmVSZF9vc3M5MGdvaWwzOUhFZzBKeG9FYnIza3ZQd0FxZlA4SW9XTnN2Ml9ydUEtckNMSUoxUmkyZ1RBVFd6UlVxNzVwYlJtQU5aek5lSzdkVFNNYUZRbWQxakRCLXZzV1ZJeVpWcGdhQXZOVk0zbGhfVXFITlZiaThQWkFaQzh2T01EcG5RQ3ZzY2U0UnNtSHBraFV5MUs1WVFta1drMzRYcWd6MW12dG1WbzZQMEhFQ2tWOWE3Ry1ETTZzLXB0WjZNUmlYT1l4Zw?oc=5"
+        },
+        {
+          "name": "Beinsure",
+          "title": "US Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 sink on AI selloff after Anthropic IPO",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbmJmUDJ0WXpXTnRmTzBXTHRuYW1OeWFSa2NTUmlzdWxfcE16LTlSckc2SURrSUtTMC1aV28tU2U3WEpCM2w3VmhUSXVDSkFEdEwyTnJUWW9pNnZKVHFMR2QzbC1Ib0FPX3hzbzl2cUdhb00xT0dwbTBYQUlJZUloR09TRXlQZl9pMzVkTGpwLW9ES2l4RXJ5UjBjbmhidw?oc=5"
+        },
+        {
+          "name": "WTHR",
+          "title": "S&P 500 sinks 3.7% and Nasdaq composite goes negative for the year as tech sell-off worsens",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOQmxYWDFNYncweEVlR2JqUGZNbmE2eWEtbmZxSHBScW1vdjYyaWo0VkpVd19qODhDd29Od3VWVjFGNXE5cUdJa3pKaTFxZUVnNGR5TDEzZHNucmdZQ2VaOGlIYWgyTnNXLUtZZUcxTlh6U29aRHJJU2QyOEJnOFdJeDhucXVLZmxuNkJOUnpjZURJcFI3bEZxNlpFTVo0TE1jQ21nYnloVHluWUtjd1ZKc3BDMElla3U0T3dzRDFaM29pNDlMNWp4ejlFSGJtZ2NvR2FBZ3pOYlROZWJWYVNzeTFuRHdCRlYxVzJVcW12T0Y5cmhoWjlST2xwaXpZQXZtekFSdQ?oc=5"
+        }
+      ],
+      "wordCount": 437
+    },
+    "blindSpot": "Beyond immediate equity volatility, the steep market decline signals a fundamental shift in institutional capital allocation away from high-burn technology spending. As interest rates remain elevated, sovereign wealth funds and pension managers are prioritizing immediate cash yields over speculative long-term AI infrastructure bets."
+  },
+  {
     "slug": "industrial-blaze-major-us-foie-gras-j0p1",
     "path": "news/industrial-blaze-major-us-foie-gras-j0p1/",
     "title": "Industrial blaze at major US foie gras facility highlights mounting regulatory and operational pressure",

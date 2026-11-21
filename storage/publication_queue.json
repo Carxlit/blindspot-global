@@ -24751,5 +24751,144 @@
     "attempts": 0,
     "maxAttempts": 3,
     "createdAt": "2026-11-20T23:56:13.015Z"
+  },
+  {
+    "id": "queue-1795222482659-9wdbd",
+    "news": {
+      "id": "oqn9o6b4x",
+      "originalUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY09GMmxTYlpRMnQ3YVJ4Q3BUdmg3NEFJWG5lVlh4TC0zZGxxZVcydTkwSkpiZUZfS3BXdlRab05HSW5TS0h5TDY5NFRKajBDSWdFbUdhNFIxMzUxc3pLRnEtMXVNblBwZmgteFlUWVhuS0lRU3diRGpWQnkyeWtDMGJiS3hzd2xCdUtDVHIxc0hOWGkwTHdPZ1FfenUwQQ?oc=5",
+      "originalTitle": "S&P 500 sinks 3.7% and Nasdaq composite goes negative for the year as tech sell-off worsens",
+      "sourceName": "AP News",
+      "category": "GLOBAL ECONOMY",
+      "urgencyScore": 84,
+      "headline": "S&P 500 SINKS AS TECH STOCK ROUT ERASES ANNUAL GAINS",
+      "subHeadline": "The S&P 500 index dropped 3.7% while the Nasdaq composite erased its year-to-date gains, driven by an accelerating sell-off across technology and artificial intelligence equities.",
+      "blindSpotAngle": "Beyond immediate equity volatility, the steep market decline signals a fundamental shift in institutional capital allocation away from high-burn technology spending. As interest rates remain elevated, sovereign wealth funds and pension managers are prioritizing immediate cash yields over speculative long-term AI infrastructure bets.",
+      "facebookPost": "Wall Street experienced a dramatic downturn as the S&P 500 fell 3.7% in a single session and the Nasdaq composite turned negative for the year. Official narratives point to market recalibrations and short-term volatility following major market events like the Anthropic IPO.\n\nBeneath the surface lies a structural shift: institutional capital is losing patience with high-burn artificial intelligence business models that demand massive capital expenditure without immediate profitability. With interest rates remaining elevated, fund managers are exiting long-duration growth bets in favor of cash-yielding assets.\n\nIs this market drop a standard technical correction, or the start of a prolonged credit squeeze for high-tech ventures?\n\nSource: AP News\n\n#GlobalEconomy #MarketWatch #Blindspot",
+      "telegramPost": "<b>S&P 500 SINKS AS TECH STOCK ROUT ERASES ANNUAL GAINS</b>\n\n• <b>What happened:</b> The S&P 500 dropped 3.7% and the Nasdaq composite turned negative for the year following a heavy sell-off in major technology equities.\n• <b>Why it matters:</b> Institutional investors are re-evaluating high-burn tech business models, forcing a capital shift toward defensive assets and debt yield.\n• <b>What is next:</b> Expect tighter credit conditions for hardware firms, reduced capital expenditure guidance from enterprise tech giants, and lower venture capital deployment globally.",
+      "linkedInPost": "The 3.7% decline in the S&P 500 and the entry of the Nasdaq composite into negative territory for the year mark a significant pivot in corporate capital dynamics. Following high-profile tech developments including the Anthropic initial public offering, capital markets are pricing in higher capital costs and re-evaluating tech valuations.\n\nPersistent high interest rates and broader economic pressures are compelling fund managers to demand visible returns over future growth projections. This liquidity tightening impacts cross-border technology investment, data center infrastructure financing, and international semiconductor supply chains. Institutional leaders must prepare for elevated capital costs and reduced equity valuations across tech-heavy portfolios.\n\nSource: AP News\n\n#GlobalEconomy #Markets #Blindspot",
+      "blueskyPost": "The S&P 500 dropped 3.7% and the Nasdaq turned negative for the year as tech stocks faced a steep sell-off. Capital is shifting from high-burn AI bets to cash yields. #GlobalEconomy #Blindspot",
+      "copies": {
+        "facebook": "Wall Street experienced a dramatic downturn as the S&P 500 fell 3.7% in a single session and the Nasdaq composite turned negative for the year. Official narratives point to market recalibrations and short-term volatility following major market events like the Anthropic IPO.\n\nBeneath the surface lies a structural shift: institutional capital is losing patience with high-burn artificial intelligence business models that demand massive capital expenditure without immediate profitability. With interest rates remaining elevated, fund managers are exiting long-duration growth bets in favor of cash-yielding assets.\n\nIs this market drop a standard technical correction, or the start of a prolonged credit squeeze for high-tech ventures? #GlobalEconomy #MarketWatch #Blindspot",
+        "telegram": "<b>S&P 500 SINKS AS TECH STOCK ROUT ERASES ANNUAL GAINS</b>\n\n• <b>What happened:</b> The S&P 500 dropped 3.7% and the Nasdaq composite turned negative for the year following a heavy sell-off in major technology equities.\n• <b>Why it matters:</b> Institutional investors are re-evaluating high-burn tech business models, forcing a capital shift toward defensive assets and debt yield.\n• <b>What is next:</b> Expect tighter credit conditions for hardware firms, reduced capital expenditure guidance from enterprise tech giants, and lower venture capital deployment globally.",
+        "bluesky": "The S&P 500 dropped 3.7% and the Nasdaq turned negative for the year as tech stocks faced a steep sell-off. Capital is shifting from high-burn AI bets to cash yields. #GlobalEconomy #Blindspot",
+        "linkedIn": "The 3.7% decline in the S&P 500 and the entry of the Nasdaq composite into negative territory for the year mark a significant pivot in corporate capital dynamics. Following high-profile tech developments including the Anthropic initial public offering, capital markets are pricing in higher capital costs and re-evaluating tech valuations.\n\nPersistent high interest rates and broader economic pressures are compelling fund managers to demand visible returns over future growth projections. This liquidity tightening impacts cross-border technology investment, data center infrastructure financing, and international semiconductor supply chains. Institutional leaders must prepare for elevated capital costs and reduced equity valuations across tech-heavy portfolios.\n\n#GlobalEconomy #Markets #Blindspot"
+      },
+      "article": {
+        "slug": "tech-stocks-drop-s-p-500-brov",
+        "title": "Tech Stocks Drop as S&P 500 Falls 3.7 Percent and Nasdaq Erases Gains",
+        "dek": "A severe equity sell-off pushed the S&P 500 down 3.7% and forced the Nasdaq composite into negative territory for the year. The market drop highlights growing institutional resistance to capital-intensive technology spending under high interest rates.",
+        "keyFacts": [
+          "The S&P 500 index sank 3.7% during a broad market downturn.",
+          "The Nasdaq composite erased its year-to-date performance, shifting into negative territory.",
+          "The equity decline was driven primarily by a sharp sell-off in technology and artificial intelligence equities.",
+          "Market volatility surged following public market activity, including the Anthropic initial public offering."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "Financial markets recorded sharp declines as the S&P 500 index dropped 3.7% in a single trading session, according to reporting by AP News. The downturn erased months of equity gains and forced the tech-heavy Nasdaq composite index into negative territory for the year.",
+              "Corroborating reporting from Houston Public Media and WTHR noted that the sell-off affected major equity benchmarks, driven by aggressive distribution in mega-cap technology stocks. Broad-market pressure intensified following sector developments, including the Anthropic initial public offering highlighted by Beinsure."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "For over a year, U.S. stock markets experienced significant upward momentum fueled by investor enthusiasm for artificial intelligence and next-generation computing infrastructure. Institutional capital poured into major technology companies, betting on future enterprise productivity gains and high profit margins.",
+              "However, macroeconomic conditions have altered financial risk equations. Benchmark interest rates remain elevated as central banks combat persistent inflation pressures. High borrowing costs have raised the expense of funding large-scale technological research and massive capital expenditure projects, placing severe stress on high-valuation firms."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "While financial commentators often describe equity dips as routine profit-taking or temporary market pullbacks, the current sell-off reflects a deeper structural shift in global asset allocation. Institutional investors are conducting a critical reassessment of capital expenditure models within the technology sector.",
+              "Sovereign wealth funds and pension managers face demanding yield expectations. As sovereign debt and money market instruments offer attractive risk-adjusted returns, capital is flowing out of long-duration growth equities and into real assets and fixed income. This capital migration threatens to restrict funding for capital-intensive AI developments and global technology infrastructure expansion."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "Fixed-income asset managers, short-duration debt holders, and defensive equity sectors such as healthcare and utility providers stand to gain as institutional investors seek risk mitigation. Capital preservation strategies are regaining priority over high-beta growth allocations.",
+              "Conversely, early-stage technology enterprises, capital-intensive software firms, and debt-reliant chip design companies face severe valuation pressure. Asian component manufacturers and hardware exporters tied to U.S. capital expenditures also risk reduced contract volumes as tech firms curb capital investments."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "Market participants will analyze upcoming corporate earnings reports and executive guidance on capital expenditure budgets. Any indication that major tech corporations plan to scale back infrastructure spending could prompt further declines across global hardware supply lines.",
+              "Additionally, central bank interest rate decisions and sovereign bond yields will dictate broader liquidity conditions. Persistent tight monetary policy will likely sustain pressure on tech equity valuations, reshaping cross-border technology investments over the coming quarters."
+            ]
+          }
+        ],
+        "tags": [
+          "Global Economy",
+          "Stock Market",
+          "Technology",
+          "Wall Street",
+          "Financial Markets"
+        ],
+        "sources": [
+          {
+            "name": "AP News",
+            "title": "S&P 500 sinks 3.7% and Nasdaq composite goes negative for the year as tech sell-off worsens",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY09GMmxTYlpRMnQ3YVJ4Q3BUdmg3NEFJWG5lVlh4TC0zZGxxZVcydTkwSkpiZUZfS3BXdlRab05HSW5TS0h5TDY5NFRKajBDSWdFbUdhNFIxMzUxc3pLRnEtMXVNblBwZmgteFlUWVhuS0lRU3diRGpWQnkyeWtDMGJiS3hzd2xCdUtDVHIxc0hOWGkwTHdPZ1FfenUwQQ?oc=5"
+          },
+          {
+            "name": "Houston Public Media",
+            "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2RmOGxSLVZMN0k0bTdxbmNkYVRtaUpPUlB5V3RnMXk3MTM1Q2MwaElLSjRSaWVBdWEtUEd6LVlwU1FiY0JzRDN1LVpGeG5hMUJ0SzlSaENjMV9nQm11RkFTTE9TR01rNEhoaVM0Y3ZFQjl4TTNkUkZEQ2N3VmZQQ1RMSV9YSFlJNlhXcGdOSDM2Zk1JV3YxUGZpOTJvWmJvc283VDhNZE1TYmdZRmtCZDhRc0llVVZhWHMtUnNpQVRqVWljSlZLSk45bw?oc=5"
+          },
+          {
+            "name": "WHEC.com",
+            "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year as rout in tech stocks tanks the market",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUFJmUzJtcGFNcmVSZF9vc3M5MGdvaWwzOUhFZzBKeG9FYnIza3ZQd0FxZlA4SW9XTnN2Ml9ydUEtckNMSUoxUmkyZ1RBVFd6UlVxNzVwYlJtQU5aek5lSzdkVFNNYUZRbWQxakRCLXZzV1ZJeVpWcGdhQXZOVk0zbGhfVXFITlZiaThQWkFaQzh2T01EcG5RQ3ZzY2U0UnNtSHBraFV5MUs1WVFta1drMzRYcWd6MW12dG1WbzZQMEhFQ2tWOWE3Ry1ETTZzLXB0WjZNUmlYT1l4Zw?oc=5"
+          },
+          {
+            "name": "Beinsure",
+            "title": "US Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 sink on AI selloff after Anthropic IPO",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbmJmUDJ0WXpXTnRmTzBXTHRuYW1OeWFSa2NTUmlzdWxfcE16LTlSckc2SURrSUtTMC1aV28tU2U3WEpCM2w3VmhUSXVDSkFEdEwyTnJUWW9pNnZKVHFMR2QzbC1Ib0FPX3hzbzl2cUdhb00xT0dwbTBYQUlJZUloR09TRXlQZl9pMzVkTGpwLW9ES2l4RXJ5UjBjbmhidw?oc=5"
+          },
+          {
+            "name": "WTHR",
+            "title": "S&P 500 sinks 3.7% and Nasdaq composite goes negative for the year as tech sell-off worsens",
+            "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOQmxYWDFNYncweEVlR2JqUGZNbmE2eWEtbmZxSHBScW1vdjYyaWo0VkpVd19qODhDd29Od3VWVjFGNXE5cUdJa3pKaTFxZUVnNGR5TDEzZHNucmdZQ2VaOGlIYWgyTnNXLUtZZUcxTlh6U29aRHJJU2QyOEJnOFdJeDhucXVLZmxuNkJOUnpjZURJcFI3bEZxNlpFTVo0TE1jQ21nYnloVHluWUtjd1ZKc3BDMElla3U0T3dzRDFaM29pNDlMNWp4ejlFSGJtZ2NvR2FBZ3pOYlROZWJWYVNzeTFuRHdCRlYxVzJVcW12T0Y5cmhoWjlST2xwaXpZQXZtekFSdQ?oc=5"
+          }
+        ],
+        "wordCount": 437
+      },
+      "videoScript": {
+        "hook": "Why did a single trading day erase an entire year of tech market gains?",
+        "beats": [
+          "The S&P 500 fell 3.7% while the Nasdaq composite went negative for the year.",
+          "Investors are pulling capital out of high-cost tech and artificial intelligence ventures.",
+          "Here is the catch: institutional funds are abandoning speculative tech growth for immediate real yields."
+        ],
+        "close": "Read our full geopolitical and economic analysis at the link in bio."
+      },
+      "rawImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7561x5041+0+0/resize/7561x5041!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffd%2F44%2Fb43d4bb943bb9b380c4b94631ed4%2Fap26321557592396.jpg",
+      "status": "pending",
+      "createdAt": "2026-11-21T00:54:38.980Z",
+      "cardImageUrl": "/news-cards/news-oqn9o6b4x-1795222478980.jpg",
+      "reelCoverUrl": "/news-cards/news-oqn9o6b4x-1795222480153-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-oqn9o6b4x-1795222481021-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/tech-stocks-drop-s-p-500-brov/"
+    },
+    "channels": {
+      "facebook": true,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": true,
+      "mastodon": false,
+      "threads": false,
+      "youtube": true
+    },
+    "scheduledFor": "2026-11-21T03:05:00.000Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-21T00:54:42.659Z"
   }
 ]
