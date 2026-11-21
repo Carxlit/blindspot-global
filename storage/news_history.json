@@ -181,9 +181,34 @@
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWVFEY3BpSjFXR0tvcTN4Tnk4MEtTb1I2aHh0eUgtelVQcVd1amJLMWpXR2FvS3NBbTdSOElaQUZIQ0E1YjZfS0ZENHdnOGVldWlVMHFGSkN6cFlNUUlNUXNnUmFER2dOSzhPZGxfaDBRV0phWjB0Nkw1c3JYa1dBQWpDb18xLVVhcS13aVE0eHYwT3M3LWFTdU9mRnBZUTg3S0NxQ3Y2enVxUFlrVEw1YkNzSGxkUzduOWVN?oc=5",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSnJIY2MzcUJjNVY3MzNYaGxKYUIySGw3TzNnVjltNDBIS2JPOHV4Y1BTaDRTRTRxSWp3R0M4Z3VSeU1IWmdoTGl6SU15bHh6UkZobTZ3aWpxUmU5c2dsODBPTjI3V0NQTEhjMWZBWE1fZnNQVHdYcjdONk43LVhleEdaUEs2d0hsV3dqMURGRUcyQzZnTFduVGZuTmJMU0taYzNreTJ4c2ZqeWV6b0l2X1FCQm5SQllFa09PZFRIcGJ5aGs?oc=5",
     "https://www.eltiempo.com/mundo/latinoamerica/videos-del-fuerte-temblor-de-6-9-en-peru-la-noche-de-este-20-de-noviembre-que-se-sintio-en-bogota-y-varias-ciudades-de-colombia-asi-se-vivio-el-sismo-3602909",
-    "https://www.thehindu.com/news/international/peru-andes-earthquake-toll-updates-november-21-2026/article71727128.ece"
+    "https://www.thehindu.com/news/international/peru-andes-earthquake-toll-updates-november-21-2026/article71727128.ece",
+    "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "NETANYAHU EXPLOITS SECTARIAN RIFTS TO MAINTAIN LEGISLATIVE CONTROL",
+      "normalizedTokens": [
+        "netanyahu",
+        "exploits",
+        "sectarian",
+        "rifts",
+        "maintain",
+        "legislative",
+        "control"
+      ],
+      "date": "2026-11-21T06:32:31.056Z"
+    },
+    {
+      "title": "Netanyahu is playing with the fire that killed Rabin",
+      "normalizedTokens": [
+        "netanyahu",
+        "playing",
+        "fire",
+        "killed",
+        "rabin"
+      ],
+      "date": "2026-11-21T06:32:31.054Z"
+    },
     {
       "title": "UPDATE: MAGNITUDE 6.9 EARTHQUAKE STRIKES PERUVIAN ANDES REGION",
       "normalizedTokens": [
