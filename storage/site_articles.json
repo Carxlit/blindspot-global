@@ -1,5 +1,105 @@
 [
   {
+    "slug": "trump-xi-agree-humans-must-retain-fnq4",
+    "path": "news/trump-xi-agree-humans-must-retain-fnq4/",
+    "title": "Trump and Xi Agree Humans Must Retain Control Over Military AI Decisions",
+    "headline": "TRUMP AND XI AGREE HUMANS MUST CONTROL MILITARY AI",
+    "dek": "U.S. and Chinese leaders established a consensus on keeping human oversight over military artificial intelligence. However, the lack of verification mechanisms exposes the rift between diplomatic optics and battlefield capabilities.",
+    "category": "TECHNOLOGY & AI",
+    "sourceName": "Reuters",
+    "image": "img/trump-xi-agree-humans-must-retain-fnq4.jpg",
+    "photo": "img/trump-xi-agree-humans-must-retain-fnq4-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "OxoVuzbIb70",
+      "title": "Trump, Xi Agreed That Military AI Decisions Should Involve Humans, Bessent Says",
+      "channel": "NTD News"
+    },
+    "publishedAt": "2026-11-21T03:07:20.734Z",
+    "article": {
+      "slug": "trump-xi-agree-humans-must-retain-fnq4",
+      "title": "Trump and Xi Agree Humans Must Retain Control Over Military AI Decisions",
+      "dek": "U.S. and Chinese leaders established a consensus on keeping human oversight over military artificial intelligence. However, the lack of verification mechanisms exposes the rift between diplomatic optics and battlefield capabilities.",
+      "keyFacts": [
+        "U.S. Treasury Secretary Scott Bessent confirmed the agreement between Donald Trump and Xi Jinping regarding military AI decision-making.",
+        "The consensus dictates that human operators must be involved in critical decisions executed by artificial intelligence systems.",
+        "Reporting from Reuters, Bloomberg, CNBC, Defense News, and A News corroborated Bessent's statements following high-level bilateral engagements."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "According to reporting from Reuters, Bloomberg, and CNBC, U.S. Treasury Secretary Scott Bessent announced that President Donald Trump and Chinese President Xi Jinping reached an agreement on military artificial intelligence. Bessent stated that both leaders agreed human decision-makers must remain involved in any military choices driven by AI technologies.",
+            "The announcement marks an explicit acknowledgment from top leadership in both Washington and Beijing regarding the structural dangers posed by unconstrained, fully autonomous weapons deployment."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The bilateral understanding comes amid intense technological competition between the United States and China for dominance in microelectronics, machine learning, and defense systems. Both superpowers have aggressively funded the integration of AI into intelligence processing, surveillance, and automated battle management platforms.",
+            "Military analysts and arms control advocates have repeatedly warned that fully autonomous target selection and command systems increase the risk of rapid, unintended escalation during geopolitical crises."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While the consensus establishes a visible diplomatic posture on technological responsibility, the understanding remains completely non-binding and devoid of verification mechanisms. The critical blind spot lies in the operational physics of modern warfare, where electronic combat and missile defense systems function at speeds beyond human comprehension.",
+            "In high-tempo combat engagements, requiring human-in-the-loop validation often degrades into immediate, automated approvals, effectively reducing human oversight to an administrative formality rather than an operational constraint."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Both Washington and Beijing secure an immediate diplomatic victory by signaling risk management to international observers without committing to structural arms reductions or technology freezes.",
+            "Conversely, formal arms control organizations and multilateral governance frameworks lose traction, as high-level executive handshakes bypass the rigorous compliance standards necessary for verifiable non-proliferation."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Observers should monitor whether this verbal executive alignment leads to structured, technical working groups within bilateral defense channels. Future diplomatic meetings will demonstrate whether both nations attempt to establish concrete definitions for what constitutes meaningful human oversight in automated combat architectures."
+          ]
+        }
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "Geopolitics",
+        "Defense Policy",
+        "US China Relations",
+        "Autonomous Weapons"
+      ],
+      "sources": [
+        {
+          "name": "Reuters",
+          "title": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSnJIY2MzcUJjNVY3MzNYaGxKYUIySGw3TzNnVjltNDBIS2JPOHV4Y1BTaDRTRTRxSWp3R0M4Z3VSeU1IWmdoTGl6SU15bHh6UkZobTZ3aWpxUmU5c2dsODBPTjI3V0NQTEhjMWZBWE1fZnNQVHdYcjdONk43LVhleEdaUEs2d0hsV3dqMURGRUcyQzZnTFduVGZuTmJMU0taYzNreTJ4c2ZqeWV6b0l2X1FCQm5SQllFa09PZFRIcGJ5aGs?oc=5"
+        },
+        {
+          "name": "Defense News",
+          "title": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWVk4SU55MDZmcFlSQjZWb0ttamc3NVQxZlQ4UG9TQnhuTlRUT3RfQURENzNRNy1TNmZ6T1FYZGoxUW9wYmNTNVUyblZNS1FZbm41T1MwWVc3ZDNVT00zNjk1b3liNlF2WkUtb01Qc0RUYmRDa29uZ2dsaUVyWXlhaXF3LUJKa2lpc3hlZ3BrdDIxTXptWW5JSGZNeHk5eXZ3MndQWDRSM0lXbWN2ZXRMUUxTc18xeDNLLXUtRFp1SmhFeVcxYWxnRl9PVDIzZXE2M3U0?oc=5"
+        },
+        {
+          "name": "A News",
+          "title": "Trump, Xi agreed humans must stay in charge of AI military decisions, Bessent says",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZDE4dGJzUTFidE5oMEQ2VHRfdWNEeElBaERSUGFEcUJfMmJrT2NaLWpQeUlYQmNPOXNFd0hmZDh1SHNOZ0RNWDlXYW5KcERBWldEcEVNcjdBZjNVUlVrYXZ1Y080Wm53NUl6ZW5aSjFZWGEtSExJcDhTdG1Oa2dtdXYyWjFMeVMyM24tMGNMZ0thbmZRRXZuVDBaQTNlaFBnU0V4VXp0dFowTmlVRTFINHZrWERGZ3lWSDFhcHQ3MNIBxAFBVV95cUxPUXlZSTdPeGFXV3VWMFZlRHk0UlBhUnllN3RZVllYN3JhdVV2emNETmZxMm5JTGVHeV9BUVVvVGtMX3NZX1dyaS1GNXZ2a1o1NDRVWkh2WmR3UjBTTkJsNVgwODl2NXk4X1BKX3pURWhyWWNBRC1JaEN3UzFJZW1DRHBJOUM3by1BbVJocFVMWGhhVm02MlNVTGpPaWIxZmozQTF4anNXWGtwZTdlZVY5bTJBcTFQbWhybzZQNjBRNHFBRHY2?oc=5"
+        },
+        {
+          "name": "Bloomberg.com",
+          "title": "Trump, Xi Agreed on AI Curb in Military Action, Bessent Says",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVm5TekZSLUtpWTgxRE1Ba3BZLW5JSTNtbUozNXdPMkIzcVRaOUhmZFZ5MWZ0NzBNNlRHN3NYUUliLWlrZlZFaXMtQ2NaUmZiTzZ6WTlKcHE4cHR5dElzYy0yWmszSmN2U08xWFNVU1hQTEE4TEF1VTdaTHh5aktwUU1YOWFsOW9WOXltTkFqazl5eGRsZ1lfU1BseENvbm5ROUFsa1lOTDRaWWlzSmpkMA?oc=5"
+        },
+        {
+          "name": "CNBC",
+          "title": "Treasury Secretary Bessent: Trump and Xi agreed humans should be involved in any military decision",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdjBIbUttaDh6LThkSTNJV2RpWDZIRXRaN1RKdktEeDZFbDJFQXB2WmlPRkxwQ01mdWVkYnh5blozakdfVWQ0N0ZMdDZ5VmJhN0VVMmRwd1ljcm9xRF9PUEFZbzh2WGlpTU1EckEtNkk4emdTMUpvY2k3b1hJZF80RWFkeWR0MnUwdG9ENy1fek5tWlZuS0E1Z1FqWkVlV0tCeFVaay1icTg3V3p3Sko3Vi1uTkE0eGU4dXNxSVRFN09kbFdBQW1mSU5NVkI3V3F3ejEwNDkxUQ?oc=5"
+        }
+      ],
+      "wordCount": 334
+    },
+    "blindSpot": "While executive consensus signals diplomatic de-escalation regarding existential technology risks, the non-binding verbal agreement lacks structural verification or compliance protocols. In high-tempo operational environments like hypersonic target selection, reaction windows measured in seconds turn human oversight into a procedural rubber stamp rather than a tactical circuit breaker."
+  },
+  {
     "slug": "salvadoran-casualties-haiti-expose-strategic-limits-geo0",
     "path": "news/salvadoran-casualties-haiti-expose-strategic-limits-geo0/",
     "title": "Salvadoran Casualties in Haiti Expose Strategic Limits of Exported Anti-Gang Models",
