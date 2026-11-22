@@ -196,6 +196,37 @@
   ],
   "processedSignatures": [
     {
+      "title": "MICROSOFT OUTAGE REPORT REVEALS FAILED INTERNAL SAFEGUARDS AND INFRASTRUCTURE RISKS",
+      "normalizedTokens": [
+        "microsoft",
+        "outage",
+        "report",
+        "reveals",
+        "failed",
+        "internal",
+        "safeguards",
+        "infrastructure",
+        "risks"
+      ],
+      "date": "2026-11-22T11:07:22.980Z"
+    },
+    {
+      "title": "Microsoft’s final Outlook outage report details testing gaps and safeguards that backfired",
+      "normalizedTokens": [
+        "microsoft",
+        "final",
+        "outlook",
+        "outage",
+        "report",
+        "details",
+        "testing",
+        "gaps",
+        "safeguards",
+        "backfired"
+      ],
+      "date": "2026-11-22T11:07:22.978Z"
+    },
+    {
       "title": "NIGERIAN BOAT DISASTER EXPOSES NIGER DELTA INFRASTRUCTURE NEGLECT",
       "normalizedTokens": [
         "nigerian",
