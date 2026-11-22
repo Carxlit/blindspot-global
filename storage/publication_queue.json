@@ -1,168 +1,5 @@
 [
   {
-    "id": "queue-1794329324279-xtnhi",
-    "news": {
-      "id": "01ple0ojc",
-      "originalUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa25KYnV0YmpVV3hxYXM3WHU3YWR0aDlydW9XTDFvcm5mMldHaUNsc2lTdWYwU3M0UWROeEppbTBEdGJ0WU1TclZndU9xbW9PNWkwczBqZm9lQndRcWg2bkk0cjNtR0FnWkx3NFlvS21VZXo2dmQwemxoWnVPMG9NekpSNXFEZ3BaNGRaNVI3b3hfUVJxQURXNTdWdVJaUF9naWJkTWljWnhEUk0?oc=5",
-      "originalTitle": "Inflation runs hotter than expected as higher prices extend beyond the gas station",
-      "sourceName": "AP News",
-      "category": "POWER & SOCIETY",
-      "urgencyScore": 84,
-      "headline": "INFLATION RUNS HOTTER AS PRICE INCREASES SPREAD WIDELY",
-      "subHeadline": "October CPI data reveals inflation running hotter than expected, with higher prices extending well beyond the gas station.",
-      "blindSpotAngle": "While mainstream coverage focuses on headline retail metrics at the pump, the structural persistence of core inflation hitting key policy thresholds signals deeper economic friction that institutional monetary tools are struggling to isolate.",
-      "facebookPost": "Recent data reveals that inflation is running hotter than expected, driven by higher prices that now extend far beyond the gas station. While official reports highlight standard consumer price movements, the underlying breadth of these increases points to sustained cost pressures embedded throughout domestic markets.\n\nYet, public commentary often overlooks how these persistent cost vectors undermine household financial stability while central banks debate policy thresholds without immediate relief in sight.\n\nHow long can monetary authorities maintain their current projections when consumer staples and core goods continue to absorb unyielding price momentum?\n\nSource: AP News\n\n#Inflation #Economy #Blindspot",
-      "telegramPost": "<b>INFLATION RUNS HOTTER AS PRICE INCREASES SPREAD WIDELY</b>\n\n• <b>What happened:</b> October consumer price data came in hotter than expected, demonstrating that higher prices are extending well beyond traditional indicators like gas stations.\n• <b>Why it matters:</b> Broadened price increases indicate that inflationary pressures are deeply entrenched in core sectors, complicating central bank calculations.\n• <b>What is next:</b> Markets are reassessing interest rate trajectories as core inflation metrics test crucial thresholds for monetary policy adjustments.",
-      "linkedInPost": "The latest October CPI figures demonstrate that inflation is running hotter than expected, with elevated price pressures diffusing well beyond the energy sector. For institutional investors and corporate strategists, this persistence signals sustained input cost volatility and tighter capital conditions. Understanding the broader diffusion of price increases is critical for navigating upcoming monetary policy decisions and managing supply chain cost exposure.\n\nSource: AP News\n\n#GlobalEconomy #MonetaryPolicy #Blindspot",
-      "blueskyPost": "October CPI proves inflation is running hotter than expected as higher prices extend beyond the gas station, testing core policy thresholds. #Blindspot #GlobalEconomy",
-      "copies": {
-        "facebook": "Recent data reveals that inflation is running hotter than expected, driven by higher prices that now extend far beyond the gas station. While official reports highlight standard consumer price movements, the underlying breadth of these increases points to sustained cost pressures embedded throughout domestic markets.\n\nYet, public commentary often overlooks how these persistent cost vectors undermine household financial stability while central banks debate policy thresholds without immediate relief in sight.\n\nHow long can monetary authorities maintain their current projections when consumer staples and core goods continue to absorb unyielding price momentum? #Inflation #Economy #Blindspot",
-        "telegram": "<b>INFLATION RUNS HOTTER AS PRICE INCREASES SPREAD WIDELY</b>\n\n• <b>What happened:</b> October consumer price data came in hotter than expected, demonstrating that higher prices are extending well beyond traditional indicators like gas stations.\n• <b>Why it matters:</b> Broadened price increases indicate that inflationary pressures are deeply entrenched in core sectors, complicating central bank calculations.\n• <b>What is next:</b> Markets are reassessing interest rate trajectories as core inflation metrics test crucial thresholds for monetary policy adjustments.",
-        "bluesky": "October CPI proves inflation is running hotter than expected as higher prices extend beyond the gas station, testing core policy thresholds. #Blindspot #GlobalEconomy",
-        "linkedIn": "The latest October CPI figures demonstrate that inflation is running hotter than expected, with elevated price pressures diffusing well beyond the energy sector. For institutional investors and corporate strategists, this persistence signals sustained input cost volatility and tighter capital conditions. Understanding the broader diffusion of price increases is critical for navigating upcoming monetary policy decisions and managing supply chain cost exposure. #GlobalEconomy #MonetaryPolicy #Blindspot"
-      },
-      "article": {
-        "slug": "inflation-runs-hotter-than-expected-higher-fojr",
-        "title": "Inflation runs hotter than expected as higher prices extend beyond the gas station",
-        "dek": "Recent economic data shows October inflation running hotter than anticipated, with widespread price increases moving far past energy sectors. The persistent climb in core metrics challenges prevailing monetary assumptions.",
-        "keyFacts": [
-          "October CPI runs hotter than expected according to multiple reports.",
-          "Higher prices extend beyond the gas station into broader consumer categories.",
-          "Core inflation hits Waller's threshold for a half-point hike according to MLQ.ai analysis."
-        ],
-        "sections": [
-          {
-            "heading": "What Happened",
-            "paragraphs": [
-              "According to reporting from AP News, Anchorage Daily News, The Killeen Daily Herald, and Goshen News, inflation has run hotter than expected as higher prices extend well beyond the gas station. The October consumer price data reflects broad cost pressures that encompass various sectors of the economy.",
-              "Further analysis from MLQ.ai highlights that October CPI figures reached levels where core inflation hits Waller's threshold for a half-point hike, signaling acute pressure points within current monetary indicators."
-            ]
-          },
-          {
-            "heading": "The Context",
-            "paragraphs": [
-              "For months, economic commentary has frequently isolated energy costs—specifically at the gas station—as the primary driver of headline inflation figures. Public discourse often treats energy fluctuations as volatile yet temporary anomalies that mask underlying economic stability.",
-              "However, the latest reports indicate that price increases are permeating deeper into the consumer basket. This broader diffusion demonstrates that inflationary dynamics are no longer confined to isolated supply bottlenecks, but are instead solidifying within daily living costs."
-            ]
-          },
-          {
-            "heading": "The Blind Spot",
-            "paragraphs": [
-              "While financial journalism frequently obsesses over headline volatility and immediate market reactions, mainstream coverage routinely ignores the second-order structural impacts on household balance sheets and long-term purchasing power.",
-              "When core inflation measures cross critical thresholds like those noted by analysts regarding policy adjustments, the real friction lies in the disconnect between official macroeconomic forecasts and the compounding financial strain experienced by everyday consumers."
-            ]
-          },
-          {
-            "heading": "Winners and Losers",
-            "paragraphs": [
-              "Entities with robust pricing power and diversified revenue streams are better positioned to absorb or pass along sustained cost increases without eroding margins. Conversely, wage earners and debt-dependent consumers bear the immediate cost of prolonged price escalation.",
-              "On the institutional side, central bankers face narrowed policy corridors, where any miscalculation in rate trajectories risks either entrenching inflation or inducing sharper economic contraction."
-            ]
-          },
-          {
-            "heading": "What to Watch",
-            "paragraphs": [
-              "Observers should closely monitor subsequent core CPI releases and central bank commentary to see how policymakers respond to inflation metrics breaching established thresholds.",
-              "Future reports detailing wage growth versus core price increases will provide clearer signals on whether broader economic adjustments are taking hold."
-            ]
-          }
-        ],
-        "tags": [
-          "Inflation",
-          "Economy",
-          "CPI",
-          "Monetary Policy",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "AP News",
-            "title": "Inflation runs hotter than expected as higher prices extend beyond the gas station",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa25KYnV0YmpVV3hxYXM3WHU3YWR0aDlydW9XTDFvcm5mMldHaUNsc2lTdWYwU3M0UWROeEppbTBEdGJ0WU1TclZndU9xbW9PNWkwczBqZm9lQndRcWg2bkk0cjNtR0FnWkx3NFlvS21VZXo2dmQwemxoWnVPMG9NekpSNXFEZ3BaNGRaNVI3b3hfUVJxQURXNTdWdVJaUF9naWJkTWljWnhEUk0?oc=5"
-          },
-          {
-            "name": "Anchorage Daily News",
-            "title": "Inflation runs hotter than expected as higher prices extend beyond the gas station",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUGUtMUd1UGlLZTVLdWNXN0NNVUVnR3pVUGVZWDN0RWk3U0EwaHdJZlp4VEJ5VUdWV1R0a3Z3cWxGRzFvSUVzWnE1R0NIeVJkMElzR3ZqRk1FVF90UE85TXBlckhxVW43SENEclF3bWt5bW8zVXJYN29xb3pxWnZPVWFqM2ZOS3dKYk9nVDgtVlZkbnhYZHJvTWt0V3h1RmlEd1hQeWdELWhNbzR2X0tJLUpkNlByQ1hOemJyZGtnaVRhWDFUb1E?oc=5"
-          },
-          {
-            "name": "The Killeen Daily Herald",
-            "title": "Inflation runs hotter than expected as higher prices extend beyond the gas station",
-            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNWGJyMllnTG8td0xxcTl1bjg4WHVKb2YyT1BYem85QTg5WEdrQ3psZ1dJYlJTaDQyNW95QXdZYzc1RG42eFAxbHMxT2Q5dkFCV19kdXE1NF96R09ZNXNrWHF1NlEwY3ZCb0cwU1RBQnRqWWxDYnRkTmVLNHE4Y3NYR3gzQXdyM2hCSC05ZGtOMDRSazk4bHJWYjBQVEM2WDVGZEtmaVExZTZOWHptdVRMSzhzQU0yWlVKZnRvTG93N2U5encwdXJqc2JsY1NGT2hUUHdWdldKWGlmaDRGZTc0REx5R0NtWEdxWjhiempwcERHUS1FaS1aV1lfZzlfdnhR?oc=5"
-          },
-          {
-            "name": "Goshen News",
-            "title": "Inflation runs hotter than expected as higher prices extend beyond the gas station",
-            "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOZEVESk5JeXVyVExSRGtfRFdwWFppVXNmVHl6c0JaTGwwUngtV2N0bGRISUtoVUNEc1c3N01NdHNQNU82Y2RELVZTUm9oRkV2Z1BJMC1XNTZXZWRST0p4YjFxeXAtVkFCSmFyUUZaVWJLYjNWYmRmU0VPOXBmQXNIbzUzcmtKakZmbkJZRG84ZkJ6Qi1WQzg4OXBwMmRlSlc4d29OUjJsRy1rZmUtdW1HajdqY016dE1DbDVfTVR5djJDWkdIV0NMUjNBSGNzYnQwYjFkX3V1UEFMZzBMeVpvX3RRbFFKN1lmSkhvaEpBVXBjUUt4WFhsekM3VGZ3elR4NVNxWlVyaks5Zw?oc=5"
-          },
-          {
-            "name": "MLQ.ai",
-            "title": "October CPI runs hotter than expected as core inflation hits Waller's threshold for a half-point hike",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0JfOHJvZ1FGbm9EMWNoRmF6eXhwejZvZFk1Wmw1MDNkeXU3RHl1UkQ0bXV2b25TNVJQcUI1ZXJ4WEN1LUFkaElhYVR3V0dCdjVuNGVIbDEwLWFnc3JNclRpQUhERF9nY1NXVk5ndXNDZVBhUjBPZ21oaFg3UEhwN2I1WWs2T0M4ZDNoa1BtcDZlekYwMUdVR0ZvN3U1SWEyTFZEQ3YtT1lDdXo4dFE4Y3V4TXB4TERHdS1Tb25R?oc=5"
-          }
-        ],
-        "wordCount": 348
-      },
-      "videoScript": {
-        "hook": "October inflation is running much hotter than expected.",
-        "beats": [
-          "Higher prices are now extending well beyond the gas station.",
-          "Core inflation has reached the critical threshold for a half-point hike.",
-          "Mainstream reports miss how deeply these costs are embedding in everyday life."
-        ],
-        "close": "Read the full analysis at the link in bio."
-      },
-      "rawImageUrl": "https://www.adn.com/resizer/v2/4E2V47NOYNGNI46OPVDG5R4OAA.jpg?smart=true&auth=288b4ed1e4aeec82760d707d5f037d721833321bd8f77f10234794c09784c7cf&width=1200&height=630",
-      "status": "published",
-      "createdAt": "2026-11-10T16:48:41.928Z",
-      "cardImageUrl": "/news-cards/news-01ple0ojc-1794329321928.jpg",
-      "reelCoverUrl": "/news-cards/news-01ple0ojc-1794329322672-cover.jpg",
-      "instagramCardUrl": "/news-cards/news-01ple0ojc-1794329323198-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/inflation-runs-hotter-than-expected-higher-fojr/",
-      "publishedAt": "2026-11-10T18:57:33.048Z"
-    },
-    "channels": {
-      "facebook": true,
-      "telegram": false,
-      "bluesky": false,
-      "linkedIn": false,
-      "instagram": true,
-      "facebookReel": true,
-      "mastodon": false,
-      "threads": false,
-      "youtube": true
-    },
-    "scheduledFor": "2026-11-10T18:55:36.599Z",
-    "status": "published",
-    "attempts": 1,
-    "maxAttempts": 3,
-    "createdAt": "2026-11-10T16:48:44.279Z",
-    "lastAttemptAt": "2026-11-10T18:55:51.943Z",
-    "results": {
-      "facebook": {
-        "success": true,
-        "postId": "122104376517539825",
-        "simulated": false
-      },
-      "instagram": {
-        "success": true,
-        "mediaId": "18122316637990032",
-        "permalink": "https://www.instagram.com/reel/DfkmgV1jMKZ/"
-      },
-      "facebookReel": {
-        "success": false,
-        "skipped": true,
-        "error": "Noticia sin video libre: solo post con imagen"
-      },
-      "youtube": {
-        "success": false,
-        "skipped": true,
-        "error": "Noticia sin video libre: no se sube a YouTube"
-      }
-    },
-    "publishedAt": "2026-11-10T18:57:33.048Z"
-  },
-  {
     "id": "queue-1794333433653-hhxli",
     "news": {
       "id": "zfog33ud2",
@@ -24039,12 +23876,13 @@
         "close": "Read our full analysis on supply chain vulnerability at the link in bio."
       },
       "rawImageUrl": "https://i.guim.co.uk/img/media/5ede69a09f6e896c3d80e8c1a9e10ee694c31d87/165_0_4549_3641/master/4549.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=978785bca08686daa0d83f8e4402fb1d",
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-22T03:00:04.331Z",
       "cardImageUrl": "/news-cards/news-8007rrlr6-1795316404331.jpg",
       "reelCoverUrl": "/news-cards/news-8007rrlr6-1795316405008-cover.jpg",
       "instagramCardUrl": "/news-cards/news-8007rrlr6-1795316405657-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/federal-indictment-uncovers-systemic-freight-rail-w5bm/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/federal-indictment-uncovers-systemic-freight-rail-w5bm/",
+      "publishedAt": "2026-11-22T12:13:24.496Z"
     },
     "channels": {
       "facebook": true,
@@ -24058,10 +23896,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-22T12:13:00.000Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-22T03:00:06.913Z"
+    "createdAt": "2026-11-22T03:00:06.913Z",
+    "lastAttemptAt": "2026-11-22T12:13:15.422Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122112297447539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": false,
+        "skipped": true,
+        "error": "Estrategia IG: fuera de la franja 18:00–21:00 (Bogotá); el Reel se reprograma a la franja"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Noticia sin video libre: solo post con imagen"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "YouTube: tope diario de 3 Shorts alcanzado"
+      }
+    },
+    "publishedAt": "2026-11-22T12:13:24.496Z"
   },
   {
     "id": "queue-1795323724876-ewnqh",
@@ -24869,6 +24731,135 @@
     "attempts": 0,
     "maxAttempts": 3,
     "createdAt": "2026-11-22T11:07:22.959Z",
+    "igDeferred": true
+  },
+  {
+    "id": "queue-1795349604429-wiqbw",
+    "news": {
+      "id": "8007rrlr6",
+      "originalUrl": "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists",
+      "originalTitle": "California train burglars carefully executed heists for ‘staggering’ $22m haul",
+      "sourceName": "The Guardian Business",
+      "category": "GLOBAL ECONOMY",
+      "urgencyScore": 78,
+      "headline": "US CHARGES FOURTEEN IN TWENTY TWO MILLION DOLLAR TRAIN HEISTS",
+      "subHeadline": "Federal prosecutors charged 14 individuals in Southern California for sabotaging moving freight trains to execute a multi-year cargo theft operation totaling over $22 million in stolen merchandise.",
+      "blindSpotAngle": "While mainstream reporting focuses on the dramatic nature of train heists reminiscent of the nineteenth century, the underlying story highlights critical vulnerabilities in North American overland freight corridors. By exploiting basic pneumatic braking systems, small tactical groups can forcibly halt critical supply chains without specialized military hardware. This systemic exposure increases freight risk profiles, driving up corporate insurance burdens and signaling operational exposure across vulnerable rail lines.",
+      "facebookPost": "Federal prosecutors in Southern California have charged 14 individuals involved in a coordinated freight train burglary network responsible for stealing more than $22 million in merchandise. Operating under the name 'Los Trenes', the group boarded moving cargo trains, severed air brake hoses to force emergency stops, and offloaded high-value inventory such as Nike footwear and power tools across at least 36 separate incidents between 2024 and 2026.\n\nThe official narrative treats this as a localized criminal network, but the operational blueprint reveals severe security gaps in North American freight corridors. The capability of a small group to deliberately disable heavy freight rail using basic pneumatic interference exposes structural physical security deficits across vital trade arteries.\n\nAs freight rail remains central to domestic commerce, does responsibility for rail security lie with private logistics firms or state defense authorities?\n\nSource: The Guardian Business\n\n📖 Full analysis & sources in the first comment 👇\n\n#GlobalEconomy #SupplyChain #Blindspot",
+      "telegramPost": "<b>US CHARGES FOURTEEN IN TWENTY TWO MILLION DOLLAR TRAIN HEISTS</b>\n\n• <b>What happened:</b> Federal prosecutors charged 14 members of a Southern California burglary ring for raiding at least 36 freight trains between 2024 and 2026, stealing over $22 million in merchandise.\n• <b>Why it matters:</b> The group forced emergency train stops by cutting air brake lines, proving that low-cost tactical interventions can successfully disrupt major rail corridors and bypass logistics security.\n• <b>What is next:</b> Expect freight operators and insurers to demand stricter physical security protocols along Western rail routes, inflating domestic transit costs.",
+      "linkedInPost": "The federal indictment of 14 individuals in California over a $22 million freight train theft scheme highlights operational security risks in North American rail logistics. \n\nBetween 2024 and 2026, the syndicate targeted at least 36 trains by intentionally compromising air pressure lines to trigger emergency stops. Beyond the immediate inventory loss for major retail brands, the method demonstrates how targeted physical sabotage can exploit systemic vulnerabilities in critical infrastructure. \n\nFor supply chain directors and risk officers, this case underscores the necessity of upgrading physical surveillance, real-time telemetry, and line-of-sight protection along primary cargo routes. Heightened risk profiles will inevitably translate to adjusted freight insurance premiums and expanded corporate security expenditures.\n\nSource: The Guardian Business\n\nFull analysis: https://blindspotglobal.pages.dev/news/federal-indictment-uncovers-systemic-freight-rail-w5bm/\n\n#GlobalEconomy #SupplyChainSecurity #Blindspot",
+      "blueskyPost": "Federal prosecutors charged 14 people in California for a $22 million freight train heist ring that stopped moving trains by cutting air brake lines. Strategic logistics remain exposed to tactical sabotage. #Blindspot #GlobalEconomy",
+      "copies": {
+        "facebook": "Federal prosecutors in Southern California have charged 14 individuals involved in a coordinated freight train burglary network responsible for stealing more than $22 million in merchandise. Operating under the name 'Los Trenes', the group boarded moving cargo trains, severed air brake hoses to force emergency stops, and offloaded high-value inventory such as Nike footwear and power tools across at least 36 separate incidents between 2024 and 2026.\n\nThe official narrative treats this as a localized criminal network, but the operational blueprint reveals severe security gaps in North American freight corridors. The capability of a small group to deliberately disable heavy freight rail using basic pneumatic interference exposes structural physical security deficits across vital trade arteries.\n\nAs freight rail remains central to domestic commerce, does responsibility for rail security lie with private logistics firms or state defense authorities? #GlobalEconomy #SupplyChain #Blindspot",
+        "telegram": "<b>US CHARGES FOURTEEN IN TWENTY TWO MILLION DOLLAR TRAIN HEISTS</b>\n\n• <b>What happened:</b> Federal prosecutors charged 14 members of a Southern California burglary ring for raiding at least 36 freight trains between 2024 and 2026, stealing over $22 million in merchandise.\n• <b>Why it matters:</b> The group forced emergency train stops by cutting air brake lines, proving that low-cost tactical interventions can successfully disrupt major rail corridors and bypass logistics security.\n• <b>What is next:</b> Expect freight operators and insurers to demand stricter physical security protocols along Western rail routes, inflating domestic transit costs.",
+        "bluesky": "Federal prosecutors charged 14 people in California for a $22 million freight train heist ring that stopped moving trains by cutting air brake lines. Strategic logistics remain exposed to tactical sabotage. #Blindspot #GlobalEconomy",
+        "linkedIn": "The federal indictment of 14 individuals in California over a $22 million freight train theft scheme highlights operational security risks in North American rail logistics. \n\nBetween 2024 and 2026, the syndicate targeted at least 36 trains by intentionally compromising air pressure lines to trigger emergency stops. Beyond the immediate inventory loss for major retail brands, the method demonstrates how targeted physical sabotage can exploit systemic vulnerabilities in critical infrastructure. \n\nFor supply chain directors and risk officers, this case underscores the necessity of upgrading physical surveillance, real-time telemetry, and line-of-sight protection along primary cargo routes. Heightened risk profiles will inevitably translate to adjusted freight insurance premiums and expanded corporate security expenditures.\n\n#GlobalEconomy #SupplyChainSecurity #Blindspot"
+      },
+      "article": {
+        "slug": "federal-indictment-uncovers-systemic-freight-rail-w5bm",
+        "title": "Federal Indictment Uncovers Systemic Freight Rail Vulnerabilities in California Cargo Heists",
+        "dek": "Federal charges against a 14-person theft syndicate in California reveal how simple physical interventions can paralyze heavy rail networks and breach corporate supply chains. The $22 million operation highlights persistent security exposures along major trade arteries.",
+        "keyFacts": [
+          "Federal prosecutors charged 14 people in Southern California for stealing over $22 million in merchandise from freight trains between 2024 and 2026.",
+          "The theft network, led by 21-year-old Nathan Daniel Angel, targeted at least 36 separate train shipments.",
+          "Burglars forced emergency train stops by stowing away and cutting air hoses to disrupt pneumatic brake pressure.",
+          "Donta Hedgeman, 27, was captured on video sawing through container locks on a moving Nike shipment in October 2024."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "Federal prosecutors in Southern California have unsealed charges against 14 individuals accused of operating a multi-year freight train burglary network responsible for over $22 million in stolen goods. According to statements from First Assistant US Attorney Bill Essayli, the syndicate systematically raided cargo trains between 2024 and 2026, targeting high-value inventory including Nike footwear and commercial tools.",
+              "Court documents identify 21-year-old Nathan Daniel Angel as the alleged ringleader of the operation, known internally as 'Los Trenes'. The syndicate included Angel's family members and associates who coordinated logistics across Southern California to stow away on trains, disable vehicles, and transport stolen inventory to residential stash houses."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "The operational tactics relied on basic physical sabotage of rail infrastructure. Members of the group stowed away on moving trains before slashing pneumatic air hoses. This action caused an immediate drop in air pressure, automatically engaging emergency brakes and forcing the entire train to a sudden halt, creating significant risks of derailment.",
+              "Once the train was immobilized, ground teams positioned along the tracks opened cargo containers to offload merchandise. Evidence submitted by federal prosecutors includes video footage from October 2024 showing 27-year-old Donta Hedgeman sawing through container locks on a moving train, as well as encrypted messages sent via Signal by 23-year-old Carlos Luis Fernando Martinez to manage operations after associates were detained."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "While public coverage frames the case around romanticized notions of historic train robberies, the core issue lies in the structural vulnerability of modern overland freight networks. The ability of small, lightly equipped crews to deliberately interrupt heavy industrial transit points out a structural deficit in real-time surveillance and physical security across rural and suburban rail lines.",
+              "Logistics networks rely on uninterrupted transit through vast, unmonitored geographic corridors. By demonstrating that pneumatic safety mechanisms can be weaponized to halt commercial shipments, the case creates precedents for broader supply chain disruption, forcing freight operators and insurers to reassess physical security liabilities."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "The immediate financial burden falls on retail brands, freight carriers, and commercial insurance underwriters who absorb the costs of lost inventory, emergency stops, and damaged infrastructure. Private rail operators face mounting pressure to fund physical surveillance updates across thousands of miles of track.",
+              "Conversely, private security vendors, tracking technology developers, and encrypted logistics monitoring firms stand to gain as corporate logistics departments seek advanced solutions to secure cargo in transit against low-tech interference."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "Attention turns to the judicial proceedings against Angel and his co-defendants in federal court, alongside potential policy mandates requiring improved trackside surveillance and tamper-resistant cargo containers. Industry analysts will monitor whether insurance premiums increase for intermodal freight passing through high-risk transit corridors in North America."
+            ]
+          }
+        ],
+        "tags": [
+          "Supply Chain",
+          "Freight Logistics",
+          "Infrastructure Security",
+          "United States",
+          "Corporate Risk"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian Business",
+            "title": "California train burglars carefully executed heists for ‘staggering’ $22m haul",
+            "url": "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists"
+          },
+          {
+            "name": "The Guardian",
+            "title": "California train burglars carefully executed heists for ‘staggering’ $22m haul",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWjhWLUVpalQ1S0hNUGx3Q0kxSVNJSFY5Q0JVVHJrTmpFYlc3QVk2UncyODRORXJfZmtuOWVhazllb2E1cldBRVNDcTlwTXIwZlZzeDR5T1FyOGFoLWNqcFZleUtndjZ4dzFOeG1BLTY3dlNsNTQ0eHNPUEFrZUVyeWFGVGNPQQ?oc=5"
+          },
+          {
+            "name": "cedarnews.net",
+            "title": "California train burglars carefully executed heists for ‘staggering’ $22m haul",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcGdUVUxrM0x6UlA5OUh5U0JsYktNYTRDUGJGOWo5dlNLNFY5X3Bqay1lMnlJY2lwRjRSLW1NSjdTN094bHROR2dlWnZhMHBxeDc4SHptSFpjN1NReGxHT0MtZXZFVGxtdV96YXVSVEZFM2t6ZDUzQmVCR0tyNTd6OVZXUjlxY2x5TjZTWC1hWHlVbE1IWENSc2FTOGkxcXo5X1NjNmZR?oc=5"
+          }
+        ],
+        "wordCount": 471
+      },
+      "videoScript": {
+        "hook": "Federal prosecutors just exposed a massive tactical theft operation targeting freight rail supply chains.",
+        "beats": [
+          "A crew of 14 people sabotaged air hoses to halt moving trains across Southern California.",
+          "The ring raided at least 36 trains, stealing $22 million worth of consumer inventory and power tools.",
+          "Mainstream reporting ignores how easily physical supply lines can be crippled by simple tactical maneuvers."
+        ],
+        "close": "Read our full analysis on supply chain vulnerability at the link in bio."
+      },
+      "rawImageUrl": "https://i.guim.co.uk/img/media/5ede69a09f6e896c3d80e8c1a9e10ee694c31d87/165_0_4549_3641/master/4549.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=978785bca08686daa0d83f8e4402fb1d",
+      "status": "pending",
+      "createdAt": "2026-11-22T03:00:04.331Z",
+      "cardImageUrl": "/news-cards/news-8007rrlr6-1795316404331.jpg",
+      "reelCoverUrl": "/news-cards/news-8007rrlr6-1795316405008-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-8007rrlr6-1795316405657-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/federal-indictment-uncovers-systemic-freight-rail-w5bm/"
+    },
+    "channels": {
+      "facebook": false,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": false,
+      "mastodon": false,
+      "threads": false,
+      "youtube": false
+    },
+    "scheduledFor": "2026-11-22T23:00:00.000Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-22T12:13:24.429Z",
     "igDeferred": true
   }
 ]
