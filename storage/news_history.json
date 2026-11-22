@@ -189,9 +189,40 @@
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcGJaYVIzb00tWkFac2pEaFdTRnVFYWFTRHVZeWtRU1ZuMUZCSXVnOTAyUU9WSHVmWHEtaTdSQlF0eUpoTHBVeXhUYTVseTY0SXZmX2pTVWNDR19fVlhBYlVxZzdHSURLekxjd3daXzZ2V0R5V0xiUXNCQ0ZoRWZHVDNpS0ZHSF9VTEVPVFAzWjI4Q2lzLW5TSElRa3FGTDlGR2xCU3VOTzB4MGtiaFRQOE9kbkxFbEJVYWw5c0dvRjlseG94?oc=5",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUzVEMnFIMDdJN1RyQl9kaVpBTHBVdnVKZlFaVmV4blRXNWRBNW9FS1dETkF2Q243b3NxR2U0c0FiVXd0Qm9wLXpab1dBQnRVSlNiZzJOMEhYRGlPbklPSWZmNTlLMmZ5RUg4VVRsWG1saW9XZ0FOLWlCaFdHTGdiZ1VDeGtWZGxYaWI4T2xtenpwUzRyU051Y3BCTG1haDd4aHVVQ1Zlc0EyYnNtNVhyQzhvdDdWU3lvbjR2NQ?oc=5",
     "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists",
-    "https://www.euronews.com/video/2026/11/22/ukraine-dashcam-captures-massive-explosion-on-lviv-street"
+    "https://www.euronews.com/video/2026/11/22/ukraine-dashcam-captures-massive-explosion-on-lviv-street",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMXRQMHRTRkRCTXd0ejh0aGpGcWozZTBhdTJjMGV2WFZPMTVKR3pHQURGZWlYQ3dDdkRYTjI4Rmpmcjd1T19vVFdxNk1seF93V3I1cVhMVlNBOE01bktZSkkyVldMY0hpM2YzRWZWSjFyRVRwTTdKbFFMMFdkX3d4WUc1cE1YNUJLcF9JX1Nwb0l0Vzl3OXRaOU8tbklNa2NTMy1CbzNwM2tadw?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "PAOLO BULGARI DIES AT 89 AS CONGLOMERATES SWALLOW INDEPENDENT LUXURY",
+      "normalizedTokens": [
+        "paolo",
+        "bulgari",
+        "dies",
+        "conglomerates",
+        "swallow",
+        "independent",
+        "luxury"
+      ],
+      "date": "2026-11-22T05:17:03.476Z"
+    },
+    {
+      "title": "Paolo Bulgari, the Italian jeweler who turned a family business into global luxury brand, dies at 89",
+      "normalizedTokens": [
+        "paolo",
+        "bulgari",
+        "italian",
+        "jeweler",
+        "turned",
+        "family",
+        "business",
+        "global",
+        "luxury",
+        "brand",
+        "dies"
+      ],
+      "date": "2026-11-22T05:17:03.475Z"
+    },
     {
       "title": "RUSSIAN BARRAGE TARGETS WESTERN UKRAINIAN LOGISTICS AND ENERGY HUBS",
       "normalizedTokens": [
