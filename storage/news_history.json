@@ -192,9 +192,38 @@
     "https://www.euronews.com/video/2026/11/22/ukraine-dashcam-captures-massive-explosion-on-lviv-street",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMXRQMHRTRkRCTXd0ejh0aGpGcWozZTBhdTJjMGV2WFZPMTVKR3pHQURGZWlYQ3dDdkRYTjI4Rmpmcjd1T19vVFdxNk1seF93V3I1cVhMVlNBOE01bktZSkkyVldMY0hpM2YzRWZWSjFyRVRwTTdKbFFMMFdkX3d4WUc1cE1YNUJLcF9JX1Nwb0l0Vzl3OXRaOU8tbklNa2NTMy1CbzNwM2tadw?oc=5",
     "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss",
-    "https://www.aljazeera.com/news/2026/11/22/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss"
+    "https://www.aljazeera.com/news/2026/11/22/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXUxa0FLT1o3Tzh4MUR0MV9ZenU1LU9PZl9QSzhsQXlOQThFNUxWbWFXRXZTOHFpb1lJdG1GTV9hOUZsc2x4YzBOSzV3ZHZkV2pyNjNIaTVWZEViQ2lLb3JkcjJsbGhVNXFmWXQ5c0pDTkVXeG9IbmlKV3AxYUtfNE5DVnhWX3lvNmg0SF9SZ1lHQzEtSnY1REsycUlvWFVEOFlBSXR3?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "RUSSIA TOWS DRONE-DAMAGED CARGO VESSEL IN BALTIC SEA",
+      "normalizedTokens": [
+        "russia",
+        "tows",
+        "drone",
+        "damaged",
+        "cargo",
+        "vessel",
+        "baltic",
+        "sea"
+      ],
+      "date": "2026-11-22T23:04:33.361Z"
+    },
+    {
+      "title": "Russia starts towing ship hit by drones in Baltic, Finland says",
+      "normalizedTokens": [
+        "russia",
+        "starts",
+        "towing",
+        "ship",
+        "hit",
+        "drones",
+        "baltic",
+        "finland"
+      ],
+      "date": "2026-11-22T23:04:33.359Z"
+    },
     {
       "title": "US CHARGES FOURTEEN IN TWENTY TWO MILLION DOLLAR TRAIN HEISTS",
       "normalizedTokens": [
