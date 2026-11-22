@@ -1138,5 +1138,10 @@
     "relevant": true,
     "reason": "The image shows Paolo Bulgari, the main subject of the headline.",
     "at": "2026-11-22T05:17:01.311Z"
+  },
+  "be20555fd554d3cf:q9x8c73gq": {
+    "relevant": true,
+    "reason": "The image depicts firefighters extinguishing a burning truck resulting from the deadly Guasave cartel firefight mentioned in the context summary.",
+    "at": "2026-11-22T05:46:44.685Z"
   }
 }
