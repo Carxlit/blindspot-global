@@ -1143,5 +1143,10 @@
     "relevant": true,
     "reason": "The image depicts firefighters extinguishing a burning truck resulting from the deadly Guasave cartel firefight mentioned in the context summary.",
     "at": "2026-11-22T05:46:44.685Z"
+  },
+  "ec7fa26c909b1fd4:wdz0sunw3": {
+    "relevant": true,
+    "reason": "The image depicts emergency medical personnel carrying a victim on a stretcher near a waterway following the boat disaster in Nigeria.",
+    "at": "2026-11-22T06:01:47.868Z"
   }
 }
