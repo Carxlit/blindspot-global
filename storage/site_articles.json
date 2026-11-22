@@ -577,7 +577,8 @@
       ],
       "wordCount": 379
     },
-    "blindSpot": "While cloud vendors market automated fail-safes as guarantees of continuous uptime, automated retries frequently create self-inflicted denial-of-service loops during minor disruptions. Systemic consolidation under a single vendor turns localized software testing failures into global operational bottlenecks that bypass standard enterprise continuity plans."
+    "blindSpot": "While cloud vendors market automated fail-safes as guarantees of continuous uptime, automated retries frequently create self-inflicted denial-of-service loops during minor disruptions. Systemic consolidation under a single vendor turns localized software testing failures into global operational bottlenecks that bypass standard enterprise continuity plans.",
+    "reelUrl": "https://www.instagram.com/reel/DgD8B4LDFKi/"
   },
   {
     "slug": "white-house-orders-federal-contractors-clear-qnpe",
