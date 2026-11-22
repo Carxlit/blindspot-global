@@ -1,5 +1,101 @@
 [
   {
+    "slug": "white-house-orders-federal-contractors-clear-qnpe",
+    "path": "news/white-house-orders-federal-contractors-clear-qnpe/",
+    "title": "White House orders federal contractors to clear congressional inquiries",
+    "headline": "WHITE HOUSE REIGNS IN FEDERAL CONTRACTOR COMMUNICATIONS",
+    "dek": "A new directive requires federal contractors to vet responses to Congress through the White House, reshaping oversight dynamics. The move centralizes executive control over information from private entities executing public funds.",
+    "category": "POWER & SOCIETY",
+    "sourceName": "AP News",
+    "image": "img/white-house-orders-federal-contractors-clear-qnpe.jpg",
+    "photo": "img/white-house-orders-federal-contractors-clear-qnpe-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "va8omJFk0Ew",
+      "title": "Trump Orders Federal Contractors to Tell White House Before Answering Congress",
+      "channel": "The Daily Fallout"
+    },
+    "publishedAt": "2026-11-22T01:02:15.355Z",
+    "article": {
+      "slug": "white-house-orders-federal-contractors-clear-qnpe",
+      "title": "White House orders federal contractors to clear congressional inquiries",
+      "dek": "A new directive requires federal contractors to vet responses to Congress through the White House, reshaping oversight dynamics. The move centralizes executive control over information from private entities executing public funds.",
+      "keyFacts": [
+        "The administration ordered federal contractors to check with the White House before responding to Congress.",
+        "Coverage was corroborated across multiple outlets including AP News and PBS.",
+        "The directive impacts how private entities handling public contracts interact with legislative committees."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "According to reporting from AP News, PBS, and other regional publications, the administration has issued a directive requiring federal contractors to coordinate with the White House before responding to inquiries from Congress. This protocol applies directly to entities engaged in federal contracts, establishing a mandatory clearance process for legislative communications.",
+            "The policy effectively inserts the executive branch as an intermediary between congressional committees seeking information and the private contractors executing government-funded operations."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Federal contractors operate in a complex ecosystem where they are legally bound to deliver public services while remaining subject to oversight from legislative bodies holding the power of the purse. Traditionally, congressional committees could directly request information, documents, or testimony from contractors involved in public projects.",
+            "This new directive alters the standard protocol of information exchange, positioning the executive office as the gatekeeper for data originating from outside the traditional civil service but funded by taxpayers."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While public discussions often focus on administrative efficiency and unified messaging, the deeper structural implication is the transformation of congressional oversight capabilities. When private companies must seek executive permission to answer legislative queries, the independence of congressional investigations into public spending and execution is compromised.",
+            "This dynamic creates a profound conflict of interest, where the executive branch evaluates and filters the exact information that may be used to hold its own administration of public contracts accountable."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The executive branch gains enhanced control over narrative management and information security regarding federal expenditures and project execution. Conversely, congressional investigators and private contractors emerge as the losers.",
+            "Contractors now face an impossible compliance dilemma, caught between the legal duty to cooperate with congressional subpoenas or inquiries and the executive mandate to seek prior clearance."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Observers should monitor how congressional committees respond to delayed or vetted communications from major federal contractors. Legal challenges regarding the constitutional limits of executive control over non-executive entities are likely to emerge.",
+            "Furthermore, the enforcement mechanisms the White House uses to penalize contractors who bypass the clearance process will reveal the true rigidity of this new administrative framework."
+          ]
+        }
+      ],
+      "tags": [
+        "Governance",
+        "Congress",
+        "Federal Contractors",
+        "Executive Power",
+        "Compliance"
+      ],
+      "sources": [
+        {
+          "name": "AP News",
+          "title": "Trump orders federal contractors to check with White House before responding to Congress",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcGJaYVIzb00tWkFac2pEaFdTRnVFYWFTRHVZeWtRU1ZuMUZCSXVnOTAyUU9WSHVmWHEtaTdSQlF0eUpoTHBVeXhUYTVseTY0SXZmX2pTVWNDR19fVlhBYlVxZzdHSURLekxjd3daXzZ2V0R5V0xiUXNCQ0ZoRWZHVDNpS0ZHSF9VTEVPVFAzWjI4Q2lzLW5TSElRa3FGTDlGR2xCU3VOTzB4MGtiaFRQOE9kbkxFbEJVYWw5c0dvRjlseG94?oc=5"
+        },
+        {
+          "name": "PBS",
+          "title": "Trump orders federal contractors to check with White House before responding to Congress",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNkxsaW5lc3Jnc00xWmNkemJSZmRJX1Fnb2ZvdUljTXBZZXExM0VhT05sVkFhZVVvbkNseTA0ZFlydjd4VWpsWGxZU0VaZHR5NTlFUjJBWjZ0bTdKa2VWOTMxdExMSm5ReFJpTFZnZE5TeFF5a3pIQS1UWlVTSkY1THFILTYyZEw2NW1kWlBxVU4yM0NtX2xSZmZDbTZRZEFub2otc0dSREQ4UlJWTG9FNVUwNC0yLUlIOVpjLWxWX0Jmc0pk0gHKAUFVX3lxTE1NeTRNU1ZvR0Z0UVJheTdTTVRVVDFIaHBIRlQtVGluRkdtekVBSGlQcXdLNWJ4bl9wVkJLeXc2clc2NnNHejY2QTV4MEU1X1dLQU1vTm8zVFMtQXJFTjg0SzNBWXFwc2s5MnY0SHNJZk9tZDhOd05yWTNoa3FNNzE3SDhFUHB1UWJEU0V6VVRENkNQVEtSRndvTVJaNFFmdDlrTXd4bGVBZGNzU2tkenpHUjcwVHlaZ1N3YkV2MjVnOWx1QWZiRU9XMkE?oc=5"
+        },
+        {
+          "name": "Ottumwa Courier",
+          "title": "Trump orders federal contractors to check with White House before responding to Congress",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPb01wRk41OXUxajZVS1p5NXlzMU5fUWVISDcyOWJtUU1wUmJGSHpQZjJIUnBaS2JLZmFsU1A3SmM5NGlJdUtfNkZFLVhNNk9TYV82S09kTHFSM011T3B6R2FsYzJhOVMtMl9JNnhGeUxVWjZ1MEcyWVRTRGk2NzVJNmZ3eFg1czR5MVBjaGM5T2RwRy1ucm9JejE5Q0N5aGVXWGxZSi02cHFfSVpnTVVyNFlwWmo3QzNYajZHT3ZVVkFkNmNfRmxxMDRFZ0VxUVJjVG1mWDQ3anVYZDRrQlF2ZkVSbnRFaHVuR0Z0QlZiRklhdVN3Mnc3b21XNFFPaWJkYlNkTWo3Uk9kLVY3dHY1aW1uM1FlT1k?oc=5"
+        },
+        {
+          "name": "Richmond Register",
+          "title": "Trump orders federal contractors to check with White House before responding to Congress",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNUnZHckl5WDk5Yk5wNTdnZV9MN0lQU1ZiUVpyVGNKYVBGNHdGMy1pc0FkTEhqOGRVRVZjejdsQWdJajFQdHZfbDhCZTJkcjFPNXVfYktRUUVrRml0aEJLbUhPbldIYTVwTzlTdnR1cUtaaDdCN2tvRERScDZxLXMxOVhHNXFhdjhTSHlpZXNzRFpUU055TWxWdThhWVZRYUUxVUh6SDBtd0l4ZHJpR0laSG9JWmZNemtCaXAwRzJ4NGpibExKZnNzUlY1S0czZlJDNWNnenozYk50Vjh1Smtvc3k0dlBWQ2Z3TjB3TlQ1T3gwSGFFZkhEdGFUU3QwR3pnNHRvemZXVWlBeEU1RnJ4bg?oc=5"
+        }
+      ],
+      "wordCount": 368
+    },
+    "blindSpot": "This directive creates a formidable administrative bottleneck that fundamentally alters the traditional oversight mechanism between the legislative branch and private entities executing public funds. By centralizing communication channels through the executive office, the administration effectively blurs the line between public oversight and executive information control."
+  },
+  {
     "slug": "bitcoin-rebounds-after-hitting-two-year-nbt8",
     "path": "news/bitcoin-rebounds-after-hitting-two-year-nbt8/",
     "title": "Bitcoin Rebounds After Hitting Two Year Low Amid Violent Liquidity Sweep",

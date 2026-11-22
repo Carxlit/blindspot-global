@@ -1103,5 +1103,15 @@
     "relevant": true,
     "reason": "The image clearly depicts a physical Bitcoin coin, which is the central subject of the headline.",
     "at": "2026-11-22T00:04:20.796Z"
+  },
+  "9c8fa04ddee11917:90bl1udjs": {
+    "relevant": false,
+    "reason": "The image shows the U.S. Capitol building instead of the White House mentioned in the headline.",
+    "at": "2026-11-22T01:02:05.039Z"
+  },
+  "6aabb48ae616509c:90bl1udjs": {
+    "relevant": true,
+    "reason": "The image depicts Donald Trump at the White House podium, representing the administration enacting the federal contractor communications policy.",
+    "at": "2026-11-22T01:02:11.255Z"
   }
 }
