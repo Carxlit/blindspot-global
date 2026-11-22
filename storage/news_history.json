@@ -184,9 +184,36 @@
     "https://www.thehindu.com/news/international/peru-andes-earthquake-toll-updates-november-21-2026/article71727128.ece",
     "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss",
     "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEdyaGtabnZRdHhGLWIzeGx0MkhleGZEYlVpTmFySVFYdlUtd3JfamE1YjlXQmwzWW1xTE83UzJRZ2lra1pEWmFsTXZMbDRlUm9CNTllRHdXR0VWRExIaTlQanhkTDFaU2RjU2dCYkI3WDd2WElmSlFfY1pwVkdxVEw0cDBYNGEwTGFLUGFqUTZPMFIxU0Y4Z25pREJEai16RGNfX3JlWXZOZ05hT3liNUJnU2stVlQ5RV9NZmVBUmhlQQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEdyaGtabnZRdHhGLWIzeGx0MkhleGZEYlVpTmFySVFYdlUtd3JfamE1YjlXQmwzWW1xTE83UzJRZ2lra1pEWmFsTXZMbDRlUm9CNTllRHdXR0VWRExIaTlQanhkTDFaU2RjU2dCYkI3WDd2WElmSlFfY1pwVkdxVEw0cDBYNGEwTGFLUGFqUTZPMFIxU0Y4Z25pREJEai16RGNfX3JlWXZOZ05hT3liNUJnU2stVlQ5RV9NZmVBUmhlQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NUk9lTzRodUF5M1QyMkpkS3ViSDhVQ2hHZlV1ZUowRnBQeF9Za3l0WkRFb1BUNzVoS1NxcFFERDAydTVnLVpIMG9hcmRUV3hyb1F1RURKeGF3WV9iNlJScVlrYk95VmRJWWxjcE5GLUR4NUgtYWVj?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "BITCOIN REBOUNDS AFTER SURGING EIGHT PERCENT FROM TWO YEAR LOW",
+      "normalizedTokens": [
+        "bitcoin",
+        "rebounds",
+        "surging",
+        "eight",
+        "percent",
+        "two",
+        "year",
+        "low"
+      ],
+      "date": "2026-11-22T00:04:24.501Z"
+    },
+    {
+      "title": "Bitcoin rises after falling to two-year low",
+      "normalizedTokens": [
+        "bitcoin",
+        "rises",
+        "falling",
+        "two",
+        "year",
+        "low"
+      ],
+      "date": "2026-11-22T00:04:24.499Z"
+    },
     {
       "title": "PENTAGON REJECTS IRANIAN CLAIMS OF F16 STRIKE OVER GULF",
       "normalizedTokens": [

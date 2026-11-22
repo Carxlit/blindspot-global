@@ -1098,5 +1098,10 @@
     "relevant": true,
     "reason": "The image depicts an F-16 fighter jet, which is the central subject of the news story regarding claims of an aerial strike over the Persian Gulf.",
     "at": "2026-11-21T23:04:43.550Z"
+  },
+  "ae64adc97b82c174:i1ov75mq3": {
+    "relevant": true,
+    "reason": "The image clearly depicts a physical Bitcoin coin, which is the central subject of the headline.",
+    "at": "2026-11-22T00:04:20.796Z"
   }
 }

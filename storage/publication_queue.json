@@ -24719,5 +24719,149 @@
     "attempts": 0,
     "maxAttempts": 3,
     "createdAt": "2026-11-21T23:04:47.740Z"
+  },
+  {
+    "id": "queue-1795305864485-nxoqh",
+    "news": {
+      "id": "i1ov75mq3",
+      "originalUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NUk9lTzRodUF5M1QyMkpkS3ViSDhVQ2hHZlV1ZUowRnBQeF9Za3l0WkRFb1BUNzVoS1NxcFFERDAydTVnLVpIMG9hcmRUV3hyb1F1RURKeGF3WV9iNlJScVlrYk95VmRJWWxjcE5GLUR4NUgtYWVj?oc=5",
+      "originalTitle": "Bitcoin rises after falling to two-year low",
+      "sourceName": "Reuters",
+      "category": "GLOBAL ECONOMY",
+      "urgencyScore": 78,
+      "headline": "BITCOIN REBOUNDS AFTER SURGING EIGHT PERCENT FROM TWO YEAR LOW",
+      "subHeadline": "Cryptocurrency markets experienced extreme volatility as Bitcoin dropped to its lowest price level in two years before staging an immediate recovery exceeding 8 percent.",
+      "blindSpotAngle": "While retail channels view the violent reversal as a signal of a structural bottom, the rapid rebound exposes deep liquidity voids and automated stop-loss cascades across centralized derivative exchanges. Institutional trading desks capitalized on multi-year low order books to absorb forced liquidations, resetting open interest while leaving spot markets vulnerable to ongoing macro tightening.",
+      "facebookPost": "Bitcoin fell to its lowest point in two years before rapidly reversing direction, surging over 8% in a matter of hours according to reporting from Reuters and global market trackers. Financial media outlets quickly framed the violent price swing as an opportunistic buy-the-dip moment for resilient investors.\n\nYet the underlying mechanics tell a very different story. The dramatic bounce was primarily fueled by automated margin calls and cascading short-squeezes across crypto derivative venues rather than organic spot accumulation. Institutional market makers systematically swept order books at depressed levels, stripping retail leverage before restoring baseline valuations.\n\nAre digital asset markets currently functioning as genuine price discovery mechanisms, or have they degraded into structural liquidity traps for speculative capital?\n\nSource: Reuters\n\n#GlobalEconomy #CryptoMarkets #Blindspot",
+      "telegramPost": "<b>BITCOIN REBOUNDS AFTER SURGING EIGHT PERCENT FROM TWO YEAR LOW</b>\n\n• <b>What happened:</b> Bitcoin fell to a two-year low before surging over 8% in a violent intraday reversal, according to reporting by Reuters, Global Banking & Finance Review, and TradingView.\n• <b>Why it matters:</b> The recovery was driven by forced derivative liquidations rather than genuine institutional spot demand, highlighting thin market depth across trading venues.\n• <b>What is next:</b> Expect continued price instability as derivative open interest rebuilds while central bank interest rate policies keep liquidity constrained.",
+      "linkedInPost": "The latest volatility in digital asset markets highlights systemic liquidity risks that corporate treasury desks and institutional allocators cannot afford to ignore. According to market data from Reuters and Global Banking & Finance Review, Bitcoin hit a two-year trough before staging an immediate 8% rebound.\n\nBeyond the surface volatility lies a critical structural dynamic: the lack of deep bid-side liquidity on major exchanges. As macro liquidity conditions tighten under sustained elevated interest rates, digital asset order books become increasingly brittle. Intraday price discovery is increasingly governed by derivative clearinghouses executing automated liquidation cascades rather than fundamental valuation models.\n\nFor risk managers and macro strategists, these market movements underscore the dangers of misinterpreting short-term derivative squeezes as sustainable structural bottoms.\n\nSource: Reuters\n\n#GlobalEconomy #MacroEconomics #Blindspot",
+      "blueskyPost": "Bitcoin's 8% bounce off two-year lows isn't a retail rally; it's a forced derivative liquidity sweep clearing out over-leveraged traders. #Blindspot #GlobalEconomy",
+      "copies": {
+        "facebook": "Bitcoin fell to its lowest point in two years before rapidly reversing direction, surging over 8% in a matter of hours according to reporting from Reuters and global market trackers. Financial media outlets quickly framed the violent price swing as an opportunistic buy-the-dip moment for resilient investors.\n\nYet the underlying mechanics tell a very different story. The dramatic bounce was primarily fueled by automated margin calls and cascading short-squeezes across crypto derivative venues rather than organic spot accumulation. Institutional market makers systematically swept order books at depressed levels, stripping retail leverage before restoring baseline valuations.\n\nAre digital asset markets currently functioning as genuine price discovery mechanisms, or have they degraded into structural liquidity traps for speculative capital?\n\n#GlobalEconomy #CryptoMarkets #Blindspot",
+        "telegram": "<b>BITCOIN REBOUNDS AFTER SURGING EIGHT PERCENT FROM TWO YEAR LOW</b>\n\n• <b>What happened:</b> Bitcoin fell to a two-year low before surging over 8% in a violent intraday reversal, according to reporting by Reuters, Global Banking & Finance Review, and TradingView.\n• <b>Why it matters:</b> The recovery was driven by forced derivative liquidations rather than genuine institutional spot demand, highlighting thin market depth across trading venues.\n• <b>What is next:</b> Expect continued price instability as derivative open interest rebuilds while central bank interest rate policies keep liquidity constrained.",
+        "bluesky": "Bitcoin's 8% bounce off two-year lows isn't a retail rally; it's a forced derivative liquidity sweep clearing out over-leveraged traders. #Blindspot #GlobalEconomy",
+        "linkedIn": "The latest volatility in digital asset markets highlights systemic liquidity risks that corporate treasury desks and institutional allocators cannot afford to ignore. According to market data from Reuters and Global Banking & Finance Review, Bitcoin hit a two-year trough before staging an immediate 8% rebound.\n\nBeyond the surface volatility lies a critical structural dynamic: the lack of deep bid-side liquidity on major exchanges. As macro liquidity conditions tighten under sustained elevated interest rates, digital asset order books become increasingly brittle. Intraday price discovery is increasingly governed by derivative clearinghouses executing automated liquidation cascades rather than fundamental valuation models.\n\nFor risk managers and macro strategists, these market movements underscore the dangers of misinterpreting short-term derivative squeezes as sustainable structural bottoms.\n\n#GlobalEconomy #MacroEconomics #Blindspot"
+      },
+      "article": {
+        "slug": "bitcoin-rebounds-after-hitting-two-year-nbt8",
+        "title": "Bitcoin Rebounds After Hitting Two Year Low Amid Violent Liquidity Sweep",
+        "dek": "Cryptocurrency markets endured sharp volatility after Bitcoin touched a multi-year trough before staging a rapid bounce. The violent price action highlights structural fragility and systemic leverage clearing across global derivative desks.",
+        "keyFacts": [
+          "Bitcoin fell to its lowest price level in two years before staging a swift reversal, according to Reuters.",
+          "The cryptocurrency surged over 8% immediately following the multi-year low, as reported by Global Banking & Finance Review.",
+          "Financial outlets including The Globe and Mail, TradingView, and Investing.com confirmed the multi-year drawdown and subsequent intraday bounce."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "Digital asset markets recorded severe intraday swings as Bitcoin sank to its lowest valuation in two years before staging a dramatic rebound. According to reporting from Reuters and financial media including TradingView and Investing.com, the benchmark cryptocurrency experienced sharp selling pressure that drove prices down to multi-year lows across global exchanges.",
+              "Immediately following the trough, Bitcoin reversed course and surged over 8%, as reported by Global Banking & Finance Review. The swift price recovery triggered widespread liquidations across leveraged positions, abruptly arresting what had appeared to be a sustained breakdown in digital asset valuations."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "The dip to two-year lows occurs against a challenging macroeconomic backdrop defined by restrictive central bank policies and broader capital rotation out of high-risk assets. Over recent quarters, reduced systemic dollar liquidity has compressed trading volumes across risk assets globally, leaving digital currency markets particularly exposed to sudden liquidity shocks.",
+              "As spot trading volumes have contracted, liquidity has increasingly concentrated within offshore derivative venues. This structural shift means that price action is frequently driven by futures and perpetual swap contracts rather than direct spot market demand, amplifying price movements in both directions."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "Mainstream financial coverage has framed Bitcoin's sudden 8% recovery as an optimistic sign of dip-buying resilience among retail and institutional investors. However, the underlying order book mechanics indicate that the surge was primarily a technical cascade rather than a fundamental shift in market sentiment.",
+              "When Bitcoin pierced key technical support levels to reach two-year lows, it triggered massive stop-loss orders and automated liquidations among short sellers. Market makers and specialized trading firms capitalized on the resulting order-book imbalance, filling buy orders against forced liquidators. The blind spot lies in treating derivative-driven forced buy-backs as a proxy for organic balance-sheet allocation."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "High-frequency algorithmic trading desks and quantitative market makers emerged as the primary beneficiaries of the volatility, capturing wide bid-ask spreads and liquidating mispositioned positions at extreme price levels.",
+              "Conversely, over-leveraged retail traders and directional momentum funds absorbed substantial losses as automated liquidation engine parameters triggered execution at the absolute trough before the immediate 8% rebound."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "In the coming weeks, analysts must monitor total derivative open interest alongside net spot exchange inflows to determine whether institutional capital is genuinely accumulating at lower levels.",
+              "Furthermore, persistent global monetary tightening could continue to starve crypto markets of structural liquidity, leaving digital assets vulnerable to further violent liquidation cascades whenever macro volatility spikes."
+            ]
+          }
+        ],
+        "tags": [
+          "Bitcoin",
+          "Cryptocurrency",
+          "Global Economy",
+          "Financial Markets",
+          "Liquidity"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "title": "Bitcoin rises after falling to two-year low",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NUk9lTzRodUF5M1QyMkpkS3ViSDhVQ2hHZlV1ZUowRnBQeF9Za3l0WkRFb1BUNzVoS1NxcFFERDAydTVnLVpIMG9hcmRUV3hyb1F1RURKeGF3WV9iNlJScVlrYk95VmRJWWxjcE5GLUR4NUgtYWVj?oc=5"
+          },
+          {
+            "name": "Global Banking & Finance Review",
+            "title": "Bitcoin Surges Over 8% After Hitting Lowest Price in Two Years",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52Ynh0ZjBBRkE5TEpiTThkcDByMFl4Mi05LVZlaUxfYU04OGJzLUI0SmVmMXlWaGtJOFpOTTJpRWdMR1U3M3lDdjJUVGNKSlluNGc3cUd0MUtFQ1VJNW4yVkt5T3FFb29DdWxKc0JfWC1yajE1?oc=5"
+          },
+          {
+            "name": "The Globe and Mail",
+            "title": "Bitcoin rises after falling to lowest level in two years",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbU9RbXpaVURaMDhEa1RmZUxWY2hsZ01QTWZIWmJFcXkxT28zdGNhbG1ud3Y0anR2QUVWQjJaSm1tMHhyVDl4LTNVTUNfOVdFNFlXU01NQVZkNEdVZGwtSUFaMDJUQm5UY0p6eXRtUTJCcWx2a1hqamh0bjFTamU5LTdkRTVzbmdLVmFZeU00QVUwaXBDbkhYcFZGOWRwQnNTdHdic2xGbWU5Zw?oc=5"
+          },
+          {
+            "name": "Investing.com",
+            "title": "Bitcoin falls to its lowest in two years By Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV3ZRS3pQMmZGMUJ3RjF6S2VYZG1xSXJQNVNhWmdDTWRPZmtKNjRLUW9kRzRiWW9Gblh3WnJjRU5QRTJtVmpvSzJfRXFtQ2tiYTdINnB6a2YtMm5oZVRjcHRHV0lKZ2k1S0ZPdEREZ0FOYUJOMU1LdU9tYmwzanVUYUhR?oc=5"
+          },
+          {
+            "name": "TradingView",
+            "title": "Bitcoin rises after falling to two-year low",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWFhTHRyMlZ0UXJQVHFPRmwyNUdTa2NwMVJfMU1seWJpelgwM3k3ekZTb2NONk1LR1ZjV05Ha2lub0pKM2RrWnB2SFB6OVdzQkVJRjZSYjlMc1A4U3ZNWGtxODYydnl0YUw2UldHTzM2VEdlUEY1ckoxV0JGcVpOcGdobUU0R0VxR0JHdnkycko5UGR6dHhSNGc1SVlYelhmZDhuMzN2Y1BJTGRaX0ZCUXg4UQ?oc=5"
+          }
+        ],
+        "wordCount": 426
+      },
+      "videoScript": {
+        "hook": "What really drove Bitcoin's sudden eight percent bounce after touching multi-year lows?",
+        "beats": [
+          "Bitcoin dropped to its lowest price in two years before suddenly surging over 8%.",
+          "Mainstream headlines called it a bullish recovery, but the move was driven by derivative liquidations.",
+          "What nobody is talking about is how market makers cleared out leverage before re-entering."
+        ],
+        "close": "Read our full deep dive at the link in our bio."
+      },
+      "rawImageUrl": "https://www.globalbankingandfinance.com/i/cloud-a4d76730-0055-4ff2-b5cd-97fd0ff4e3d0/width=1200,height=630,quality=80,format=auto,fit=cover/",
+      "sourceVideo": {
+        "provider": "youtube",
+        "id": "G8_c6buJ0O8",
+        "title": "Bitcoin Briefly Retakes $60,000 After a Two-Year Low | Developing Update",
+        "channel": "Forever Desk"
+      },
+      "status": "pending",
+      "createdAt": "2026-11-22T00:04:22.101Z",
+      "cardImageUrl": "/news-cards/news-i1ov75mq3-1795305862101.jpg",
+      "reelCoverUrl": "/news-cards/news-i1ov75mq3-1795305862735-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-i1ov75mq3-1795305863295-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/bitcoin-rebounds-after-hitting-two-year-nbt8/"
+    },
+    "channels": {
+      "facebook": true,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": true,
+      "mastodon": false,
+      "threads": false,
+      "youtube": true
+    },
+    "scheduledFor": "2026-11-22T02:05:00.000Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-22T00:04:24.485Z"
   }
 ]
