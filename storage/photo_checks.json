@@ -1123,5 +1123,15 @@
     "relevant": true,
     "reason": "The image shows a train against a mountainous backdrop in Southern California, directly connecting to the headline about train heists in the region.",
     "at": "2026-11-22T03:00:02.193Z"
+  },
+  "618514e53b500bf6:mzxs4o5ep": {
+    "relevant": false,
+    "reason": "The image is an AI-generated scene showing a fiery explosion on a wet city street, which does not accurately or authentically depict the reported strikes on Lviv and Kyiv.",
+    "at": "2026-11-22T05:01:43.740Z"
+  },
+  "560789eebc70c2f8:mzxs4o5ep": {
+    "relevant": true,
+    "reason": "The image shows a military air defense system and soldier in Ukraine, illustrating the military conflict and defense against Russian aerial barrages.",
+    "at": "2026-11-22T05:02:02.873Z"
   }
 }

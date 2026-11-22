@@ -188,9 +188,37 @@
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NUk9lTzRodUF5M1QyMkpkS3ViSDhVQ2hHZlV1ZUowRnBQeF9Za3l0WkRFb1BUNzVoS1NxcFFERDAydTVnLVpIMG9hcmRUV3hyb1F1RURKeGF3WV9iNlJScVlrYk95VmRJWWxjcE5GLUR4NUgtYWVj?oc=5",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcGJaYVIzb00tWkFac2pEaFdTRnVFYWFTRHVZeWtRU1ZuMUZCSXVnOTAyUU9WSHVmWHEtaTdSQlF0eUpoTHBVeXhUYTVseTY0SXZmX2pTVWNDR19fVlhBYlVxZzdHSURLekxjd3daXzZ2V0R5V0xiUXNCQ0ZoRWZHVDNpS0ZHSF9VTEVPVFAzWjI4Q2lzLW5TSElRa3FGTDlGR2xCU3VOTzB4MGtiaFRQOE9kbkxFbEJVYWw5c0dvRjlseG94?oc=5",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUzVEMnFIMDdJN1RyQl9kaVpBTHBVdnVKZlFaVmV4blRXNWRBNW9FS1dETkF2Q243b3NxR2U0c0FiVXd0Qm9wLXpab1dBQnRVSlNiZzJOMEhYRGlPbklPSWZmNTlLMmZ5RUg4VVRsWG1saW9XZ0FOLWlCaFdHTGdiZ1VDeGtWZGxYaWI4T2xtenpwUzRyU051Y3BCTG1haDd4aHVVQ1Zlc0EyYnNtNVhyQzhvdDdWU3lvbjR2NQ?oc=5",
-    "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists"
+    "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists",
+    "https://www.euronews.com/video/2026/11/22/ukraine-dashcam-captures-massive-explosion-on-lviv-street"
   ],
   "processedSignatures": [
+    {
+      "title": "RUSSIAN BARRAGE TARGETS WESTERN UKRAINIAN LOGISTICS AND ENERGY HUBS",
+      "normalizedTokens": [
+        "russian",
+        "barrage",
+        "targets",
+        "western",
+        "ukrainian",
+        "logistics",
+        "energy",
+        "hubs"
+      ],
+      "date": "2026-11-22T05:02:04.889Z"
+    },
+    {
+      "title": "Ukraine: Dashcam captures massive explosion on Lviv street",
+      "normalizedTokens": [
+        "ukraine",
+        "dashcam",
+        "captures",
+        "massive",
+        "explosion",
+        "lviv",
+        "street"
+      ],
+      "date": "2026-11-22T05:02:04.887Z"
+    },
     {
       "title": "US CHARGES FOURTEEN IN TWENTY TWO MILLION DOLLAR TRAIN HEISTS",
       "normalizedTokens": [
