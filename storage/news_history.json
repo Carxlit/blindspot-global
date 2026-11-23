@@ -197,9 +197,40 @@
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZFRVY0w1ajMyTV9Xbm5zaS0tNXIxdjNjaW9DS2toc1kyMUdxcDFmS0xIbUgta0Jhb2Q0SWVudVlySTg2eHlHRURfaXp5UDE2OHFud0ZmRExfSFIyMUFQMzdTdHFidzBPUXQxUXRXWWVhTHYtUUx6V2VhclFFQWNzY3hkSm9Tc2pEREhsZDJUa25ZeDc3am5Xa20yelVkWE9pMTlrOXRWbDZ6OENHT25R?oc=5",
     "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZWpJV2NIRGR6cWxPVGdqQWszakhRTTlqNTEzSHk3djgxdFI4ZE85UGZEWTJxUjVkWWFFNENlOWI2amsxaEJ1NWpYQW05UTZEYXVIQTg3M0pIZUZfWnJZT0I1YktQOFgycjNuVUdSUzRQR3diNTVJSlJuZGhHOWNpTEY5VjhXeHQ4MWVEY2ZqZU53OElO?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1NktRWVM0S1dOeTU5MElMVWQwMk5jNGNDMVg0RFNhOGIxTTNrNHJSMFFfdWFPMUltZnUwd0g2THVpdWZzTk01M2lvejFCN0hDa1JIMEs1cUZtYjh3dzVLRXZ6aGlIOWNxdXRubnVxQWhueldfejdN?oc=5"
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1NktRWVM0S1dOeTU5MElMVWQwMk5jNGNDMVg0RFNhOGIxTTNrNHJSMFFfdWFPMUltZnUwd0g2THVpdWZzTk01M2lvejFCN0hDa1JIMEs1cUZtYjh3dzVLRXZ6aGlIOWNxdXRubnVxQWhueldfejdN?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTl4XzZoM3NxaG5raTlnemhKM2xYSDlpTUt5cERCeVlJQ2FFME5rczRsRk5DMFFnTWpHX3paMmFWRzhUeWtDelpJd1VMUlhCbV9VM2N5LUp3eUhqbE5zUndTcGxvbVZLQU93SEIxTURRc3hRUktFMTJUZHp5MFZxeUthbHNkTG0zdXVkcWxHcjJWa00?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "DENVER BRONCOS LEGEND AND ESPN ANALYST TOM JACKSON DIES AT 75",
+      "normalizedTokens": [
+        "denver",
+        "broncos",
+        "legend",
+        "espn",
+        "analyst",
+        "tom",
+        "jackson",
+        "dies"
+      ],
+      "date": "2026-11-23T05:02:20.314Z"
+    },
+    {
+      "title": "Tom Jackson, Broncos star and ESPN ‘Sunday NFL Countdown’ analyst, dead at 75",
+      "normalizedTokens": [
+        "tom",
+        "jackson",
+        "broncos",
+        "star",
+        "espn",
+        "sunday",
+        "nfl",
+        "countdown",
+        "analyst",
+        "dead"
+      ],
+      "date": "2026-11-23T05:02:20.303Z"
+    },
     {
       "title": "NATO PLEDGES FIRM DEFENSE OF POLAND AFTER MISSILE INCURSION",
       "normalizedTokens": [
