@@ -196,9 +196,36 @@
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXUxa0FLT1o3Tzh4MUR0MV9ZenU1LU9PZl9QSzhsQXlOQThFNUxWbWFXRXZTOHFpb1lJdG1GTV9hOUZsc2x4YzBOSzV3ZHZkV2pyNjNIaTVWZEViQ2lLb3JkcjJsbGhVNXFmWXQ5c0pDTkVXeG9IbmlKV3AxYUtfNE5DVnhWX3lvNmg0SF9SZ1lHQzEtSnY1REsycUlvWFVEOFlBSXR3?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZFRVY0w1ajMyTV9Xbm5zaS0tNXIxdjNjaW9DS2toc1kyMUdxcDFmS0xIbUgta0Jhb2Q0SWVudVlySTg2eHlHRURfaXp5UDE2OHFud0ZmRExfSFIyMUFQMzdTdHFidzBPUXQxUXRXWWVhTHYtUUx6V2VhclFFQWNzY3hkSm9Tc2pEREhsZDJUa25ZeDc3am5Xa20yelVkWE9pMTlrOXRWbDZ6OENHT25R?oc=5",
     "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZWpJV2NIRGR6cWxPVGdqQWszakhRTTlqNTEzSHk3djgxdFI4ZE85UGZEWTJxUjVkWWFFNENlOWI2amsxaEJ1NWpYQW05UTZEYXVIQTg3M0pIZUZfWnJZT0I1YktQOFgycjNuVUdSUzRQR3diNTVJSlJuZGhHOWNpTEY5VjhXeHQ4MWVEY2ZqZU53OElO?oc=5"
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZWpJV2NIRGR6cWxPVGdqQWszakhRTTlqNTEzSHk3djgxdFI4ZE85UGZEWTJxUjVkWWFFNENlOWI2amsxaEJ1NWpYQW05UTZEYXVIQTg3M0pIZUZfWnJZT0I1YktQOFgycjNuVUdSUzRQR3diNTVJSlJuZGhHOWNpTEY5VjhXeHQ4MWVEY2ZqZU53OElO?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1NktRWVM0S1dOeTU5MElMVWQwMk5jNGNDMVg0RFNhOGIxTTNrNHJSMFFfdWFPMUltZnUwd0g2THVpdWZzTk01M2lvejFCN0hDa1JIMEs1cUZtYjh3dzVLRXZ6aGlIOWNxdXRubnVxQWhueldfejdN?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "NATO PLEDGES FIRM DEFENSE OF POLAND AFTER MISSILE INCURSION",
+      "normalizedTokens": [
+        "nato",
+        "pledges",
+        "firm",
+        "defense",
+        "poland",
+        "missile",
+        "incursion"
+      ],
+      "date": "2026-11-23T03:02:11.276Z"
+    },
+    {
+      "title": "NATO Pledges to Defend Poland After Russian Missile Incursion",
+      "normalizedTokens": [
+        "nato",
+        "pledges",
+        "defend",
+        "poland",
+        "russian",
+        "missile",
+        "incursion"
+      ],
+      "date": "2026-11-23T03:02:11.275Z"
+    },
     {
       "title": "US INTELLIGENCE CHIEF DEFENDS TRUMP FRIENDSHIP WITH PUTIN",
       "normalizedTokens": [
