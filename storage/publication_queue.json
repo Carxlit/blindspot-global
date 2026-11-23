@@ -1,147 +1,5 @@
 [
   {
-    "id": "queue-1794396301651-v92qb",
-    "news": {
-      "id": "tmdgl1at2",
-      "originalUrl": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
-      "originalTitle": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
-      "sourceName": "MarketWatch",
-      "category": "GLOBAL ECONOMY",
-      "urgencyScore": 78,
-      "headline": "COREWEAVE DEBT CONCERNS EASE AFTER NINE BILLION PREPAYMENTS",
-      "subHeadline": "CoreWeave reported a third-quarter revenue beat while securing $9 billion in customer prepayments, stabilizing its debt-heavy balance sheet.",
-      "blindSpotAngle": "While markets celebrated $9 billion in upfront client prepayments, the mechanism effectively transfers compute capital risks directly to end-customers. CoreWeave's reliance on heavily leveraged GPU hardware clusters reveals how neocloud providers are insulating themselves by turning corporate clients into default lenders.",
-      "facebookPost": "CoreWeave reported a third-quarter revenue beat while highlighting $9 billion in customer prepayments to soothe market anxieties over its debt burden. Mainstream financial media framed this as a decisive validation of the specialized AI cloud infrastructure provider.\n\nThe underlying calculus reveals a deeper shift in capital allocation. By relying on prepayments to offload debt financing risks, CoreWeave is shifting high-yield exposure to its enterprise customers, who are effectively underwriting Nvidia GPU deployments ahead of actual capacity utilization.\n\nAs hyper-scalers finance compute commitments years in advance, does this unprecedented prepayment playbook mitigate systemic AI risk or merely conceal capital inefficiency?\n\nSource: MarketWatch\n\n#GlobalEconomy #TechFinance #Blindspot",
-      "telegramPost": "<b>COREWEAVE DEBT CONCERNS EASE AFTER NINE BILLION PREPAYMENTS</b>\n\n• <b>What happened:</b> CoreWeave delivered a Q3 revenue beat alongside $9 billion in planned client prepayments, reassuring markets regarding its debt structure.\n• <b>Why it matters:</b> The prepayment architecture allows specialized cloud operators to leverage customer commitments to fund massive Nvidia GPU acquisitions, offloading credit risk.\n• <b>What is next:</b> Expect rival neocloud operators to replicate this prepayment strategy to maintain capital expenditures as public credit markets tighten.",
-      "linkedInPost": "CoreWeave’s Q3 earnings beat and $9 billion prepayment commitment mark a pivotal evolution in capital structuring for AI infrastructure. By securing capital upfront from enterprise clients, the specialized cloud provider effectively insulates its heavily leveraged Nvidia GPU acquisition strategy from immediate debt servicing shocks.\n\nFrom a macro-risk perspective, this shift highlights how AI infrastructure capital requirements are outgrowing traditional debt markets. Hyperscalers and large enterprises are becoming default balance-sheet backers for compute providers. While this mitigates immediate insolvency concerns for specialized operators, it creates concentrated counterparty risks across the supply chain should downstream monetization stall.\n\nExecutives and sovereign wealth allocators must assess whether prepayment structures represent sustainable capital efficiency or an artificially inflated defense mechanism against rising borrowing costs.\n\nSource: MarketWatch\n\n#GlobalEconomy #RiskManagement #Blindspot",
-      "blueskyPost": "CoreWeave's $9 billion in prepayments calms debt markets, but offloading compute risk onto clients highlights structural fragility in the AI boom. #Blindspot #GlobalEconomy",
-      "copies": {
-        "facebook": "CoreWeave reported a third-quarter revenue beat while highlighting $9 billion in customer prepayments to soothe market anxieties over its debt burden. Mainstream financial media framed this as a decisive validation of the specialized AI cloud infrastructure provider.\n\nThe underlying calculus reveals a deeper shift in capital allocation. By relying on prepayments to offload debt financing risks, CoreWeave is shifting high-yield exposure to its enterprise customers, who are effectively underwriting Nvidia GPU deployments ahead of actual capacity utilization.\n\nAs hyper-scalers finance compute commitments years in advance, does this unprecedented prepayment playbook mitigate systemic AI risk or merely conceal capital inefficiency? #GlobalEconomy #TechFinance #Blindspot",
-        "telegram": "<b>COREWEAVE DEBT CONCERNS EASE AFTER NINE BILLION PREPAYMENTS</b>\n\n• <b>What happened:</b> CoreWeave delivered a Q3 revenue beat alongside $9 billion in planned client prepayments, reassuring markets regarding its debt structure.\n• <b>Why it matters:</b> The prepayment architecture allows specialized cloud operators to leverage customer commitments to fund massive Nvidia GPU acquisitions, offloading credit risk.\n• <b>What is next:</b> Expect rival neocloud operators to replicate this prepayment strategy to maintain capital expenditures as public credit markets tighten.",
-        "bluesky": "CoreWeave's $9 billion in prepayments calms debt markets, but offloading compute risk onto clients highlights structural fragility in the AI boom. #Blindspot #GlobalEconomy",
-        "linkedIn": "CoreWeave’s Q3 earnings beat and $9 billion prepayment commitment mark a pivotal evolution in capital structuring for AI infrastructure. By securing capital upfront from enterprise clients, the specialized cloud provider effectively insulates its heavily leveraged Nvidia GPU acquisition strategy from immediate debt servicing shocks.\n\nFrom a macro-risk perspective, this shift highlights how AI infrastructure capital requirements are outgrowing traditional debt markets. Hyperscalers and large enterprises are becoming default balance-sheet backers for compute providers. While this mitigates immediate insolvency concerns for specialized operators, it creates concentrated counterparty risks across the supply chain should downstream monetization stall.\n\nExecutives and sovereign wealth allocators must assess whether prepayment structures represent sustainable capital efficiency or an artificially inflated defense mechanism against rising borrowing costs. #GlobalEconomy #RiskManagement #Blindspot"
-      },
-      "article": {
-        "slug": "coreweave-structuring-9-billion-customer-prepayments-bogw",
-        "title": "CoreWeave Structuring $9 Billion in Customer Prepayments Reshapes AI Infrastructure Debt Risk",
-        "dek": "CoreWeave beat third-quarter revenue expectations while securing $9 billion in client prepayments. The novel financing strategy mitigates debt exposure but transfers structural compute risk directly to clients.",
-        "keyFacts": [
-          "CoreWeave reported a revenue beat for its third quarter.",
-          "The company secured $9 billion in planned customer prepayments.",
-          "The prepayments directly address market concerns regarding CoreWeave's accumulated debt burden."
-        ],
-        "sections": [
-          {
-            "heading": "What Happened",
-            "paragraphs": [
-              "Specialized cloud provider CoreWeave reported a third-quarter revenue beat alongside $9 billion in planned prepayments from major commercial clients, according to MarketWatch. The financial update provided immediate relief to investors concerned about the company's aggressive debt-funded expansion strategy.",
-              "CoreWeave has accumulated debt to purchase specialized Nvidia graphics processing units (GPUs) and build out high-performance data centers. The market reaction reflected newfound confidence in the company's ability to service its financial obligations through direct customer commitments."
-            ]
-          },
-          {
-            "heading": "The Context",
-            "paragraphs": [
-              "The rapid expansion of artificial intelligence applications has triggered unprecedented demand for specialized compute infrastructure. Specialized operators known as neoclouds have stepped in to meet this demand, operating outside traditional public cloud giants like Amazon Web Services or Microsoft Azure.",
-              "To fund the acquisition of thousands of high-demand Nvidia processors, these specialized firms relied on debt markets and asset-backed loans using GPU hardware as collateral. As interest rates remained elevated and market scrutiny intensified, questions arose regarding the viability of servicing large debt loads before long-term software monetization materialized."
-            ]
-          },
-          {
-            "heading": "The Blind Spot",
-            "paragraphs": [
-              "While Wall Street interprets $9 billion in prepayments as a straightforward credit positive, the underlying mechanism represents a fundamental transfer of risk across the tech ecosystem. Rather than relying on traditional bank syndications or corporate bonds, specialized cloud providers are converting their customers into quasi-lenders.",
-              "This capital model binds enterprise clients to long-term compute commitments regardless of whether their internal AI applications generate positive returns. By locking in capital years before compute capacity is fully deployed, the balance-sheet liability is effectively transferred from the infrastructure provider to the client, creating a systemic risk buffer that hides potential capital inefficiencies in the sector."
-            ]
-          },
-          {
-            "heading": "Winners and Losers",
-            "paragraphs": [
-              "CoreWeave and hardware suppliers like Nvidia emerge as immediate winners, securing upfront liquidity and guaranteed hardware orders without diluting equity or taking on traditional high-yield debt terms.",
-              "Enterprise customers and specialized capital funds face heightened downside risk. Should AI deployment timelines slip or compute costs fall significantly, clients who prepaid at peak valuation rates will absorb the write-downs, bearing the financial burden of an overbuilt physical stack."
-            ]
-          },
-          {
-            "heading": "What to Watch",
-            "paragraphs": [
-              "Industry analysts will watch whether competing specialized cloud infrastructure companies adopt similar prepayment structures to service their own debt obligations. Furthermore, upcoming quarterly disclosures from hyperscalers will indicate the extent to which these upfront payments are impacting cash reserves and operational cash flows across the sector."
-            ]
-          }
-        ],
-        "tags": [
-          "CoreWeave",
-          "AI Infrastructure",
-          "Nvidia",
-          "Corporate Debt",
-          "Global Economy"
-        ],
-        "sources": [
-          {
-            "name": "MarketWatch",
-            "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
-            "url": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories"
-          }
-        ],
-        "wordCount": 406
-      },
-      "videoScript": {
-        "hook": "CoreWeave just used customer money to settle Wall Street debt concerns.",
-        "beats": [
-          "The specialized cloud provider beat Q3 revenue expectations by locking in heavy upfront commitments.",
-          "These $9 billion prepayments allow the firm to purchase GPU clusters without high-interest loans.",
-          "What nobody is talking about is how enterprise clients are taking on the balance-sheet risk."
-        ],
-        "close": "Read our full analysis on the AI debt playbook at the link in bio."
-      },
-      "rawImageUrl": "https://images.mktw.net/im-04728199",
-      "status": "published",
-      "createdAt": "2026-11-11T11:24:59.238Z",
-      "cardImageUrl": "/news-cards/news-tmdgl1at2-1794396299238.jpg",
-      "reelCoverUrl": "/news-cards/news-tmdgl1at2-1794396299901-cover.jpg",
-      "instagramCardUrl": "/news-cards/news-tmdgl1at2-1794396300521-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/coreweave-structuring-9-billion-customer-prepayments-bogw/",
-      "publishedAt": "2026-11-11T12:18:09.388Z"
-    },
-    "channels": {
-      "facebook": true,
-      "telegram": false,
-      "bluesky": false,
-      "linkedIn": false,
-      "instagram": true,
-      "facebookReel": true,
-      "mastodon": false,
-      "threads": false,
-      "youtube": true
-    },
-    "scheduledFor": "2026-11-11T12:16:12.809Z",
-    "status": "published",
-    "attempts": 1,
-    "maxAttempts": 3,
-    "createdAt": "2026-11-11T11:25:01.651Z",
-    "lastAttemptAt": "2026-11-11T12:16:28.154Z",
-    "results": {
-      "facebook": {
-        "success": true,
-        "postId": "122105109231539825",
-        "simulated": false
-      },
-      "instagram": {
-        "success": true,
-        "mediaId": "18199177108350266",
-        "permalink": "https://www.instagram.com/reel/DfmdlJQCpkp/"
-      },
-      "facebookReel": {
-        "success": false,
-        "skipped": true,
-        "error": "Noticia sin video libre: solo post con imagen"
-      },
-      "youtube": {
-        "success": false,
-        "skipped": true,
-        "error": "Noticia sin video libre: no se sube a YouTube"
-      }
-    },
-    "publishedAt": "2026-11-11T12:18:09.388Z"
-  },
-  {
     "id": "queue-1794396732265-4cs9g",
     "news": {
       "id": "o83qa4hox",
@@ -24002,12 +23860,13 @@
         "channel": "Lamont Tyson",
         "license": "cc-by"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-23T02:02:06.357Z",
       "cardImageUrl": "/news-cards/news-lpkvc0qml-1795399326357.jpg",
       "reelCoverUrl": "/news-cards/news-lpkvc0qml-1795399326917-cover.jpg",
       "instagramCardUrl": "/news-cards/news-lpkvc0qml-1795399327415-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/us-intelligence-chief-says-calling-putin-85zd/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/us-intelligence-chief-says-calling-putin-85zd/",
+      "publishedAt": "2026-11-23T11:17:25.959Z"
     },
     "channels": {
       "facebook": true,
@@ -24021,10 +23880,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-23T11:17:00.000Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-23T02:02:08.535Z"
+    "createdAt": "2026-11-23T02:02:08.535Z",
+    "lastAttemptAt": "2026-11-23T11:17:15.337Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122112686973539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": false,
+        "skipped": true,
+        "error": "Estrategia IG: fuera de la franja 18:00–21:00 (Bogotá); el Reel se reprograma a la franja"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Reel no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "YouTube: tope diario de 3 Shorts alcanzado"
+      }
+    },
+    "publishedAt": "2026-11-23T11:17:25.959Z"
   },
   {
     "id": "queue-1795402931261-8zwav",
@@ -24823,5 +24706,150 @@
       }
     },
     "publishedAt": "2026-11-23T05:50:26.680Z"
+  },
+  {
+    "id": "queue-1795432644069-nzj1j",
+    "news": {
+      "id": "lpkvc0qml",
+      "originalUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZWpJV2NIRGR6cWxPVGdqQWszakhRTTlqNTEzSHk3djgxdFI4ZE85UGZEWTJxUjVkWWFFNENlOWI2amsxaEJ1NWpYQW05UTZEYXVIQTg3M0pIZUZfWnJZT0I1YktQOFgycjNuVUdSUzRQR3diNTVJSlJuZGhHOWNpTEY5VjhXeHQ4MWVEY2ZqZU53OElO?oc=5",
+      "originalTitle": "US intelligence chief says Trump’s description of Putin as a ‘friend’ is ‘entirely appropriate’",
+      "sourceName": "AP News",
+      "category": "POWER & SOCIETY",
+      "urgencyScore": 82,
+      "headline": "US INTELLIGENCE CHIEF DEFENDS TRUMP FRIENDSHIP WITH PUTIN",
+      "subHeadline": "The US intelligence chief declared that Donald Trump describing Vladimir Putin as a friend is entirely appropriate, amid broader discussions of trilateral engagements.",
+      "blindSpotAngle": "Mainstream reports focus entirely on the political optics and rhetorical flourishes of labeling an adversary a friend. The deeper institutional shift involves how intelligence leadership aligns public narrative normalization with backchannel diplomacy involving major global actors like Xi and Putin.",
+      "facebookPost": "The official narrative treats presidential rhetoric regarding foreign adversaries as mere campaign theater or diplomatic friction. Yet when a top US intelligence chief publicly endorses calling Vladimir Putin a friend, the framework of traditional statecraft shifts fundamentally.\n\nBeneath the surface of public debates over trilateral summits and market reactions lies an institutional realignment that bypasses decades of conventional deterrence theory. How does traditional intelligence assessment survive when personal political alignments dictate geopolitical strategy?\n\nSource: AP News\n\n📖 Full analysis & sources in the first comment 👇\n\n#Power #Diplomacy #Blindspot",
+      "telegramPost": "<b>US INTELLIGENCE CHIEF DEFENDS TRUMP FRIENDSHIP WITH PUTIN</b>\n\n• <b>What happened:</b> The US intelligence chief publicly stated that Donald Trump's description of Vladimir Putin as a friend is entirely appropriate.\n• <b>Why it matters:</b> It marks a rare public validation by national security leadership of personal transactional diplomacy involving major geopolitical rivals like Putin and Xi.\n• <b>What is next:</b> Markets and foreign policy observers will monitor how these trilateral dynamics influence trade policies, security postures, and global market stability.",
+      "linkedInPost": "Institutional guardrails in foreign policy are undergoing a quiet reconfiguration. When national security leadership publicly endorses personal political alignments with geopolitical adversaries, corporate risk assessments and macroeconomic forecasts must account for highly volatile shifts in statecraft. Multinationals navigating trade policy and cross-border risk can no longer rely on predictable, institutionalized diplomatic channels.\n\nSource: AP News\n\nFull analysis: https://blindspotglobal.pages.dev/news/us-intelligence-chief-says-calling-putin-85zd/\n\n#GlobalEconomy #Geopolitics #Blindspot",
+      "blueskyPost": "When US intelligence endorses calling Putin a friend, the real story isn't the rhetoric. It's the institutional normalization of personal diplomacy among global rivals. #Blindspot #Power",
+      "copies": {
+        "facebook": "The official narrative treats presidential rhetoric regarding foreign adversaries as mere campaign theater or diplomatic friction. Yet when a top US intelligence chief publicly endorses calling Vladimir Putin a friend, the framework of traditional statecraft shifts fundamentally.\n\nBeneath the surface of public debates over trilateral summits and market reactions lies an institutional realignment that bypasses decades of conventional deterrence theory. How does traditional intelligence assessment survive when personal political alignments dictate geopolitical strategy? #Power #Diplomacy #Blindspot",
+        "telegram": "<b>US INTELLIGENCE CHIEF DEFENDS TRUMP FRIENDSHIP WITH PUTIN</b>\n\n• <b>What happened:</b> The US intelligence chief publicly stated that Donald Trump's description of Vladimir Putin as a friend is entirely appropriate.\n• <b>Why it matters:</b> It marks a rare public validation by national security leadership of personal transactional diplomacy involving major geopolitical rivals like Putin and Xi.\n• <b>What is next:</b> Markets and foreign policy observers will monitor how these trilateral dynamics influence trade policies, security postures, and global market stability.",
+        "bluesky": "When US intelligence endorses calling Putin a friend, the real story isn't the rhetoric. It's the institutional normalization of personal diplomacy among global rivals. #Blindspot #Power",
+        "linkedIn": "Institutional guardrails in foreign policy are undergoing a quiet reconfiguration. When national security leadership publicly endorses personal political alignments with geopolitical adversaries, corporate risk assessments and macroeconomic forecasts must account for highly volatile shifts in statecraft. Multinationals navigating trade policy and cross-border risk can no longer rely on predictable, institutionalized diplomatic channels. #GlobalEconomy #Geopolitics #Blindspot"
+      },
+      "article": {
+        "slug": "us-intelligence-chief-says-calling-putin-85zd",
+        "title": "US intelligence chief says calling Putin a friend is entirely appropriate",
+        "dek": "Recent statements from US intelligence leadership endorsing Donald Trump's rhetoric point to a deeper shift in how major powers manage high-stakes diplomacy. Markets and traditional security analysts are forced to reevaluate the mechanics of trilateral engagement.",
+        "keyFacts": [
+          "The US intelligence chief stated that Trump's description of Putin as a 'friend' is 'entirely appropriate'.",
+          "Coverage highlights discussions involving a trilateral framework with Xi, Trump, and Putin.",
+          "Asian stocks and global markets reacted to broader factors including Wall Street declines and muted summit expectations."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "According to reports from AP News and international outlets, the head of US intelligence defended Donald Trump's characterization of Russian President Vladimir Putin as a friend, calling the label entirely appropriate. This statement emerged alongside broader reports regarding potential trilateral dialogues involving leaders such as Xi Jinping, Vladimir Putin, and Donald Trump.",
+              "The remarks underscore a departure from conventional diplomatic caution, blending high-level intelligence messaging with personal political rhetoric."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "Discussions of trilateral frameworks involving the United States, Russia, and China regularly generate intense scrutiny across global markets and security desks. Financial platforms like TradingView noted muted market reactions and broader economic pressures, including Asian stock slumps tied to Wall Street declines and central bank monetary stances.",
+              "Against this backdrop of economic friction, the political choreography between Washington, Moscow, and Beijing remains central to global stability."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "While mainstream commentary fixates on the political symbolism of the word 'friend', the substantive blind spot lies within the institutional apparatus of the state. Intelligence agencies traditionally maintain a posture of adversarial assessment, keeping formal distance from political rhetoric. When intelligence leadership validates personal political labels for foreign autocrats, it signals a structural blurring between partisan foreign policy and permanent state security apparatuses.",
+              "This shift alters how foreign allies and adversaries calculate commitments, moving away from predictable treaty frameworks toward personalized transactional leverage."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "Proponents of transactional diplomacy gain immediate operational flexibility, bypassing bureaucratic stagnation to pursue direct negotiations with rival heads of state. Conversely, traditional allies relying on predictable institutional alliances bear the strategic cost.",
+              "Global financial markets also face heightened volatility as long-term strategic commitments become subject to rapid, personality-driven shifts."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "Observers should monitor how intelligence agencies adapt their internal analytical frameworks to accommodate personalized foreign policy directives. Further developments in trilateral diplomatic channels between the US, Russia, and China will test the resilience of existing security architectures."
+            ]
+          }
+        ],
+        "tags": [
+          "Intelligence",
+          "Diplomacy",
+          "Geopolitics",
+          "Security",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "AP News",
+            "title": "US intelligence chief says Trump’s description of Putin as a ‘friend’ is ‘entirely appropriate’",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZWpJV2NIRGR6cWxPVGdqQWszakhRTTlqNTEzSHk3djgxdFI4ZE85UGZEWTJxUjVkWWFFNENlOWI2amsxaEJ1NWpYQW05UTZEYXVIQTg3M0pIZUZfWnJZT0I1YktQOFgycjNuVUdSUzRQR3diNTVJSlJuZGhHOWNpTEY5VjhXeHQ4MWVEY2ZqZU53OElO?oc=5"
+          },
+          {
+            "name": "La Nación",
+            "title": "US intelligence chief says Trump's description of Putin as a 'friend' is 'entirely appropriate'",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMmhTUmJ4UUtTQ2RQZXliVVhaSlVkYVdQbVlkRlpmbGc2dXpfd2xmR3hPa19BbUFYb05pYllOa3B1OGV3R09Zejl3X0xFc1ZEREF2NERUZHNKMGVGdXk5elViZEU4X3pTWUhwQTVpSk1lUkFlNXNJbk9jckthR3JtSHRUd1RxYmtsekYwZUk4RmNfZkIxT1BDak55aU1hSnRMRFF5ckhRbktSTkNWS0pWTDEyMUNyTzgzNklvQ1FGdmVwNllxYUQtd3JvS3haUDdV?oc=5"
+          },
+          {
+            "name": "CNN en Español",
+            "title": "US intelligence chief says calling Putin a friend is entirely appropriate (CNN en Español)",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcTZoQlF1X2EwUjJaLUhkUjBBX0xHMzZscTZSMFZYeXBZbEhtVFJtc0c2UkRsSmlXRVd3V2xYeTBRazc5THpNLXFDc1BvWjlfX09VbW5wdUJCYk53dkw2VG9FMzIxNHhEY1VUUkxQRnNWbm1EWEZCb3hkY0NuNXhJTkJYUmtBdw?oc=5"
+          },
+          {
+            "name": "Asociación Almendrón",
+            "title": "What Trump Should Have Said to Putin",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BTl94UjdCSzY4VjZRbEhSVXFjMXluNjZPRXIwaUJTVjNVYXpxSDRPVXBZWGQyQXFCLVYza1hLdFIybmJwMnpxRDhyajNQUmNmVVFONHhHcC1XeTlvdlFCWC1WQXY0RXVoYkJQTF94NEZyU3NNeW5NOElSZw?oc=5"
+          },
+          {
+            "name": "TradingView",
+            "title": "Asian stocks slump on Wall Street decline, PBoC rate hold, hotter Japan inflation, and muted Xi-Trump-Putin summit",
+            "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOMzJjQ2xOUy1jZzFZRFNEWVp0RUowd09lUnBIVjRYWGRDVlB6YzBzS2JJOWVmTFBKRklEQVZfNmprTDhkejNxZTdwaXZXQXlMSm9jclhNVmZYZXU3TE1kVkp6c2RFLVlnS2kxMnVoYWdjbHhjUmxBeGw1NV9mQk5BM3FlekZURDlpNVJvR1g5dTRJdVVzRW9qTy1GR3JGVUtmUEYyaXJxMUl4SVduTzdha3lkcUtBT1NrZW5kSGtJSjM0UURobXRscDNETjVJdmtpRUpRQTl2QnVMamptWnJDcHczbmlCc2tSdFhSaGI3aWtyYWJKOThqWU5mOWJIc19Ua0lJ?oc=5"
+          }
+        ],
+        "wordCount": 340
+      },
+      "videoScript": {
+        "hook": "Why did the top US intelligence chief defend calling Putin a friend?",
+        "beats": [
+          "Public remarks supporting the characterization of Vladimir Putin as a friend signal a profound shift in American statecraft.",
+          "Mainstream coverage focuses on the rhetoric, but the real story is the institutional backing of personalized diplomacy.",
+          "What nobody is talking about is how this erodes traditional deterrence and alters global security norms."
+        ],
+        "close": "Read the full analysis at the link in bio."
+      },
+      "rawImageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2306089773.jpg?c=16x9&q=w_800,c_fill",
+      "sourceVideo": {
+        "provider": "youtube",
+        "id": "-ZhZffWGrsA",
+        "title": "Trump Calls Putin His FRIEND Amid Iran Allegations! #Trump #Putin #Iran",
+        "channel": "Lamont Tyson",
+        "license": "cc-by"
+      },
+      "status": "pending",
+      "createdAt": "2026-11-23T02:02:06.357Z",
+      "cardImageUrl": "/news-cards/news-lpkvc0qml-1795399326357.jpg",
+      "reelCoverUrl": "/news-cards/news-lpkvc0qml-1795399326917-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-lpkvc0qml-1795399327415-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/us-intelligence-chief-says-calling-putin-85zd/"
+    },
+    "channels": {
+      "facebook": false,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": false,
+      "mastodon": false,
+      "threads": false,
+      "youtube": false
+    },
+    "scheduledFor": "2026-11-23T23:00:00.000Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-23T11:17:24.069Z",
+    "igDeferred": true
   }
 ]

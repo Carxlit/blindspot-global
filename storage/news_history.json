@@ -205,6 +205,32 @@
   ],
   "processedSignatures": [
     {
+      "title": "US INTELLIGENCE CHIEF DEFENDS TRUMP FRIENDSHIP WITH PUTIN",
+      "normalizedTokens": [
+        "intelligence",
+        "chief",
+        "defends",
+        "trump",
+        "friendship",
+        "putin"
+      ],
+      "date": "2026-11-23T11:17:24.092Z"
+    },
+    {
+      "title": "US intelligence chief says Trump’s description of Putin as a ‘friend’ is ‘entirely appropriate’",
+      "normalizedTokens": [
+        "intelligence",
+        "chief",
+        "trump",
+        "description",
+        "putin",
+        "friend",
+        "entirely",
+        "appropriate"
+      ],
+      "date": "2026-11-23T11:17:24.090Z"
+    },
+    {
       "title": "RUSSIA STRIKES KYIV REGION LEAVING AT LEAST FOURTEEN DEAD",
       "normalizedTokens": [
         "russia",
