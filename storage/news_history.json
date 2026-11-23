@@ -194,9 +194,38 @@
     "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss",
     "https://www.aljazeera.com/news/2026/11/22/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXUxa0FLT1o3Tzh4MUR0MV9ZenU1LU9PZl9QSzhsQXlOQThFNUxWbWFXRXZTOHFpb1lJdG1GTV9hOUZsc2x4YzBOSzV3ZHZkV2pyNjNIaTVWZEViQ2lLb3JkcjJsbGhVNXFmWXQ5c0pDTkVXeG9IbmlKV3AxYUtfNE5DVnhWX3lvNmg0SF9SZ1lHQzEtSnY1REsycUlvWFVEOFlBSXR3?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZFRVY0w1ajMyTV9Xbm5zaS0tNXIxdjNjaW9DS2toc1kyMUdxcDFmS0xIbUgta0Jhb2Q0SWVudVlySTg2eHlHRURfaXp5UDE2OHFud0ZmRExfSFIyMUFQMzdTdHFidzBPUXQxUXRXWWVhTHYtUUx6V2VhclFFQWNzY3hkSm9Tc2pEREhsZDJUa25ZeDc3am5Xa20yelVkWE9pMTlrOXRWbDZ6OENHT25R?oc=5"
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZFRVY0w1ajMyTV9Xbm5zaS0tNXIxdjNjaW9DS2toc1kyMUdxcDFmS0xIbUgta0Jhb2Q0SWVudVlySTg2eHlHRURfaXp5UDE2OHFud0ZmRExfSFIyMUFQMzdTdHFidzBPUXQxUXRXWWVhTHYtUUx6V2VhclFFQWNzY3hkSm9Tc2pEREhsZDJUa25ZeDc3am5Xa20yelVkWE9pMTlrOXRWbDZ6OENHT25R?oc=5",
+    "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple"
   ],
   "processedSignatures": [
+    {
+      "title": "CRITICAL INFRASTRUCTURE FAILURES EXPOSE SYSTEMIC LEGACY DEBT ACROSS WESTERN TECH",
+      "normalizedTokens": [
+        "critical",
+        "infrastructure",
+        "failures",
+        "expose",
+        "systemic",
+        "legacy",
+        "debt",
+        "across",
+        "western",
+        "tech"
+      ],
+      "date": "2026-11-23T01:03:39.438Z"
+    },
+    {
+      "title": "Hacks, AI and conspiracy theories: why are we having so many outages?",
+      "normalizedTokens": [
+        "hacks",
+        "conspiracy",
+        "theories",
+        "having",
+        "many",
+        "outages"
+      ],
+      "date": "2026-11-23T01:03:39.437Z"
+    },
     {
       "title": "COP31 CLIMATE TALKS COLLAPSE OVER FOSSIL FUEL DISAGREEMENT",
       "normalizedTokens": [
