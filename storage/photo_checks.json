@@ -1178,5 +1178,10 @@
     "relevant": true,
     "reason": "The image depicts Tom Jackson, the former Denver Broncos linebacker mentioned in the headline, during his football career.",
     "at": "2026-11-23T05:02:18.026Z"
+  },
+  "e62e031bf2752eb0:jwtaf3p3x": {
+    "relevant": true,
+    "reason": "The satellite image shows a port with smoke rising from an attack, directly depicting the location and event described in the headline.",
+    "at": "2026-11-23T05:16:52.279Z"
   }
 }
