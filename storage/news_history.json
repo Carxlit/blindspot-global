@@ -195,9 +195,36 @@
     "https://www.aljazeera.com/news/2026/11/22/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXUxa0FLT1o3Tzh4MUR0MV9ZenU1LU9PZl9QSzhsQXlOQThFNUxWbWFXRXZTOHFpb1lJdG1GTV9hOUZsc2x4YzBOSzV3ZHZkV2pyNjNIaTVWZEViQ2lLb3JkcjJsbGhVNXFmWXQ5c0pDTkVXeG9IbmlKV3AxYUtfNE5DVnhWX3lvNmg0SF9SZ1lHQzEtSnY1REsycUlvWFVEOFlBSXR3?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZFRVY0w1ajMyTV9Xbm5zaS0tNXIxdjNjaW9DS2toc1kyMUdxcDFmS0xIbUgta0Jhb2Q0SWVudVlySTg2eHlHRURfaXp5UDE2OHFud0ZmRExfSFIyMUFQMzdTdHFidzBPUXQxUXRXWWVhTHYtUUx6V2VhclFFQWNzY3hkSm9Tc2pEREhsZDJUa25ZeDc3am5Xa20yelVkWE9pMTlrOXRWbDZ6OENHT25R?oc=5",
-    "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple"
+    "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZWpJV2NIRGR6cWxPVGdqQWszakhRTTlqNTEzSHk3djgxdFI4ZE85UGZEWTJxUjVkWWFFNENlOWI2amsxaEJ1NWpYQW05UTZEYXVIQTg3M0pIZUZfWnJZT0I1YktQOFgycjNuVUdSUzRQR3diNTVJSlJuZGhHOWNpTEY5VjhXeHQ4MWVEY2ZqZU53OElO?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "US INTELLIGENCE CHIEF DEFENDS TRUMP FRIENDSHIP WITH PUTIN",
+      "normalizedTokens": [
+        "intelligence",
+        "chief",
+        "defends",
+        "trump",
+        "friendship",
+        "putin"
+      ],
+      "date": "2026-11-23T02:02:08.555Z"
+    },
+    {
+      "title": "US intelligence chief says Trump’s description of Putin as a ‘friend’ is ‘entirely appropriate’",
+      "normalizedTokens": [
+        "intelligence",
+        "chief",
+        "trump",
+        "description",
+        "putin",
+        "friend",
+        "entirely",
+        "appropriate"
+      ],
+      "date": "2026-11-23T02:02:08.553Z"
+    },
     {
       "title": "CRITICAL INFRASTRUCTURE FAILURES EXPOSE SYSTEMIC LEGACY DEBT ACROSS WESTERN TECH",
       "normalizedTokens": [
