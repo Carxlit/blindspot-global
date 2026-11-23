@@ -205,6 +205,32 @@
   ],
   "processedSignatures": [
     {
+      "title": "NATO PLEDGES FIRM DEFENSE OF POLAND AFTER MISSILE INCURSION",
+      "normalizedTokens": [
+        "nato",
+        "pledges",
+        "firm",
+        "defense",
+        "poland",
+        "missile",
+        "incursion"
+      ],
+      "date": "2026-11-23T12:20:22.534Z"
+    },
+    {
+      "title": "NATO Pledges to Defend Poland After Russian Missile Incursion",
+      "normalizedTokens": [
+        "nato",
+        "pledges",
+        "defend",
+        "poland",
+        "russian",
+        "missile",
+        "incursion"
+      ],
+      "date": "2026-11-23T12:20:22.532Z"
+    },
+    {
       "title": "US INTELLIGENCE CHIEF DEFENDS TRUMP FRIENDSHIP WITH PUTIN",
       "normalizedTokens": [
         "intelligence",
