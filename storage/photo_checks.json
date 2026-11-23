@@ -1193,5 +1193,10 @@
     "relevant": true,
     "reason": "The image shows rescue workers carrying a body bag from a destroyed building, directly illustrating the tragic aftermath of deadly aerial strikes in Ukraine.",
     "at": "2026-11-23T05:46:47.958Z"
+  },
+  "58db5cc7745dd15c:tpuhwsrgg": {
+    "relevant": false,
+    "reason": "The image shows a slide about Reasons for State Intervention regarding economic principles, which is unrelated to Nvidia, Jensen Huang, or White House intervention.",
+    "at": "2026-11-23T23:04:49.014Z"
   }
 }

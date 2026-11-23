@@ -1,5 +1,108 @@
 [
   {
+    "slug": "state-intervention-overrides-corporate-ethics-nvidia-ypqy",
+    "path": "news/state-intervention-overrides-corporate-ethics-nvidia-ypqy/",
+    "title": "State intervention overrides corporate ethics in Nvidia chief executive reinstatement",
+    "headline": "WHITE HOUSE INTERVENTION REINSTATES NVIDIA CHIEF AFTER ESPIONAGE SCRUTINY",
+    "dek": "Jensen Huang returns to lead the semiconductor giant 12 days after his resignation over personal affairs and national security concerns. White House pressure underscores the shifting boundary between corporate sovereignty and state power.",
+    "category": "TECHNOLOGY & AI",
+    "sourceName": "The Verge",
+    "image": "img/state-intervention-overrides-corporate-ethics-nvidia-ypqy.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "7eK3uF4HyPU",
+      "title": "Jensen Huang Is Back at Nvidia. The AI Debt Risk Never Left",
+      "channel": "Agents of Tech",
+      "license": "cc-by"
+    },
+    "publishedAt": "2026-11-23T23:04:50.641Z",
+    "article": {
+      "slug": "state-intervention-overrides-corporate-ethics-nvidia-ypqy",
+      "title": "State intervention overrides corporate ethics in Nvidia chief executive reinstatement",
+      "dek": "Jensen Huang returns to lead the semiconductor giant 12 days after his resignation over personal affairs and national security concerns. White House pressure underscores the shifting boundary between corporate sovereignty and state power.",
+      "keyFacts": [
+        "Jensen Huang resigned as Nvidia CEO on November 12th following allegations of affairs and intelligence leaks.",
+        "Nvidia holds a market capitalization exceeding $4 trillion and dominates global AI chip hardware.",
+        "The White House directly intervened, leading to Huang's reinstatement on November 23rd.",
+        "CFO Colette Kress temporarily served as interim CEO during the 12-day leadership gap."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "On November 23rd, Nvidia’s board of directors announced the reinstatement of co-founder Jensen Huang as chief executive officer, exactly 12 days after accepting his resignation. Huang had stepped down on November 12th amid revelations regarding unfaithful relationships, including an affair with Alice Huang, an executive at Singapore-based Megaspeed under investigation for potentially smuggling AI chips to China. During the interim period, Chief Financial Officer Colette Kress had assumed the role of temporary chief executive.",
+            "The decision to restore Huang followed direct communication from senior levels of the United States government. President Donald Trump publicly confirmed his involvement in persuading Nvidia's board to reverse its decision, citing the imperative of maintaining leadership continuity at the hardware backbone of the American artificial intelligence push."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Nvidia’s rapid growth has elevated its market capitalization beyond $4 trillion, positioning the firm as the indispensable foundation of global technology infrastructure. The company’s advanced graphic processing units power state-of-the-art machine learning models, placing Nvidia at the center of escalating trade friction and security restrictions between Washington and Beijing.",
+            "Prior to his resignation, reporting from The New York Times highlighted intelligence scrutiny around relationships involving Nvidia leadership and foreign entities. The national security dimensions of chip distribution and intellectual property protection had elevated executive oversight from a standard governance matter into a national strategic priority."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While mainstream commentary focuses on the speed of Huang's return compared to past corporate exits, the core reality is the subordination of corporate governance to geopolitical imperatives. The intervention by the executive branch demonstrates that elite technology firms operating in critical supply chains are no longer permitted to function as purely autonomous corporate entities.",
+            "By overriding standard board oversight and compliance mechanisms regarding executive conduct and espionage risks, Washington established that sovereign competition with rival nations supersedes internal corporate ethics. The precedent indicates a transition toward an explicit command-economy model for essential industrial and technological sectors."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The immediate beneficiary of this governance shift is Nvidia's internal operational continuity, alongside White House strategists seeking uninterrupted momentum in domestic AI deployment. By keeping Huang at the helm, the administration avoids leadership volatility within the nation's premier technology asset.",
+            "Conversely, traditional corporate governance, board autonomy, and institutional compliance suffer clear setbacks. Executive oversight boards lose operational independence when national security mandates dictate executive retention regardless of ethical or security liabilities."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Attention now turns to how foreign regulatory bodies and international trading partners respond to the explicit state alignment of Nvidia's leadership. Observers will monitor whether federal oversight mechanisms formalize state presence within board discussions involving sensitive technology exports.",
+            "Furthermore, ongoing federal investigations into potential semiconductor smuggling through third-party intermediaries like Megaspeed will reveal whether executive immunity extends to operational supply chain compliance."
+          ]
+        }
+      ],
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Semiconductors",
+        "Artificial Intelligence",
+        "Geopolitics",
+        "Corporate Governance"
+      ],
+      "sources": [
+        {
+          "name": "The Verge",
+          "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Trump Is Said to Have Directed Effort to Reinstate Nvidia Chief",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41T3Z1VnJLSk9LLURuSVhPYVJEdHZmUXIwQzYteGVERktDYm55NEpKNU1jMEFpbzgtTmVURzlzU2drN0Juc19HR0tCREl2MUJRWjFaTGFCd3FJWVEwNUwwalc3RktTcHVLMDVfMnZCVU9DLUZMaWZ1dnd3?oc=5"
+        },
+        {
+          "name": "NVIDIA Newsroom",
+          "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaG9iTHJ2RUFZRnYtZHQyX01EU3pnY1BaT09BSkxPWUR4bDV4cFNhanZOSzFoMU9adTcwTEJMMkZqajRLZnZ5X1dEcXVaTXVrQnZfLXYxa05OQ1ZacjVoek4yRlo5M2RsSmhQdllVOVNGQTFHa3ZtRnFOWnBENXVZMU9LVF9hbGcwYmhBRmV6MEJxekUzbmZ1SXphUVNJb010QjAwRE13TmJOM2M?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "title": "Jensen Huang is back as Nvidia CEO after 12 days — Steve Jobs needed 12 years, Sam Altman less than a week",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUXo0NUxHc05haUxwRmtPNWNMX2I0NEdwcWZ0QzhOR1FGUE9WZ21nY3dkU1VxTkNjc2xnMmEzVjVjQ1hLTHpVcmxwN0Z5MVJsR3Q3MGdkcmc3dDE5ME42eHFydUxqa0NzdENJTTRMcEFraUJJWC1EUkVfQ255dDA1dXZXbVpHbzFxSjdfSlRjLTBDbkxCRjB2VWMxYm9IbU1uNzBRMmlGZXh1QTMxTTE4LUNOZ29GaExBSV90XzRTMWpIUHkzRkJodjlfcFlXVXJBWmRYVFdOLWV1cVNTN2JtdE55MGh3TjJ4ZDRBQTZXQ05HNjg?oc=5"
+        },
+        {
+          "name": "WSJ",
+          "title": "Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QczVTbUQzdjZ0WHN0QjYwRXJidGl2YmJzeFVVOGhEV0FoZHp3QkJ1dng1REtUS21Qa2lYSGdUejlhbGtfNzlQT1V6Zm45NDltc2hKeEowZ3NtcHdsaUNvN2ttTTJXWUgzNkF3SGZUUjdFX1FiRHc?oc=5"
+        }
+      ],
+      "wordCount": 479
+    },
+    "blindSpot": "The rapid reinstatement of the leader of a $4 trillion company demonstrates how critical technology infrastructure and AI dominance have rendered traditional corporate governance secondary to state strategic control. Washington's direct intervention signals a shift toward a national-security-driven command economy where top technology executives are deemed too strategically indispensable to face standard institutional accountability."
+  },
+  {
     "slug": "moscow-intensifies-kyiv-regional-strikes-winter-oxqf",
     "path": "news/moscow-intensifies-kyiv-regional-strikes-winter-oxqf/",
     "title": "Moscow Intensifies Kyiv Regional Strikes as Winter Arrives Following Crimean Bridge Attacks",
