@@ -1183,5 +1183,10 @@
     "relevant": true,
     "reason": "The satellite image shows a port with smoke rising from an attack, directly depicting the location and event described in the headline.",
     "at": "2026-11-23T05:16:52.279Z"
+  },
+  "3493b99dc16f50ad:wjme7ht2n": {
+    "relevant": true,
+    "reason": "The image shows a Jackson Police Department vehicle parked at Hawkins Field near the airport facilities following the incident.",
+    "at": "2026-11-23T05:31:48.006Z"
   }
 }
