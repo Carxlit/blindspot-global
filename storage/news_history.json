@@ -202,9 +202,43 @@
     "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVVFoblFsSG5Ic0VoSnhMOEo0Zkt1eGJEUzk5dkRjeW5uMmtpQXUteTNlekJVQ0VXWjdERVNfcmd2UzJHQThuZi1RTWlPamRYUV9iaHk4NHFjRW1KRXBuOVlOMWJud0VMX3o4MTc5M3lXQ09xWjhTYnZKV3Z0OWhkMk5CWTR6Qm0yTUxydnJzOG4tRU5MMU01UUZYNEhsMjRHangwOFd6eHoyemUxbERRZEdjYXhnUQ?oc=5",
     "https://www.dw.com/es/ucrania-reporta-al-menos-14-muertos-en-bombardeos-rusos-sobre-región-de-kiev/a-80015527?maca=spa-rss-sp-all-1122-rdf",
-    "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+    "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+    "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories"
   ],
   "processedSignatures": [
+    {
+      "title": "JENSEN HUANG RETURN TRIGGERS NASDAQ SURGE IN RECORD SINGLE-DAY MARKET RALLY",
+      "normalizedTokens": [
+        "jensen",
+        "huang",
+        "return",
+        "triggers",
+        "nasdaq",
+        "surge",
+        "record",
+        "single",
+        "day",
+        "market",
+        "rally"
+      ],
+      "date": "2026-11-23T23:58:09.787Z"
+    },
+    {
+      "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
+      "normalizedTokens": [
+        "stocks",
+        "see",
+        "best",
+        "day",
+        "year",
+        "return",
+        "jensen",
+        "huang",
+        "revives",
+        "enthusiasm"
+      ],
+      "date": "2026-11-23T23:58:09.785Z"
+    },
     {
       "title": "WHITE HOUSE INTERVENTION REINSTATES NVIDIA CHIEF AFTER ESPIONAGE SCRUTINY",
       "normalizedTokens": [

@@ -1198,5 +1198,10 @@
     "relevant": false,
     "reason": "The image shows a slide about Reasons for State Intervention regarding economic principles, which is unrelated to Nvidia, Jensen Huang, or White House intervention.",
     "at": "2026-11-23T23:04:49.014Z"
+  },
+  "13855294b9d44d0d:7tkwjnrib": {
+    "relevant": true,
+    "reason": "The Wall Street sign clearly symbolizes the US stock market and the financial market rally described in the headline.",
+    "at": "2026-11-23T23:58:05.774Z"
   }
 }
