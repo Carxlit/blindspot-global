@@ -208,9 +208,41 @@
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTm1ualZQSkpWSE81dmJhNTVlenN6clBtbnAyczRuVDdPZUFkZDRDX0pPc1pacExyelpWSFp1VmpUWm5WUHFabTV6UmR2V2ZzaldKcjJlMEFiOWx6S0pHTE9tUGRoT1AxVm04SVR6U0d3X2JtZTcxOFpMWWFWS0FJaTlIYTBGTDc1cnB6SXQtQWhxN2xmQ0hnRldZSjI1a2R5aEhzNF9Vai1SX1VJemdyUU4yLW40c05yMGk1eElqMA?oc=5",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdllUY1JjNjA0T3ZBYjdac2FIVFZWQlF1dUhuclNlcDRfU2gxQzFoQ0kzUk9rcXMxbTJvRXdpZUNVM2ZJTXljQ1B6bjQ3NmxqSmxXTmhqV2JIMFphcGhwQ2dlSGI1Vm56ZUhBcGZMSDdmOVM2eXMyVjMtS19DbWJIVm40U044V0dxR3hPU1NmeldKdGl6VHh0UDVVcnlqUEVudEVrV0MxS1A2UnV6M2U3QldjQjV1OGpV?oc=5",
     "https://www.france24.com/es/medio-oriente/20261124-yemen-los-hut%C3%ADes-reportan-25-muertos-o-desaparecidos-tras-ataques-sauditas",
-    "https://www.france24.com/es/europa/20261124-en-directo-ataque-ruso-deja-dos-muertos-en-zaporizhia-tr%C3%ADpoli-pide-explicaciones-a-kiev-por-ataques-contra-buques-rusos"
+    "https://www.france24.com/es/europa/20261124-en-directo-ataque-ruso-deja-dos-muertos-en-zaporizhia-tr%C3%ADpoli-pide-explicaciones-a-kiev-por-ataques-contra-buques-rusos",
+    "https://www.clarin.com/mundo/crater-suelo-edificios-destruidos-atentado-auto-bomba-sacudio-colombia-dejo-12-heridos_0_dukaZNutfR.html"
   ],
   "processedSignatures": [
+    {
+      "title": "CAR BOMB IN VILLAVICENCIO STRIKES COLOMBIAN GOVERNANCE SEAT",
+      "normalizedTokens": [
+        "car",
+        "bomb",
+        "villavicencio",
+        "strikes",
+        "colombian",
+        "governance",
+        "seat"
+      ],
+      "date": "2026-11-24T08:07:06.579Z"
+    },
+    {
+      "title": "Un cráter en el suelo y edificios destruidos: un atentado con un auto bomba sacudió Colombia y dejó al menos 23 heridos",
+      "normalizedTokens": [
+        "crater",
+        "suelo",
+        "edificios",
+        "destruidos",
+        "atentado",
+        "auto",
+        "bomba",
+        "sacudio",
+        "colombia",
+        "dejo",
+        "menos",
+        "heridos"
+      ],
+      "date": "2026-11-24T08:07:06.577Z"
+    },
     {
       "title": "UKRAINIAN DRONE STRIKES OFF LIBYA TEST INTERNATIONAL WATERS",
       "normalizedTokens": [
