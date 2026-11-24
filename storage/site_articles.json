@@ -1,5 +1,87 @@
 [
   {
+    "slug": "ukrainian-strike-russian-vessel-off-libya-qxto",
+    "path": "news/ukrainian-strike-russian-vessel-off-libya-qxto/",
+    "title": "Ukrainian Strike on Russian Vessel off Libya Exposes North African Proxy Dynamics",
+    "headline": "UKRAINIAN ATTACK ON RUSSIAN WARSHIP OFF LIBYA RISKS TRIPOLI DIPLOMACY",
+    "dek": "A naval engagement off the Libyan coast highlights Ukraine's expanding asymmetric campaign against Russian forces worldwide. International Crisis Group analysts indicate Tripoli remains unwilling to jeopardize crucial diplomatic and economic relations with Moscow.",
+    "category": "GEOPOLITICS",
+    "sourceName": "France 24",
+    "image": "img/ukrainian-strike-russian-vessel-off-libya-qxto.jpg",
+    "photo": "img/ukrainian-strike-russian-vessel-off-libya-qxto-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "OOiRS2PEI-c",
+      "title": "ICG: \"It's hard to imagine\" Tripoli would risk its ties with Russia by approving a Ukrainian attack",
+      "channel": "FRANCE 24 English"
+    },
+    "publishedAt": "2026-11-24T08:31:54.943Z",
+    "article": {
+      "slug": "ukrainian-strike-russian-vessel-off-libya-qxto",
+      "title": "Ukrainian Strike on Russian Vessel off Libya Exposes North African Proxy Dynamics",
+      "dek": "A naval engagement off the Libyan coast highlights Ukraine's expanding asymmetric campaign against Russian forces worldwide. International Crisis Group analysts indicate Tripoli remains unwilling to jeopardize crucial diplomatic and economic relations with Moscow.",
+      "keyFacts": [
+        "A Ukrainian military attack targeted a Russian warship off the coast of eastern Libya according to France 24.",
+        "International Crisis Group analyst Claudia Gazzini confirmed Russia maintains a military presence in eastern Libya alongside commercial and political ties to Tripoli.",
+        "Allegations indicate potential Ukrainian military forces operating within western Libya.",
+        "The International Crisis Group evaluated Tripoli's official authorization of the attack as highly hazardous and improbable."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "A naval engagement targeting a Russian warship off the eastern Libyan coastline has drawn North Africa directly into the broader security orbit of the Russo-Ukrainian war. According to reporting by France 24, the strike has raised immediate questions regarding the extent of foreign military involvement operating within Libyan sovereign territory and surrounding territorial waters.",
+            "The incident comes amid growing intelligence reports suggesting Ukrainian special operations have targeted Russian assets in secondary theaters, including parts of Africa where Russian state and private military forces maintain strategic footprints."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Libya remains politically divided between eastern factions supported by Russian military installations and the western government based in Tripoli. Despite Moscow's overt defense alignment with eastern authorities, Russia has preserved functional political and commercial relationships with the western administration in Tripoli.",
+            "International Crisis Group Senior Analyst Claudia Gazzini highlighted this delicate equilibrium during an interview with France 24, noting that Russian influence in Libya is not strictly limited to its eastern military posture, but extends across economic sectors that Tripoli relies upon for stability."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream coverage often frames the Mediterranean strike as a tactical success for Ukrainian asymmetric warfare. However, the blind spot lies in the diplomatic vulnerability it creates for Tripoli. Speculation that western Libyan authorities tacitly sanctioned or assisted the operation oversimplifies the strategic realities governing Libyan foreign policy.",
+            "For Tripoli, endorsing or facilitating Ukrainian strikes against Russian naval assets would risk triggering immediate diplomatic retaliation and commercial friction with Moscow. As Gazzini observed, suggesting that Tripoli would risk its multi-layered ties with Russia to permit such an operation remains strategically hazardous for the western administration."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Ukraine gains tactical disruption by challenging Russian power projection in maritime zones outside Western Europe. Conversely, Russian naval logistical lines in the Mediterranean face newly expanded operational vulnerabilities.",
+            "The primary casualty is Libyan sovereign neutrality. Both eastern and western authorities risk seeing their national territory converted into an active theater for external proxy conflict, weakening local governance and complicating international diplomatic mediation."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Monitor whether eastern Libyan military leadership increases air defense capabilities along coastal maritime corridors to protect Russian shipping assets.",
+            "Observe how Tripoli navigates diplomatic communications with both Western intelligence partners and Russian envoys as pressure mounts to restrict foreign combatant activities within Libyan borders."
+          ]
+        }
+      ],
+      "tags": [
+        "Libya",
+        "Russia",
+        "Ukraine",
+        "Geopolitics",
+        "Mediterranean Security"
+      ],
+      "sources": [
+        {
+          "name": "France 24",
+          "title": "ICG: \"It's hard to imagine\" Tripoli would risk its ties with Russia by approving a Ukrainian attack",
+          "url": "https://www.france24.com/en/video/20261124-icg-it-s-hard-to-imagine-tripoli-would-risk-its-ties-with-russia-by-approving-a-ukrainian-attack"
+        }
+      ],
+      "wordCount": 403
+    },
+    "blindSpot": "While Ukraine seeks to degrade Russian assets beyond Europe, western Libyan authorities in Tripoli maintain delicate economic and diplomatic relations with Moscow despite Russia's military deployment in the east. Attributing local state approval to the strike overlooks Tripoli's reliance on Russian trade and risk mitigation, turning North Africa into an unacknowledged theater of the Russo-Ukrainian war."
+  },
+  {
     "slug": "car-bombing-villavicencio-signals-escalation-colombia-qz42",
     "path": "news/car-bombing-villavicencio-signals-escalation-colombia-qz42/",
     "title": "Car Bombing in Villavicencio Signals Escalation of Colombia Security Crisis",

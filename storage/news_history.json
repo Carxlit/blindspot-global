@@ -209,9 +209,40 @@
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdllUY1JjNjA0T3ZBYjdac2FIVFZWQlF1dUhuclNlcDRfU2gxQzFoQ0kzUk9rcXMxbTJvRXdpZUNVM2ZJTXljQ1B6bjQ3NmxqSmxXTmhqV2JIMFphcGhwQ2dlSGI1Vm56ZUhBcGZMSDdmOVM2eXMyVjMtS19DbWJIVm40U044V0dxR3hPU1NmeldKdGl6VHh0UDVVcnlqUEVudEVrV0MxS1A2UnV6M2U3QldjQjV1OGpV?oc=5",
     "https://www.france24.com/es/medio-oriente/20261124-yemen-los-hut%C3%ADes-reportan-25-muertos-o-desaparecidos-tras-ataques-sauditas",
     "https://www.france24.com/es/europa/20261124-en-directo-ataque-ruso-deja-dos-muertos-en-zaporizhia-tr%C3%ADpoli-pide-explicaciones-a-kiev-por-ataques-contra-buques-rusos",
-    "https://www.clarin.com/mundo/crater-suelo-edificios-destruidos-atentado-auto-bomba-sacudio-colombia-dejo-12-heridos_0_dukaZNutfR.html"
+    "https://www.clarin.com/mundo/crater-suelo-edificios-destruidos-atentado-auto-bomba-sacudio-colombia-dejo-12-heridos_0_dukaZNutfR.html",
+    "https://www.france24.com/en/video/20261124-icg-it-s-hard-to-imagine-tripoli-would-risk-its-ties-with-russia-by-approving-a-ukrainian-attack"
   ],
   "processedSignatures": [
+    {
+      "title": "UKRAINIAN ATTACK ON RUSSIAN WARSHIP OFF LIBYA RISKS TRIPOLI DIPLOMACY",
+      "normalizedTokens": [
+        "ukrainian",
+        "attack",
+        "russian",
+        "warship",
+        "libya",
+        "risks",
+        "tripoli",
+        "diplomacy"
+      ],
+      "date": "2026-11-24T08:31:55.091Z"
+    },
+    {
+      "title": "ICG: \"It's hard to imagine\" Tripoli would risk its ties with Russia by approving a Ukrainian attack",
+      "normalizedTokens": [
+        "icg",
+        "hard",
+        "imagine",
+        "tripoli",
+        "risk",
+        "ties",
+        "russia",
+        "approving",
+        "ukrainian",
+        "attack"
+      ],
+      "date": "2026-11-24T08:31:55.089Z"
+    },
     {
       "title": "CAR BOMB IN VILLAVICENCIO STRIKES COLOMBIAN GOVERNANCE SEAT",
       "normalizedTokens": [
