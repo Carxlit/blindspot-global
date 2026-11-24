@@ -204,9 +204,37 @@
     "https://www.dw.com/es/ucrania-reporta-al-menos-14-muertos-en-bombardeos-rusos-sobre-región-de-kiev/a-80015527?maca=spa-rss-sp-all-1122-rdf",
     "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
     "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWQ0Mm4xVjM2MzNTOEdOZmZqUmk2WVMtSUlFWjBZN0pzQUZXM0lfdGFkcGFlRGZUd0xVdEY1TW1VQ0stZkdSVlF6dEVvQWpaYUZyd21EOXRrdmpjZ3RGV1g3T3JxZ0RYSnM0NW9mU01SUWlIVHF3OWNHZnctZVZ6VzhBdzFFUHFnY1JrUVFQa1MwMnVaLVNCOWZDSkJKbHk2?oc=5"
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWQ0Mm4xVjM2MzNTOEdOZmZqUmk2WVMtSUlFWjBZN0pzQUZXM0lfdGFkcGFlRGZUd0xVdEY1TW1VQ0stZkdSVlF6dEVvQWpaYUZyd21EOXRrdmpjZ3RGV1g3T3JxZ0RYSnM0NW9mU01SUWlIVHF3OWNHZnctZVZ6VzhBdzFFUHFnY1JrUVFQa1MwMnVaLVNCOWZDSkJKbHk2?oc=5",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTm1ualZQSkpWSE81dmJhNTVlenN6clBtbnAyczRuVDdPZUFkZDRDX0pPc1pacExyelpWSFp1VmpUWm5WUHFabTV6UmR2V2ZzaldKcjJlMEFiOWx6S0pHTE9tUGRoT1AxVm04SVR6U0d3X2JtZTcxOFpMWWFWS0FJaTlIYTBGTDc1cnB6SXQtQWhxN2xmQ0hnRldZSjI1a2R5aEhzNF9Vai1SX1VJemdyUU4yLW40c05yMGk1eElqMA?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "OIL RECOVERY MASKS A PERSISTENT DIESEL SHORTAGE",
+      "normalizedTokens": [
+        "oil",
+        "recovery",
+        "masks",
+        "persistent",
+        "diesel",
+        "shortage"
+      ],
+      "date": "2026-11-24T01:50:05.607Z"
+    },
+    {
+      "title": "COMMENTARY: Oil's Iran war recovery masks a stubborn diesel shortage",
+      "normalizedTokens": [
+        "commentary",
+        "oil",
+        "iran",
+        "war",
+        "recovery",
+        "masks",
+        "stubborn",
+        "diesel",
+        "shortage"
+      ],
+      "date": "2026-11-24T01:50:05.605Z"
+    },
     {
       "title": "RUSSIA EXPANDS PRE-EMPTIVE NUCLEAR STRIKE DOCTRINE IN LEGAL ESSAY",
       "normalizedTokens": [
