@@ -334,5 +334,26 @@
       "type": "REELS",
       "at": "2026-11-22T05:04:44+0000"
     }
+  },
+  {
+    "date": "2026-11-23",
+    "at": "2026-11-24T02:01:01.265Z",
+    "facebook": {
+      "followers": 0
+    },
+    "instagram": {
+      "followers": 23,
+      "posts": 161,
+      "likes": 50,
+      "comments": 9,
+      "reels": 50
+    },
+    "topPost": {
+      "url": "https://www.instagram.com/reel/DgCAwAUE0Kd/",
+      "likes": 12,
+      "comments": 8,
+      "type": "REELS",
+      "at": "2026-11-22T05:04:44+0000"
+    }
   }
 ]
