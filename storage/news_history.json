@@ -207,9 +207,43 @@
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWQ0Mm4xVjM2MzNTOEdOZmZqUmk2WVMtSUlFWjBZN0pzQUZXM0lfdGFkcGFlRGZUd0xVdEY1TW1VQ0stZkdSVlF6dEVvQWpaYUZyd21EOXRrdmpjZ3RGV1g3T3JxZ0RYSnM0NW9mU01SUWlIVHF3OWNHZnctZVZ6VzhBdzFFUHFnY1JrUVFQa1MwMnVaLVNCOWZDSkJKbHk2?oc=5",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTm1ualZQSkpWSE81dmJhNTVlenN6clBtbnAyczRuVDdPZUFkZDRDX0pPc1pacExyelpWSFp1VmpUWm5WUHFabTV6UmR2V2ZzaldKcjJlMEFiOWx6S0pHTE9tUGRoT1AxVm04SVR6U0d3X2JtZTcxOFpMWWFWS0FJaTlIYTBGTDc1cnB6SXQtQWhxN2xmQ0hnRldZSjI1a2R5aEhzNF9Vai1SX1VJemdyUU4yLW40c05yMGk1eElqMA?oc=5",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdllUY1JjNjA0T3ZBYjdac2FIVFZWQlF1dUhuclNlcDRfU2gxQzFoQ0kzUk9rcXMxbTJvRXdpZUNVM2ZJTXljQ1B6bjQ3NmxqSmxXTmhqV2JIMFphcGhwQ2dlSGI1Vm56ZUhBcGZMSDdmOVM2eXMyVjMtS19DbWJIVm40U044V0dxR3hPU1NmeldKdGl6VHh0UDVVcnlqUEVudEVrV0MxS1A2UnV6M2U3QldjQjV1OGpV?oc=5",
-    "https://www.france24.com/es/medio-oriente/20261124-yemen-los-hut%C3%ADes-reportan-25-muertos-o-desaparecidos-tras-ataques-sauditas"
+    "https://www.france24.com/es/medio-oriente/20261124-yemen-los-hut%C3%ADes-reportan-25-muertos-o-desaparecidos-tras-ataques-sauditas",
+    "https://www.france24.com/es/europa/20261124-en-directo-ataque-ruso-deja-dos-muertos-en-zaporizhia-tr%C3%ADpoli-pide-explicaciones-a-kiev-por-ataques-contra-buques-rusos"
   ],
   "processedSignatures": [
+    {
+      "title": "UKRAINIAN DRONE STRIKES OFF LIBYA TEST INTERNATIONAL WATERS",
+      "normalizedTokens": [
+        "ukrainian",
+        "drone",
+        "strikes",
+        "libya",
+        "test",
+        "international",
+        "waters"
+      ],
+      "date": "2026-11-24T07:37:31.323Z"
+    },
+    {
+      "title": "En directo: ataque ruso deja dos muertos en Zaporizhia; Trípoli pide explicaciones a Kiev por ataques contra buques rusos",
+      "normalizedTokens": [
+        "directo",
+        "ataque",
+        "ruso",
+        "deja",
+        "dos",
+        "muertos",
+        "zaporizhia",
+        "tripoli",
+        "pide",
+        "explicaciones",
+        "kiev",
+        "ataques",
+        "buques",
+        "rusos"
+      ],
+      "date": "2026-11-24T07:37:31.321Z"
+    },
     {
       "title": "SAUDI AIRSTRIKES IN YEMEN TARGET HOUTHI VEHICLES",
       "normalizedTokens": [
