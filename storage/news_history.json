@@ -214,6 +214,33 @@
   ],
   "processedSignatures": [
     {
+      "title": "OIL RECOVERY MASKS A PERSISTENT DIESEL SHORTAGE",
+      "normalizedTokens": [
+        "oil",
+        "recovery",
+        "masks",
+        "persistent",
+        "diesel",
+        "shortage"
+      ],
+      "date": "2026-11-24T11:00:23.650Z"
+    },
+    {
+      "title": "COMMENTARY: Oil's Iran war recovery masks a stubborn diesel shortage",
+      "normalizedTokens": [
+        "commentary",
+        "oil",
+        "iran",
+        "war",
+        "recovery",
+        "masks",
+        "stubborn",
+        "diesel",
+        "shortage"
+      ],
+      "date": "2026-11-24T11:00:23.648Z"
+    },
+    {
       "title": "UKRAINIAN ATTACK ON RUSSIAN WARSHIP OFF LIBYA RISKS TRIPOLI DIPLOMACY",
       "normalizedTokens": [
         "ukrainian",
