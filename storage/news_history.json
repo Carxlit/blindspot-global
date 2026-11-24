@@ -214,6 +214,33 @@
   ],
   "processedSignatures": [
     {
+      "title": "HUANG RETURNS TO NVIDIA AFTER TRUMP INTERVENTION STABILIZES MARKETS",
+      "normalizedTokens": [
+        "huang",
+        "returns",
+        "nvidia",
+        "trump",
+        "intervention",
+        "stabilizes",
+        "markets"
+      ],
+      "date": "2026-11-24T12:17:23.209Z"
+    },
+    {
+      "title": "Huang's stunning Nvidia return sparks relief for battered AI trade",
+      "normalizedTokens": [
+        "huang",
+        "stunning",
+        "nvidia",
+        "return",
+        "sparks",
+        "relief",
+        "battered",
+        "trade"
+      ],
+      "date": "2026-11-24T12:17:23.207Z"
+    },
+    {
       "title": "OIL RECOVERY MASKS A PERSISTENT DIESEL SHORTAGE",
       "normalizedTokens": [
         "oil",
