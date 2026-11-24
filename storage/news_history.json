@@ -210,9 +210,40 @@
     "https://www.france24.com/es/medio-oriente/20261124-yemen-los-hut%C3%ADes-reportan-25-muertos-o-desaparecidos-tras-ataques-sauditas",
     "https://www.france24.com/es/europa/20261124-en-directo-ataque-ruso-deja-dos-muertos-en-zaporizhia-tr%C3%ADpoli-pide-explicaciones-a-kiev-por-ataques-contra-buques-rusos",
     "https://www.clarin.com/mundo/crater-suelo-edificios-destruidos-atentado-auto-bomba-sacudio-colombia-dejo-12-heridos_0_dukaZNutfR.html",
-    "https://www.france24.com/en/video/20261124-icg-it-s-hard-to-imagine-tripoli-would-risk-its-ties-with-russia-by-approving-a-ukrainian-attack"
+    "https://www.france24.com/en/video/20261124-icg-it-s-hard-to-imagine-tripoli-would-risk-its-ties-with-russia-by-approving-a-ukrainian-attack",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSnk5dTVWekk1WFI4QlBiSW5nUWRtUXc5M2JqY2NtSGRUQktxTm51U1dGblZKdk1mWktkVGVFMEdhRzFYUXZxQmJZUWcyc1NQb25kc2FONXE4N3REb1RnTGduREV6cG9XUVJob1Qta2xGZEs2TFJkR3BsSGJGRmRSVWQ5cnpHOXNxV1VjREthM1pscG1Yd1dzM19tdjZWN0tTRTFralBqNE5ld2JDN1c5WG1aMFA5MmdTTVFrd3dMWnQ3OE9YMW5n?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "MOSCOW THREATENS PREVENTIVE NUCLEAR STRIKE AMID ESCALATING TENSIONS",
+      "normalizedTokens": [
+        "moscow",
+        "threatens",
+        "preventive",
+        "nuclear",
+        "strike",
+        "escalating",
+        "tensions"
+      ],
+      "date": "2026-11-24T23:04:51.596Z"
+    },
+    {
+      "title": "Russia warns of ‘preventive nuclear attack’ as Medvedev claims Ukraine, NATO crossed line",
+      "normalizedTokens": [
+        "russia",
+        "warns",
+        "preventive",
+        "nuclear",
+        "attack",
+        "medvedev",
+        "claims",
+        "ukraine",
+        "nato",
+        "crossed",
+        "line"
+      ],
+      "date": "2026-11-24T23:04:51.594Z"
+    },
     {
       "title": "HUANG RETURNS TO NVIDIA AFTER TRUMP INTERVENTION STABILIZES MARKETS",
       "normalizedTokens": [
