@@ -203,9 +203,39 @@
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVVFoblFsSG5Ic0VoSnhMOEo0Zkt1eGJEUzk5dkRjeW5uMmtpQXUteTNlekJVQ0VXWjdERVNfcmd2UzJHQThuZi1RTWlPamRYUV9iaHk4NHFjRW1KRXBuOVlOMWJud0VMX3o4MTc5M3lXQ09xWjhTYnZKV3Z0OWhkMk5CWTR6Qm0yTUxydnJzOG4tRU5MMU01UUZYNEhsMjRHangwOFd6eHoyemUxbERRZEdjYXhnUQ?oc=5",
     "https://www.dw.com/es/ucrania-reporta-al-menos-14-muertos-en-bombardeos-rusos-sobre-región-de-kiev/a-80015527?maca=spa-rss-sp-all-1122-rdf",
     "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-    "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories"
+    "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWQ0Mm4xVjM2MzNTOEdOZmZqUmk2WVMtSUlFWjBZN0pzQUZXM0lfdGFkcGFlRGZUd0xVdEY1TW1VQ0stZkdSVlF6dEVvQWpaYUZyd21EOXRrdmpjZ3RGV1g3T3JxZ0RYSnM0NW9mU01SUWlIVHF3OWNHZnctZVZ6VzhBdzFFUHFnY1JrUVFQa1MwMnVaLVNCOWZDSkJKbHk2?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "RUSSIA EXPANDS PRE-EMPTIVE NUCLEAR STRIKE DOCTRINE IN LEGAL ESSAY",
+      "normalizedTokens": [
+        "russia",
+        "expands",
+        "pre",
+        "emptive",
+        "nuclear",
+        "strike",
+        "doctrine",
+        "legal",
+        "essay"
+      ],
+      "date": "2026-11-24T00:53:49.649Z"
+    },
+    {
+      "title": "Russia Says It Could Launch Pre-Emptive Nuclear Strike Over Military Threat",
+      "normalizedTokens": [
+        "russia",
+        "launch",
+        "pre",
+        "emptive",
+        "nuclear",
+        "strike",
+        "military",
+        "threat"
+      ],
+      "date": "2026-11-24T00:53:49.648Z"
+    },
     {
       "title": "JENSEN HUANG RETURN TRIGGERS NASDAQ SURGE IN RECORD SINGLE-DAY MARKET RALLY",
       "normalizedTokens": [
