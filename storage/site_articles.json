@@ -1,5 +1,96 @@
 [
   {
+    "slug": "saudi-airstrikes-target-houthi-vehicles-yemen-gpas",
+    "path": "news/saudi-airstrikes-target-houthi-vehicles-yemen-gpas/",
+    "title": "Saudi airstrikes target Houthi vehicles in Yemen as rebel forces advance toward Aden",
+    "headline": "SAUDI AIRSTRIKES IN YEMEN TARGET HOUTHI VEHICLES",
+    "dek": "Yemeni authorities report 25 dead or missing following targeted airstrikes in the country's southwest. The military escalation lays bare Riyadh's frantic efforts to contain advancing pro-Iranian fighters.",
+    "category": "GEOPOLITICS",
+    "sourceName": "France 24 Español",
+    "image": "img/saudi-airstrikes-target-houthi-vehicles-yemen-gpas.jpg",
+    "photo": "img/saudi-airstrikes-target-houthi-vehicles-yemen-gpas-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "6rq1Ab37E8I",
+      "title": "Saudi-Led Coalition Says It Hit 60 Houthi Military Targets in Yemen #Shorts",
+      "channel": "World in 40"
+    },
+    "publishedAt": "2026-11-24T05:43:29.705Z",
+    "article": {
+      "slug": "saudi-airstrikes-target-houthi-vehicles-yemen-gpas",
+      "title": "Saudi airstrikes target Houthi vehicles in Yemen as rebel forces advance toward Aden",
+      "dek": "Yemeni authorities report 25 dead or missing following targeted airstrikes in the country's southwest. The military escalation lays bare Riyadh's frantic efforts to contain advancing pro-Iranian fighters.",
+      "keyFacts": [
+        "25 people were reported dead or missing following the airstrikes.",
+        "The attacks targeted buses and trucks in southwestern Yemen.",
+        "The bombardments occurred on Tuesday, November 24.",
+        "Houthi combatants are actively advancing toward Aden, the seat of the Saudi-backed Government."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "According to reports from France 24 and regional coverage, Houthi authorities in Yemen stated that at least 25 individuals were left dead or missing following a series of Saudi airstrikes. The raids specifically targeted civilian-type transport vehicles, including buses and trucks, located in the southwestern region of the country.",
+            "The aerial bombardments mark a sharp intensification of kinetic operations in a theater that has seen fluctuating levels of direct engagement between the regional coalition and the Houthi movement over recent months."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The strikes did not occur in a strategic vacuum. They coincide directly with sustained advances by pro-Iranian Houthi combatants pressing southward. Their primary objective is Aden, which currently serves as the official seat of the internationally recognized government backed by Riyadh.",
+            "For years, Saudi Arabia has anchored its Yemen strategy on maintaining a viable government in Aden to counter Houthi dominance. The rapid movement of insurgent forces toward this southern stronghold threatens to dismantle the remaining territorial legitimacy of the coalition-supported administration."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While international news agencies frame the incident primarily through the human cost of the transport strikes, the deeper geopolitical reality involves Riyadh's military panic. Airpower alone has repeatedly proven insufficient to reverse determined ground offensives, yet coalition forces continue to rely on high-altitude interdiction as the last barrier against total territorial loss.",
+            "The reliance on strikes against transport infrastructure in the southwest signals that the coalition's intelligence and ground-containment apparatus is struggling to identify or halt Houthi troop movements before they close in on critical urban peripheries."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The Houthi movement continues to dictate the tempo of the ground campaign, absorbing tactical losses while maintaining strategic momentum toward Aden. Their ability to press forward despite coalition air superiority demonstrates the resilience of their decentralized supply and movement lines.",
+            "Conversely, the Saudi-backed government in Aden emerges as the primary loser of this friction. Each kilometer gained by Houthi forces narrows the political and physical space for the recognized administration, rendering its reliance on external military intervention increasingly unsustainable."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Observers should closely monitor the defensive lines around Aden and the frequency of coalition sorties across the southwestern corridors. If air campaigns fail to halt the current Houthi advance, the survival of the recognized government will depend entirely on emergency ground reinforcements or a rapid shift in regional diplomatic postures."
+          ]
+        }
+      ],
+      "tags": [
+        "Yemen",
+        "Saudi Arabia",
+        "Houthis",
+        "Aden",
+        "Middle East"
+      ],
+      "sources": [
+        {
+          "name": "France 24 Español",
+          "title": "Saudi airstrikes target Houthi vehicles in Yemen as rebel forces advance toward Aden",
+          "url": "https://www.france24.com/es/medio-oriente/20261124-yemen-los-hut%C3%ADes-reportan-25-muertos-o-desaparecidos-tras-ataques-sauditas"
+        },
+        {
+          "name": "France 24",
+          "title": "Saudi airstrikes target Houthi vehicles in Yemen as rebel forces advance toward Aden (France 24)",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRGJ2anJudDhXSzJVUmJPYXBTbkpnNF9OU2hyakVMVHlTMm45UEt2d01FNXZBUGpRbjN5eFlnelpRc1djV3MwYU5nSFpBZkxBTktSVEl4NmJ4dUlHQ2N3M2tXYWlpRU1ZcXdESW84V1NBVmo4VnhUX1RsemxGUy1QOGdPdnBRemRXVGVCNTdzc2lLbV9LcC1KOGlkdVNNMjIwMWNYQWtkVlN3V0k2QU9TeXNBTDJtU1BKTHFsQjFReGQ0ZktQU0hYc19n?oc=5"
+        },
+        {
+          "name": "Clarin.com",
+          "title": "Saudi airstrikes target Houthi vehicles in Yemen as rebel forces advance toward Aden (Clarin.com)",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcWRaejdQWWpvZzlja3cwSDcwT0pQbXB1dVoxMnoyVkVqNmU1UXZsU21GY1FsWk9kbUV2MFYtUGlkRzRZMGpEMjZVTGhDZ1V3ZlF0Mnh4ZXptUENMNjlISEJLYXlwVURWcWNIVl9WMzItVmRYRUd3eTF1WExZTzlrbFhJSjdZemUxbnhPSFFCZjNzS2NCd29qMnJCaUg3dlNnRjN6Zkx3dzFaR0VPQXdLLXRjekt1ZUxaUVA5M2M4a1hQY2RzVTlQbER2NnlpUzF5?oc=5"
+        }
+      ],
+      "wordCount": 406
+    },
+    "blindSpot": "While mainstream reports focus purely on the immediate casualty toll and the battlefield friction, the strikes reveal Riyadh's desperate attempt to halt pro-Iranian advances toward Aden before the internationally recognized government completely loses its remaining territorial anchor."
+  },
+  {
     "slug": "huang-reinstated-nvidia-chief-following-direct-sugk",
     "path": "news/huang-reinstated-nvidia-chief-following-direct-sugk/",
     "title": "Huang Reinstated as Nvidia Chief Following Direct Political Intervention by Trump",
