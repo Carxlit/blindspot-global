@@ -1298,5 +1298,10 @@
     "relevant": true,
     "reason": "The image clearly portrays Ellen Nimmons, the subject of the news story, against a scenic backdrop.",
     "at": "2026-11-25T05:46:35.296Z"
+  },
+  "e5b36dc394fae20f:91rlfq8fo": {
+    "relevant": true,
+    "reason": "The image shows a controlled detonation, which directly illustrates the destruction of the lead azide stockpile mentioned in the headline.",
+    "at": "2026-11-25T23:06:37.274Z"
   }
 }

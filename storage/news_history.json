@@ -219,9 +219,39 @@
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeUxOaThiVDlHRFdTUnBOQU1yUHBiMFdodnVwbWVHdEJpSV9iRV9iZHpZa29tOWR3RHZaSy1uSG11b0p6SG1lMmxtaHFuMm40YzgxTGRCQm5McmVnZ1V6cUpfUWRzZUJBSVd3M3AyMEtVWGE0RXBJTUxtcGFLYmZ2RkhXYm1CakMzcUx4RVJuZjdfQkZ6NDNIcnpIZ0licGVvN2tZNlA1QQ?oc=5",
     "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
     "https://www.bbc.com/mundo/articles/cmx2rny0dn17o?at_medium=RSS&at_campaign=rss",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVWhnNEpBUFV1TWFId0IwWWgzNzBtRER3MlFwWmI2MlgxN0ZqcEt6SzNtQU8yQkNpeWcwZG5aRmlHTGNQVlVES05tWkJpb2dQU2NQNXVfZVVxLURiRjJCaEFmcGVacC1JREoxMC1GZmRPdlQ3b01DVXlDYVNuemJPTW9yVGZYX3BUZk5HQkgweFlLck93bFp1dkFOQnRwb0hj?oc=5"
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVWhnNEpBUFV1TWFId0IwWWgzNzBtRER3MlFwWmI2MlgxN0ZqcEt6SzNtQU8yQkNpeWcwZG5aRmlHTGNQVlVES05tWkJpb2dQU2NQNXVfZVVxLURiRjJCaEFmcGVacC1JREoxMC1GZmRPdlQ3b01DVXlDYVNuemJPTW9yVGZYX3BUZk5HQkgweFlLck93bFp1dkFOQnRwb0hj?oc=5",
+    "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant"
   ],
   "processedSignatures": [
+    {
+      "title": "US ARMY DETONATES TOXIC IOWA LEAD AZIDE STOCKPILE",
+      "normalizedTokens": [
+        "army",
+        "detonates",
+        "toxic",
+        "iowa",
+        "lead",
+        "azide",
+        "stockpile"
+      ],
+      "date": "2026-11-25T23:06:39.789Z"
+    },
+    {
+      "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+      "normalizedTokens": [
+        "epa",
+        "reports",
+        "zero",
+        "airborne",
+        "lead",
+        "following",
+        "controlled",
+        "army",
+        "detonation",
+        "iowa"
+      ],
+      "date": "2026-11-25T23:06:39.787Z"
+    },
     {
       "title": "LATVIAN PRESIDENT WARNS OF UKRAINE WAR TIPPING POINT",
       "normalizedTokens": [

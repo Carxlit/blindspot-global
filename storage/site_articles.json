@@ -1,5 +1,107 @@
 [
   {
+    "slug": "inside-controlled-army-detonation-toxic-lead-4egi",
+    "path": "news/inside-controlled-army-detonation-toxic-lead-4egi/",
+    "title": "Inside the controlled Army detonation of toxic lead azide in Iowa",
+    "headline": "US ARMY DETONATES TOXIC IOWA LEAD AZIDE STOCKPILE",
+    "dek": "The US Army successfully destroyed 4.4 tons of unstable lead azide in Iowa, as federal monitors reported zero initial airborne lead. The operation exposes the hidden vulnerabilities of managing aging military chemical stockpiles.",
+    "category": "SECURITY & DEFENSE",
+    "sourceName": "The Verge",
+    "image": "img/inside-controlled-army-detonation-toxic-lead-4egi.jpg",
+    "photo": "img/inside-controlled-army-detonation-toxic-lead-4egi-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "mm00w3g-56Y",
+      "title": "Army: Iowa Lead Detonation Exceeded Expectations, No Airborne Lead Detected So Far",
+      "channel": "Mo News",
+      "license": "cc-by"
+    },
+    "publishedAt": "2026-11-25T23:06:39.688Z",
+    "article": {
+      "slug": "inside-controlled-army-detonation-toxic-lead-4egi",
+      "title": "Inside the controlled Army detonation of toxic lead azide in Iowa",
+      "dek": "The US Army successfully destroyed 4.4 tons of unstable lead azide in Iowa, as federal monitors reported zero initial airborne lead. The operation exposes the hidden vulnerabilities of managing aging military chemical stockpiles.",
+      "keyFacts": [
+        "The US Army detonated over 9,700 pounds of lead azide at the Iowa Army Ammunition Plant.",
+        "The material was stored in 68 barrels, which were inspected by the ATF last March and found to have significant crystallization.",
+        "The EPA reported zero detection of airborne lead in the region an hour after the detonation.",
+        "FEMA supported a voluntary temporary relocation of Middletown residents starting the day before the blast through November 27th."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "The US Army conducted a controlled detonation of over 9,700 pounds of lead azide at the Iowa Army Ammunition Plant in Middletown, Iowa. According to the Associated Press, Maj. Gen. Eric Shirley stated during a press conference that the action reduced the risk to public health and safety as close to zero as humanly possible.",
+            "Videos of the detonation showed plumes of smoke hundreds of feet high drifting south before dissipating. Following the blast, the EPA confirmed through real-time monitoring that zero airborne lead was detected throughout the region an hour after the event."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The military has used lead azide in munitions for nearly a century, but began transitioning away from the material around 15 years ago due to transport and storage difficulties. Over time, the compound degrades, crystallizes, and can detonate at ambient temperatures.",
+            "The Iowa facility housed 68 barrels containing the country's remaining stockpile. The material was stored in liquid form in sawdust and burlap bags with water and ethanol to prevent freezing. However, an ATF inspection last March discovered significant crystallization on the exterior of the barrels, forcing the decision to detonate."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While official reports emphasize immediate air safety and the success of containment measures—such as four 16,000-gallon water tank walls and foam-flooded magazines—the broader issue remains the long-term liabilities of legacy defense manufacturing. The necessity of a voluntary evacuation zone extending five miles southwest underscores the severe disruption caused by decaying military chemistry.",
+            "Mainstream coverage focuses on the immediate environmental clearance rather than the structural reality that thousands of tons of aging munitions still require complex, high-risk neutralization across domestic installations."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The primary beneficiaries are federal defense planners and local authorities who successfully eliminated an acute domestic explosive hazard without immediate environmental contamination or infrastructure damage. The residents of Middletown face temporary displacement until November 27th, bearing the logistical inconvenience of living adjacent to legacy military production sites."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Monitor the official return of displaced residents following the final all-clear on November 27th and any subsequent long-term soil and water testing data released by EPA contractors. Broader defense spending bills will also indicate whether funding accelerates for modernizing the disposal of aging chemical stockpiles nationwide."
+          ]
+        }
+      ],
+      "tags": [
+        "Security",
+        "Defense",
+        "Army",
+        "EPA",
+        "Iowa",
+        "Blindspot"
+      ],
+      "sources": [
+        {
+          "name": "The Verge",
+          "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+          "url": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant"
+        },
+        {
+          "name": "NBC News",
+          "title": "EPA finds zero detection of airborne lead after detonation",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWjZtaHVXcWFZQmlFeDcza0owNWVXR053QVVEUlJoME5wR1UyVldvN2Q1N3hUSDY5TjAwYlU5Z1RjckRuRHhqeGowLVo0blV0WE51LWdfSGVQV01uSjFtMEYtQTZfUndyVTZidThlVHFMeU5HV1pEVDlkTTFmR0Z1MDBJWkZXRGprSjdicFJ5Qmt0YVpVdHdiS05PQ3l6VC1iTG96ME51c2ZJclho?oc=5"
+        },
+        {
+          "name": "USDA (.gov)",
+          "title": "Secretary of Agriculture Brooke Rollins’ Statement Following Successful Controlled Detonation at Iowa Army Ammunition, Showing Zero Initial Detections of Airborne Lead",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQT1lWZm9RcjI3b1E0YkU3YTR5VVpxZlpEUG5xaDZ2eTB2eEE1MF9HREJLNnJQRDFwdDRzZGdGeXpNenZqZ2ZfUWllQ0FhQy1raVVIRlBBbFdZN0xKcl9ZeVJPaEtqRXdkci0wQ0JfcGY1RHIzSzhFQWM0SEFlekdpS3lSb21TcTNqUlNtVHpMT2dDUU9HYmRPZW0wSy1iVktvc1BIUUlPeExhRlEzNWJwUGhRUnZCTEhwd2xWNkc1dl8tQjhmOThNSlBMSmRvOERZcG5KU3BsdklXTHRZekg2ZEZhYnlXcG1SUlppU2JFSFBQWlA3?oc=5"
+        },
+        {
+          "name": "Business News 97.5 FM",
+          "title": "EPA Finds No Airborne Lead After Army Detonates Bomb-Making Chemicals",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTFBoRGpTQVhHbTdFcmJHWlNEMVlVZUN5aGV3SVFkdEhTV0ZZUzZtWFBaRzZ4dmVrYjc5VkpBTEEwZ19CV09zelMtZi1aRlZOZ0RPWXpreHQ0ODZUSDN5TTRUOHV0MHMtaEtOb0NqT0xSYU9VbENfeENhUnZyZnI0LTBkTFpsZW9YNXR0M09JN3VGbTVqOEZhR1dmVkIyRUYtdkNJWmdMSVBxRFRCakNpZ0tGWjRMclVqYktPV0RTOVhiSXFU?oc=5"
+        },
+        {
+          "name": "TRT World",
+          "title": "US Army destroys toxic explosives stockpile in Iowa, EPA detects no airborne lead",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVSVBxYm1LRWlUeXVxVXVHTk55MC14RWV4LWtSUUtXNjdFaGZEQl85MHZ6dFVRYzczdTdLT0lDWEFmcjl3RXlLRUIzby15ckdmYk1wYmNIRFU?oc=5"
+        }
+      ],
+      "wordCount": 391
+    },
+    "blindSpot": "While officials emphasize immediate air safety following the controlled blast, the operation highlights long-term national security vulnerabilities tied to aging munitions disposal and legacy chemical liabilities. Transitioning away from unstable compounds deployed for nearly a century reveals how difficult it is to safely eliminate hazardous military stockpiles without environmental trade-offs."
+  },
+  {
     "slug": "remembering-ellen-nimmons-fading-architecture-wire-fxye",
     "path": "news/remembering-ellen-nimmons-fading-architecture-wire-fxye/",
     "title": "Remembering Ellen Nimmons and the fading architecture of wire service editing",

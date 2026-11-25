@@ -24541,5 +24541,150 @@
     "maxAttempts": 3,
     "createdAt": "2026-11-25T12:29:24.684Z",
     "igDeferred": true
+  },
+  {
+    "id": "queue-1795647999778-ijup8",
+    "news": {
+      "id": "91rlfq8fo",
+      "originalUrl": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
+      "originalTitle": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+      "sourceName": "The Verge",
+      "category": "SECURITY & DEFENSE",
+      "urgencyScore": 82,
+      "headline": "US ARMY DETONATES TOXIC IOWA LEAD AZIDE STOCKPILE",
+      "subHeadline": "The US Army destroyed 4.4 tons of degraded lead azide at the Iowa Army Ammunition Plant, with the EPA reporting zero initial detection of airborne lead.",
+      "blindSpotAngle": "While officials emphasize immediate air safety following the controlled blast, the operation highlights long-term national security vulnerabilities tied to aging munitions disposal and legacy chemical liabilities. Transitioning away from unstable compounds deployed for nearly a century reveals how difficult it is to safely eliminate hazardous military stockpiles without environmental trade-offs.",
+      "facebookPost": "The US Army executed a controlled detonation of over 9,700 pounds of lead azide at the Iowa Army Ammunition Plant in Middletown, eliminating a severely degraded explosive stockpile that posed spontaneous combustion risks. Following the blast, the EPA confirmed zero initial detection of airborne lead in the region, supported by water tank barricades and containment foam designed to trap particulate matter.\n\nYet the public narrative focuses heavily on immediate air monitoring success while overlooking the broader systemic challenge of managing century-old hazardous munitions. Decaying military chemistry creates recurring domestic liabilities that standard environmental testing can only partially mitigate.\n\nHow sustainable is the current methodology for disposing of aging defense stockpiles as hazardous materials degrade across domestic facilities?\n\nSource: The Verge\n\n#Security #Defense #Blindspot",
+      "telegramPost": "<b>US ARMY DESTROYS DEGRADED IOWA LEAD AZIDE STOCKPILE</b>\n\n• <b>What happened:</b> The US Army conducted a controlled detonation of 4.4 tons of lead azide at the Iowa Army Ammunition Plant after an ATF inspection found significant crystallization on storage barrels.\n• <b>Why it matters:</b> The operation eliminated the nation's remaining stockpile of an unstable compound used for nearly a century, averting potential spontaneous explosions despite voluntary local evacuations.\n• <b>What is next:</b> Displaced residents remain lodged until November 27th pending final environmental clearances, while defense planners confront the wider task of managing legacy munitions disposal.",
+      "linkedInPost": "The US Army's controlled detonation of 4.4 tons of lead azide at the Iowa Army Ammunition Plant highlights the critical supply chain and environmental risks of aging military infrastructure. While the EPA reported zero initial detection of airborne lead following the blast, managing degraded chemical compounds requires complex containment and voluntary evacuations that disrupt local communities. Defense logistics must increasingly account for the staggering cost and safety hazards of neutralizing century-old explosive stockpiles.\n\nSource: The Verge\n\n#Security #Defense #Blindspot",
+      "blueskyPost": "EPA reports zero airborne lead after the US Army detonates 4.4 tons of lead azide in Iowa. Yet the operation exposes the hidden cost of disposing of century-old unstable military chemicals. #Security #Blindspot",
+      "copies": {
+        "facebook": "The US Army executed a controlled detonation of over 9,700 pounds of lead azide at the Iowa Army Ammunition Plant in Middletown, eliminating a severely degraded explosive stockpile that posed spontaneous combustion risks. Following the blast, the EPA confirmed zero initial detection of airborne lead in the region, supported by water tank barricades and containment foam designed to trap particulate matter.\n\nYet the public narrative focuses heavily on immediate air monitoring success while overlooking the broader systemic challenge of managing century-old hazardous munitions. Decaying military chemistry creates recurring domestic liabilities that standard environmental testing can only partially mitigate.\n\nHow sustainable is the current methodology for disposing of aging defense stockpiles as hazardous materials degrade across domestic facilities? #Security #Defense #Blindspot",
+        "telegram": "<b>US ARMY DESTROYS DEGRADED IOWA LEAD AZIDE STOCKPILE</b>\n\n• <b>What happened:</b> The US Army conducted a controlled detonation of 4.4 tons of lead azide at the Iowa Army Ammunition Plant after an ATF inspection found significant crystallization on storage barrels.\n• <b>Why it matters:</b> The operation eliminated the nation's remaining stockpile of an unstable compound used for nearly a century, averting potential spontaneous explosions despite voluntary local evacuations.\n• <b>What is next:</b> Displaced residents remain lodged until November 27th pending final environmental clearances, while defense planners confront the wider task of managing legacy munitions disposal.",
+        "bluesky": "EPA reports zero airborne lead after the US Army detonates 4.4 tons of lead azide in Iowa. Yet the operation exposes the hidden cost of disposing of century-old unstable military chemicals. #Security #Blindspot",
+        "linkedIn": "The US Army's controlled detonation of 4.4 tons of lead azide at the Iowa Army Ammunition Plant highlights the critical supply chain and environmental risks of aging military infrastructure. While the EPA reported zero initial detection of airborne lead following the blast, managing degraded chemical compounds requires complex containment and voluntary evacuations that disrupt local communities. Defense logistics must increasingly account for the staggering cost and safety hazards of neutralizing century-old explosive stockpiles. #Security #Defense #Blindspot"
+      },
+      "article": {
+        "slug": "inside-controlled-army-detonation-toxic-lead-4egi",
+        "title": "Inside the controlled Army detonation of toxic lead azide in Iowa",
+        "dek": "The US Army successfully destroyed 4.4 tons of unstable lead azide in Iowa, as federal monitors reported zero initial airborne lead. The operation exposes the hidden vulnerabilities of managing aging military chemical stockpiles.",
+        "keyFacts": [
+          "The US Army detonated over 9,700 pounds of lead azide at the Iowa Army Ammunition Plant.",
+          "The material was stored in 68 barrels, which were inspected by the ATF last March and found to have significant crystallization.",
+          "The EPA reported zero detection of airborne lead in the region an hour after the detonation.",
+          "FEMA supported a voluntary temporary relocation of Middletown residents starting the day before the blast through November 27th."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "The US Army conducted a controlled detonation of over 9,700 pounds of lead azide at the Iowa Army Ammunition Plant in Middletown, Iowa. According to the Associated Press, Maj. Gen. Eric Shirley stated during a press conference that the action reduced the risk to public health and safety as close to zero as humanly possible.",
+              "Videos of the detonation showed plumes of smoke hundreds of feet high drifting south before dissipating. Following the blast, the EPA confirmed through real-time monitoring that zero airborne lead was detected throughout the region an hour after the event."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "The military has used lead azide in munitions for nearly a century, but began transitioning away from the material around 15 years ago due to transport and storage difficulties. Over time, the compound degrades, crystallizes, and can detonate at ambient temperatures.",
+              "The Iowa facility housed 68 barrels containing the country's remaining stockpile. The material was stored in liquid form in sawdust and burlap bags with water and ethanol to prevent freezing. However, an ATF inspection last March discovered significant crystallization on the exterior of the barrels, forcing the decision to detonate."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "While official reports emphasize immediate air safety and the success of containment measures—such as four 16,000-gallon water tank walls and foam-flooded magazines—the broader issue remains the long-term liabilities of legacy defense manufacturing. The necessity of a voluntary evacuation zone extending five miles southwest underscores the severe disruption caused by decaying military chemistry.",
+              "Mainstream coverage focuses on the immediate environmental clearance rather than the structural reality that thousands of tons of aging munitions still require complex, high-risk neutralization across domestic installations."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "The primary beneficiaries are federal defense planners and local authorities who successfully eliminated an acute domestic explosive hazard without immediate environmental contamination or infrastructure damage. The residents of Middletown face temporary displacement until November 27th, bearing the logistical inconvenience of living adjacent to legacy military production sites."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "Monitor the official return of displaced residents following the final all-clear on November 27th and any subsequent long-term soil and water testing data released by EPA contractors. Broader defense spending bills will also indicate whether funding accelerates for modernizing the disposal of aging chemical stockpiles nationwide."
+            ]
+          }
+        ],
+        "tags": [
+          "Security",
+          "Defense",
+          "Army",
+          "EPA",
+          "Iowa",
+          "Blindspot"
+        ],
+        "sources": [
+          {
+            "name": "The Verge",
+            "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+            "url": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant"
+          },
+          {
+            "name": "NBC News",
+            "title": "EPA finds zero detection of airborne lead after detonation",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWjZtaHVXcWFZQmlFeDcza0owNWVXR053QVVEUlJoME5wR1UyVldvN2Q1N3hUSDY5TjAwYlU5Z1RjckRuRHhqeGowLVo0blV0WE51LWdfSGVQV01uSjFtMEYtQTZfUndyVTZidThlVHFMeU5HV1pEVDlkTTFmR0Z1MDBJWkZXRGprSjdicFJ5Qmt0YVpVdHdiS05PQ3l6VC1iTG96ME51c2ZJclho?oc=5"
+          },
+          {
+            "name": "USDA (.gov)",
+            "title": "Secretary of Agriculture Brooke Rollins’ Statement Following Successful Controlled Detonation at Iowa Army Ammunition, Showing Zero Initial Detections of Airborne Lead",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQT1lWZm9RcjI3b1E0YkU3YTR5VVpxZlpEUG5xaDZ2eTB2eEE1MF9HREJLNnJQRDFwdDRzZGdGeXpNenZqZ2ZfUWllQ0FhQy1raVVIRlBBbFdZN0xKcl9ZeVJPaEtqRXdkci0wQ0JfcGY1RHIzSzhFQWM0SEFlekdpS3lSb21TcTNqUlNtVHpMT2dDUU9HYmRPZW0wSy1iVktvc1BIUUlPeExhRlEzNWJwUGhRUnZCTEhwd2xWNkc1dl8tQjhmOThNSlBMSmRvOERZcG5KU3BsdklXTHRZekg2ZEZhYnlXcG1SUlppU2JFSFBQWlA3?oc=5"
+          },
+          {
+            "name": "Business News 97.5 FM",
+            "title": "EPA Finds No Airborne Lead After Army Detonates Bomb-Making Chemicals",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTFBoRGpTQVhHbTdFcmJHWlNEMVlVZUN5aGV3SVFkdEhTV0ZZUzZtWFBaRzZ4dmVrYjc5VkpBTEEwZ19CV09zelMtZi1aRlZOZ0RPWXpreHQ0ODZUSDN5TTRUOHV0MHMtaEtOb0NqT0xSYU9VbENfeENhUnZyZnI0LTBkTFpsZW9YNXR0M09JN3VGbTVqOEZhR1dmVkIyRUYtdkNJWmdMSVBxRFRCakNpZ0tGWjRMclVqYktPV0RTOVhiSXFU?oc=5"
+          },
+          {
+            "name": "TRT World",
+            "title": "US Army destroys toxic explosives stockpile in Iowa, EPA detects no airborne lead",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVSVBxYm1LRWlUeXVxVXVHTk55MC14RWV4LWtSUUtXNjdFaGZEQl85MHZ6dFVRYzczdTdLT0lDWEFmcjl3RXlLRUIzby15ckdmYk1wYmNIRFU?oc=5"
+          }
+        ],
+        "wordCount": 391
+      },
+      "videoScript": {
+        "hook": "The US Army just blew up 4.4 tons of toxic explosives in Iowa.",
+        "beats": [
+          "Officials detonated over 9,700 pounds of aging lead azide to prevent spontaneous explosions.",
+          "The EPA confirmed zero airborne lead detection right after the blast using real-time monitors.",
+          "What nobody is talking about is the staggering ongoing risk of managing century-old military chemical stockpiles."
+        ],
+        "close": "Read the full analysis at the link in our bio."
+      },
+      "rawImageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306835116.jpg?quality=90&strip=all&crop=0%2C10.755695117778%2C100%2C78.488609764443&w=1200",
+      "sourceVideo": {
+        "provider": "youtube",
+        "id": "mm00w3g-56Y",
+        "title": "Army: Iowa Lead Detonation Exceeded Expectations, No Airborne Lead Detected So Far",
+        "channel": "Mo News",
+        "license": "cc-by"
+      },
+      "status": "pending",
+      "createdAt": "2026-11-25T23:06:37.276Z",
+      "cardImageUrl": "/news-cards/news-91rlfq8fo-1795647997276.jpg",
+      "reelCoverUrl": "/news-cards/news-91rlfq8fo-1795647997926-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-91rlfq8fo-1795647998544-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/inside-controlled-army-detonation-toxic-lead-4egi/"
+    },
+    "channels": {
+      "facebook": true,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": true,
+      "mastodon": false,
+      "threads": false,
+      "youtube": true
+    },
+    "scheduledFor": "2026-11-26T01:13:00.000Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-25T23:06:39.778Z"
   }
 ]
