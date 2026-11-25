@@ -223,6 +223,35 @@
   ],
   "processedSignatures": [
     {
+      "title": "LATVIAN PRESIDENT WARNS OF UKRAINE WAR TIPPING POINT",
+      "normalizedTokens": [
+        "latvian",
+        "president",
+        "warns",
+        "ukraine",
+        "war",
+        "tipping",
+        "point"
+      ],
+      "date": "2026-11-25T12:29:24.721Z"
+    },
+    {
+      "title": "Latvian president sees possible 'tipping point' in Ukraine war next year",
+      "normalizedTokens": [
+        "latvian",
+        "president",
+        "sees",
+        "possible",
+        "tipping",
+        "point",
+        "ukraine",
+        "war",
+        "next",
+        "year"
+      ],
+      "date": "2026-11-25T12:29:24.717Z"
+    },
+    {
       "title": "UK ENERGY BILLS PREDICTED TO SURGE 26 PERCENT IN JANUARY",
       "normalizedTokens": [
         "energy",
