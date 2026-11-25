@@ -218,9 +218,39 @@
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd1owVzQ0WnFIOWhrNkJsRnYxRWVMUV9iQWxvM3lZYXRfYm5fajBMZ0lZMDcwNHhrR2pnZjZLcy1Pbl9qaFIwNlgxcGhDVmVSUHRrU1czWV9wa2trX2xpOFoxYkkwRXlpOEFveVN6Tmw0OXNDZE96RVlfY1lpb1QtTjZtQVZLajZMUjlKTmdqOEZXdGN6SjFWRUJSbXBJaTJUbFo5RWxJd1kwZ2Ewbm1PYlBadVZuMGp5TldIZ3dFYw?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeUxOaThiVDlHRFdTUnBOQU1yUHBiMFdodnVwbWVHdEJpSV9iRV9iZHpZa29tOWR3RHZaSy1uSG11b0p6SG1lMmxtaHFuMm40YzgxTGRCQm5McmVnZ1V6cUpfUWRzZUJBSVd3M3AyMEtVWGE0RXBJTUxtcGFLYmZ2RkhXYm1CakMzcUx4RVJuZjdfQkZ6NDNIcnpIZ0licGVvN2tZNlA1QQ?oc=5",
     "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
-    "https://www.bbc.com/mundo/articles/cmx2rny0dn17o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.com/mundo/articles/cmx2rny0dn17o?at_medium=RSS&at_campaign=rss",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVWhnNEpBUFV1TWFId0IwWWgzNzBtRER3MlFwWmI2MlgxN0ZqcEt6SzNtQU8yQkNpeWcwZG5aRmlHTGNQVlVES05tWkJpb2dQU2NQNXVfZVVxLURiRjJCaEFmcGVacC1JREoxMC1GZmRPdlQ3b01DVXlDYVNuemJPTW9yVGZYX3BUZk5HQkgweFlLck93bFp1dkFOQnRwb0hj?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "LONGTIME ASSOCIATED PRESS EDITOR ELLEN NIMMONS DIES AT 78",
+      "normalizedTokens": [
+        "longtime",
+        "associated",
+        "press",
+        "editor",
+        "ellen",
+        "nimmons",
+        "dies"
+      ],
+      "date": "2026-11-25T05:46:38.858Z"
+    },
+    {
+      "title": "Ellen Nimmons, longtime AP editor committed to quality and far-flung colleagues, dies at 78",
+      "normalizedTokens": [
+        "ellen",
+        "nimmons",
+        "longtime",
+        "editor",
+        "committed",
+        "quality",
+        "far",
+        "flung",
+        "colleagues",
+        "dies"
+      ],
+      "date": "2026-11-25T05:46:38.856Z"
+    },
     {
       "title": "ARMED HOSTAGE SIEGE IN CARTAGENA EXPOSES LOCAL SECURITY GAPS",
       "normalizedTokens": [
