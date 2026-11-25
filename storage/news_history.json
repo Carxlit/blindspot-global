@@ -214,9 +214,39 @@
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSnk5dTVWekk1WFI4QlBiSW5nUWRtUXc5M2JqY2NtSGRUQktxTm51U1dGblZKdk1mWktkVGVFMEdhRzFYUXZxQmJZUWcyc1NQb25kc2FONXE4N3REb1RnTGduREV6cG9XUVJob1Qta2xGZEs2TFJkR3BsSGJGRmRSVWQ5cnpHOXNxV1VjREthM1pscG1Yd1dzM19tdjZWN0tTRTFralBqNE5ld2JDN1c5WG1aMFA5MmdTTVFrd3dMWnQ3OE9YMW5n?oc=5",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcWVhaTZ1VE1DODl2cm9KdXRyTWgwV1Q4cjRsSzRhOG1wU3FjLUtKajNVN2NIV1VqNU9OS0tTMkF1T1NTTFRiTEtIT1V6aXMzbDctRnR5X3ZTbVFRdEQ5NGE2ZnlOa0c4YjhzN3pRbUJzQTlUZDZwRE5SNlhOSjVzY1UxaXlZWTRDNm1RNmFHLXhZOU40Tm9UcnBKdnVfcnJTemFhT21EOEE1Y3dtNkR3VmZxV0VHTHhGSWVpYlNoSk0?oc=5",
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVGt5amtkQUNnaDlRcEdzRld0dDBNWDU2Q3lkUm5ZRDU2Vkhfd3pFV3BLQ2dURmhscTBqcmV3aU1sZlp3SllNdzhUcGI5RFJmNUFxUnlQLVBma3JqRXdvdGVTUFVDYlc2UXhoeDJoVEhwYUwyRldSSEZ1ekdJU2pkS2VBQ1ZHdHdDNElQU0lCMkFsYWRKa1RfNXo0M1Y1VVEyTVFNMWxXdFNLNUdsZUphSTc0aGxWZngxT0dZbUhrekp3anczQkxERnJvdnY4Z2Rvd2RsZDJBUkxYUdIB7gFBVV95cUxNcUhSdFdVTE85b3VlZ3V6VWZvNm40VzA2Sy1PRWFxMk9HUDIyUjAwT0tudWVSSl94Q2xPUXdJVndJVEZqYUgwSmt0dWh6aVFpUW9pXzBkWm5ZMmFfMVlyZ0Q1VXE0dUR4c2RwQzl5b18xUUJSRmN2N0d3cnFBeGxfN3hpLXV4OVJqUHNiWHgtVXlKQTVSTVVPb0Z0NmI4Zi05RHlTMVVqZHZORXdmcHJPSWtPSmh0ZEV3NERBbXBQNlFnNEdOcGpzSnNtckZDZ3FmbzNaNU9zNXFOR0swZ0M0bDMxbWlFOEMzVVVBeGpB?oc=5",
-    "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd1owVzQ0WnFIOWhrNkJsRnYxRWVMUV9iQWxvM3lZYXRfYm5fajBMZ0lZMDcwNHhrR2pnZjZLcy1Pbl9qaFIwNlgxcGhDVmVSUHRrU1czWV9wa2trX2xpOFoxYkkwRXlpOEFveVN6Tmw0OXNDZE96RVlfY1lpb1QtTjZtQVZLajZMUjlKTmdqOEZXdGN6SjFWRUJSbXBJaTJUbFo5RWxJd1kwZ2Ewbm1PYlBadVZuMGp5TldIZ3dFYw?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "LATVIAN PRESIDENT WARNS OF UKRAINE WAR TIPPING POINT",
+      "normalizedTokens": [
+        "latvian",
+        "president",
+        "warns",
+        "ukraine",
+        "war",
+        "tipping",
+        "point"
+      ],
+      "date": "2026-11-25T03:35:38.742Z"
+    },
+    {
+      "title": "Latvian president sees possible 'tipping point' in Ukraine war next year",
+      "normalizedTokens": [
+        "latvian",
+        "president",
+        "sees",
+        "possible",
+        "tipping",
+        "point",
+        "ukraine",
+        "war",
+        "next",
+        "year"
+      ],
+      "date": "2026-11-25T03:35:38.740Z"
+    },
     {
       "title": "UK ENERGY BILLS PREDICTED TO SURGE 26 PERCENT IN JANUARY",
       "normalizedTokens": [
