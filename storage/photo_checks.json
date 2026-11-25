@@ -1253,5 +1253,20 @@
     "relevant": true,
     "reason": "The image shows a graphics card, representing Nvidia hardware relevant to the story.",
     "at": "2026-11-25T00:12:20.351Z"
+  },
+  "4804654fc27d4499:y1hz5ey2u": {
+    "relevant": false,
+    "reason": "The image shows a generic BREAKING NEWS graphic and does not illustrate the specific plane crash near Horn Island.",
+    "at": "2026-11-25T01:09:59.192Z"
+  },
+  "e07fd9252f53577c:y1hz5ey2u": {
+    "relevant": false,
+    "reason": "The image is a generic graphic with the words PLANE CRASH over a sky background rather than showing the actual event, aircraft, or location described in the news story.",
+    "at": "2026-11-25T01:10:06.391Z"
+  },
+  "8cf89e5e864b231b:y1hz5ey2u": {
+    "relevant": true,
+    "reason": "The image shows a news broadcast reporting on the plane crash near Horn Island.",
+    "at": "2026-11-25T01:10:10.911Z"
   }
 }

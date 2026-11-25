@@ -1,5 +1,102 @@
 [
   {
+    "slug": "catastrophic-gulf-crash-single-engine-cessna-sparks-cvm2",
+    "path": "news/catastrophic-gulf-crash-single-engine-cessna-sparks-cvm2/",
+    "title": "Catastrophic Gulf crash of single-engine Cessna sparks urgent questions over private aviation safety",
+    "headline": "SIX MISSING AS CESSNA CRASHES NEAR HORN ISLAND",
+    "dek": "A flight departing New Orleans ended in disaster northeast of Horn Island with six people on board. Search and rescue operations face complex maritime recovery challenges.",
+    "category": "POWER & SOCIETY",
+    "sourceName": "FOX 8 Local First",
+    "image": "img/catastrophic-gulf-crash-single-engine-cessna-sparks-cvm2.jpg",
+    "photo": "img/catastrophic-gulf-crash-single-engine-cessna-sparks-cvm2-foto.jpg",
+    "publishedAt": "2026-11-25T01:10:14.876Z",
+    "article": {
+      "slug": "catastrophic-gulf-crash-single-engine-cessna-sparks-cvm2",
+      "title": "Catastrophic Gulf crash of single-engine Cessna sparks urgent questions over private aviation safety",
+      "dek": "A flight departing New Orleans ended in disaster northeast of Horn Island with six people on board. Search and rescue operations face complex maritime recovery challenges.",
+      "keyFacts": [
+        "The aircraft was a single-engine Cessna carrying four adults and two boys between the ages of eight and 10.",
+        "The Federal Aviation Administration lost communication with the plane around 3:45 p.m. on Tuesday.",
+        "According to the U.S. Coast Guard, the plane was descending at 10,000 feet per minute when contact was lost.",
+        "Debris recovered from the water included three life jackets, a life raft, and the cabin of the plane.",
+        "The flight originated from New Orleans Lakefront Airport and was headed toward Page Field airport in Fort Myers, Florida."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "A single-engine Cessna carrying six individuals crashed into the waters northeast of Horn Island after a precipitous descent. According to the U.S. Coast Guard Mobile station, communication with the aircraft was severed at approximately 3:45 p.m. on Tuesday.",
+            "Radar data indicated the plane was descending at a catastrophic rate of 10,000 feet per minute before disappearing from tracking systems. Emergency responders discovered three life jackets, a life raft, and the cabin of the plane floating in the impact area."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "According to reports from WLOX News and corroborating local outlets, the aircraft departed from New Orleans Lakefront Airport with a planned destination of Page Field airport in Fort Myers, Florida.",
+            "The U.S. Coast Guard launched a coordinated multi-agency response, mobilizing two small boats and a cutter from the Pascagoula station alongside aircraft dispatched from Coast Guard Mobile. Additional support came via marine units from the Mississippi Department of Marine Resources and the Pascagoula Police Department."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While public attention remains fixed on the immediate search and recovery metrics, broader systemic questions surrounding private aviation safety and emergency tracking in coastal corridors receive far less scrutiny.",
+            "Rapid-descent events in single-engine aircraft expose the inherent difficulties in real-time intervention for private flights operating outside commercial air traffic control rigor. The incident forces a hard look at whether current oversight frameworks adequately address the risks inherent in regional light aircraft transit."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "State and federal maritime response units shoulder the immediate operational burden, absorbing significant resource costs for emergency deployment across open Gulf waters.",
+            "Passengers and private operators bear the ultimate risk, navigating safety margins that often lack the rigorous technological redundancies mandated for commercial carriers."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Investigators from aviation safety boards will parse the recovered cabin structure and flight data to determine the mechanical or environmental catalyst behind the sudden vertical descent.",
+            "Any subsequent findings regarding pre-crash communications or aircraft performance will shape future regulatory discussions concerning private flight monitoring over open water."
+          ]
+        }
+      ],
+      "tags": [
+        "Aviation",
+        "Coast Guard",
+        "Gulf of Mexico",
+        "Safety",
+        "Transport"
+      ],
+      "sources": [
+        {
+          "name": "FOX 8 Local First",
+          "title": "2 children, 4 adults aboard plane that crashed near Horn Island after leaving New Orleans, Coast Guard says",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVGt5amtkQUNnaDlRcEdzRld0dDBNWDU2Q3lkUm5ZRDU2Vkhfd3pFV3BLQ2dURmhscTBqcmV3aU1sZlp3SllNdzhUcGI5RFJmNUFxUnlQLVBma3JqRXdvdGVTUFVDYlc2UXhoeDJoVEhwYUwyRldSSEZ1ekdJU2pkS2VBQ1ZHdHdDNElQU0lCMkFsYWRKa1RfNXo0M1Y1VVEyTVFNMWxXdFNLNUdsZUphSTc0aGxWZngxT0dZbUhrekp3anczQkxERnJvdnY4Z2Rvd2RsZDJBUkxYUdIB7gFBVV95cUxNcUhSdFdVTE85b3VlZ3V6VWZvNm40VzA2Sy1PRWFxMk9HUDIyUjAwT0tudWVSSl94Q2xPUXdJVndJVEZqYUgwSmt0dWh6aVFpUW9pXzBkWm5ZMmFfMVlyZ0Q1VXE0dUR4c2RwQzl5b18xUUJSRmN2N0d3cnFBeGxfN3hpLXV4OVJqUHNiWHgtVXlKQTVSTVVPb0Z0NmI4Zi05RHlTMVVqZHZORXdmcHJPSWtPSmh0ZEV3NERBbXBQNlFnNEdOcGpzSnNtckZDZ3FmbzNaNU9zNXFOR0swZ0M0bDMxbWlFOEMzVVVBeGpB?oc=5"
+        },
+        {
+          "name": "WWLTV.com",
+          "title": "Plane leaving New Orleans crashes near Horn Island; 4 adults, 2 children aboard: report",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQNldZaWVsYjlYRUJiOVNJOXhTRTBWdXNBM2hXdTJfWGZEaHpFRjZVa2F2QTlUM0JIU1lfcDJNd1JYaVFMS1A4TnpGT2Z6a0ctWm40OXNOVnhrWXcxa1phYk9zNHdpQXJKSWUyX043WEhhcXdKVFlkSzBjTTdaaXByZDhPa2dIc3hYc2VJZ29wYmFKNVVPTnYwN3dQaHhEbHdTUkVRUV9nbkRSSHh0UmEzdkYyZDROR2prZWdpZXVmRzdESURNMkRxaDRRZXZreW9zLTVYX0tydllONHBzMjlVVWxvdVlNc2VsQjRMNVFpeHdJX2RFUU1DclR1VnBSVWMzYkxucXktRW1FZw?oc=5"
+        },
+        {
+          "name": "KPLC 7 News",
+          "title": "4 adults, 2 children on board plane that crashed near Horn Island, Coast Guard says",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWWpNellVSzN0RVdmV2NXbGRhYnB5NlVjMWNsaVJFS243ZHRSczF3N3VOVkRvY1FqS3RjLTdISEFEak9zRWl2RWYxTXNBM3MySk5yTXZCcU9jNG1RVHJTaHR5MGN0SFdQaXdGVnlSWEhaeDh6b1lpZEY1Mk0xWWlqRkZBVmNxUGRXdXdsc3lnSkJna1NmMUQxQ1djSjBKUV9VUTFaN3lOSW5mUdIBvgFBVV95cUxQbjZNdlVEaVFNRnpwS0hHN1IwT2pySHQybURmZTRmTXlncnNxSHNTZFY4UWVaR2NKOWpqTFRHdENvdjRBS0dqX1BEcXEzb3JWTFFFYmtZMzlpZ2FhTkhWRnVDbHdoN0xBQklRWEJjX0R2c0JuNjdnc0FNUGtiSnRTZVJQN0ZLRk9rcmEwem1taVBtYkx2VkZXZ1ZodE50cFRPaWE2SmE0Y3FEcndpQWJteGpOVmY1YzNBYzZmeHh3?oc=5"
+        },
+        {
+          "name": "WLBT",
+          "title": "LIVE: 4 adults, 2 children on board plane that crashed near Horn Island, Coast Guard says",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdDVhT2FIUUNWcDFIS3Itb3dpd1Ewc2VQRXB3WUpSb2FTMDF6ZklHNWFoQVlVUmdDN19wUGdPN0hobTRCdDVHNDZwaU1iSWJJdnd6VFl5X3pmTkI3Ri13eFZWWFhjSVI3azI3bG51bkwwVlVaQzQzQXpQME9STFctMGJ3SlhYMm9Kc19XWFBQWUQwdVRFSEliMHplY21oaTdYWGNwbE5SaGJPYVhCVXFIcWhrWnhLN0ZHYmRZUldvNA?oc=5"
+        },
+        {
+          "name": "WLOX",
+          "title": "4 adults, 2 children on board plane that crashed near Horn Island, Coast Guard says",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaktmb1g2OFNMYmFYZ3hiYVlucWRvU0o2TUt4Ti13Zm5BRHBQcE8wVTU0eFY1c2hQek5WZVNMLWVLTWlvcVI1WEpTZEpBb1NRYW00Qk5lR0x3d0s1bng4NFJCOWZyd2FZUHZwcDVQa2xnMDFtWXdmdWpQNURYN0pWcElPeHg2SUVnLTNlRHRPX1JxektYbWxYTVdRdTRlb01uc1Vhc25adzBhNjlmVWhVMndtVEtnTE5QWlNQOUVrNUN3Z2Jo0gHEAUFVX3lxTE5qS2ZvWDY4U0xiYVhneGJhWW5xZG9TSjZNS3hOLXdmbkFEcFBwTzBVNTR4VjVzaFB6TlZlU0wtZUtNaW9xUjVYSlNkSkFvU1FhbTRCTmVHTHd3SzVueDg0UkI5ZnJ3YVlQdnBwNVBrbGcwMW1Zd2Z1alA1RFg3SlZwSU94eDZJRWctM2VEdE9fUnF6S1htbFhNV1F1NGVvTW5zVWFzblp3MGE2OWZVaFUyd21US2dMTlBaU1A5RWs1Q3dnYmg?oc=5"
+        }
+      ],
+      "wordCount": 343
+    },
+    "blindSpot": "While the immediate coverage focuses on search and rescue efforts by the Coast Guard, the underlying institutional questions concern general aviation safety protocols, rapid-descent tracking mechanisms, and the emergency response readiness across coastal jurisdictions. Incidents of sudden catastrophic altitude loss underscore ongoing vulnerabilities in private flight corridor monitoring."
+  },
+  {
     "slug": "us-blacklists-nvidia-customer-megaspeed-semiconductor-0okh",
     "path": "news/us-blacklists-nvidia-customer-megaspeed-semiconductor-0okh/",
     "title": "US Blacklists Nvidia Customer Megaspeed as Semiconductor Intelligence Crackdown Escalates",

@@ -24559,5 +24559,145 @@
     "attempts": 0,
     "maxAttempts": 3,
     "createdAt": "2026-11-25T00:12:22.781Z"
+  },
+  {
+    "id": "queue-1795569014973-4s4dn",
+    "news": {
+      "id": "y1hz5ey2u",
+      "originalUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVGt5amtkQUNnaDlRcEdzRld0dDBNWDU2Q3lkUm5ZRDU2Vkhfd3pFV3BLQ2dURmhscTBqcmV3aU1sZlp3SllNdzhUcGI5RFJmNUFxUnlQLVBma3JqRXdvdGVTUFVDYlc2UXhoeDJoVEhwYUwyRldSSEZ1ekdJU2pkS2VBQ1ZHdHdDNElQU0lCMkFsYWRKa1RfNXo0M1Y1VVEyTVFNMWxXdFNLNUdsZUphSTc0aGxWZngxT0dZbUhrekp3anczQkxERnJvdnY4Z2Rvd2RsZDJBUkxYUdIB7gFBVV95cUxNcUhSdFdVTE85b3VlZ3V6VWZvNm40VzA2Sy1PRWFxMk9HUDIyUjAwT0tudWVSSl94Q2xPUXdJVndJVEZqYUgwSmt0dWh6aVFpUW9pXzBkWm5ZMmFfMVlyZ0Q1VXE0dUR4c2RwQzl5b18xUUJSRmN2N0d3cnFBeGxfN3hpLXV4OVJqUHNiWHgtVXlKQTVSTVVPb0Z0NmI4Zi05RHlTMVVqZHZORXdmcHJPSWtPSmh0ZEV3NERBbXBQNlFnNEdOcGpzSnNtckZDZ3FmbzNaNU9zNXFOR0swZ0M0bDMxbWlFOEMzVVVBeGpB?oc=5",
+      "originalTitle": "2 children, 4 adults aboard plane that crashed near Horn Island after leaving New Orleans, Coast Guard says",
+      "sourceName": "FOX 8 Local First",
+      "category": "POWER & SOCIETY",
+      "urgencyScore": 72,
+      "headline": "SIX MISSING AS CESSNA CRASHES NEAR HORN ISLAND",
+      "subHeadline": "A single-engine aircraft carrying four adults and two children plummeted into the Gulf of Mexico after departing New Orleans.",
+      "blindSpotAngle": "While the immediate coverage focuses on search and rescue efforts by the Coast Guard, the underlying institutional questions concern general aviation safety protocols, rapid-descent tracking mechanisms, and the emergency response readiness across coastal jurisdictions. Incidents of sudden catastrophic altitude loss underscore ongoing vulnerabilities in private flight corridor monitoring.",
+      "facebookPost": "A single-engine Cessna carrying four adults and two children descended at ten thousand feet per minute before crashing northeast of Horn Island after departing from New Orleans Lakefront Airport.\n\nWhile multiple agencies mobilize surface vessels and aircraft for the recovery effort, attention rarely turns to the structural safety margins and oversight limitations governing private multi-passenger aviation along high-traffic Gulf corridors.\n\nHow effectively can regional authorities monitor private flight anomalies before catastrophic structural failure occurs?\n\nSource: FOX 8 Local First\n\n#Blindspot #AviationSafety #GulfCoast",
+      "telegramPost": "<b>SIX MISSING AS CESSNA CRASHES NEAR HORN ISLAND</b>\n\n• <b>What happened:</b> A single-engine plane carrying four adults and two boys aged eight to ten crashed northeast of Horn Island after losing communication while descending at 10,000 feet per minute.\n• <b>Why it matters:</b> Coast Guard, local police, and marine resources deployed rapidly, yet the incident highlights enduring monitoring vulnerabilities in private regional flight paths.\n• <b>What is next:</b> Multi-agency recovery operations continue in the Gulf waters as investigators examine flight data and debris fields.",
+      "linkedInPost": "The recent crash of a single-engine Cessna near Horn Island, involving six passengers and culminating in a catastrophic descent rate, places renewed focus on private aviation safety standards and regional emergency response frameworks. While maritime and air rescue units coordinate multi-agency deployment, corporate and private transit risk management along coastal corridors demands rigorous operational scrutiny.\n\nSource: FOX 8 Local First\n\n#Blindspot #AviationRisk #Infrastructure",
+      "blueskyPost": "A Cessna carrying six plummeted at 10,000 feet per minute near Horn Island. Beyond the rescue response, what does this reveal about private aviation corridor oversight? #Blindspot #PowerAndSociety",
+      "copies": {
+        "facebook": "A single-engine Cessna carrying four adults and two children descended at ten thousand feet per minute before crashing northeast of Horn Island after departing from New Orleans Lakefront Airport.\n\nWhile multiple agencies mobilize surface vessels and aircraft for the recovery effort, attention rarely turns to the structural safety margins and oversight limitations governing private multi-passenger aviation along high-traffic Gulf corridors.\n\nHow effectively can regional authorities monitor private flight anomalies before catastrophic structural failure occurs? #Blindspot #AviationSafety #GulfCoast",
+        "telegram": "<b>SIX MISSING AS CESSNA CRASHES NEAR HORN ISLAND</b>\n\n• <b>What happened:</b> A single-engine plane carrying four adults and two boys aged eight to ten crashed northeast of Horn Island after losing communication while descending at 10,000 feet per minute.\n• <b>Why it matters:</b> Coast Guard, local police, and marine resources deployed rapidly, yet the incident highlights enduring monitoring vulnerabilities in private regional flight paths.\n• <b>What is next:</b> Multi-agency recovery operations continue in the Gulf waters as investigators examine flight data and debris fields.",
+        "bluesky": "A Cessna carrying six plummeted at 10,000 feet per minute near Horn Island. Beyond the rescue response, what does this reveal about private aviation corridor oversight? #Blindspot #PowerAndSociety",
+        "linkedIn": "The recent crash of a single-engine Cessna near Horn Island, involving six passengers and culminating in a catastrophic descent rate, places renewed focus on private aviation safety standards and regional emergency response frameworks. While maritime and air rescue units coordinate multi-agency deployment, corporate and private transit risk management along coastal corridors demands rigorous operational scrutiny. #Blindspot #AviationRisk #Infrastructure"
+      },
+      "article": {
+        "slug": "catastrophic-gulf-crash-single-engine-cessna-sparks-cvm2",
+        "title": "Catastrophic Gulf crash of single-engine Cessna sparks urgent questions over private aviation safety",
+        "dek": "A flight departing New Orleans ended in disaster northeast of Horn Island with six people on board. Search and rescue operations face complex maritime recovery challenges.",
+        "keyFacts": [
+          "The aircraft was a single-engine Cessna carrying four adults and two boys between the ages of eight and 10.",
+          "The Federal Aviation Administration lost communication with the plane around 3:45 p.m. on Tuesday.",
+          "According to the U.S. Coast Guard, the plane was descending at 10,000 feet per minute when contact was lost.",
+          "Debris recovered from the water included three life jackets, a life raft, and the cabin of the plane.",
+          "The flight originated from New Orleans Lakefront Airport and was headed toward Page Field airport in Fort Myers, Florida."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "A single-engine Cessna carrying six individuals crashed into the waters northeast of Horn Island after a precipitous descent. According to the U.S. Coast Guard Mobile station, communication with the aircraft was severed at approximately 3:45 p.m. on Tuesday.",
+              "Radar data indicated the plane was descending at a catastrophic rate of 10,000 feet per minute before disappearing from tracking systems. Emergency responders discovered three life jackets, a life raft, and the cabin of the plane floating in the impact area."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "According to reports from WLOX News and corroborating local outlets, the aircraft departed from New Orleans Lakefront Airport with a planned destination of Page Field airport in Fort Myers, Florida.",
+              "The U.S. Coast Guard launched a coordinated multi-agency response, mobilizing two small boats and a cutter from the Pascagoula station alongside aircraft dispatched from Coast Guard Mobile. Additional support came via marine units from the Mississippi Department of Marine Resources and the Pascagoula Police Department."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "While public attention remains fixed on the immediate search and recovery metrics, broader systemic questions surrounding private aviation safety and emergency tracking in coastal corridors receive far less scrutiny.",
+              "Rapid-descent events in single-engine aircraft expose the inherent difficulties in real-time intervention for private flights operating outside commercial air traffic control rigor. The incident forces a hard look at whether current oversight frameworks adequately address the risks inherent in regional light aircraft transit."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "State and federal maritime response units shoulder the immediate operational burden, absorbing significant resource costs for emergency deployment across open Gulf waters.",
+              "Passengers and private operators bear the ultimate risk, navigating safety margins that often lack the rigorous technological redundancies mandated for commercial carriers."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "Investigators from aviation safety boards will parse the recovered cabin structure and flight data to determine the mechanical or environmental catalyst behind the sudden vertical descent.",
+              "Any subsequent findings regarding pre-crash communications or aircraft performance will shape future regulatory discussions concerning private flight monitoring over open water."
+            ]
+          }
+        ],
+        "tags": [
+          "Aviation",
+          "Coast Guard",
+          "Gulf of Mexico",
+          "Safety",
+          "Transport"
+        ],
+        "sources": [
+          {
+            "name": "FOX 8 Local First",
+            "title": "2 children, 4 adults aboard plane that crashed near Horn Island after leaving New Orleans, Coast Guard says",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVGt5amtkQUNnaDlRcEdzRld0dDBNWDU2Q3lkUm5ZRDU2Vkhfd3pFV3BLQ2dURmhscTBqcmV3aU1sZlp3SllNdzhUcGI5RFJmNUFxUnlQLVBma3JqRXdvdGVTUFVDYlc2UXhoeDJoVEhwYUwyRldSSEZ1ekdJU2pkS2VBQ1ZHdHdDNElQU0lCMkFsYWRKa1RfNXo0M1Y1VVEyTVFNMWxXdFNLNUdsZUphSTc0aGxWZngxT0dZbUhrekp3anczQkxERnJvdnY4Z2Rvd2RsZDJBUkxYUdIB7gFBVV95cUxNcUhSdFdVTE85b3VlZ3V6VWZvNm40VzA2Sy1PRWFxMk9HUDIyUjAwT0tudWVSSl94Q2xPUXdJVndJVEZqYUgwSmt0dWh6aVFpUW9pXzBkWm5ZMmFfMVlyZ0Q1VXE0dUR4c2RwQzl5b18xUUJSRmN2N0d3cnFBeGxfN3hpLXV4OVJqUHNiWHgtVXlKQTVSTVVPb0Z0NmI4Zi05RHlTMVVqZHZORXdmcHJPSWtPSmh0ZEV3NERBbXBQNlFnNEdOcGpzSnNtckZDZ3FmbzNaNU9zNXFOR0swZ0M0bDMxbWlFOEMzVVVBeGpB?oc=5"
+          },
+          {
+            "name": "WWLTV.com",
+            "title": "Plane leaving New Orleans crashes near Horn Island; 4 adults, 2 children aboard: report",
+            "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQNldZaWVsYjlYRUJiOVNJOXhTRTBWdXNBM2hXdTJfWGZEaHpFRjZVa2F2QTlUM0JIU1lfcDJNd1JYaVFMS1A4TnpGT2Z6a0ctWm40OXNOVnhrWXcxa1phYk9zNHdpQXJKSWUyX043WEhhcXdKVFlkSzBjTTdaaXByZDhPa2dIc3hYc2VJZ29wYmFKNVVPTnYwN3dQaHhEbHdTUkVRUV9nbkRSSHh0UmEzdkYyZDROR2prZWdpZXVmRzdESURNMkRxaDRRZXZreW9zLTVYX0tydllONHBzMjlVVWxvdVlNc2VsQjRMNVFpeHdJX2RFUU1DclR1VnBSVWMzYkxucXktRW1FZw?oc=5"
+          },
+          {
+            "name": "KPLC 7 News",
+            "title": "4 adults, 2 children on board plane that crashed near Horn Island, Coast Guard says",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWWpNellVSzN0RVdmV2NXbGRhYnB5NlVjMWNsaVJFS243ZHRSczF3N3VOVkRvY1FqS3RjLTdISEFEak9zRWl2RWYxTXNBM3MySk5yTXZCcU9jNG1RVHJTaHR5MGN0SFdQaXdGVnlSWEhaeDh6b1lpZEY1Mk0xWWlqRkZBVmNxUGRXdXdsc3lnSkJna1NmMUQxQ1djSjBKUV9VUTFaN3lOSW5mUdIBvgFBVV95cUxQbjZNdlVEaVFNRnpwS0hHN1IwT2pySHQybURmZTRmTXlncnNxSHNTZFY4UWVaR2NKOWpqTFRHdENvdjRBS0dqX1BEcXEzb3JWTFFFYmtZMzlpZ2FhTkhWRnVDbHdoN0xBQklRWEJjX0R2c0JuNjdnc0FNUGtiSnRTZVJQN0ZLRk9rcmEwem1taVBtYkx2VkZXZ1ZodE50cFRPaWE2SmE0Y3FEcndpQWJteGpOVmY1YzNBYzZmeHh3?oc=5"
+          },
+          {
+            "name": "WLBT",
+            "title": "LIVE: 4 adults, 2 children on board plane that crashed near Horn Island, Coast Guard says",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdDVhT2FIUUNWcDFIS3Itb3dpd1Ewc2VQRXB3WUpSb2FTMDF6ZklHNWFoQVlVUmdDN19wUGdPN0hobTRCdDVHNDZwaU1iSWJJdnd6VFl5X3pmTkI3Ri13eFZWWFhjSVI3azI3bG51bkwwVlVaQzQzQXpQME9STFctMGJ3SlhYMm9Kc19XWFBQWUQwdVRFSEliMHplY21oaTdYWGNwbE5SaGJPYVhCVXFIcWhrWnhLN0ZHYmRZUldvNA?oc=5"
+          },
+          {
+            "name": "WLOX",
+            "title": "4 adults, 2 children on board plane that crashed near Horn Island, Coast Guard says",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaktmb1g2OFNMYmFYZ3hiYVlucWRvU0o2TUt4Ti13Zm5BRHBQcE8wVTU0eFY1c2hQek5WZVNMLWVLTWlvcVI1WEpTZEpBb1NRYW00Qk5lR0x3d0s1bng4NFJCOWZyd2FZUHZwcDVQa2xnMDFtWXdmdWpQNURYN0pWcElPeHg2SUVnLTNlRHRPX1JxektYbWxYTVdRdTRlb01uc1Vhc25adzBhNjlmVWhVMndtVEtnTE5QWlNQOUVrNUN3Z2Jo0gHEAUFVX3lxTE5qS2ZvWDY4U0xiYVhneGJhWW5xZG9TSjZNS3hOLXdmbkFEcFBwTzBVNTR4VjVzaFB6TlZlU0wtZUtNaW9xUjVYSlNkSkFvU1FhbTRCTmVHTHd3SzVueDg0UkI5ZnJ3YVlQdnBwNVBrbGcwMW1Zd2Z1alA1RFg3SlZwSU94eDZJRWctM2VEdE9fUnF6S1htbFhNV1F1NGVvTW5zVWFzblp3MGE2OWZVaFUyd21US2dMTlBaU1A5RWs1Q3dnYmg?oc=5"
+          }
+        ],
+        "wordCount": 343
+      },
+      "videoScript": {
+        "hook": "A Cessna plunged toward the Gulf at 10,000 feet per minute.",
+        "beats": [
+          "The flight departed New Orleans Lakefront Airport carrying four adults and two young boys.",
+          "Coast Guard units recovered the cabin, a life raft, and life jackets northeast of Horn Island.",
+          "What gets lost in the rescue coverage is the ongoing vulnerability of private aviation oversight."
+        ],
+        "close": "Read the full investigative analysis at the link in bio."
+      },
+      "rawImageUrl": "https://gray-wlbt-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F11-24-2026%2Ft_e2b8620f28cb433d861c521a7cc730f1_name_file_1280x720_2000_v3_1_.jpg?auth=235088e4c7059c3b193f322007b19b90d56e7a3680505e129b3da15ead86712d&width=1200&height=600&smart=true",
+      "status": "pending",
+      "createdAt": "2026-11-25T01:10:12.348Z",
+      "cardImageUrl": "/news-cards/news-y1hz5ey2u-1795569012348.jpg",
+      "reelCoverUrl": "/news-cards/news-y1hz5ey2u-1795569013197-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-y1hz5ey2u-1795569013829-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/catastrophic-gulf-crash-single-engine-cessna-sparks-cvm2/"
+    },
+    "channels": {
+      "facebook": true,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": true,
+      "mastodon": false,
+      "threads": false,
+      "youtube": true
+    },
+    "scheduledFor": "2026-11-25T03:33:00.000Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-25T01:10:14.973Z"
   }
 ]
