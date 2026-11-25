@@ -217,9 +217,37 @@
     "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd1owVzQ0WnFIOWhrNkJsRnYxRWVMUV9iQWxvM3lZYXRfYm5fajBMZ0lZMDcwNHhrR2pnZjZLcy1Pbl9qaFIwNlgxcGhDVmVSUHRrU1czWV9wa2trX2xpOFoxYkkwRXlpOEFveVN6Tmw0OXNDZE96RVlfY1lpb1QtTjZtQVZLajZMUjlKTmdqOEZXdGN6SjFWRUJSbXBJaTJUbFo5RWxJd1kwZ2Ewbm1PYlBadVZuMGp5TldIZ3dFYw?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeUxOaThiVDlHRFdTUnBOQU1yUHBiMFdodnVwbWVHdEJpSV9iRV9iZHpZa29tOWR3RHZaSy1uSG11b0p6SG1lMmxtaHFuMm40YzgxTGRCQm5McmVnZ1V6cUpfUWRzZUJBSVd3M3AyMEtVWGE0RXBJTUxtcGFLYmZ2RkhXYm1CakMzcUx4RVJuZjdfQkZ6NDNIcnpIZ0licGVvN2tZNlA1QQ?oc=5",
-    "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss"
+    "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
+    "https://www.bbc.com/mundo/articles/cmx2rny0dn17o?at_medium=RSS&at_campaign=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "ARMED HOSTAGE SIEGE IN CARTAGENA EXPOSES LOCAL SECURITY GAPS",
+      "normalizedTokens": [
+        "armed",
+        "hostage",
+        "siege",
+        "cartagena",
+        "exposes",
+        "local",
+        "security",
+        "gaps"
+      ],
+      "date": "2026-11-25T05:31:50.312Z"
+    },
+    {
+      "title": "Hombres armados mantienen decenas de rehenes en un supermercado en Colombia",
+      "normalizedTokens": [
+        "hombres",
+        "armados",
+        "mantienen",
+        "decenas",
+        "rehenes",
+        "supermercado",
+        "colombia"
+      ],
+      "date": "2026-11-25T05:31:50.311Z"
+    },
     {
       "title": "ISRAELI AIRSTRIKE KILLS FOUR IN GAZA INCLUDING AID WORKER",
       "normalizedTokens": [

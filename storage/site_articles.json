@@ -1,5 +1,85 @@
 [
   {
+    "slug": "armed-hostage-siege-cartagena-supermarket-exposes-gdss",
+    "path": "news/armed-hostage-siege-cartagena-supermarket-exposes-gdss/",
+    "title": "Armed hostage siege in a Cartagena supermarket exposes deep security gaps",
+    "headline": "ARMED HOSTAGE SIEGE IN CARTAGENA EXPOSES LOCAL SECURITY GAPS",
+    "dek": "Gunmen holding twenty hostages in a Colombian supermarket after a failed robbery have triggered a massive state deployment. Beneath the official narrative of common criminality lies a troubling test of urban security limits.",
+    "category": "GEOPOLITICS",
+    "sourceName": "BBC Mundo",
+    "image": "img/armed-hostage-siege-cartagena-supermarket-exposes-gdss.jpg",
+    "photo": "img/armed-hostage-siege-cartagena-supermarket-exposes-gdss-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "RrSu_jc1BeA",
+      "title": "Hombres armados toman rehenes en un Éxito de Cartagena, Colombia/ La Opinión",
+      "channel": "La Opinión"
+    },
+    "publishedAt": "2026-11-25T05:31:50.213Z",
+    "article": {
+      "slug": "armed-hostage-siege-cartagena-supermarket-exposes-gdss",
+      "title": "Armed hostage siege in a Cartagena supermarket exposes deep security gaps",
+      "dek": "Gunmen holding twenty hostages in a Colombian supermarket after a failed robbery have triggered a massive state deployment. Beneath the official narrative of common criminality lies a troubling test of urban security limits.",
+      "keyFacts": [
+        "20 people remain held hostage in a Cartagena supermarket since 8:30 am on Tuesday.",
+        "10 additional hostages were initially released and treated by authorities.",
+        "President Abelardo de la Espriella stated the original objective was to rob an armored cash transport vehicle.",
+        "The defense minister and top police command traveled to Cartagena to direct the rescue operation alongside the army and navy."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "An armed group is maintaining 20 people as hostages inside a supermarket in Cartagena, located on the Colombian Caribbean coast, according to reports from BBC Mundo. The crisis began at 8:30 am on Tuesday after security cameras detected an attempt to rob an armored cash-in-transit vehicle.",
+            "Faced with immediate police reaction, the suspects fled into the commercial establishment and seized 30 people, including customers and employees. Ten of those individuals have since been released and evaluated by medical authorities, while negotiations and rescue preparations continue under a heavy police presence."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Colombian President Abelardo de la Espriella traveled to Cartagena on Tuesday night to manage the unfolding situation alongside the minister of defence and the full leadership of the National Police, in coordination with the army and navy.",
+            "Mayor Dumek Turbay confirmed that standard emergency protocols have been activated to safeguard civilian lives. The area remains cordoned off by law enforcement vehicles and personnel, while families of the victims endure prolonged hours of uncertainty outside the police perimeter."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "According to statements from the presidency, the incident is classified strictly as the act of common criminals who resorted to mass hostage-taking after being cornered without an escape route. Officials have explicitly ruled out a terrorist motivation.",
+            "However, framing the event solely as opportunistic crime overlooks the structural vulnerability it exposes. The ease with which a routine transit heist can pivot into a large-scale urban containment crisis points to critical gaps in preventative policing and rapid territorial response. Furthermore, this crisis follows a separate bombing incident against government installations in Villavicencio on Monday night that left 23 injured, suggesting a state security apparatus increasingly stretched across simultaneous fronts."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The state security apparatus absorbs the immediate reputational and operational cost, forced to deploy top-tier national leadership to manage a regional retail crime scene. Meanwhile, civilian populations bear the psychological toll, with local sentiment reflecting a growing erosion of baseline safety in everyday public spaces."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "The immediate focus remains the safe extraction of the remaining hostages inside the Cartagena supermarket. Beyond the tactical outcome, attention will shift toward whether federal authorities adjust urban transit security protocols to prevent similar escalations."
+          ]
+        }
+      ],
+      "tags": [
+        "Colombia",
+        "Cartagena",
+        "Security",
+        "Crime",
+        "Geopolitics"
+      ],
+      "sources": [
+        {
+          "name": "BBC Mundo",
+          "title": "Hombres armados mantienen decenas de rehenes en un supermercado en Colombia",
+          "url": "https://www.bbc.com/mundo/articles/cmx2rny0dn17o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "wordCount": 388
+    },
+    "blindSpot": "While officials dismiss the incident as mere common criminality, the ease with which a failed heist turned into a multi-agency urban siege reveals systemic vulnerabilities in domestic security apparatuses. Furthermore, the simultaneous distraction of a separate bombing in Villavicencio points to stretched state resources across multiple regional flashpoints."
+  },
+  {
     "slug": "israeli-airstrike-shati-refugee-camp-kills-tw8e",
     "path": "news/israeli-airstrike-shati-refugee-camp-kills-tw8e/",
     "title": "Israeli Airstrike in Shati Refugee Camp Kills Four Including UNRWA Employee",
