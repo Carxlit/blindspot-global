@@ -223,6 +223,32 @@
   ],
   "processedSignatures": [
     {
+      "title": "UK ENERGY BILLS PREDICTED TO SURGE 26 PERCENT IN JANUARY",
+      "normalizedTokens": [
+        "energy",
+        "bills",
+        "predicted",
+        "surge",
+        "percent",
+        "january"
+      ],
+      "date": "2026-11-25T11:24:21.922Z"
+    },
+    {
+      "title": "Households braced for soaring energy bills with new price cap to be announced",
+      "normalizedTokens": [
+        "households",
+        "braced",
+        "soaring",
+        "energy",
+        "bills",
+        "price",
+        "cap",
+        "announced"
+      ],
+      "date": "2026-11-25T11:24:21.920Z"
+    },
+    {
       "title": "LONGTIME ASSOCIATED PRESS EDITOR ELLEN NIMMONS DIES AT 78",
       "normalizedTokens": [
         "longtime",
