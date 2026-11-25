@@ -1283,5 +1283,10 @@
     "relevant": true,
     "reason": "The image shows thick black smoke and fires rising behind city apartment buildings, visually matching reported drone strikes on Russian industrial and military facilities.",
     "at": "2026-11-25T05:02:17.367Z"
+  },
+  "9da8ae396563a046:ko512ol5z": {
+    "relevant": true,
+    "reason": "The image depicts rubble and debris from an airstrike, matching the context of a strike on a building in Gaza.",
+    "at": "2026-11-25T05:16:47.823Z"
   }
 }
