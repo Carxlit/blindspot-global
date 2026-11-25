@@ -213,9 +213,36 @@
     "https://www.france24.com/en/video/20261124-icg-it-s-hard-to-imagine-tripoli-would-risk-its-ties-with-russia-by-approving-a-ukrainian-attack",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSnk5dTVWekk1WFI4QlBiSW5nUWRtUXc5M2JqY2NtSGRUQktxTm51U1dGblZKdk1mWktkVGVFMEdhRzFYUXZxQmJZUWcyc1NQb25kc2FONXE4N3REb1RnTGduREV6cG9XUVJob1Qta2xGZEs2TFJkR3BsSGJGRmRSVWQ5cnpHOXNxV1VjREthM1pscG1Yd1dzM19tdjZWN0tTRTFralBqNE5ld2JDN1c5WG1aMFA5MmdTTVFrd3dMWnQ3OE9YMW5n?oc=5",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcWVhaTZ1VE1DODl2cm9KdXRyTWgwV1Q4cjRsSzRhOG1wU3FjLUtKajNVN2NIV1VqNU9OS0tTMkF1T1NTTFRiTEtIT1V6aXMzbDctRnR5X3ZTbVFRdEQ5NGE2ZnlOa0c4YjhzN3pRbUJzQTlUZDZwRE5SNlhOSjVzY1UxaXlZWTRDNm1RNmFHLXhZOU40Tm9UcnBKdnVfcnJTemFhT21EOEE1Y3dtNkR3VmZxV0VHTHhGSWVpYlNoSk0?oc=5",
-    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVGt5amtkQUNnaDlRcEdzRld0dDBNWDU2Q3lkUm5ZRDU2Vkhfd3pFV3BLQ2dURmhscTBqcmV3aU1sZlp3SllNdzhUcGI5RFJmNUFxUnlQLVBma3JqRXdvdGVTUFVDYlc2UXhoeDJoVEhwYUwyRldSSEZ1ekdJU2pkS2VBQ1ZHdHdDNElQU0lCMkFsYWRKa1RfNXo0M1Y1VVEyTVFNMWxXdFNLNUdsZUphSTc0aGxWZngxT0dZbUhrekp3anczQkxERnJvdnY4Z2Rvd2RsZDJBUkxYUdIB7gFBVV95cUxNcUhSdFdVTE85b3VlZ3V6VWZvNm40VzA2Sy1PRWFxMk9HUDIyUjAwT0tudWVSSl94Q2xPUXdJVndJVEZqYUgwSmt0dWh6aVFpUW9pXzBkWm5ZMmFfMVlyZ0Q1VXE0dUR4c2RwQzl5b18xUUJSRmN2N0d3cnFBeGxfN3hpLXV4OVJqUHNiWHgtVXlKQTVSTVVPb0Z0NmI4Zi05RHlTMVVqZHZORXdmcHJPSWtPSmh0ZEV3NERBbXBQNlFnNEdOcGpzSnNtckZDZ3FmbzNaNU9zNXFOR0swZ0M0bDMxbWlFOEMzVVVBeGpB?oc=5"
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVGt5amtkQUNnaDlRcEdzRld0dDBNWDU2Q3lkUm5ZRDU2Vkhfd3pFV3BLQ2dURmhscTBqcmV3aU1sZlp3SllNdzhUcGI5RFJmNUFxUnlQLVBma3JqRXdvdGVTUFVDYlc2UXhoeDJoVEhwYUwyRldSSEZ1ekdJU2pkS2VBQ1ZHdHdDNElQU0lCMkFsYWRKa1RfNXo0M1Y1VVEyTVFNMWxXdFNLNUdsZUphSTc0aGxWZngxT0dZbUhrekp3anczQkxERnJvdnY4Z2Rvd2RsZDJBUkxYUdIB7gFBVV95cUxNcUhSdFdVTE85b3VlZ3V6VWZvNm40VzA2Sy1PRWFxMk9HUDIyUjAwT0tudWVSSl94Q2xPUXdJVndJVEZqYUgwSmt0dWh6aVFpUW9pXzBkWm5ZMmFfMVlyZ0Q1VXE0dUR4c2RwQzl5b18xUUJSRmN2N0d3cnFBeGxfN3hpLXV4OVJqUHNiWHgtVXlKQTVSTVVPb0Z0NmI4Zi05RHlTMVVqZHZORXdmcHJPSWtPSmh0ZEV3NERBbXBQNlFnNEdOcGpzSnNtckZDZ3FmbzNaNU9zNXFOR0swZ0M0bDMxbWlFOEMzVVVBeGpB?oc=5",
+    "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "UK ENERGY BILLS PREDICTED TO SURGE 26 PERCENT IN JANUARY",
+      "normalizedTokens": [
+        "energy",
+        "bills",
+        "predicted",
+        "surge",
+        "percent",
+        "january"
+      ],
+      "date": "2026-11-25T02:18:10.551Z"
+    },
+    {
+      "title": "Households braced for soaring energy bills with new price cap to be announced",
+      "normalizedTokens": [
+        "households",
+        "braced",
+        "soaring",
+        "energy",
+        "bills",
+        "price",
+        "cap",
+        "announced"
+      ],
+      "date": "2026-11-25T02:18:10.548Z"
+    },
     {
       "title": "SIX MISSING AS CESSNA CRASHES NEAR HORN ISLAND",
       "normalizedTokens": [

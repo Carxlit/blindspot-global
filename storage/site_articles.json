@@ -1,5 +1,99 @@
 [
   {
+    "slug": "uk-energy-bills-set-26-percent-cdy5",
+    "path": "news/uk-energy-bills-set-26-percent-cdy5/",
+    "title": "UK Energy Bills Set for 26 Percent January Spike Driven by Wholesale Gas Volatility",
+    "headline": "UK ENERGY BILLS PREDICTED TO SURGE 26 PERCENT IN JANUARY",
+    "dek": "Ofgem prepares a sharp increase to its price cap as Cornwall Insight projects typical annual energy costs hitting £2,166. While ministers highlight emergency rebates, the shift underscores severe exposure to global commodity shocks.",
+    "category": "GLOBAL ECONOMY",
+    "sourceName": "BBC Business",
+    "image": "img/uk-energy-bills-set-26-percent-cdy5.jpg",
+    "photo": "img/uk-energy-bills-set-26-percent-cdy5-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "D5cW5h6yOlU",
+      "title": "Energy Bills Set to Rise 26% as Centrica Chief Warns of Growing Unpaid Bills",
+      "channel": "Britain Breaking"
+    },
+    "publishedAt": "2026-11-25T02:18:10.375Z",
+    "article": {
+      "slug": "uk-energy-bills-set-26-percent-cdy5",
+      "title": "UK Energy Bills Set for 26 Percent January Spike Driven by Wholesale Gas Volatility",
+      "dek": "Ofgem prepares a sharp increase to its price cap as Cornwall Insight projects typical annual energy costs hitting £2,166. While ministers highlight emergency rebates, the shift underscores severe exposure to global commodity shocks.",
+      "keyFacts": [
+        "Consultancy Cornwall Insight forecasts a 26% increase in typical annual household energy bills starting in January 2025.",
+        "The projected increase adds approximately £37 per month, raising the typical annual bill by £443 to £2,166.",
+        "Around 20 million households in England, Scotland, and Wales are currently subject to Ofgem's variable price cap.",
+        "Trade association Energy UK reports that average wholesale gas prices are 166% higher than late last year prior to conflict in Iran.",
+        "The UK government is issuing a £100 payment to millions of households alongside a £150 Warm Home Discount for six million low-income households."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Millions of British households face a sharp increase in domestic heating and electricity costs at the start of the new year. According to energy consultancy Cornwall Insight, regulator Ofgem is expected to announce a price cap revision that will elevate the typical annual domestic bill by 26% starting in January.",
+            "For a household with average energy consumption paying via direct debit, the adjustment represents an increase of approximately £37 per month from January through March. If sustained over twelve months, total annual expenditure for typical usage will rise by £443, taking the average bill from its current level to £2,166. Roughly 20 million households in England, Scotland, and Wales managed on variable energy tariffs will be directly affected by the regulator's decision."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The immediate driver behind the sharp upward revision lies in international commodity markets. Trade body Energy UK reported that wholesale gas prices have surged by 166% compared to late last year, before military hostilities involving Iran disrupted global fuel supplies.",
+            "Because European gas storage reserves remained relatively depressed heading into the autumn season, energy suppliers were forced to lock in winter delivery contracts at elevated market rates. In response to anticipated hardship, the government confirmed a £100 winter assistance payment for eligible households, alongside an ongoing value-added tax reduction on electricity. Furthermore, the established Warm Home Discount will provide a £150 bill reduction for six million low-income households."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream coverage of Ofgem’s price cap focus primarily on consumer coping mechanisms, budget management, and immediate state aid. However, the critical blind spot in the British energy landscape is the institutionalized reliance on fiscal stopgaps to absorb structural commodity market volatility.",
+            "Emergency measures like the £100 winter payment and the £150 targeted discount function effectively as state-funded subsidies for international gas inflation. Rather than insulating national infrastructure from external geopolitical shocks, public funds are channeled into softening price signals while fundamental import vulnerabilities remain unchanged. Moreover, policy support schemes funded through additions to standard utility bills progressively redistribute financial pressure across middle-income ratepayers who fall just outside official welfare thresholds."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The primary beneficiaries of the ongoing crisis are international gas traders and upstream suppliers, who extract premium prices due to geopolitical instability in the Middle East and tight European inventory margins.",
+            "Conversely, domestic consumers bear the ultimate cost. Charitable organizations warn of acute distress. Dame Clare Moriarty, chief executive of Citizens Advice, noted that millions of households enter the coldest months with exhausted savings after years of compounding inflation. Fixed-income families and households just above benefit qualifications face the steepest decline in real disposable income."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "In the coming weeks, market analysts will closely monitor Ofgem's final official cap confirmation to determine exact tariff figures across regional distributions. Attention will also turn to consumer default metrics and energy debt totals, which debt charities predict will rise significantly during the first quarter.",
+            "Longer term, the sustained price pressure will force political scrutiny onto the UK's structural gas dependence and the fiscal sustainability of repeated direct intervention in retail energy markets."
+          ]
+        }
+      ],
+      "tags": [
+        "Energy Sector",
+        "UK Economy",
+        "Ofgem",
+        "Inflation",
+        "Commodities",
+        "Gas Prices"
+      ],
+      "sources": [
+        {
+          "name": "BBC Business",
+          "title": "Households braced for soaring energy bills with new price cap to be announced",
+          "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC",
+          "title": "Energy bills: What is happening to gas and electricity prices?",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wOFd4UUdmUDRFOXBTY1Vob2RkNW5QYzV2YlRMbklaTzc4ektQNUtyaGN1ZEo3QVNjenFFTFBMZHBBb3ZrTjFrWUxGejk1WU5hdjZrYXB6alhJZw?oc=5"
+        },
+        {
+          "name": "AOL.co.uk",
+          "title": "Date revealed when households will receive £100 payment from government",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNk9CcjVhcjREb29VWl9WMHdmWms2TDBzOW9ISlVPRTNRWVBCWnBvOUxYdm9JNTg0MEJFenJfY3l6bnZWWi01YWdpcUtXYjk3VUdTZFEzUXBGblU3QVZSanNRX1ZWYlBaZDI4cTFHSUtUNUR3OGYtbjZQWDZldk10YkRfNVZEeGZF?oc=5"
+        }
+      ],
+      "wordCount": 531
+    },
+    "blindSpot": "Mainstream coverage frames the upcoming energy price hike as a seasonal strain manageable via emergency state rebates like the £100 government winter payment. In reality, these stopgap measures obscure structural energy vulnerability, where public funds subsidize market volatility while long-term gas import dependencies remain entirely unaddressed."
+  },
+  {
     "slug": "catastrophic-gulf-crash-single-engine-cessna-sparks-cvm2",
     "path": "news/catastrophic-gulf-crash-single-engine-cessna-sparks-cvm2/",
     "title": "Catastrophic Gulf crash of single-engine Cessna sparks urgent questions over private aviation safety",
