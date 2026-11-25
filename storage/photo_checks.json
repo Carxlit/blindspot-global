@@ -1238,5 +1238,20 @@
     "relevant": true,
     "reason": "The images show a combination of military explosions, warfare context, and missile launches relevant to the escalation and nuclear threats described in the headline.",
     "at": "2026-11-24T23:04:47.943Z"
+  },
+  "0c1fa6f8b2367fc3:ariqx6zh2": {
+    "relevant": false,
+    "reason": "The image shows an entrance of a commercial office building with no visible connection, logos, or clear depiction of Nvidia, Megaspeed, or the U.S. blacklist/espionage scandal.",
+    "at": "2026-11-25T00:12:03.394Z"
+  },
+  "9ba0ea077ecd26c5:ariqx6zh2": {
+    "relevant": false,
+    "reason": "The image shows a portrait of an individual that does not clearly represent Nvidia, Megaspeed, or the U.S. blacklisting action described in the headline.",
+    "at": "2026-11-25T00:12:14.494Z"
+  },
+  "aec98867b28d0068:ariqx6zh2": {
+    "relevant": true,
+    "reason": "The image shows a graphics card, representing Nvidia hardware relevant to the story.",
+    "at": "2026-11-25T00:12:20.351Z"
   }
 }
