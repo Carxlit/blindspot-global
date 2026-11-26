@@ -227,9 +227,35 @@
     "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
     "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
     "https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast?traffic_source=rss",
-    "https://www.dw.com/en/egypt-at-least-31-dead-after-fuel-truck-overturns-on-highway/a-80055175?maca=en-rss-en-all-1573-rdf"
+    "https://www.dw.com/en/egypt-at-least-31-dead-after-fuel-truck-overturns-on-highway/a-80055175?maca=en-rss-en-all-1573-rdf",
+    "https://www.dw.com/en/duran-duran-guitarist-andy-taylor-dies-at-65/a-80055654?maca=en-rss-en-all-1573-rdf"
   ],
   "processedSignatures": [
+    {
+      "title": "DURAN DURAN GUITARIST ANDY TAYLOR DIES AT AGE 65",
+      "normalizedTokens": [
+        "duran",
+        "duran",
+        "guitarist",
+        "andy",
+        "taylor",
+        "dies",
+        "age"
+      ],
+      "date": "2026-11-26T05:31:41.063Z"
+    },
+    {
+      "title": "Duran Duran guitarist Andy Taylor dies at 65",
+      "normalizedTokens": [
+        "duran",
+        "duran",
+        "guitarist",
+        "andy",
+        "taylor",
+        "dies"
+      ],
+      "date": "2026-11-26T05:31:41.062Z"
+    },
     {
       "title": "EGYPTIAN HIGHWAY TRAGEDY EXPOSES CHRONIC INFRASTRUCTURE FAILURE",
       "normalizedTokens": [

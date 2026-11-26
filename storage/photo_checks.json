@@ -1343,5 +1343,15 @@
     "relevant": true,
     "reason": "The image depicts emergency response vehicles, crowds, and a heavily congested area at night, fitting the scene of the reported highway tragedy in Giza.",
     "at": "2026-11-26T05:24:22.619Z"
+  },
+  "851ba93494686a7b:es0l61cuu": {
+    "relevant": false,
+    "reason": "The person in the image is actually film director Roman Polanski, not Duran Duran guitarist Andy Taylor.",
+    "at": "2026-11-26T05:31:36.225Z"
+  },
+  "54589272379f5cd5:es0l61cuu": {
+    "relevant": false,
+    "reason": "The person in the image is not Andy Taylor of Duran Duran; it is Richard O'Brien (creator of The Rocky Horror Show) performing in character.",
+    "at": "2026-11-26T05:31:39.206Z"
   }
 }
