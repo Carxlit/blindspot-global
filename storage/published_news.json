@@ -1,5 +1,134 @@
 [
   {
+    "id": "zrbju2945",
+    "originalUrl": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+    "originalTitle": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+    "sourceName": "BBC Technology",
+    "category": "TECHNOLOGY & AI",
+    "urgencyScore": 85,
+    "headline": "HUAWEI CONVICTED OF TRADE SECRET THEFT BUT CLEARED OF RACKETEERING",
+    "subHeadline": "A federal jury in Brooklyn found Chinese telecommunications giant Huawei guilty of 10 out of 12 counts, including bank fraud and industrial espionage. However, prosecutors failed to secure a conviction on overarching racketeering charges.",
+    "blindSpotAngle": "By failing to secure a racketeering conviction, US prosecutors missed establishing a legal precedent that officially classifies state-backed Chinese tech giants as organized criminal enterprises. While severe financial penalties and sanctions convictions hold firm, the split verdict exposes the legal boundaries of using domestic racketeering statutes against foreign industrial competitors.",
+    "facebookPost": "A Brooklyn federal jury has convicted Huawei on 10 out of 12 criminal counts, including conspiracy to steal trade secrets and bank fraud related to concealed operations in Iran. Federal prosecutors presented evidence spanning a two-month trial detailing decades of economic espionage against American competitors such as Cisco and T-Mobile. The decision marks a major legal milestone in a case originating from the 2018 arrest of executive Meng Wanzhou in Canada. However, the critical Blindspot lies in the charges that failed. The jury rejected the government's flagship racketeering conspiracy charge, which aimed to legally classify the entire multinational as a criminal enterprise. By failing to meet the legal threshold for racketeering, federal prosecutors proved individual illegal acts while failing to dismantle the corporate legitimacy of China's telecom champion. Does this verdict reveal the institutional limits of Western courts in curbing state-aligned foreign technology firms? Share your perspective below.\n\nSource: BBC Technology\n\n#Technology #Geopolitics #Blindspot",
+    "telegramPost": "<b>HUAWEI CONVICTED OF TRADE SECRET THEFT BUT CLEARED OF RACKETEERING</b> • <b>What happened:</b> A federal jury in Brooklyn found Huawei guilty of 10 out of 12 counts, including bank fraud and stealing trade secrets from Cisco and T-Mobile, following a two-month trial. • <b>Why it matters:</b> Prosecutors failed to win the overarching racketeering charge, missing the legal threshold required to officially brand the firm a criminal enterprise. • <b>What is next:</b> Huawei faces substantial financial penalties, but Beijing will use the racketeering acquittal to challenge US legal reach while Huawei expands across non-Western markets.",
+    "linkedInPost": "The federal verdict delivered against Huawei in Brooklyn represents a defining moment in global regulatory enforcement and foreign corporate liability. Convicted on 10 out of 12 counts, the company was found guilty of bank fraud and systemic trade secret theft targeting American companies including Cisco and T-Mobile. Yet for multinational executives and risk analysts, the key takeaway is the acquittal on racketeering conspiracy charges. The Department of Justice sought to apply RICO-style statutes to legally categorize Huawei as a structural criminal enterprise, a threshold the jury formally rejected. This distinction creates a clear operational boundary: while targeted trade secret theft and sanction violations remain strictly enforceable in US courts, systemic corporate delegitimization faces high evidentiary barriers. Organizations operating across complex foreign supply chains must recognize that domestic litigation can penalize illicit behavior without structurally dismantling foreign competitors.\n\nSource: BBC Technology\n\n#SupplyChain #Technology #Blindspot",
+    "blueskyPost": "A US jury convicted Huawei of trade secret theft but rejected racketeering charges, exposing the legal limits of framing state-aligned tech firms as criminal enterprises. #Blindspot #Tech",
+    "copies": {
+      "facebook": "A Brooklyn federal jury has convicted Huawei on 10 out of 12 criminal counts, including conspiracy to steal trade secrets and bank fraud related to concealed operations in Iran. Federal prosecutors presented evidence spanning a two-month trial detailing decades of economic espionage against American competitors such as Cisco and T-Mobile. The decision marks a major legal milestone in a case originating from the 2018 arrest of executive Meng Wanzhou in Canada. However, the critical Blindspot lies in the charges that failed. The jury rejected the government's flagship racketeering conspiracy charge, which aimed to legally classify the entire multinational as a criminal enterprise. By failing to meet the legal threshold for racketeering, federal prosecutors proved individual illegal acts while failing to dismantle the corporate legitimacy of China's telecom champion. Does this verdict reveal the institutional limits of Western courts in curbing state-aligned foreign technology firms? Share your perspective below. #Technology #Geopolitics #Blindspot",
+      "telegram": "<b>HUAWEI CONVICTED OF TRADE SECRET THEFT BUT CLEARED OF RACKETEERING</b> • <b>What happened:</b> A federal jury in Brooklyn found Huawei guilty of 10 out of 12 counts, including bank fraud and stealing trade secrets from Cisco and T-Mobile, following a two-month trial. • <b>Why it matters:</b> Prosecutors failed to win the overarching racketeering charge, missing the legal threshold required to officially brand the firm a criminal enterprise. • <b>What is next:</b> Huawei faces substantial financial penalties, but Beijing will use the racketeering acquittal to challenge US legal reach while Huawei expands across non-Western markets.",
+      "bluesky": "A US jury convicted Huawei of trade secret theft but rejected racketeering charges, exposing the legal limits of framing state-aligned tech firms as criminal enterprises. #Blindspot #Tech",
+      "linkedIn": "The federal verdict delivered against Huawei in Brooklyn represents a defining moment in global regulatory enforcement and foreign corporate liability. Convicted on 10 out of 12 counts, the company was found guilty of bank fraud and systemic trade secret theft targeting American companies including Cisco and T-Mobile. Yet for multinational executives and risk analysts, the key takeaway is the acquittal on racketeering conspiracy charges. The Department of Justice sought to apply RICO-style statutes to legally categorize Huawei as a structural criminal enterprise, a threshold the jury formally rejected. This distinction creates a clear operational boundary: while targeted trade secret theft and sanction violations remain strictly enforceable in US courts, systemic corporate delegitimization faces high evidentiary barriers. Organizations operating across complex foreign supply chains must recognize that domestic litigation can penalize illicit behavior without structurally dismantling foreign competitors. #SupplyChain #Technology #Blindspot"
+    },
+    "article": {
+      "slug": "federal-jury-convicts-huawei-trade-secret-44oc",
+      "title": "Federal Jury Convicts Huawei of Trade Secret Theft While Rejecting Racketeering Charge",
+      "dek": "US prosecutors secured convictions against Chinese telecom giant Huawei for sanctions fraud and industrial espionage. However, the jury acquitted the firm of racketeering, exposing limits in Washington's legal campaign against foreign tech giants.",
+      "keyFacts": [
+        "A federal jury in Brooklyn convicted Huawei on 10 out of 12 counts after a two-month trial.",
+        "The firm was found guilty of bank fraud and stealing trade secrets from US rivals including Cisco and T-Mobile.",
+        "The jury acquitted Huawei of racketeering conspiracy, which required proving the company operated as a criminal enterprise.",
+        "Meng Wanzhou, Huawei executive arrested in late 2018 in Canada, was held for three years before returning to China under a US prosecution deal.",
+        "Huawei maintains operations in over 170 countries with more than 200,000 employees globally."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Following a two-month federal trial in Brooklyn, a jury returned a verdict convicting Huawei Technologies on 10 out of 12 criminal counts. The guilty verdicts cover conspiracy to steal trade secrets, bank fraud, and violations of US economic sanctions. Federal prosecutors presented detailed evidence showing how the Chinese telecommunications giant engaged in systematic efforts to acquire proprietary technology from American competitors, including Cisco Systems and T-Mobile, while lying to international financial institutions regarding its business operations in Iran.",
+            "Despite securing convictions on individual counts of corporate espionage and bank fraud, the federal government suffered a notable setback on its primary charge. The jury declined to convict Huawei of racketeering conspiracy under statutes originally designed to dismantle organized crime rings. The defense team, led by attorney Brian Heberlig, successfully argued that prosecutors had improperly sought to categorize a commercial enterprise operating in 170 countries as an inherently unlawful organization."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The legal proceedings trace back to late 2018, when Canadian authorities arrested Huawei Chief Financial Officer Meng Wanzhou at Vancouver International Airport pursuant to a US extradition warrant. Meng was detained in Canada for three years before securing a deferred prosecution agreement with the US Department of Justice, allowing her return to China in 2021. The formal indictment announced in 2019 represented the cornerstone of Washington's multi-year initiative to curb Huawei's expansion into critical global communications networks.",
+            "According to statements by US Attorney General Todd Blanche following the verdict, the conviction holds Huawei accountable for decades of deceit and intellectual property theft inside the United States. Federal prosecutors argued that Huawei built its commercial dominant position by circumventing export controls and misrepresenting its relationships with foreign subsidiaries. Conversely, Chinese government officials condemned the trial as political suppression aimed at hampering legitimate economic development."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While mainstream headlines focus on the conviction of a foreign tech firm in a American court, the core strategic development lies in the jury's rejection of the racketeering charge. By filing RICO charges, the Department of Justice attempted to establish a legal doctrine that would classify state-supported corporate giants as systemic criminal syndicates. Demonstrating individual acts of corporate espionage or financial misrepresentation is straightforward under standard corporate law; proving that an entity employing 200,000 workers operates fundamentally as a racketeering enterprise presents far higher legal hurdles.",
+            "This acquittal prevents the US government from asserting that all commercial operations of state-aligned foreign entities are inherently criminal under domestic law. As a result, future legal actions against foreign corporations will likely remain confined to targeted statutory violations rather than broad institutional delegitimization. This distinction narrows the scope of US legal jurisdiction when confronting foreign industrial policy on the international stage."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The Department of Justice achieves a partial victory by validating its allegations of bank fraud and corporate espionage in court, reinforcing regulatory pressure on Western firms doing business with penalized entities. However, the prosecution failed to achieve its ultimate goal of legally defining Huawei as an organized crime operation, leaving a precedent that limits how aggressively domestic law can be weaponized against foreign corporate structures.",
+            "Huawei faces imminent financial penalties and continued exclusion from primary US tech markets, yet the racketeering acquittal provides the firm and Beijing with critical rhetoric. Huawei can frame the outcome as proof that American claims of structural criminal misconduct were exaggerated, preserving its commercial viability across global markets throughout the Global South."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "The immediate focus shifts to the upcoming sentencing hearing in Brooklyn federal court, where the judge will determine the scale of monetary fines and compliance directives imposed on Huawei. Legal observers will monitor whether the Department of Justice attempts to appeal elements of the ruling or adapts its legal strategies in pending cases involving foreign tech firms.",
+            "Globally, attention turns to how allied nations digest the verdict. While the trade secret convictions reinforce Washington's warnings regarding hardware security and intellectual property protection, the failure to secure a racketeering conviction may complicate efforts to persuade neutral countries to institute outright bans on foreign telecommunications infrastructure."
+          ]
+        }
+      ],
+      "tags": [
+        "Huawei",
+        "Legal",
+        "Trade Secrets",
+        "Sanctions",
+        "Telecommunications",
+        "US China Relations"
+      ],
+      "sources": [
+        {
+          "name": "BBC Technology",
+          "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Time Magazine",
+          "title": "China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTEpCVDBTbmUyM2hOckpXSFNPMVQyM3p1MkFxWVlZbXVuMDVMbFZZOFVfVTNkQTNsb29NdFZ2d2hzN2lxX05VU0FHbzFNb0JOcFhDek1ia0NRYTR5dTJ3UTRiWFdfU2otdHpiYU5hMGN5MW5tTHhOOFZDbDVvczRPbjNld1g0SmE0bHM3Vlk1SDJqZFhPaHdBbg?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "title": "Huawei Found Guilty of Stealing Trade Secrets in U.S. Trial",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wSlJSbmIxLWVPekN0cnF2ay0zSzNNZk9NeUJhTXJ0UGdoOW5oX1p4LXB4T3JuS1ZpTkxZbklHNnJtTXA0QUxYQzVTSTVDeV9fV01Hc045SHczbXdWYUJRNFRielA5UXNkOWxTdWQwSi1HVVRqdnZQMUx5SQ?oc=5"
+        },
+        {
+          "name": "The Hill",
+          "title": "Huawei found guilty in trade secrets theft case",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTlNZMmphWlVJX1YxVzZNNlU3MUhZOVZhWm5Lb2ktZG00MzZCcjJMcFR6OGs1NlVFcnMzZzNMb0NaTEEyNzhXMk5mNzcwbHdHSTBHYzhFUGVreXFlVnlDM1h0NXp3cDNpeGRMcmpfQ1RrWFFhSXVCWUltTTV5M3I2aEppemR0cWNqeF9qWTJKZlBIXzTSAZgBQVVfeXFMUEJrYkFTRm5FUmNvMEVTcEpuWW5tVmtaMGFadWdSckZXU3EtVDRaemVObWZKZko3dXQxUzlicmxORlY5NFFhdEFiYXNwbXRzZmtSaU1vMEhHMktodm9tNkJEX3liZzgtVHV6T3Z0eXAteklHaXFZUUNQcnl0VEpFUWFnV2kwTm9xcWs2VVFPc0d1Yy0zaF9yNnY?oc=5"
+        },
+        {
+          "name": "Ars Technica",
+          "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQUhsQW44MDBZYV9uLUN1ZkJRNHdXQ2xZcjg2ZjhIYXpZWXk5bkNFbG5LM0lJTmRmUHBhRDdoY3lLQXBXZTJ4X2kzcWlMd2pUdlVhQll1MTNUVlNaQ2Zhdmp0WVJPb2tWaEIxTlB0ZVNXbjdURDFoekNRZ2hPVjllOGxUQm5yelduY3JhYVg5YUNGaUJNb1BFWjgyaXZEaDkyb3VZMGtMTmpJWUNUM0VLM0tVVU4xMDBY?oc=5"
+        }
+      ],
+      "wordCount": 693
+    },
+    "videoScript": {
+      "hook": "A federal court convicted Huawei of corporate theft, but there is a major catch.",
+      "beats": [
+        "Jurors found the Chinese telecom giant guilty of 10 out of 12 counts involving fraud and trade secret theft.",
+        "However, federal prosecutors failed to convict the company on flagship racketeering charges.",
+        "This partial acquittal prevents Washington from legally branding the firm as a criminal enterprise."
+      ],
+      "close": "Read the full strategic analysis of the verdict at the link in bio."
+    },
+    "rawImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2306257922-1024x648.jpg",
+    "sourceVideo": {
+      "provider": "youtube",
+      "id": "lkFp0tlcmqQ",
+      "title": "US Jury Convicts China's Huawei On 10 Counts Of Stealing Trade Secrets, Bank Fraud & Sanctions",
+      "channel": "Republic World"
+    },
+    "status": "published",
+    "createdAt": "2026-11-26T00:21:08.000Z",
+    "cardImageUrl": "/news-cards/news-zrbju2945-1795652468000.jpg",
+    "reelCoverUrl": "/news-cards/news-zrbju2945-1795652468563-cover.jpg",
+    "instagramCardUrl": "/news-cards/news-zrbju2945-1795652469084-ig.jpg",
+    "articleUrl": "https://blindspotglobal.pages.dev/news/federal-jury-convicts-huawei-trade-secret-44oc/",
+    "publishedAt": "2026-11-26T02:19:22.007Z"
+  },
+  {
     "id": "91rlfq8fo",
     "originalUrl": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
     "originalTitle": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
@@ -24286,125 +24415,5 @@
     "instagramCardUrl": "/news-cards/news-5qfovc8c1-1794152816237-ig.jpg",
     "articleUrl": "https://blindspotglobal.pages.dev/news/ai-clog-how-chatbot-generated-correspondence-paralyzing-bk0k/",
     "publishedAt": "2026-11-08T17:55:29.665Z"
-  },
-  {
-    "id": "ge81xg49g",
-    "originalUrl": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
-    "originalTitle": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
-    "sourceName": "The Guardian Business",
-    "category": "GLOBAL ECONOMY",
-    "urgencyScore": 88,
-    "headline": "US MIDTERM ELECTIONS PUNCTURE THE UNCHECKED AI INFRASTRUCTURE BOOM",
-    "subHeadline": "Voters across the United States passed dozens of ballot measures restricting datacentre expansion, signaling a major social and political pushback against Silicon Valley.",
-    "blindSpotAngle": "While mainstream financial commentary frames the midterms as a straightforward referendum on inflation and the war in Iran, the widespread local resistance to power-hungry tech infrastructure exposes a deeper structural vulnerability. The debt-funded model of carpeting the country in mega-sheds is colliding with raw municipal anger over energy grid strain and deteriorating local quality of life.",
-    "facebookPost": "The mainstream narrative insists that the US midterms were solely about inflation and the cost of living squeeze unleashed by the conflict in Iran. But a quiet, consequential mutiny was happening directly on the ballot.\n\nDozens of local measures successfully reined in or halted the unchecked expansion of power-hungry AI datacentres. Voters have begun drawing a hard line against the physical footprint of the tech boom, rejecting the premise that energy-guzzling mega-sheds and constant chatbot integration are acceptable public externalities.\n\nWhen local infrastructure development clashes directly with everyday basic needs, how long can federal authorities shield the tech broligarchy from mounting democratic friction?\n\nSource: The Guardian Business\n\n#GlobalEconomy #ArtificialIntelligence #Blindspot",
-    "telegramPost": "<b>US MIDTERM ELECTIONS PUNCTURE THE UNCHECKED AI INFRASTRUCTURE BOOM</b>\n\n• <b>What happened:</b> US midterm voters passed dozens of municipal and state measures limiting the expansion of power-hungry AI datacentres, signaling a sharp democratic pushback against Silicon Valley.\n• <b>Why it matters:</b> The backlash punctures the debt-funded market narrative that the public would quietly accept massive infrastructure carpeting and energy strain for the promise of future chatbot utility.\n• <b>What is next:</b> Expect stricter zoning battles, rising legal friction for debt-funded tech builds, and a broader reassessment of AI capital expenditure by wary institutional investors.",
-    "linkedInPost": "The recent US midterms introduced a new variable into the valuation of artificial intelligence: localized regulatory risk. As debt-funded datacentre expansion meets organized voter resistance at the ballot box, the physical and social constraints on Big Tech are hardening.\n\nFor enterprise leaders and capital allocators, the takeaway is clear. Infrastructure scaling is no longer just a matter of securing capital and microchips; it requires navigating acute municipal friction, energy grid strain, and a populace increasingly hostile to unchecked corporate externalities.\n\nSource: The Guardian Business\n\n#GlobalEconomy #Infrastructure #Blindspot",
-    "blueskyPost": "US midterms didn't just target Washington; voters crushed datacentre expansions nationwide. The debt-fueled AI infrastructure bubble just hit a wall of municipal reality. #Blindspot #GlobalEconomy",
-    "copies": {
-      "facebook": "The mainstream narrative insists that the US midterms were solely about inflation and the cost of living squeeze unleashed by the conflict in Iran. But a quiet, consequential mutiny was happening directly on the ballot.\n\nDozens of local measures successfully reined in or halted the unchecked expansion of power-hungry AI datacentres. Voters have begun drawing a hard line against the physical footprint of the tech boom, rejecting the premise that energy-guzzling mega-sheds and constant chatbot integration are acceptable public externalities.\n\nWhen local infrastructure development clashes directly with everyday basic needs, how long can federal authorities shield the tech broligarchy from mounting democratic friction? \n\n#GlobalEconomy #ArtificialIntelligence #Blindspot",
-      "telegram": "<b>US MIDTERM ELECTIONS PUNCTURE THE UNCHECKED AI INFRASTRUCTURE BOOM</b>\n\n• <b>What happened:</b> US midterm voters passed dozens of municipal and state measures limiting the expansion of power-hungry AI datacentres, signaling a sharp democratic pushback against Silicon Valley.\n• <b>Why it matters:</b> The backlash punctures the debt-funded market narrative that the public would quietly accept massive infrastructure carpeting and energy strain for the promise of future chatbot utility.\n• <b>What is next:</b> Expect stricter zoning battles, rising legal friction for debt-funded tech builds, and a broader reassessment of AI capital expenditure by wary institutional investors.",
-      "bluesky": "US midterms didn't just target Washington; voters crushed datacentre expansions nationwide. The debt-fueled AI infrastructure bubble just hit a wall of municipal reality. #Blindspot #GlobalEconomy",
-      "linkedIn": "The recent US midterms introduced a new variable into the valuation of artificial intelligence: localized regulatory risk. As debt-funded datacentre expansion meets organized voter resistance at the ballot box, the physical and social constraints on Big Tech are hardening.\n\nFor enterprise leaders and capital allocators, the takeaway is clear. Infrastructure scaling is no longer just a matter of securing capital and microchips; it requires navigating acute municipal friction, energy grid strain, and a populace increasingly hostile to unchecked corporate externalities. \n\n#GlobalEconomy #Infrastructure #Blindspot"
-    },
-    "article": {
-      "slug": "how-us-midterms-put-datacentres-ai-4q1x",
-      "title": "How the US midterms put datacentres, AI, and the broligarchy on trial",
-      "dek": "Recent midterm election results show voters pushing back against Silicon Valley expansion through ballot measures restricting datacentres. This grassroots friction threatens the financial narrative sustaining the AI market boom.",
-      "keyFacts": [
-        "Dozens of measures calling for limits on datacentre expansion were passed during the US midterms.",
-        "56% of observers cited data centers as a major issue in midterms coverage according to shattered.io data.",
-        "Texas senator-elect James Talarico campaigned on local complaints regarding blinding lights from neighboring datacentres.",
-        "Elon Musk poured billions of dollars into trying to buy the electorate in Texas."
-      ],
-      "sections": [
-        {
-          "heading": "What Happened",
-          "paragraphs": [
-            "Last week's midterm elections brought a wave of anti-tech sentiment directly to the ballot box across the United States. While political analysts primarily focused on the Democrat wave driven by the cost of living squeeze from the war in Iran, AI infrastructure was unexpectedly on trial.",
-            "Dozens of measures calling for strict limits on datacentre expansion were passed by voters. Across multiple jurisdictions, reining in the unchecked growth of power-hungry mega-sheds became a rallying cry that resonated deeply with local electorates."
-          ]
-        },
-        {
-          "heading": "The Context",
-          "paragraphs": [
-            "Every financial bubble requires a compelling narrative, and the current artificial intelligence boom has relied heavily on the prospect of carpeting the United States in debt-funded datacentres. These massive facilities were framed by market promoters as inevitable and essential as computational demand scales upward.",
-            "However, public relations for the sector have deteriorated. Tech firms have insisted on shoehorning chatbots and generative tools unbidden into every platform, device, and application—a phenomenon dubbed enshittification by industry critics—while average consumers continue to battle persistent inflation and soaring utility demands from nearby server farms."
-          ]
-        },
-        {
-          "heading": "The Blind Spot",
-          "paragraphs": [
-            "Mainstream coverage tends to treat the local opposition to datacentres as simple NIMBYism or secondary noise against broader national economic trends. Blindspot analysis indicates that these ballot measures represent the first structural, democratic containment of tech capital in decades.",
-            "When citizens watch the leaders of big tech firms amass unprecedented fortunes while their own neighborhoods deal with severe light pollution, grid strain, and relentless digital noise, the social contract underpinning the tech economy fractures. The assumption that the public would indefinitely tolerate massive industrial footprints for abstract technological gains has proven false."
-          ]
-        },
-        {
-          "heading": "Winners and Losers",
-          "paragraphs": [
-            "Local communities, municipal governments, and grassroots organizers emerge as unexpected victors, regaining regulatory teeth over corporate actors who previously operated with minimal friction. State legislators are finding that opposing unchecked tech sprawl is a potent populist message.",
-            "Conversely, the losers include venture capitalists, real estate developers specializing in tech infrastructure, and big tech executives who relied on unhindered physical scaling. Elon Musk's heavy financial intervention in Texas politics backfired by giving the opposition a clear target against billionaire political influence."
-          ]
-        },
-        {
-          "heading": "What to Watch",
-          "paragraphs": [
-            "Observers should monitor whether the recent tech stock sell-off deepens as institutional investors reprice the regulatory risk of future datacentre projects. If municipal resistance spreads from isolated ballot measures to state-level moratoria, the entire capital expenditure model of the AI boom will require fundamental restructuring."
-          ]
-        }
-      ],
-      "tags": [
-        "Global Economy",
-        "Artificial Intelligence",
-        "Infrastructure",
-        "Datacentres",
-        "Blindspot"
-      ],
-      "sources": [
-        {
-          "name": "The Guardian Business",
-          "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
-          "url": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash"
-        },
-        {
-          "name": "The Guardian",
-          "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOU42NkxfMUowd0R4X0xFeGVvQmM3ZTZ1NDRwVzdOVUFHOXJGTENpV2lvbm9EdmExMVg2WWpuR3Nza2hsOVp1WXNZR0sxd0NqNFBkSDhOQzI1MnVCeUhzUVVsVUt4WGpXcFlYeWo2OXI1dUlTVFV2OV9SdDRNc2pQNGZGSTZVaHA3VmlDTkhjYUgzVXdzNFIzTFpXVVVsWDA4WUF4UQ?oc=5"
-        },
-        {
-          "name": "shattered.io",
-          "title": "Midterms Put AI on Trial: 56% Cite Data Centers [2026]",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLWNsQVhjdGYyRWZLc2l5dTdscXhjM1V4c2tYYWxZb1o0RDNvVFhfQ1A0UEdpVklELVFXOFFjWkZuNllkQndEOXdTYVFUbF9UZkxZX2t5RVBqczZxWVBPMnlxcDNCTDJKZURvMEdQemg4eEZZc3c0RHFNQ0w3bWJwNnY3YUZQQXM?oc=5"
-        },
-        {
-          "name": "USA Today",
-          "title": "Data centers were on the ballot across the nation. They got crushed.",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc2Z4bm1fQ1NLcEVzNG56SjNjQVRnVVdsSmpqVFMtczBJdGhyYVctQk5laDhObk9qSjBCM29MTnU0TDM4ZmxSc01kNl85djJqRGRPZXdETFhXaEV0YldSV00zd0NUYlZrMkZRNkNyMi00UFNweFY0bF80SjRqRGJ1X2dSZm9NYkR1Rm10S3AtMEtqem9ubjB0Z1pfV3Rodw?oc=5"
-        },
-        {
-          "name": "BBC",
-          "title": "Could the US midterms put a pin in the AI bubble?",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vd2Y0cG1paUI2cC1oS0VBTmJlemxzN3Jtd1VBaHFRZldINGZtY25HNTVFSWtYN1NRekp5b1EybWVSZTRaUXcxUjZaVWtUVjVSZlNFU3M3RmZvQ3pFY2c?oc=5"
-        }
-      ],
-      "wordCount": 417
-    },
-    "videoScript": {
-      "hook": "Data centers were on the ballot across the nation, and they just got crushed.",
-      "beats": [
-        "Voters passed dozens of local measures restricting the expansion of power-hungry tech warehouses.",
-        "56% of analysts noted that massive data center footprints became a primary electoral flashpoint.",
-        "The debt-fueled infrastructure narrative behind the AI boom is finally meeting municipal resistance."
-      ],
-      "close": "Read the full analysis at the link in our bio."
-    },
-    "rawImageUrl": "https://i.guim.co.uk/img/media/2ea7dda4257fc43543719a2d375cd85a1ce8cdb4/0_0_7157_5728/master/7157.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=263827498bd4c64475d5e2a50c48fe5d",
-    "status": "published",
-    "createdAt": "2026-11-08T14:40:19.970Z",
-    "cardImageUrl": "/news-cards/news-ge81xg49g-1794148819970.jpg",
-    "reelCoverUrl": "/news-cards/news-ge81xg49g-1794148820547-cover.jpg",
-    "instagramCardUrl": "/news-cards/news-ge81xg49g-1794148821125-ig.jpg",
-    "articleUrl": "https://blindspotglobal.pages.dev/news/how-us-midterms-put-datacentres-ai-4q1x/",
-    "publishedAt": "2026-11-08T16:56:13.860Z"
   }
 ]
