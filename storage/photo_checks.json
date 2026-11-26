@@ -1328,5 +1328,15 @@
     "relevant": true,
     "reason": "The image clearly shows the burnt fuel tanker involved in the Cairo highway explosion, surrounded by onlookers, directly illustrating the news story.",
     "at": "2026-11-26T05:01:59.542Z"
+  },
+  "10da2894833f94d4:l18021nuz": {
+    "relevant": false,
+    "reason": "The image depicts a family posing at a beach sunset, completely unrelated to the plane crash news story.",
+    "at": "2026-11-26T05:16:39.365Z"
+  },
+  "24ebe445985d48d6:l18021nuz": {
+    "relevant": true,
+    "reason": "The map accurately shows the flight path and location of the New Orleans-based plane crash in the Gulf of Mexico.",
+    "at": "2026-11-26T05:16:44.037Z"
   }
 }

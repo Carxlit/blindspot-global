@@ -24651,5 +24651,144 @@
       }
     },
     "publishedAt": "2026-11-26T05:07:58.719Z"
+  },
+  {
+    "id": "queue-1795670206294-ye8l0",
+    "news": {
+      "id": "l18021nuz",
+      "originalUrl": "https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast?traffic_source=rss",
+      "originalTitle": "Six killed, including children, in plane crash off Mississippi coast",
+      "sourceName": "Al Jazeera",
+      "category": "SECURITY & DEFENSE",
+      "urgencyScore": 72,
+      "headline": "UPDATE: MISSISSIPPI PLANE CRASH KILLS SIX, INVESTIGATION UNDERWAY",
+      "subHeadline": "The Cessna 210 crashed into the Gulf of Mexico after losing contact with air traffic control during a rapid descent. Six individuals, including three children, were recovered from the wreckage.",
+      "blindSpotAngle": "While officials focus on the immediate weather conditions and pilot error, the rapid, irregular right-hand descent suggests a potential catastrophic mechanical failure or structural separation that current audio logs fail to explain. The reliance on legacy small-aircraft tracking systems in high-traffic corridors remains a persistent vulnerability in regional aviation safety.",
+      "facebookPost": "The crash of a Cessna 210 off the Mississippi coast has claimed the lives of six people, including three children. Official reports note the pilot received warnings about adverse weather shortly before losing contact with air traffic control. \n\nBeyond the weather, flight data analysis shows a highly irregular right-hand descent from 9,000 feet, suggesting an underlying mechanical failure that remains unexplained by current audio recordings. \n\nDoes the frequency of such private aviation accidents in coastal regions point to a systemic failure in how we regulate and monitor small-craft safety protocols?\n\nSource: Al Jazeera\n\n#AviationSafety #Blindspot #Mississippi",
+      "telegramPost": "<b>UPDATE: MISSISSIPPI PLANE CRASH KILLS SIX, INVESTIGATION UNDERWAY</b>\n\n• <b>What happened:</b> A Cessna 210 carrying six people, including three children, crashed into the Gulf of Mexico near Horn Island after an irregular descent from 9,000 feet.\n• <b>Why it matters:</b> While weather warnings were issued, the flight path indicates a sudden, catastrophic anomaly that experts describe as highly irregular, raising questions about potential mechanical failure.\n• <b>What is next:</b> Autopsies are ongoing for the two licensed pilots on board as investigators examine the recovered fuselage for structural evidence.",
+      "linkedInPost": "The fatal crash of a Cessna 210 near Mississippi’s Horn Island warrants a closer look at general aviation safety standards. With six confirmed fatalities, the investigation centers on a rapid, unexplained descent captured by flight tracking data. \n\nWhile air traffic control had alerted the pilot to adverse weather, the technical profile of the crash—a sharp, right-hand turn from altitude—suggests a mechanical or structural event that exceeds simple pilot error. This incident underscores a broader challenge regarding the safety oversight and reliability of aging private aircraft in high-risk coastal corridors.\n\nSource: Al Jazeera\n\n#Aviation #Safety #Blindspot",
+      "blueskyPost": "Official reports cite weather, but flight data shows a rapid, irregular descent before the Mississippi plane crash. The technical anomaly suggests a mechanical failure that warrants more scrutiny. #Blindspot #AviationSafety",
+      "copies": {
+        "facebook": "The crash of a Cessna 210 off the Mississippi coast has claimed the lives of six people, including three children. Official reports note the pilot received warnings about adverse weather shortly before losing contact with air traffic control. \n\nBeyond the weather, flight data analysis shows a highly irregular right-hand descent from 9,000 feet, suggesting an underlying mechanical failure that remains unexplained by current audio recordings. \n\nDoes the frequency of such private aviation accidents in coastal regions point to a systemic failure in how we regulate and monitor small-craft safety protocols? \n\n#AviationSafety #Blindspot #Mississippi",
+        "telegram": "<b>UPDATE: MISSISSIPPI PLANE CRASH KILLS SIX, INVESTIGATION UNDERWAY</b>\n\n• <b>What happened:</b> A Cessna 210 carrying six people, including three children, crashed into the Gulf of Mexico near Horn Island after an irregular descent from 9,000 feet.\n• <b>Why it matters:</b> While weather warnings were issued, the flight path indicates a sudden, catastrophic anomaly that experts describe as highly irregular, raising questions about potential mechanical failure.\n• <b>What is next:</b> Autopsies are ongoing for the two licensed pilots on board as investigators examine the recovered fuselage for structural evidence.",
+        "bluesky": "Official reports cite weather, but flight data shows a rapid, irregular descent before the Mississippi plane crash. The technical anomaly suggests a mechanical failure that warrants more scrutiny. #Blindspot #AviationSafety",
+        "linkedIn": "The fatal crash of a Cessna 210 near Mississippi’s Horn Island warrants a closer look at general aviation safety standards. With six confirmed fatalities, the investigation centers on a rapid, unexplained descent captured by flight tracking data. \n\nWhile air traffic control had alerted the pilot to adverse weather, the technical profile of the crash—a sharp, right-hand turn from altitude—suggests a mechanical or structural event that exceeds simple pilot error. This incident underscores a broader challenge regarding the safety oversight and reliability of aging private aircraft in high-risk coastal corridors. \n\n#Aviation #Safety #Blindspot"
+      },
+      "article": {
+        "slug": "unexplained-descent-follows-deadly-cessna-crash-p2rb",
+        "title": "Unexplained descent follows deadly Cessna crash off Mississippi coast",
+        "dek": "A small plane carrying six people went down in the Gulf of Mexico on Tuesday. While weather warnings were issued, experts point to an irregular flight path that complicates the investigation.",
+        "keyFacts": [
+          "Six people, including three children, died in the crash of a Cessna 210.",
+          "The aircraft lost contact with air traffic control at approximately 3:45pm local time.",
+          "Flight data shows the plane was at 9,000 feet before beginning a rapid, irregular right-hand turn.",
+          "Two licensed pilots were on board: Brent Stokes and Michael Knox."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "A Cessna 210 crashed into the Gulf of Mexico on Tuesday, resulting in the deaths of all six occupants. The victims, members of the Stokes and Knox families, were returning to Fort Myers, Florida, after a trip to New Orleans. Recovery teams, led by the Coast Guard, located the fuselage and the bodies of the victims near Horn Island, Mississippi, after hours of searching.",
+              "Air traffic control in Mobile, Alabama, lost contact with the aircraft mid-afternoon. According to the Coast Guard, the pilot had been advised of adverse weather and precipitation in the area shortly before the disappearance."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "The flight path, analyzed by retired airline captain Steven Arroyo using FlightAware data, shows the aircraft traveling at 9,000 feet before executing an abrupt, irregular right-hand turn. This maneuver preceded the plane's rapid descent into the water.",
+              "Authorities have confirmed that both the pilot, Brent Stokes, and his brother-in-law, Michael Knox, were licensed pilots. The Jackson County Coroner, Bruce Lynd Jr., has initiated autopsies on both men to determine if physiological factors or mechanical issues contributed to the crash."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "While mainstream reporting has largely attributed the crash to adverse weather conditions, aviation experts suggest the flight data indicates a more complex failure. The term 'highly irregular' used by analysts points toward a potential structural or mechanical compromise that would not be immediately apparent in routine air traffic control audio recordings.",
+              "The reliance on private, aging aircraft for long-distance transit over open water remains a significant, often overlooked variable in domestic transport risk. Without black-box data equivalent to commercial airliners, investigators are left to reconstruct the final moments from fragmented tracking data and physical wreckage."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "The ongoing investigation by federal authorities will focus on the recovered fuselage to determine if the Cessna 210 suffered a failure of its flight control surfaces or engine. The results of the autopsies and any recovered mechanical components will be critical in distinguishing between weather-induced spatial disorientation and structural failure."
+            ]
+          }
+        ],
+        "tags": [
+          "Aviation",
+          "Mississippi",
+          "Safety",
+          "Transport",
+          "Investigation"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "title": "Six killed, including children, in plane crash off Mississippi coast",
+            "url": "https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast?traffic_source=rss"
+          },
+          {
+            "name": "CBS News",
+            "title": "Small plane crash off Mississippi kills 6, including 2 children, Coast Guard says",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNmNxYVNJeEY0RTRScVdjMFdMUXVSaU02Z2lPYjJFbXJadktaN1pBS2NoTFpBbklUSGVwQzV3VXFINnF5cnZPZTZlU0JCRGVkTTNHdWpDTnhNNkxjSU5jQnVaY1pqVldBb3FMTTJBYjdlQzdjRmZKQV9BR0lTcHFPX01YTVlxbzd6?oc=5"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Divers recover bodies of six people after plane crash off coast of Mississippi",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbzhCRFl1QzdZM2hPQkUwSTVWY0hXd1loUThOM3B0eXBwQUhHRkZwbU1ueUJnUDllUXVQazFBN2Y3NmV0Q1EtUU8zbXFQWUxudVpzaC1CUHo4VmdWVTFtdFR3NzBhUUJtMzdrT2dNZjc0NkJPQ3ExUUg5Y3F1WnZzY2VTVWxwUmxna19B?oc=5"
+          },
+          {
+            "name": "USA Today",
+            "title": "Victims identified in Mississippi plane crash. What we know",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNODcyQmFKOTlaUlMxTDdMdzBmNE1QejB4Q1lZTnZ4cEF6ZVFfbjFuaFY2eDhzVERVVUl0cFpGYlJ2eHVtUFhlbmUtRlg5blU3SmY2SHlTLWlBcTVlSm52NEFxb2l6UnFVOTIweFl0eXZoMG5yZUZta2tUYW9UTUhDYlJMMDZRX0ltcWZvd080SE1lVHQteUFFdGhJVTMydk9nb0psNg?oc=5"
+          },
+          {
+            "name": "TheGrio",
+            "title": "Six people, including three children, killed in plane crash near Mississippi’s Horn Island",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UOGpGa2xVNVdPN1ZWS3AzdkczSC1iZTBqeUZLTmtJaWhzdWpMbDNRS05QeThLNXhiR0p0d2NLRHRGT21JaUVqb0J2RDdrVldJN083aU5wSlQ4QmpyWDVCQkRCbzFTVlVCUWdrc2x3?oc=5"
+          }
+        ],
+        "wordCount": 353
+      },
+      "videoScript": {
+        "hook": "What caused a Cessna 210 to suddenly spiral into the Gulf of Mexico?",
+        "beats": [
+          "Six people died when their plane plummeted from 9,000 feet near the Mississippi coast.",
+          "While weather warnings were issued, flight data shows a highly irregular right-hand turn.",
+          "The unexpected nature of this descent suggests a mechanical failure that officials haven't yet explained."
+        ],
+        "close": "Read the full analysis at the link in our bio."
+      },
+      "rawImageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/25/0208690b-b252-42c2-b705-ac68d524ecbc/thumbnail/1200x630/efc70bf1a21c447b83646a0a32892760/cbsn-fusion-6-killed-in-plane-crash-off-mississippi-coast-officials-say-thumbnail.jpg",
+      "sourceVideo": {
+        "provider": "youtube",
+        "id": "jB_p8stENk0",
+        "title": "6 killed, including two kids, in Mississippi plane crash",
+        "channel": "WSMV 4 Nashville"
+      },
+      "updateOf": "israeli-airstrike-shati-refugee-camp-kills-tw8e",
+      "status": "pending",
+      "createdAt": "2026-11-26T05:16:44.040Z",
+      "cardImageUrl": "/news-cards/news-l18021nuz-1795670204040.jpg",
+      "reelCoverUrl": "/news-cards/news-l18021nuz-1795670204599-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-l18021nuz-1795670205201-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/unexplained-descent-follows-deadly-cessna-crash-p2rb/"
+    },
+    "channels": {
+      "facebook": true,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": true,
+      "mastodon": false,
+      "threads": false,
+      "youtube": true
+    },
+    "scheduledFor": "2026-11-26T05:16:46.294Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-26T05:16:46.294Z",
+    "isBreaking": true
   }
 ]

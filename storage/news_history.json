@@ -225,9 +225,38 @@
     "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWJ0MDE3ZEJzV2tVdThRbXdzcGxXN0phLUpNTHAyVWlEQV9JNzVUWlpsRXp6ZHFTNnY1dnpKMHJjNExkUnZxTlRXdzZNTUFOeXhkUTk5XzF0ZW55b1lZcnhJYTkyYUt5N1lvdm5TZ3QyZDh5UkNsVmtHMmhuNm5xcGc3VmVUcV9fellldEtWcTdaYWJpRUlBcm5R?oc=5",
     "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-    "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+    "https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast?traffic_source=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "UPDATE: MISSISSIPPI PLANE CRASH KILLS SIX, INVESTIGATION UNDERWAY",
+      "normalizedTokens": [
+        "update",
+        "mississippi",
+        "plane",
+        "crash",
+        "kills",
+        "six",
+        "investigation",
+        "underway"
+      ],
+      "date": "2026-11-26T05:16:46.311Z"
+    },
+    {
+      "title": "Six killed, including children, in plane crash off Mississippi coast",
+      "normalizedTokens": [
+        "six",
+        "killed",
+        "including",
+        "children",
+        "plane",
+        "crash",
+        "mississippi",
+        "coast"
+      ],
+      "date": "2026-11-26T05:16:46.309Z"
+    },
     {
       "title": "UPDATE: THIRTY-ONE KILLED IN CAIRO HIGHWAY TANKER EXPLOSION",
       "normalizedTokens": [
