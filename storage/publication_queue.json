@@ -24522,5 +24522,150 @@
     "attempts": 0,
     "maxAttempts": 3,
     "createdAt": "2026-11-26T00:21:10.156Z"
+  },
+  {
+    "id": "queue-1795655844743-ns5s7",
+    "news": {
+      "id": "ozuwmvtft",
+      "originalUrl": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
+      "originalTitle": "Trump proposing new tariffs on 14 partners including China and EU",
+      "sourceName": "The Guardian Business",
+      "category": "GLOBAL ECONOMY",
+      "urgencyScore": 88,
+      "headline": "TRUMP PROPOSES SWEEPING NEW TARIFFS ON FOURTEEN TRADING PARTNERS",
+      "subHeadline": "The administration is pushing an additional 20% tax on Chinese imports and targeting 13 other regions using Section 301 of the Trade Act.",
+      "blindSpotAngle": "While public debate focuses on consumer prices and voter backlash from midterm losses, the strategic shift lies in weaponizing Section 301 to bypass the supreme court setback over emergency powers. This pivot institutionalizes long-term supply chain decoupling regardless of short-term judicial hurdles.",
+      "facebookPost": "The administration has announced a sweeping new package of tariffs targeting 14 trading partners, including an additional 20% levy on Chinese imports that would push total taxes to about 40%. While public attention remains fixed on the Supreme Court's prior ruling against emergency tariff powers and the immediate cost-of-living squeeze highlighted by recent midterm losses, the deeper realignment is the calculated pivot to Section 301 of the Trade Act. This legal maneuver establishes a durable architecture for supply chain decoupling.\n\nHow sustainable is an economic strategy built on executive trade friction when domestic households are already shouldering hundreds of dollars in annual tariff costs?\n\nSource: The Guardian Business\n\n#GlobalEconomy #Tariffs #Blindspot",
+      "telegramPost": "<b>TRUMP PROPOSES SWEEPING NEW TARIFFS ON FOURTEEN TRADING PARTNERS</b>\n\n• <b>What happened:</b> The US trade representative announced proposed tariffs targeting 14 partners, including a 20% add-on for Chinese goods bringing the total tax to roughly 40%, alongside measures for the EU, Japan, India, and South Korea.\n• <b>Why it matters:</b> Following the supreme court ruling against emergency powers, the administration is shifting its legal foundation to Section 301 of the Trade Act, institutionalizing long-term trade friction despite voter backlash and rising inflation.\n• <b>What is next:</b> The US trade office will hold formal hearings on 25 January, with implementation possible as early as January as courts review parallel litigation.",
+      "linkedInPost": "The White House has initiated a second major trade offensive, proposing new tariffs on 14 trading partners and raising total taxes on Chinese imports to approximately 40%. By transitioning the legal framework from emergency powers to Section 301 of the Trade Act of 1974, the administration is signaling a permanent institutionalization of industrial policy and supply chain restructuring. For multinational corporations and institutional investors, this shifts country risk calculations across Europe and Asia, even as domestic inflation prints at 3.8% and consumer pushback intensifies following recent midterm elections.\n\nSource: The Guardian Business\n\n#GlobalEconomy #SupplyChain #Blindspot",
+      "blueskyPost": "Bypassing a supreme court setback, the administration is weaponizing Section 301 to hit 14 trading partners with new tariffs, pushing Chinese import taxes to 40%. The blind spot: institutional decoupling over short-term inflation. #GlobalEconomy #Blindspot",
+      "copies": {
+        "facebook": "The administration has announced a sweeping new package of tariffs targeting 14 trading partners, including an additional 20% levy on Chinese imports that would push total taxes to about 40%. While public attention remains fixed on the Supreme Court's prior ruling against emergency tariff powers and the immediate cost-of-living squeeze highlighted by recent midterm losses, the deeper realignment is the calculated pivot to Section 301 of the Trade Act. This legal maneuver establishes a durable architecture for supply chain decoupling.\n\nHow sustainable is an economic strategy built on executive trade friction when domestic households are already shouldering hundreds of dollars in annual tariff costs?\n\n#GlobalEconomy #Tariffs #Blindspot",
+        "telegram": "<b>TRUMP PROPOSES SWEEPING NEW TARIFFS ON FOURTEEN TRADING PARTNERS</b>\n\n• <b>What happened:</b> The US trade representative announced proposed tariffs targeting 14 partners, including a 20% add-on for Chinese goods bringing the total tax to roughly 40%, alongside measures for the EU, Japan, India, and South Korea.\n• <b>Why it matters:</b> Following the supreme court ruling against emergency powers, the administration is shifting its legal foundation to Section 301 of the Trade Act, institutionalizing long-term trade friction despite voter backlash and rising inflation.\n• <b>What is next:</b> The US trade office will hold formal hearings on 25 January, with implementation possible as early as January as courts review parallel litigation.",
+        "bluesky": "Bypassing a supreme court setback, the administration is weaponizing Section 301 to hit 14 trading partners with new tariffs, pushing Chinese import taxes to 40%. The blind spot: institutional decoupling over short-term inflation. #GlobalEconomy #Blindspot",
+        "linkedIn": "The White House has initiated a second major trade offensive, proposing new tariffs on 14 trading partners and raising total taxes on Chinese imports to approximately 40%. By transitioning the legal framework from emergency powers to Section 301 of the Trade Act of 1974, the administration is signaling a permanent institutionalization of industrial policy and supply chain restructuring. For multinational corporations and institutional investors, this shifts country risk calculations across Europe and Asia, even as domestic inflation prints at 3.8% and consumer pushback intensifies following recent midterm elections.\n\n#GlobalEconomy #SupplyChain #Blindspot"
+      },
+      "article": {
+        "slug": "trump-proposes-new-tariffs-14-partners-7nmi",
+        "title": "Trump proposes new tariffs on 14 partners including China and the European Union",
+        "dek": "The administration is leveraging Section 301 of the Trade Act to target 14 trading partners with new levies. The move institutionalizes supply chain decoupling despite domestic inflation and judicial pushback.",
+        "keyFacts": [
+          "The administration is proposing an additional 20% tax on Chinese imports, raising the total to about 40%.",
+          "Fourteen trading partners are affected, including the European Union, Japan, South Korea, India, and Taiwan.",
+          "The US trade office scheduled hearings on the investigation into unfair trade practices for 25 January.",
+          "Consumer prices rose an annualized 3.8% in October, exceeding the Federal Reserve's 2% target.",
+          "The Yale Budget Lab estimates current tariffs cost each US household an additional $900 annually."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "The office of the US trade representative announced on Wednesday that the administration is proposing new tariffs on 14 trading partners, slated to go into effect early next year. According to the primary source, the package includes an additional 20% tax on Chinese imports, which would bring the aggregate tax rate to approximately 40%.",
+              "Alongside China, the affected economies include Bangladesh, Cambodia, the European Union, India, Indonesia, Japan, South Korea, Malaysia, Singapore, Switzerland, Taiwan, Thailand, and Vietnam. US trade representative Jamieson Greer stated in a release that the actions aim to counter decades of targeted industrial strategies, wage and labor suppression, and market-distorting practices."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "The announcement follows a significant legal setback in February, when the supreme court ruled Trump's previous Liberation Day tariffs illegal. The court determined that the executive branch had improperly invoked a specific emergency powers law, though it left broader executive tariff authority intact.",
+              "In response to the judicial ruling, the administration is now anchoring the new rounds of tariffs in Section 301 of the Trade Act of 1974. This statute empowers the executive to respond to unfair foreign trade practices following formal investigations. The White House has not established a firm timeline, but officials indicated implementation could occur as early as January, with hearings scheduled for 25 January."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "Mainstream coverage has largely framed the tariff proposal through the lens of political theater and immediate voter dissatisfaction. The Yale Budget Lab estimates that existing tariffs already impose an annual cost of $900 per US household, a dynamic that helped fuel voter discontent in the midterm elections and hand Democrats control of Congress.",
+              "However, the deeper structural reality concerns the permanent institutionalization of trade fragmentation. By shifting to Section 301, the administration is constructing a durable legal framework designed to survive judicial scrutiny and permanently alter global trade flows, sidelining short-term inflationary concerns in favor of forced industrial decoupling."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "Domestically, protected manufacturing sectors and administration strategists stand to gain leverage in reshaping global supply chains. Conversely, American consumers and import-dependent industries bear the direct cost, with the Bureau of Economic Analysis reporting an annualized consumer price rise of 3.8% in October—the highest rate since May and well above the Federal Reserve's 2% target.",
+              "Internationally, export-heavy economies across Europe and Asia face compounding pressures on capital flows and manufacturing margins as bilateral trade terms harden."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "Key milestones include the outcome of ongoing litigation in the court of international trade concerning previous broad tariffs, as well as testimony during the 25 January hearings. Observers will also monitor how the Federal Reserve responds to persistent inflationary pressures linked to trade policy escalation."
+            ]
+          }
+        ],
+        "tags": [
+          "Tariffs",
+          "TradePolicy",
+          "GlobalEconomy",
+          "China",
+          "EuropeanUnion"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian Business",
+            "title": "Trump proposing new tariffs on 14 partners including China and EU",
+            "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe"
+          },
+          {
+            "name": "Breaking News, Latest News and Videos",
+            "title": "Trump admin proposes new tariffs on China, EU and 12 other trading partners - ABC News",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN3dSZHFTVnZVU1IxNk0ydWl4QjJTdUF3dTRuckhxSUNwMGI5enBLWEFyZHVGRGlILTN6OXNibmFnLVNWNGhBcFgtR2Vfd3hUX3Nmc0VjdnJvdEdERktyUnVKRW1tejhHLXVhY056YVFvbzR3Vy1wdGRPLWJYbm5EanBkdHJfdFRrQ2doTkh1SEkzTUVQMWZJ0gGcAUFVX3lxTE5NQ2dvX1lVT2Z3ZXUtUGgxcHdYMUE0VTZQZzNGd3V0amdGOEdMd2hWeEJYMl94dE9KUVRKY3pBQnJ2NzhNZTZQTXFPSjlqamtaenBiRE5FR1VvTEFCV2c1UXFoZk5YbHpsRzY0Z1Vmal9BZ3NxYjVOeXppMVJRd092STNQQjZZLUsxMmVDWWd4b2F4QkJ2ZTlPa1hJUw?oc=5"
+          },
+          {
+            "name": "The Washington Post",
+            "title": "Trump proposes new tariffs on China, Europe and other trade partners",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRG9IZXZjbjBEQ2tzam5pT0FPZWNFc2hac3ZURjRUaTJITlQwQmt4RElZVGlnM0luQndHeXdRaGRwTUVVbHVqQlcyZC01OC1adzBLT3JWWlNadmw2N01zR3JZT1VwWG1mVVNaSkNUSWExNTlYRWtCejNRUE1KSXk0TFpjaUt5X0Z4LUFLMzB1c3QtRXNpUVc5UzNMeHY4d2paMjVEVGpveFlpM1BvZWRlZzFR?oc=5"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Trump proposing new tariffs on 14 partners including China and EU",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzJkNEt0SmxFczJuc25uRFpYRjc1bDBVZ191T1p5TnFTbjRxeHA0QTk2TE1VM0FJMlI1ems4N1ItOGRFcHhma3ZLdEJKT01NSF9yVjFTaTc4SmlpQk5iSnRfdjRBZ2VCdDlLM0JEbFAtYkVjNXF1a0NqTG9OazJPaWFmamQ?oc=5"
+          },
+          {
+            "name": "BBC",
+            "title": "US announces new tariffs on host of countries including China",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQkloM185eWdfMGhXTkZBYmdEWHM2cy1CQjNpODYzQTRRV0V1VzU4akFoUkdsLTJucFZKTlF2MlZtMTgxMV9xZTRoZjdnTjdkRmMtTnd3Y3pZV28?oc=5"
+          }
+        ],
+        "wordCount": 461
+      },
+      "videoScript": {
+        "hook": "Trump is proposing new tariffs on fourteen trading partners.",
+        "beats": [
+          "The administration wants an extra 20% tax on Chinese imports, pushing the total to about 40%.",
+          "This time, the White House is using Section 301 of the Trade Act to bypass earlier court defeats.",
+          "The blind spot is that these duties cement permanent economic decoupling despite consumer prices rising 3.8%."
+        ],
+        "close": "Read the full analysis at the link in bio."
+      },
+      "rawImageUrl": "https://i.abcnewsfe.com/a/c19167f2-9a8e-4e50-afb7-19a583a916a5/donald-trump-13-gty-gmh-261124_1795551430660_hpMain_16x9.jpg?w=1600",
+      "sourceVideo": {
+        "provider": "youtube",
+        "id": "3CnIdOm__gw",
+        "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+        "channel": "CNBC Television"
+      },
+      "status": "pending",
+      "createdAt": "2026-11-26T01:17:22.292Z",
+      "cardImageUrl": "/news-cards/news-ozuwmvtft-1795655842292.jpg",
+      "reelCoverUrl": "/news-cards/news-ozuwmvtft-1795655842947-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-ozuwmvtft-1795655843524-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/trump-proposes-new-tariffs-14-partners-7nmi/"
+    },
+    "channels": {
+      "facebook": true,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": true,
+      "mastodon": false,
+      "threads": false,
+      "youtube": true
+    },
+    "scheduledFor": "2026-11-26T03:35:00.000Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-26T01:17:24.743Z"
   }
 ]

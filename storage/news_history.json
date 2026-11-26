@@ -221,9 +221,35 @@
     "https://www.bbc.com/mundo/articles/cmx2rny0dn17o?at_medium=RSS&at_campaign=rss",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVWhnNEpBUFV1TWFId0IwWWgzNzBtRER3MlFwWmI2MlgxN0ZqcEt6SzNtQU8yQkNpeWcwZG5aRmlHTGNQVlVES05tWkJpb2dQU2NQNXVfZVVxLURiRjJCaEFmcGVacC1JREoxMC1GZmRPdlQ3b01DVXlDYVNuemJPTW9yVGZYX3BUZk5HQkgweFlLck93bFp1dkFOQnRwb0hj?oc=5",
     "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
-    "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+    "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe"
   ],
   "processedSignatures": [
+    {
+      "title": "TRUMP PROPOSES SWEEPING NEW TARIFFS ON FOURTEEN TRADING PARTNERS",
+      "normalizedTokens": [
+        "trump",
+        "proposes",
+        "sweeping",
+        "tariffs",
+        "fourteen",
+        "trading",
+        "partners"
+      ],
+      "date": "2026-11-26T01:17:24.767Z"
+    },
+    {
+      "title": "Trump proposing new tariffs on 14 partners including China and EU",
+      "normalizedTokens": [
+        "trump",
+        "proposing",
+        "tariffs",
+        "partners",
+        "including",
+        "china"
+      ],
+      "date": "2026-11-26T01:17:24.764Z"
+    },
     {
       "title": "HUAWEI CONVICTED OF TRADE SECRET THEFT BUT CLEARED OF RACKETEERING",
       "normalizedTokens": [
