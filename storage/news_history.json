@@ -229,9 +229,39 @@
     "https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast?traffic_source=rss",
     "https://www.dw.com/en/egypt-at-least-31-dead-after-fuel-truck-overturns-on-highway/a-80055175?maca=en-rss-en-all-1573-rdf",
     "https://www.dw.com/en/duran-duran-guitarist-andy-taylor-dies-at-65/a-80055654?maca=en-rss-en-all-1573-rdf",
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYjc1S044enVDVHpleXVSM2YwME5kOGM4azBiSF9QNVc1Q2MyYmNRVFNJZ1p1dFVSOXdKTGxqYi1pU1dhdzcycGQ0dm5pN1NaRmZUendRME9GRVFfNHluZ0pUZkpsc0xLX1pNb1ZFdEk0TU8yTjZxbklUbC04ZkNJbWt6V21qUEowclUwME5KY1ZfUlVXaUlPQm9faDZPVzB4clJfZkFLekxaQVNWaldMT0ZwSFl3LVYwblRiaXYzNEt3dzBMck1WUkp1QQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYjc1S044enVDVHpleXVSM2YwME5kOGM4azBiSF9QNVc1Q2MyYmNRVFNJZ1p1dFVSOXdKTGxqYi1pU1dhdzcycGQ0dm5pN1NaRmZUendRME9GRVFfNHluZ0pUZkpsc0xLX1pNb1ZFdEk0TU8yTjZxbklUbC04ZkNJbWt6V21qUEowclUwME5KY1ZfUlVXaUlPQm9faDZPVzB4clJfZkFLekxaQVNWaldMT0ZwSFl3LVYwblRiaXYzNEt3dzBMck1WUkp1QQ?oc=5",
+    "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump"
   ],
   "processedSignatures": [
+    {
+      "title": "NORTH KOREA EXPANDS NUCLEAR INFRASTRUCTURE AND REJECTS US DIPLOMACY",
+      "normalizedTokens": [
+        "north",
+        "korea",
+        "expands",
+        "nuclear",
+        "infrastructure",
+        "rejects",
+        "diplomacy"
+      ],
+      "date": "2026-11-26T23:52:40.142Z"
+    },
+    {
+      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+      "normalizedTokens": [
+        "north",
+        "korea",
+        "kim",
+        "vows",
+        "build",
+        "nuclear",
+        "weapons",
+        "ignoring",
+        "trump",
+        "overture"
+      ],
+      "date": "2026-11-26T23:52:40.140Z"
+    },
     {
       "title": "ALTRIA EXPLORES TAKEOVER OF UK RIVAL IMPERIAL BRANDS",
       "normalizedTokens": [
@@ -7142,36 +7172,6 @@
         "china"
       ],
       "date": "2026-11-07T18:01:40.457Z"
-    },
-    {
-      "title": "HOUSE GOP REVOLTS AS MILLER ELEVATED TO CHIEF OF STAFF",
-      "normalizedTokens": [
-        "house",
-        "gop",
-        "revolts",
-        "miller",
-        "elevated",
-        "chief",
-        "staff"
-      ],
-      "date": "2026-11-07T17:42:18.788Z"
-    },
-    {
-      "title": "House GOP erupts at Stephen Miller as Trump elevates him after midterm massacre: 'Megalomaniac'",
-      "normalizedTokens": [
-        "house",
-        "gop",
-        "erupts",
-        "stephen",
-        "miller",
-        "trump",
-        "elevates",
-        "him",
-        "midterm",
-        "massacre",
-        "megalomaniac"
-      ],
-      "date": "2026-11-07T17:42:18.788Z"
     }
   ]
 }
