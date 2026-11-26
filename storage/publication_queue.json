@@ -24523,5 +24523,152 @@
     "attempts": 0,
     "maxAttempts": 3,
     "createdAt": "2026-11-25T23:06:39.778Z"
+  },
+  {
+    "id": "queue-1795652470156-t9fn2",
+    "news": {
+      "id": "zrbju2945",
+      "originalUrl": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "originalTitle": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "sourceName": "BBC Technology",
+      "category": "TECHNOLOGY & AI",
+      "urgencyScore": 85,
+      "headline": "HUAWEI CONVICTED OF TRADE SECRET THEFT BUT CLEARED OF RACKETEERING",
+      "subHeadline": "A federal jury in Brooklyn found Chinese telecommunications giant Huawei guilty of 10 out of 12 counts, including bank fraud and industrial espionage. However, prosecutors failed to secure a conviction on overarching racketeering charges.",
+      "blindSpotAngle": "By failing to secure a racketeering conviction, US prosecutors missed establishing a legal precedent that officially classifies state-backed Chinese tech giants as organized criminal enterprises. While severe financial penalties and sanctions convictions hold firm, the split verdict exposes the legal boundaries of using domestic racketeering statutes against foreign industrial competitors.",
+      "facebookPost": "A Brooklyn federal jury has convicted Huawei on 10 out of 12 criminal counts, including conspiracy to steal trade secrets and bank fraud related to concealed operations in Iran. Federal prosecutors presented evidence spanning a two-month trial detailing decades of economic espionage against American competitors such as Cisco and T-Mobile. The decision marks a major legal milestone in a case originating from the 2018 arrest of executive Meng Wanzhou in Canada. However, the critical Blindspot lies in the charges that failed. The jury rejected the government's flagship racketeering conspiracy charge, which aimed to legally classify the entire multinational as a criminal enterprise. By failing to meet the legal threshold for racketeering, federal prosecutors proved individual illegal acts while failing to dismantle the corporate legitimacy of China's telecom champion. Does this verdict reveal the institutional limits of Western courts in curbing state-aligned foreign technology firms? Share your perspective below.\n\nSource: BBC Technology\n\n#Technology #Geopolitics #Blindspot",
+      "telegramPost": "<b>HUAWEI CONVICTED OF TRADE SECRET THEFT BUT CLEARED OF RACKETEERING</b> • <b>What happened:</b> A federal jury in Brooklyn found Huawei guilty of 10 out of 12 counts, including bank fraud and stealing trade secrets from Cisco and T-Mobile, following a two-month trial. • <b>Why it matters:</b> Prosecutors failed to win the overarching racketeering charge, missing the legal threshold required to officially brand the firm a criminal enterprise. • <b>What is next:</b> Huawei faces substantial financial penalties, but Beijing will use the racketeering acquittal to challenge US legal reach while Huawei expands across non-Western markets.",
+      "linkedInPost": "The federal verdict delivered against Huawei in Brooklyn represents a defining moment in global regulatory enforcement and foreign corporate liability. Convicted on 10 out of 12 counts, the company was found guilty of bank fraud and systemic trade secret theft targeting American companies including Cisco and T-Mobile. Yet for multinational executives and risk analysts, the key takeaway is the acquittal on racketeering conspiracy charges. The Department of Justice sought to apply RICO-style statutes to legally categorize Huawei as a structural criminal enterprise, a threshold the jury formally rejected. This distinction creates a clear operational boundary: while targeted trade secret theft and sanction violations remain strictly enforceable in US courts, systemic corporate delegitimization faces high evidentiary barriers. Organizations operating across complex foreign supply chains must recognize that domestic litigation can penalize illicit behavior without structurally dismantling foreign competitors.\n\nSource: BBC Technology\n\n#SupplyChain #Technology #Blindspot",
+      "blueskyPost": "A US jury convicted Huawei of trade secret theft but rejected racketeering charges, exposing the legal limits of framing state-aligned tech firms as criminal enterprises. #Blindspot #Tech",
+      "copies": {
+        "facebook": "A Brooklyn federal jury has convicted Huawei on 10 out of 12 criminal counts, including conspiracy to steal trade secrets and bank fraud related to concealed operations in Iran. Federal prosecutors presented evidence spanning a two-month trial detailing decades of economic espionage against American competitors such as Cisco and T-Mobile. The decision marks a major legal milestone in a case originating from the 2018 arrest of executive Meng Wanzhou in Canada. However, the critical Blindspot lies in the charges that failed. The jury rejected the government's flagship racketeering conspiracy charge, which aimed to legally classify the entire multinational as a criminal enterprise. By failing to meet the legal threshold for racketeering, federal prosecutors proved individual illegal acts while failing to dismantle the corporate legitimacy of China's telecom champion. Does this verdict reveal the institutional limits of Western courts in curbing state-aligned foreign technology firms? Share your perspective below. #Technology #Geopolitics #Blindspot",
+        "telegram": "<b>HUAWEI CONVICTED OF TRADE SECRET THEFT BUT CLEARED OF RACKETEERING</b> • <b>What happened:</b> A federal jury in Brooklyn found Huawei guilty of 10 out of 12 counts, including bank fraud and stealing trade secrets from Cisco and T-Mobile, following a two-month trial. • <b>Why it matters:</b> Prosecutors failed to win the overarching racketeering charge, missing the legal threshold required to officially brand the firm a criminal enterprise. • <b>What is next:</b> Huawei faces substantial financial penalties, but Beijing will use the racketeering acquittal to challenge US legal reach while Huawei expands across non-Western markets.",
+        "bluesky": "A US jury convicted Huawei of trade secret theft but rejected racketeering charges, exposing the legal limits of framing state-aligned tech firms as criminal enterprises. #Blindspot #Tech",
+        "linkedIn": "The federal verdict delivered against Huawei in Brooklyn represents a defining moment in global regulatory enforcement and foreign corporate liability. Convicted on 10 out of 12 counts, the company was found guilty of bank fraud and systemic trade secret theft targeting American companies including Cisco and T-Mobile. Yet for multinational executives and risk analysts, the key takeaway is the acquittal on racketeering conspiracy charges. The Department of Justice sought to apply RICO-style statutes to legally categorize Huawei as a structural criminal enterprise, a threshold the jury formally rejected. This distinction creates a clear operational boundary: while targeted trade secret theft and sanction violations remain strictly enforceable in US courts, systemic corporate delegitimization faces high evidentiary barriers. Organizations operating across complex foreign supply chains must recognize that domestic litigation can penalize illicit behavior without structurally dismantling foreign competitors. #SupplyChain #Technology #Blindspot"
+      },
+      "article": {
+        "slug": "federal-jury-convicts-huawei-trade-secret-44oc",
+        "title": "Federal Jury Convicts Huawei of Trade Secret Theft While Rejecting Racketeering Charge",
+        "dek": "US prosecutors secured convictions against Chinese telecom giant Huawei for sanctions fraud and industrial espionage. However, the jury acquitted the firm of racketeering, exposing limits in Washington's legal campaign against foreign tech giants.",
+        "keyFacts": [
+          "A federal jury in Brooklyn convicted Huawei on 10 out of 12 counts after a two-month trial.",
+          "The firm was found guilty of bank fraud and stealing trade secrets from US rivals including Cisco and T-Mobile.",
+          "The jury acquitted Huawei of racketeering conspiracy, which required proving the company operated as a criminal enterprise.",
+          "Meng Wanzhou, Huawei executive arrested in late 2018 in Canada, was held for three years before returning to China under a US prosecution deal.",
+          "Huawei maintains operations in over 170 countries with more than 200,000 employees globally."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "Following a two-month federal trial in Brooklyn, a jury returned a verdict convicting Huawei Technologies on 10 out of 12 criminal counts. The guilty verdicts cover conspiracy to steal trade secrets, bank fraud, and violations of US economic sanctions. Federal prosecutors presented detailed evidence showing how the Chinese telecommunications giant engaged in systematic efforts to acquire proprietary technology from American competitors, including Cisco Systems and T-Mobile, while lying to international financial institutions regarding its business operations in Iran.",
+              "Despite securing convictions on individual counts of corporate espionage and bank fraud, the federal government suffered a notable setback on its primary charge. The jury declined to convict Huawei of racketeering conspiracy under statutes originally designed to dismantle organized crime rings. The defense team, led by attorney Brian Heberlig, successfully argued that prosecutors had improperly sought to categorize a commercial enterprise operating in 170 countries as an inherently unlawful organization."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "The legal proceedings trace back to late 2018, when Canadian authorities arrested Huawei Chief Financial Officer Meng Wanzhou at Vancouver International Airport pursuant to a US extradition warrant. Meng was detained in Canada for three years before securing a deferred prosecution agreement with the US Department of Justice, allowing her return to China in 2021. The formal indictment announced in 2019 represented the cornerstone of Washington's multi-year initiative to curb Huawei's expansion into critical global communications networks.",
+              "According to statements by US Attorney General Todd Blanche following the verdict, the conviction holds Huawei accountable for decades of deceit and intellectual property theft inside the United States. Federal prosecutors argued that Huawei built its commercial dominant position by circumventing export controls and misrepresenting its relationships with foreign subsidiaries. Conversely, Chinese government officials condemned the trial as political suppression aimed at hampering legitimate economic development."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "While mainstream headlines focus on the conviction of a foreign tech firm in a American court, the core strategic development lies in the jury's rejection of the racketeering charge. By filing RICO charges, the Department of Justice attempted to establish a legal doctrine that would classify state-supported corporate giants as systemic criminal syndicates. Demonstrating individual acts of corporate espionage or financial misrepresentation is straightforward under standard corporate law; proving that an entity employing 200,000 workers operates fundamentally as a racketeering enterprise presents far higher legal hurdles.",
+              "This acquittal prevents the US government from asserting that all commercial operations of state-aligned foreign entities are inherently criminal under domestic law. As a result, future legal actions against foreign corporations will likely remain confined to targeted statutory violations rather than broad institutional delegitimization. This distinction narrows the scope of US legal jurisdiction when confronting foreign industrial policy on the international stage."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "The Department of Justice achieves a partial victory by validating its allegations of bank fraud and corporate espionage in court, reinforcing regulatory pressure on Western firms doing business with penalized entities. However, the prosecution failed to achieve its ultimate goal of legally defining Huawei as an organized crime operation, leaving a precedent that limits how aggressively domestic law can be weaponized against foreign corporate structures.",
+              "Huawei faces imminent financial penalties and continued exclusion from primary US tech markets, yet the racketeering acquittal provides the firm and Beijing with critical rhetoric. Huawei can frame the outcome as proof that American claims of structural criminal misconduct were exaggerated, preserving its commercial viability across global markets throughout the Global South."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "The immediate focus shifts to the upcoming sentencing hearing in Brooklyn federal court, where the judge will determine the scale of monetary fines and compliance directives imposed on Huawei. Legal observers will monitor whether the Department of Justice attempts to appeal elements of the ruling or adapts its legal strategies in pending cases involving foreign tech firms.",
+              "Globally, attention turns to how allied nations digest the verdict. While the trade secret convictions reinforce Washington's warnings regarding hardware security and intellectual property protection, the failure to secure a racketeering conviction may complicate efforts to persuade neutral countries to institute outright bans on foreign telecommunications infrastructure."
+            ]
+          }
+        ],
+        "tags": [
+          "Huawei",
+          "Legal",
+          "Trade Secrets",
+          "Sanctions",
+          "Telecommunications",
+          "US China Relations"
+        ],
+        "sources": [
+          {
+            "name": "BBC Technology",
+            "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+            "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Time Magazine",
+            "title": "China’s Huawei Convicted in U.S. Over Bank Fraud, Iran Ties",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTEpCVDBTbmUyM2hOckpXSFNPMVQyM3p1MkFxWVlZbXVuMDVMbFZZOFVfVTNkQTNsb29NdFZ2d2hzN2lxX05VU0FHbzFNb0JOcFhDek1ia0NRYTR5dTJ3UTRiWFdfU2otdHpiYU5hMGN5MW5tTHhOOFZDbDVvczRPbjNld1g0SmE0bHM3Vlk1SDJqZFhPaHdBbg?oc=5"
+          },
+          {
+            "name": "The New York Times",
+            "title": "Huawei Found Guilty of Stealing Trade Secrets in U.S. Trial",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wSlJSbmIxLWVPekN0cnF2ay0zSzNNZk9NeUJhTXJ0UGdoOW5oX1p4LXB4T3JuS1ZpTkxZbklHNnJtTXA0QUxYQzVTSTVDeV9fV01Hc045SHczbXdWYUJRNFRielA5UXNkOWxTdWQwSi1HVVRqdnZQMUx5SQ?oc=5"
+          },
+          {
+            "name": "The Hill",
+            "title": "Huawei found guilty in trade secrets theft case",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTlNZMmphWlVJX1YxVzZNNlU3MUhZOVZhWm5Lb2ktZG00MzZCcjJMcFR6OGs1NlVFcnMzZzNMb0NaTEEyNzhXMk5mNzcwbHdHSTBHYzhFUGVreXFlVnlDM1h0NXp3cDNpeGRMcmpfQ1RrWFFhSXVCWUltTTV5M3I2aEppemR0cWNqeF9qWTJKZlBIXzTSAZgBQVVfeXFMUEJrYkFTRm5FUmNvMEVTcEpuWW5tVmtaMGFadWdSckZXU3EtVDRaemVObWZKZko3dXQxUzlicmxORlY5NFFhdEFiYXNwbXRzZmtSaU1vMEhHMktodm9tNkJEX3liZzgtVHV6T3Z0eXAteklHaXFZUUNQcnl0VEpFUWFnV2kwTm9xcWs2VVFPc0d1Yy0zaF9yNnY?oc=5"
+          },
+          {
+            "name": "Ars Technica",
+            "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQUhsQW44MDBZYV9uLUN1ZkJRNHdXQ2xZcjg2ZjhIYXpZWXk5bkNFbG5LM0lJTmRmUHBhRDdoY3lLQXBXZTJ4X2kzcWlMd2pUdlVhQll1MTNUVlNaQ2Zhdmp0WVJPb2tWaEIxTlB0ZVNXbjdURDFoekNRZ2hPVjllOGxUQm5yelduY3JhYVg5YUNGaUJNb1BFWjgyaXZEaDkyb3VZMGtMTmpJWUNUM0VLM0tVVU4xMDBY?oc=5"
+          }
+        ],
+        "wordCount": 693
+      },
+      "videoScript": {
+        "hook": "A federal court convicted Huawei of corporate theft, but there is a major catch.",
+        "beats": [
+          "Jurors found the Chinese telecom giant guilty of 10 out of 12 counts involving fraud and trade secret theft.",
+          "However, federal prosecutors failed to convict the company on flagship racketeering charges.",
+          "This partial acquittal prevents Washington from legally branding the firm as a criminal enterprise."
+        ],
+        "close": "Read the full strategic analysis of the verdict at the link in bio."
+      },
+      "rawImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2306257922-1024x648.jpg",
+      "sourceVideo": {
+        "provider": "youtube",
+        "id": "lkFp0tlcmqQ",
+        "title": "US Jury Convicts China's Huawei On 10 Counts Of Stealing Trade Secrets, Bank Fraud & Sanctions",
+        "channel": "Republic World"
+      },
+      "status": "pending",
+      "createdAt": "2026-11-26T00:21:08.000Z",
+      "cardImageUrl": "/news-cards/news-zrbju2945-1795652468000.jpg",
+      "reelCoverUrl": "/news-cards/news-zrbju2945-1795652468563-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-zrbju2945-1795652469084-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/federal-jury-convicts-huawei-trade-secret-44oc/"
+    },
+    "channels": {
+      "facebook": true,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": true,
+      "mastodon": false,
+      "threads": false,
+      "youtube": true
+    },
+    "scheduledFor": "2026-11-26T02:19:00.000Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-26T00:21:10.156Z"
   }
 ]

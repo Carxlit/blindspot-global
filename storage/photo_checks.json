@@ -1303,5 +1303,15 @@
     "relevant": true,
     "reason": "The image shows a controlled detonation, which directly illustrates the destruction of the lead azide stockpile mentioned in the headline.",
     "at": "2026-11-25T23:06:37.274Z"
+  },
+  "6ceff2b3a8da01be:zrbju2945": {
+    "relevant": false,
+    "reason": "The image is a courtroom sketch that does not clearly or accurately represent Huawei or the specific corporate entities involved in the trade secret theft trial.",
+    "at": "2026-11-26T00:20:21.593Z"
+  },
+  "debc2ae978d5099c:zrbju2945": {
+    "relevant": true,
+    "reason": "The image displays the Huawei logo on a building, clearly illustrating the company that is the central subject of the news story.",
+    "at": "2026-11-26T00:21:06.632Z"
   }
 }

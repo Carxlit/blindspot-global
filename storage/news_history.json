@@ -220,9 +220,37 @@
     "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
     "https://www.bbc.com/mundo/articles/cmx2rny0dn17o?at_medium=RSS&at_campaign=rss",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVWhnNEpBUFV1TWFId0IwWWgzNzBtRER3MlFwWmI2MlgxN0ZqcEt6SzNtQU8yQkNpeWcwZG5aRmlHTGNQVlVES05tWkJpb2dQU2NQNXVfZVVxLURiRjJCaEFmcGVacC1JREoxMC1GZmRPdlQ3b01DVXlDYVNuemJPTW9yVGZYX3BUZk5HQkgweFlLck93bFp1dkFOQnRwb0hj?oc=5",
-    "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant"
+    "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
+    "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "HUAWEI CONVICTED OF TRADE SECRET THEFT BUT CLEARED OF RACKETEERING",
+      "normalizedTokens": [
+        "huawei",
+        "convicted",
+        "trade",
+        "secret",
+        "theft",
+        "cleared",
+        "racketeering"
+      ],
+      "date": "2026-11-26T00:21:10.169Z"
+    },
+    {
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "normalizedTokens": [
+        "huawei",
+        "found",
+        "guilty",
+        "stealing",
+        "trade",
+        "secrets",
+        "acquitted",
+        "racketeering"
+      ],
+      "date": "2026-11-26T00:21:10.168Z"
+    },
     {
       "title": "US ARMY DETONATES TOXIC IOWA LEAD AZIDE STOCKPILE",
       "normalizedTokens": [
