@@ -1353,5 +1353,10 @@
     "relevant": false,
     "reason": "The person in the image is not Andy Taylor of Duran Duran; it is Richard O'Brien (creator of The Rocky Horror Show) performing in character.",
     "at": "2026-11-26T05:31:39.206Z"
+  },
+  "356b41fedee42c10:bu8u36w1m": {
+    "relevant": true,
+    "reason": "The image shows Marlboro cigarette packs, which are the primary product and brand associated with Altria, one of the main companies involved in the takeover story.",
+    "at": "2026-11-26T23:04:21.618Z"
   }
 }
