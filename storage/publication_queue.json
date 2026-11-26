@@ -24517,5 +24517,153 @@
     "attempts": 0,
     "maxAttempts": 3,
     "createdAt": "2026-11-26T02:21:53.102Z"
+  },
+  {
+    "id": "queue-1795664231443-xj1d3",
+    "news": {
+      "id": "scdum5r6j",
+      "originalUrl": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "originalTitle": "US attorney general dodges questions about Nvidia investigation",
+      "sourceName": "BBC Technology",
+      "category": "TECHNOLOGY & AI",
+      "urgencyScore": 88,
+      "headline": "US ATTORNEY GENERAL DODGES INQUIRIES OVER NVIDIA INVESTIGATION",
+      "subHeadline": "Attorney General Todd Blanche praised Nvidia as a good corporate citizen while deflecting questions regarding federal probes into CEO Jensen Huang and illegal chip transfers to China.",
+      "blindSpotAngle": "While mainstream coverage focuses on corporate executive intrigue and political pardon rumors, the systemic blind spot is Washington's structural policy contradiction. Federal authorities face an impossible choice between rigorously enforcing semiconductor export controls and shielding the primary corporate champion driving American AI hegemony.",
+      "facebookPost": "US Attorney General Todd Blanche publicly defended Nvidia as a good corporate citizen while repeatedly deflecting inquiries regarding Justice Department investigations into reinstated CEO Jensen Huang. The deflections follow Huang's return to leadership after resigning over extramarital relationships, including one with an executive at Megaspeed, a Singaporean vendor under federal scrutiny for illicitly diverting advanced AI chips to China.\n\nBehind the official rhetoric lies a profound geopolitical paradox. Washington is striving to enforce strict national security bans on semiconductor exports to Beijing without crippling America's flagship hardware provider. By signaling executive leniency and downplaying active investigations, law enforcement authorities risk demonstrating that vital national AI assets operate beyond regulatory reach.\n\nDoes protecting domestic technology dominance justify diluting national security enforcement against strategic adversaries?\n\nSource: BBC Technology\n\n#Technology #Semiconductors #Blindspot",
+      "telegramPost": "<b>US ATTORNEY GENERAL DODGES INQUIRIES OVER NVIDIA INVESTIGATION</b>\n\n• <b>What happened:</b> US Attorney General Todd Blanche evaded questions regarding Department of Justice probes into Nvidia CEO Jensen Huang and semiconductor exports, calling Nvidia a good corporate citizen.\n• <b>Why it matters:</b> Nvidia customer Megaspeed faces federal blacklisting for export violations initiated in 2024, exposing a structural conflict between US tech containment policy and domestic AI leadership.\n• <b>What is next:</b> Huang will face formal Congressional testimony next week regarding national security risks and supply chain integrity.",
+      "linkedInPost": "The defense of Nvidia by US Attorney General Todd Blanche illustrates the growing friction between national security enforcement and industrial policy in the artificial intelligence sector. With Nvidia customer Megaspeed under federal investigation since 2024 for chip diversion to China, law enforcement faces institutional pressure to preserve corporate stability while maintaining regulatory credibility.\n\nThis dynamic highlights a critical macro-risk for technology supply chains: systemic hardware providers are increasingly perceived as too critical to prosecute. Enterprise risk leaders must evaluate how national strategic priorities will dictate enforcement consistency across global dual-use technology markets.\n\nSource: BBC Technology\n\n#GlobalEconomy #Technology #Blindspot",
+      "blueskyPost": "Washington shields Nvidia while deflecting inquiries into illicit chip transfers to China. National AI dominance now supersedes trade control enforcement. #Blindspot #Technology",
+      "copies": {
+        "facebook": "US Attorney General Todd Blanche publicly defended Nvidia as a good corporate citizen while repeatedly deflecting inquiries regarding Justice Department investigations into reinstated CEO Jensen Huang. The deflections follow Huang's return to leadership after resigning over extramarital relationships, including one with an executive at Megaspeed, a Singaporean vendor under federal scrutiny for illicitly diverting advanced AI chips to China.\n\nBehind the official rhetoric lies a profound geopolitical paradox. Washington is striving to enforce strict national security bans on semiconductor exports to Beijing without crippling America's flagship hardware provider. By signaling executive leniency and downplaying active investigations, law enforcement authorities risk demonstrating that vital national AI assets operate beyond regulatory reach.\n\nDoes protecting domestic technology dominance justify diluting national security enforcement against strategic adversaries? #Technology #Semiconductors #Blindspot",
+        "telegram": "<b>US ATTORNEY GENERAL DODGES INQUIRIES OVER NVIDIA INVESTIGATION</b>\n\n• <b>What happened:</b> US Attorney General Todd Blanche evaded questions regarding Department of Justice probes into Nvidia CEO Jensen Huang and semiconductor exports, calling Nvidia a good corporate citizen.\n• <b>Why it matters:</b> Nvidia customer Megaspeed faces federal blacklisting for export violations initiated in 2024, exposing a structural conflict between US tech containment policy and domestic AI leadership.\n• <b>What is next:</b> Huang will face formal Congressional testimony next week regarding national security risks and supply chain integrity.",
+        "bluesky": "Washington shields Nvidia while deflecting inquiries into illicit chip transfers to China. National AI dominance now supersedes trade control enforcement. #Blindspot #Technology",
+        "linkedIn": "The defense of Nvidia by US Attorney General Todd Blanche illustrates the growing friction between national security enforcement and industrial policy in the artificial intelligence sector. With Nvidia customer Megaspeed under federal investigation since 2024 for chip diversion to China, law enforcement faces institutional pressure to preserve corporate stability while maintaining regulatory credibility.\n\nThis dynamic highlights a critical macro-risk for technology supply chains: systemic hardware providers are increasingly perceived as too critical to prosecute. Enterprise risk leaders must evaluate how national strategic priorities will dictate enforcement consistency across global dual-use technology markets.\n\n#GlobalEconomy #Technology #Blindspot"
+      },
+      "article": {
+        "slug": "justice-department-deflects-probes-nvidia-executive-s04g",
+        "title": "Justice Department Deflects Probes as Nvidia Executive Security Crisis Escalates",
+        "dek": "Attorney General Todd Blanche shielded Nvidia as a good corporate citizen despite ongoing federal investigations into illicit chip transfers to China. The maneuver reveals the delicate policy balance between national security enforcement and domestic AI dominance.",
+        "keyFacts": [
+          "Attorney General Todd Blanche publicly called Nvidia a good corporate citizen while dodging questions on DOJ probes.",
+          "Federal authorities began investigating Nvidia customer Megaspeed in 2024 for export control violations.",
+          "Jensen Huang was reinstated as Nvidia CEO less than two weeks after resigning over executive misconduct.",
+          "The US Commerce Department is preparing to blacklist Singapore-based Megaspeed over illicit chip diversions to China.",
+          "President Donald Trump stated he would consider pardoning Huang if criminal charges emerge."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "US Attorney General Todd Blanche publicly defended Nvidia on Tuesday, describing the artificial intelligence hardware giant as a good corporate citizen while refusing to detail active federal investigations into the company or its reinstated Chief Executive Officer, Jensen Huang.",
+              "According to reports from BBC Technology and corroborating news agencies, Blanche repeatedly deflected questions regarding whether the Department of Justice or the FBI had opened formal probes into Huang's security clearance status or his ties to Singapore-based technology firm Megaspeed.",
+              "Huang was reinstated to his executive role less than two weeks after stepping down over extramarital affairs, including a relationship with an alleged Chinese spy who previously headed Megaspeed. Both the US Commerce Department and the Department of Justice have been investigating Megaspeed since 2024 over allegations of illicit export control violations."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "The executive crisis unfolds alongside heightened federal scrutiny regarding dual-use technology leaks across global supply networks. The United States has enacted stringent export restrictions intended to block high-performance computing hardware from bolstering Chinese military capabilities.",
+              "Despite these trade barriers, third-party intermediaries operating in foreign jurisdictions like Singapore have emerged as critical nodes for circumventing federal oversight. The Commerce Department's pending decision to blacklist Megaspeed highlights the systemic difficulty of tracking advanced microprocessors after initial commercial distribution."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "Public debate has centered primarily on internal corporate governance, executive scandal, and potential presidential pardons mentioned by President Donald Trump. However, the critical blind spot remains the underlying policy contradiction governing American technological strategy.",
+              "By treating Nvidia as a protected national asset vital to economic competitiveness, Washington risks compromising the integrity of its own trade sanctions framework. Imposing sanctions on overseas distributors achieves little deterrence if primary domestic manufacturers remain shielded from corporate accountability."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "Nvidia secures immediate political backing and operational continuity, demonstrating that its central position in global AI infrastructure insulates it from aggressive law enforcement actions.",
+              "Conversely, US regulatory agencies lose enforcement credibility, signaling to foreign partners and adversaries that industrial containment strategies yield to domestic commercial priorities."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "Jensen Huang is scheduled to testify before Congress next week, where lawmakers will question him regarding national security vulnerabilities, executive oversight, and corporate ties to Megaspeed.",
+              "Strategic analysts will monitor whether legislative committees push for broader sub-poenas or force federal regulators to expand enforcement beyond foreign intermediary firms."
+            ]
+          }
+        ],
+        "tags": [
+          "Nvidia",
+          "Semiconductors",
+          "Export Controls",
+          "Department of Justice",
+          "Technology Policy"
+        ],
+        "sources": [
+          {
+            "name": "BBC Technology",
+            "title": "US attorney general dodges questions about Nvidia investigation",
+            "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "The Economist",
+            "title": "US in Brief: Todd Blanche dodges questions about Nvidia",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSkFRT29Uc2NyNTN3UkJMcmxYRGl1aEZzMTlnV3o0SlBwb1RrR0tPLUdvZ3pGWlNlMElPcUV0VnNiQXE0bk5rMUxWQjdGR2RxZXB6LUlRLXdMT2haYTRLMkw0QjRfMjc5aEpUY1c4dFVaR0Y1RHB1T0w2RE8zcHhLQXh0cll6eVBNNjlGZXpPdjg4MXFZMEJz?oc=5"
+          },
+          {
+            "name": "CNBC",
+            "title": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbV81cnVIdnI4U0FWQm5NV2JHbEstVEhPd01ta0VQWlRLUE12d0swT1hPVy1QMUo5dVZLV1ZmanNXcDFsM0M3MmJFcURzT0tHbjB5SWZqc3J4NW5GeW5DcG9TM1R4NnEzSi1lenowVTZqQUZZVmhNT05Fa1N5dTdZUHZtQmjSAYoBQVVfeXFMUEZuNjBJWEZmeV9rbUJHcDhvRFB6SE9pUTRrbFc3d0F1eGdaSmg2UkZOaHAyRVVEMzUtSnVVb0hIZHhPeTZ2eFNLOTZLWjM2aTRfd0V5b1FVb0ltbnoxVGhSb1BNQmVXaGlVOXo2Y2FoLXFjREMxNVRCNFotb1VxY1JBdnptYlZJcnNB?oc=5"
+          },
+          {
+            "name": "NBC News",
+            "title": "Todd Blanche calls Nvidia a ‘good corporate citizen’ while dodging questions on investigation",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYng1aGJNWXFlRFZ6eDJad3dyUlA2QzYwcl9WWmNKcXR0MnpPRmJMNE5BWXVtNmxiOF9pcmg0ck5LM0c5OHRSTUwtNmNzZ0hocFA4YzF4R25hcE0tVWFURldLcGh5clBEUzFQcEp1dTd0U29rWU9iVWVIQ3pYanR0VjZtUW1mWTR3TFZSMzdxSXQ3dXBrZDViRlhYSkR4SmM3eGhoRFRYWWFwZ1NXdDVNVFhtejN4ck5iNmNIc01R?oc=5"
+          },
+          {
+            "name": "Forbes",
+            "title": "Attorney General Blanche Dodges Questions About Justice Department’s Investigation Into Jensen Huang",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYl9iRDZtV3dTNEpzMHZBRFdGc2FQSEtZSkM3X1l4ckRreWQtcmZwSmktZHFteXlCTzV5VzRRaUxEbUFyaDBhUk0xTnVGTXFtOXVFWGJPUGoyTDAta3RhWkV5YnczelBLcm00bUNZclg3OHg0LWVQRVUzTTdUbndIV1hoTnlyeVI1RF9tbWtBQXFGcGQzWnNiMDhKTkFTLVdRZnhwSHBSWl9pX0J2eDNyaFJiS1pmWHVaTjhReE5aNXJEZER5Z2lQZlNOS0h5TTQ?oc=5"
+          }
+        ],
+        "wordCount": 411
+      },
+      "videoScript": {
+        "hook": "Is Washington quietly granting immunity to the world's leading AI chipmaker?",
+        "beats": [
+          "Attorney General Todd Blanche praised Nvidia while deflecting questions about federal investigations.",
+          "Customer firm Megaspeed has been under federal probe since 2024 for illicitly diverting chips to China.",
+          "Here is the catch: national AI supremacy is now overriding trade control enforcement."
+        ],
+        "close": "Read our full analysis on the Nvidia investigation at the link in bio."
+      },
+      "rawImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+      "sourceVideo": {
+        "provider": "youtube",
+        "id": "sw4jwZGlAWU",
+        "title": "AG Blanche Dodges Jensen Huang Investigation Questions, Calls Nvidia ‘Good Corporate Citizen’",
+        "channel": "Mo News",
+        "license": "cc-by"
+      },
+      "status": "pending",
+      "createdAt": "2026-11-26T03:37:08.106Z",
+      "cardImageUrl": "/news-cards/news-scdum5r6j-1795664228107.jpg",
+      "reelCoverUrl": "/news-cards/news-scdum5r6j-1795664229037-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-scdum5r6j-1795664229651-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/justice-department-deflects-probes-nvidia-executive-s04g/"
+    },
+    "channels": {
+      "facebook": true,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": true,
+      "mastodon": false,
+      "threads": false,
+      "youtube": true
+    },
+    "scheduledFor": "2026-11-26T12:16:00.000Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-26T03:37:11.443Z"
   }
 ]

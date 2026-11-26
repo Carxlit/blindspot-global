@@ -223,9 +223,34 @@
     "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
     "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
     "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWJ0MDE3ZEJzV2tVdThRbXdzcGxXN0phLUpNTHAyVWlEQV9JNzVUWlpsRXp6ZHFTNnY1dnpKMHJjNExkUnZxTlRXdzZNTUFOeXhkUTk5XzF0ZW55b1lZcnhJYTkyYUt5N1lvdm5TZ3QyZDh5UkNsVmtHMmhuNm5xcGc3VmVUcV9fellldEtWcTdaYWJpRUlBcm5R?oc=5"
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWJ0MDE3ZEJzV2tVdThRbXdzcGxXN0phLUpNTHAyVWlEQV9JNzVUWlpsRXp6ZHFTNnY1dnpKMHJjNExkUnZxTlRXdzZNTUFOeXhkUTk5XzF0ZW55b1lZcnhJYTkyYUt5N1lvdm5TZ3QyZDh5UkNsVmtHMmhuNm5xcGc3VmVUcV9fellldEtWcTdaYWJpRUlBcm5R?oc=5",
+    "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "US ATTORNEY GENERAL DODGES INQUIRIES OVER NVIDIA INVESTIGATION",
+      "normalizedTokens": [
+        "attorney",
+        "general",
+        "dodges",
+        "inquiries",
+        "nvidia",
+        "investigation"
+      ],
+      "date": "2026-11-26T03:37:11.456Z"
+    },
+    {
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "normalizedTokens": [
+        "attorney",
+        "general",
+        "dodges",
+        "questions",
+        "nvidia",
+        "investigation"
+      ],
+      "date": "2026-11-26T03:37:11.453Z"
+    },
     {
       "title": "US TO HIKE TARIFFS ON MULTIPLE NATIONS OVER SUBSIDIZED FACTORIES",
       "normalizedTokens": [
