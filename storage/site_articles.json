@@ -1,5 +1,94 @@
 [
   {
+    "slug": "cairo-tanker-fire-kills-31-power-vrht",
+    "path": "news/cairo-tanker-fire-kills-31-power-vrht/",
+    "title": "Cairo Tanker Fire Kills 31 as Power Line Failure Triggers Highway Disaster",
+    "headline": "UPDATE: THIRTY-ONE KILLED IN CAIRO HIGHWAY TANKER EXPLOSION",
+    "dek": "A catastrophic fuel tanker explosion on Cairo's ring road has claimed at least 31 lives and injured 21 others. The incident highlights systemic vulnerabilities in Egypt's grid infrastructure and road safety enforcement.",
+    "category": "POWER & SOCIETY",
+    "sourceName": "BBC News",
+    "image": "img/cairo-tanker-fire-kills-31-power-vrht.jpg",
+    "photo": "img/cairo-tanker-fire-kills-31-power-vrht-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "iGd_BVSfeQE",
+      "title": "Fuel Tanker Fire Kills 31 on Cairo Ring Road",
+      "channel": "Daily News Explained",
+      "license": "cc-by"
+    },
+    "publishedAt": "2026-11-26T05:02:02.234Z",
+    "article": {
+      "slug": "cairo-tanker-fire-kills-31-power-vrht",
+      "title": "Cairo Tanker Fire Kills 31 as Power Line Failure Triggers Highway Disaster",
+      "dek": "A catastrophic fuel tanker explosion on Cairo's ring road has claimed at least 31 lives and injured 21 others. The incident highlights systemic vulnerabilities in Egypt's grid infrastructure and road safety enforcement.",
+      "keyFacts": [
+        "Thirty-one people were killed and 21 injured in a fuel tanker explosion in Cairo's Warraq neighbourhood.",
+        "The Egyptian health ministry deployed 39 ambulances to the disaster scene on Wednesday evening.",
+        "State media reported that a high-voltage electrical cable fell in front of the tanker, causing the driver to lose control.",
+        "Official statistics show nearly 6,000 road fatalities occurred in Egypt last year."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "On Wednesday evening, a massive fire erupted on Cairo's busy northern ring road in the Warraq neighbourhood, killing at least 31 people and injuring 21 others, according to statements from Egypt's health ministry. The blaze broke out after a fuel tanker owned by a private transport contractor overturned and doused surrounding vehicles with gasoline.",
+            "According to state-owned newspaper Al-Ahram, citing sources familiar with the regional prosecutor's investigation, a high-voltage power cable fell directly onto the highway in front of the vehicle. The driver lost control, crossing the highway's central reservation before the tanker flipped and ignited. The health ministry dispatched 39 ambulances to transport victims suffering from severe burns and smoke inhalation to nearby medical facilities, while prosecutors ordered DNA testing to identify the deceased."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "Fatal transport accidents are a persistent crisis in Egypt. Official data shows that nearly 6,000 people died in road collisions across the country last year, marking an increase of several hundred casualties compared to the previous year. Egyptian authorities frequently attribute high traffic fatality rates to reckless driving, widespread non-compliance with traffic laws, and inadequate vehicle maintenance.",
+            "However, urban policy experts note that municipal infrastructure in Cairo's densely populated districts, particularly informal settlements like Warraq, suffers from severe structural stress. Unregulated construction, aging utility cables, and uncoordinated civil engineering projects regularly create hazards along major transport corridors."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While official communications emphasize the rapid deployment of emergency services and public prosecutors, mainstream reporting overlooks the systemic breakdown between utility management and highway safety. The immediate trigger of the disaster was not simple driver error, but the structural collapse of a high-voltage electrical cable onto a major arterial route.",
+            "Egypt has funneled billions of dollars into high-profile infrastructure megaprojects, including new highways and administrative cities. Yet basic utility maintenance and safety monitoring along legacy corridors remain underfunded and decentralized. By framing the tragedy strictly as a traffic accident, state institutions deflect accountability away from utility maintenance standards and privatized haulage regulations."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "State authorities gain short-term narrative control by managing the medical response and initiating criminal inquiries against private contractors. However, the Egyptian government bears significant political loss as public frustration deepens over deteriorating public services and recurring infrastructure failures amid high inflation.",
+            "Private haulage firms and municipal utility operators face heightened regulatory liability. Meanwhile, everyday citizens and transport workers absorb the primary human cost of systemic infrastructure neglect."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Investigators from the regional public prosecutor's office will examine the fallen power line to determine whether mechanical failure, weather conditions, or unmaintained electrical infrastructure caused the break. The outcome will signal whether municipal utility managers face legal accountability.",
+            "Observers should monitor whether the ministry of transport implements stricter maintenance audits for heavy transport vehicles and electrical grid crossings, or if public policy remains focused exclusively on highway expansion."
+          ]
+        }
+      ],
+      "tags": [
+        "Egypt",
+        "Cairo",
+        "Infrastructure",
+        "Road Safety",
+        "Public Risk"
+      ],
+      "sources": [
+        {
+          "name": "BBC News",
+          "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+          "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Demócrata",
+          "title": "Expansion | At least 31 dead and more than 20 injured in the fire of a tanker truck near Cairo",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN1VfQjRSME5BT19hbExvV3B0QklVa2FvZXIyQzZBWDFJUm9CX2Z2OEFCWks0Q3pVbjY4S2tvWXozX1ExT25kOGhnSXdZSkJFU2tMVTZTclNNNUV6VDRXZ1luNmZDVlhIWlEyZUwxX0RzTmxkUXdDbU9TNkdMbWxMMDNmQnFSRTFqMHpHWmNpSkVCVEcyNEtUXzY3eTNMVUZsRHAxM0JoSEJYSVpIM1B3d09DODVSQ1E2WDcxa2RTa1NxSmtEMGw5Q1NlRW5IaDRG0gHWAUFVX3lxTE9DZ19BdjVMY2ZINjloYVBKWWRwRVRoNEVIWVkzNkh3bHdCR0pUQkdBQmZCZ09rNFAtTTlMSzh3aGdSQWQzMmZrazZVSWMwZEpkYzNJUnFjUUtFdFR0ejYyNlhrbHFEOE1tZDNMMzZaQWZTSmUtZ3J2d0hLOW82UnhObDY3NHk4ZVpaLXQ1c3k3cUN5Q0o1UlVhRU5lNHZ2TE1lMEs4T09Zd09jYW5jbVk5TXV3ejZUMVFUbnZyNUxjQ0lYSG0zbUZMSEdqLVJPVjdxUWhzTUE?oc=5"
+        }
+      ],
+      "wordCount": 491
+    },
+    "blindSpot": "While official accounts frame the catastrophe as a conventional traffic accident, the disaster exposes critical vulnerabilities at the intersection of aging electrical grids and privatized transport logistics. State focus on high-visibility infrastructure megaprojects has left basic utility maintenance along heavily congested urban transit corridors dangerously neglected.",
+    "updateOf": "ukraine-targets-russian-space-intelligence-facility-dx0d"
+  },
+  {
     "slug": "justice-department-deflects-probes-nvidia-executive-s04g",
     "path": "news/justice-department-deflects-probes-nvidia-executive-s04g/",
     "title": "Justice Department Deflects Probes as Nvidia Executive Security Crisis Escalates",
@@ -794,7 +883,8 @@
       "wordCount": 472
     },
     "blindSpot": "Beyond disrupting refined energy supplies, Kyiv is systematically probing and degrading Russia's strategic early-warning and space intelligence infrastructure. By utilizing indigenous jet-powered drones, Ukraine circumvents Western political vetoes on deep-strike weapons, forcing Moscow to stretch its air defense coverage across thousands of kilometers of interior territory.",
-    "reelUrl": "https://www.instagram.com/reel/DgJvMjpFYbg/"
+    "reelUrl": "https://www.instagram.com/reel/DgJvMjpFYbg/",
+    "updatedBy": "cairo-tanker-fire-kills-31-power-vrht"
   },
   {
     "slug": "latvia-warns-ukraine-war-faces-decisive-vlld",

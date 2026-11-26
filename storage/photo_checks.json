@@ -1323,5 +1323,10 @@
     "relevant": true,
     "reason": "The image shows Nvidia CEO Jensen Huang, who is a central figure in the investigation mentioned in the headline.",
     "at": "2026-11-26T03:37:08.105Z"
+  },
+  "186c478b31c3d050:fq8a5wfm9": {
+    "relevant": true,
+    "reason": "The image clearly shows the burnt fuel tanker involved in the Cairo highway explosion, surrounded by onlookers, directly illustrating the news story.",
+    "at": "2026-11-26T05:01:59.542Z"
   }
 }
