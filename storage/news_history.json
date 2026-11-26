@@ -232,6 +232,31 @@
   ],
   "processedSignatures": [
     {
+      "title": "US TO HIKE TARIFFS ON MULTIPLE NATIONS OVER SUBSIDIZED FACTORIES",
+      "normalizedTokens": [
+        "hike",
+        "tariffs",
+        "multiple",
+        "nations",
+        "subsidized",
+        "factories"
+      ],
+      "date": "2026-11-26T11:22:18.619Z"
+    },
+    {
+      "title": "US to hike tariffs on China, EU, Brazil and others over subsidized factories",
+      "normalizedTokens": [
+        "hike",
+        "tariffs",
+        "china",
+        "brazil",
+        "others",
+        "subsidized",
+        "factories"
+      ],
+      "date": "2026-11-26T11:22:18.618Z"
+    },
+    {
       "title": "DURAN DURAN GUITARIST ANDY TAYLOR DIES AT AGE 65",
       "normalizedTokens": [
         "duran",
@@ -7146,33 +7171,6 @@
         "shooting"
       ],
       "date": "2026-11-07T17:01:54.518Z"
-    },
-    {
-      "title": "GUATEMALAN LAWMAKER AND POLICE OFFICERS KILLED IN ZACAPA ATTACK",
-      "normalizedTokens": [
-        "guatemalan",
-        "lawmaker",
-        "police",
-        "officers",
-        "killed",
-        "zacapa",
-        "attack"
-      ],
-      "date": "2026-11-07T17:01:32.440Z"
-    },
-    {
-      "title": "Guatemalan lawmaker and three police officers killed in armed attack",
-      "normalizedTokens": [
-        "guatemalan",
-        "lawmaker",
-        "three",
-        "police",
-        "officers",
-        "killed",
-        "armed",
-        "attack"
-      ],
-      "date": "2026-11-07T17:01:32.440Z"
     }
   ]
 }
