@@ -1338,5 +1338,10 @@
     "relevant": true,
     "reason": "The map accurately shows the flight path and location of the New Orleans-based plane crash in the Gulf of Mexico.",
     "at": "2026-11-26T05:16:44.037Z"
+  },
+  "2da611ae4c464c08:zr65bnr19": {
+    "relevant": true,
+    "reason": "The image depicts emergency response vehicles, crowds, and a heavily congested area at night, fitting the scene of the reported highway tragedy in Giza.",
+    "at": "2026-11-26T05:24:22.619Z"
   }
 }
