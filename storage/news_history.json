@@ -222,9 +222,35 @@
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVWhnNEpBUFV1TWFId0IwWWgzNzBtRER3MlFwWmI2MlgxN0ZqcEt6SzNtQU8yQkNpeWcwZG5aRmlHTGNQVlVES05tWkJpb2dQU2NQNXVfZVVxLURiRjJCaEFmcGVacC1JREoxMC1GZmRPdlQ3b01DVXlDYVNuemJPTW9yVGZYX3BUZk5HQkgweFlLck93bFp1dkFOQnRwb0hj?oc=5",
     "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
     "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-    "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe"
+    "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWJ0MDE3ZEJzV2tVdThRbXdzcGxXN0phLUpNTHAyVWlEQV9JNzVUWlpsRXp6ZHFTNnY1dnpKMHJjNExkUnZxTlRXdzZNTUFOeXhkUTk5XzF0ZW55b1lZcnhJYTkyYUt5N1lvdm5TZ3QyZDh5UkNsVmtHMmhuNm5xcGc3VmVUcV9fellldEtWcTdaYWJpRUlBcm5R?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "US TO HIKE TARIFFS ON MULTIPLE NATIONS OVER SUBSIDIZED FACTORIES",
+      "normalizedTokens": [
+        "hike",
+        "tariffs",
+        "multiple",
+        "nations",
+        "subsidized",
+        "factories"
+      ],
+      "date": "2026-11-26T02:21:53.129Z"
+    },
+    {
+      "title": "US to hike tariffs on China, EU, Brazil and others over subsidized factories",
+      "normalizedTokens": [
+        "hike",
+        "tariffs",
+        "china",
+        "brazil",
+        "others",
+        "subsidized",
+        "factories"
+      ],
+      "date": "2026-11-26T02:21:53.127Z"
+    },
     {
       "title": "TRUMP PROPOSES SWEEPING NEW TARIFFS ON FOURTEEN TRADING PARTNERS",
       "normalizedTokens": [
