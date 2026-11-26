@@ -1,169 +1,5 @@
 [
   {
-    "id": "queue-1794572026589-zku2e",
-    "news": {
-      "id": "jy1oe0be5",
-      "originalUrl": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
-      "originalTitle": "Heat pumps: How much heat does your home really need?",
-      "sourceName": "BBC Business",
-      "category": "GLOBAL ECONOMY",
-      "urgencyScore": 74,
-      "headline": "HOMEOWNERS TURN TO APPS TO AVOID HVAC MISCALCULATIONS",
-      "subHeadline": "Roughly 150 new users daily sign up for heat loss calculation software as academic studies reveal commercial sizing errors.",
-      "blindSpotAngle": "The growing adoption of DIY sizing tools highlights a profound trust deficit between consumers and traditional HVAC contractors. Beyond simple miscalculations, the industry's reliance on oversized systems locks households into inflated energy consumption while generating lucrative secondary revenue streams for diagnostic surveys.",
-      "facebookPost": "When choosing a new heating system, trusting traditional tradespeople to size a heat pump correctly is becoming an expensive gamble for residential property owners. Academic research reveals that manual heat loss calculations often overestimate design loads by a factor of two or more, resulting in bloated energy bills and oversized equipment.\n\nWhile the official transition to green heating accelerates, the micro-economics of installation remain plagued by severe opacity and exorbitant survey fees reaching up to $2,500. Homeowners are increasingly bypassing contractors entirely to run their own numbers via platforms like Cool Calc.\n\nHow can residential decarbonization succeed if the foundational engineering tier relies on inflated estimates and opaque consumer pricing?\n\nSource: BBC Business\n\n#GlobalEconomy #EnergyTransition #Blindspot",
-      "telegramPost": "<b>HOMEOWNERS TURN TO APPS TO AVOID HVAC MISCALCULATIONS</b>\n\n• <b>What happened:</b> Roughly 150 new users daily, including many private homeowners, are signing up for the heat-loss calculation app Cool Calc to size their heating systems.\n• <b>Why it matters:</b> A recent unpublished study by Purdue University reveals that traditional contractor heat loss calculations often overestimate design loads by a factor of two or more, leading to oversized systems and excessive energy use.\n• <b>What is next:</b> As software tools integrate with AI chatbots to standardize advice, consumer skepticism toward traditional trade estimates will likely reshape the residential HVAC market.",
-      "linkedInPost": "The structural bottlenecks of residential green transitions go far beyond macroeconomic supply chains. They manifest in the micro-economics of local installation accuracy and consumer trust.\n\nRecent findings from Purdue University show that trade-led heat loss calculations frequently overestimate home heating loads by a factor of two, while diagnostic surveys alone rack up costs of over $1,000 to $2,500. This friction creates a dual market failure: inflated capital expenditures for oversized hardware and recurring operational inefficiencies for homeowners.\n\nAs digital tools step in to bridge the transparency gap, equipment manufacturers and service providers must address the systemic pricing and precision issues undermining consumer adoption.\n\nSource: BBC Business\n\n#GlobalEconomy #EnergyTransition #Blindspot",
-      "blueskyPost": "Purdue University found that traditional HVAC trade calculations overestimate home heating loads by a factor of two, while survey costs hit $2,500. Homeowners are fighting back via sizing apps. #GlobalEconomy #Blindspot",
-      "copies": {
-        "facebook": "When choosing a new heating system, trusting traditional tradespeople to size a heat pump correctly is becoming an expensive gamble for residential property owners. Academic research reveals that manual heat loss calculations often overestimate design loads by a factor of two or more, resulting in bloated energy bills and oversized equipment.\n\nWhile the official transition to green heating accelerates, the micro-economics of installation remain plagued by severe opacity and exorbitant survey fees reaching up to $2,500. Homeowners are increasingly bypassing contractors entirely to run their own numbers via platforms like Cool Calc.\n\nHow can residential decarbonization succeed if the foundational engineering tier relies on inflated estimates and opaque consumer pricing? #GlobalEconomy #EnergyTransition #Blindspot",
-        "telegram": "<b>HOMEOWNERS TURN TO APPS TO AVOID HVAC MISCALCULATIONS</b>\n\n• <b>What happened:</b> Roughly 150 new users daily, including many private homeowners, are signing up for the heat-loss calculation app Cool Calc to size their heating systems.\n• <b>Why it matters:</b> A recent unpublished study by Purdue University reveals that traditional contractor heat loss calculations often overestimate design loads by a factor of two or more, leading to oversized systems and excessive energy use.\n• <b>What is next:</b> As software tools integrate with AI chatbots to standardize advice, consumer skepticism toward traditional trade estimates will likely reshape the residential HVAC market.",
-        "bluesky": "Purdue University found that traditional HVAC trade calculations overestimate home heating loads by a factor of two, while survey costs hit $2,500. Homeowners are fighting back via sizing apps. #GlobalEconomy #Blindspot",
-        "linkedIn": "The structural bottlenecks of residential green transitions go far beyond macroeconomic supply chains. They manifest in the micro-economics of local installation accuracy and consumer trust.\n\nRecent findings from Purdue University show that trade-led heat loss calculations frequently overestimate home heating loads by a factor of two, while diagnostic surveys alone rack up costs of over $1,000 to $2,500. This friction creates a dual market failure: inflated capital expenditures for oversized hardware and recurring operational inefficiencies for homeowners.\n\nAs digital tools step in to bridge the transparency gap, equipment manufacturers and service providers must address the systemic pricing and precision issues undermining consumer adoption. #GlobalEconomy #EnergyTransition #Blindspot"
-      },
-      "article": {
-        "slug": "why-homeowners-bypassing-contractors-calculate-their-j94j",
-        "title": "Why homeowners are bypassing contractors to calculate their own heat pump needs",
-        "dek": "As academic studies uncover widespread overestimation in heating load calculations, homeowners are increasingly turning to software to bypass costly and flawed trade assessments.",
-        "keyFacts": [
-          "Roughly 150 new users sign up daily to the heat calculation app Cool Calc.",
-          "Just over one third of Cool Calc's new users are private homeowners rather than tradespeople.",
-          "A Purdue University study examining roughly 75 US homeowners found that trade calculations often overestimated design heat loads by a factor of two or more.",
-          "Homeowners reported charges of more than $1,000, and in one case up to $2,500, just for a heat loss survey."
-        ],
-        "sections": [
-          {
-            "heading": "What Happened",
-            "paragraphs": [
-              "Floorplans, air duct diagrams, and heat pump specifications are rarely considered light reading. Yet, an escalating number of property owners are diving into these technical details with extreme depth.",
-              "According to BBC Business, roughly 150 new users sign up every day to Cool Calc, an application designed to calculate the heat requirements of properties in the United States. Founder and chief executive Bill Fiore notes that just over one third of these new users are not professional tradespeople, but private homeowners seeking independent verification."
-            ]
-          },
-          {
-            "heading": "The Context",
-            "paragraphs": [
-              "A heat loss calculation is a figure measured in watts that defines how much heat a home loses during cold weather, determined room by room to design an efficient heating system. This estimate is vital when installing a heat pump, which must be sized precisely according to projected thermal loss.",
-              "According to Kevin Kircher at Purdue University, he and his colleagues recently conducted a study examining the heat loss calculations provided by tradespeople to roughly 75 US homeowners. The researchers discovered that these calculations frequently overestimated design heat loads by a factor of two or more, resulting in oversized systems that consume unnecessary power."
-            ]
-          },
-          {
-            "heading": "The Blind Spot",
-            "paragraphs": [
-              "While mainstream discussions focus broadly on the macro rollout of heat pumps, the micro-level friction of consumer economics remains largely overlooked. Homeowners are not only grappling with physical equipment sizing errors but also with steep ancillary costs.",
-              "Some individuals reported charges exceeding $1,000, and in one extreme case as much as $2,500, merely for a baseline heat loss survey. Furthermore, while platforms like Cool Calc attempt to fill the verification gap, founder Bill Fiore warns that users turning to unverified artificial intelligence models are encountering widespread misinformation."
-            ]
-          },
-          {
-            "heading": "Winners and Losers",
-            "paragraphs": [
-              "Software platforms and tech-savvy consumers are carving out an advantage by asserting control over system specifications. Conversely, traditional installers relying on opaque pricing structures and legacy estimation habits face growing distrust.",
-              "Property owners bear the ultimate cost, caught between high diagnostic survey fees, potential equipment performance penalties, and the risk of purchasing oversized, power-hungry machinery."
-            ]
-          },
-          {
-            "heading": "What to Watch",
-            "paragraphs": [
-              "Cool Calc is planning to integrate with AI chatbots to improve the quality of automated advice, signaling a broader push toward digital automation in residential energy planning.",
-              "Observers should monitor whether academic scrutiny and consumer software adoption force a structural standardization across the broader HVAC contracting industry."
-            ]
-          }
-        ],
-        "tags": [
-          "Heat Pumps",
-          "Energy Efficiency",
-          "Consumer Economics",
-          "HVAC",
-          "Technology"
-        ],
-        "sources": [
-          {
-            "name": "BBC Business",
-            "title": "Heat pumps: How much heat does your home really need?",
-            "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "Grist",
-            "title": "This surprise cost could derail your heat pump or EV charger installation. Here’s how to avoid it.",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZDJyOVN0VGtnbkttaU1lSDJiNm1HUU0xR2p5SnM2bmlZVG9qcjY2RzNJSldGbGRrV3hwWFVRNWcxQkh2RHhBMHdmS1RKSElOa0RMNjhOZUM2cmpmclBPRDBZUkp1UkpPZWd0T1NOR3hNS1pIcW1KUEQ4NDhHVmF4ZjVLMGVJU1dIZEJTX0VsV2JRb2xadmRycDd3cUFxa2k0MVJKNnp3VmtfeDZNUEg5VjNmR21PNi1qd3hmUmNvcTVOZw?oc=5"
-          },
-          {
-            "name": "NaturalRefrigerants.com",
-            "title": "Part 1: Systemair on Why Natural Refrigerants ‘Will Hit Hardest’ in Integrated HVAC Systems",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaXl2dlZwN1prRUU3X1NwVUFsZzZ2U25lRndJRTRfWmZOVDBFZDVaQWozeDJKRWRSdDhtWmN6QV82OVFUNUJNdWZkUkc2N1FYTkNUOHBaU1pycFlaSXNmalQteWNWTlZwVDVZNG8yNTQ1empWZ1RpQjFwOGd3Y0pPUm5XYW4zVVVSU256Skp0ZkhQR2NQU0l4UXFTUHJ3ZlZhZmhtazQxdHg2bUQ5QmpLYlQtVEhlS0RFOG5CcE9pT1J2S0Nn?oc=5"
-          },
-          {
-            "name": "BBC",
-            "title": "Heat pumps: How much heat does your home really need?",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JRlFKUFhSVWNxOGFzdUxDN25haEpDZklOMjQ5dTdTZEtWUDBOc3FVQ0p6OTdvZnlubEk0Q1c5MzNleFFpcW5kT2xMZlgyVzQyMHM5QXRUYlgxeWt5WGc?oc=5"
-          },
-          {
-            "name": "kjnbtv.com",
-            "title": "Jonesboro HVAC experts urge system checks before switching to heat",
-            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeUozRnJ3b3NNazN3bVNkVC1qV19uZVdlYzhZT2hnTXp1eHBxdkVFVU4xcGdOeFU3MnE0bTNXcmtzX24xcVJBV0cxM2t0WFJvVVl0cWc5QThrRnhHdWpJbG1sUG9DUWhRelBhVUdCR2JOczc2S2h6d3BjZVpXYVhOcDM0Q0g0d1RodHJkdTh6c1cyN3hQOHdhYnBUaldRdjRVbHVxWC0yZWd4RFlGRUFMTE90WVNmVUlMRndtUFMtWHJTUHZ3N0tyMWstZGN3OHExbEhDcEdDd2NSek1UVkFKeVB0LWw?oc=5"
-          }
-        ],
-        "wordCount": 400
-      },
-      "videoScript": {
-        "hook": "Why are homeowners ditching traditional experts to size their own heating systems?",
-        "beats": [
-          "Roughly 150 new users sign up daily to the calculation app Cool Calc.",
-          "A Purdue study found that contractor heat loss estimates overestimate loads by a factor of two or more.",
-          "Homeowners report paying up to $2,500 just for a single heat loss survey."
-        ],
-        "close": "Read the full analysis at the link in our bio."
-      },
-      "rawImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d187/live/503bbbd0-d902-11f1-93e1-3b657b665bcf.jpg",
-      "status": "published",
-      "createdAt": "2026-11-13T12:13:44.173Z",
-      "cardImageUrl": "/news-cards/news-jy1oe0be5-1794572024174.jpg",
-      "reelCoverUrl": "/news-cards/news-jy1oe0be5-1794572024810-cover.jpg",
-      "instagramCardUrl": "/news-cards/news-jy1oe0be5-1794572025381-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/why-homeowners-bypassing-contractors-calculate-their-j94j/",
-      "publishedAt": "2026-11-13T14:17:54.849Z"
-    },
-    "channels": {
-      "facebook": true,
-      "telegram": false,
-      "bluesky": false,
-      "linkedIn": false,
-      "instagram": true,
-      "facebookReel": true,
-      "mastodon": false,
-      "threads": false,
-      "youtube": true
-    },
-    "scheduledFor": "2026-11-13T14:14:50.741Z",
-    "status": "published",
-    "attempts": 1,
-    "maxAttempts": 3,
-    "createdAt": "2026-11-13T12:13:46.589Z",
-    "lastAttemptAt": "2026-11-13T14:15:06.127Z",
-    "results": {
-      "facebook": {
-        "success": true,
-        "postId": "122107368717539825",
-        "simulated": false
-      },
-      "instagram": {
-        "success": true,
-        "mediaId": "17997284670028013",
-        "permalink": "https://www.instagram.com/reel/Dfr04hiE58M/"
-      },
-      "facebookReel": {
-        "success": false,
-        "skipped": true,
-        "error": "Noticia sin video libre: solo post con imagen"
-      },
-      "youtube": {
-        "success": false,
-        "skipped": true,
-        "error": "Noticia sin video libre: no se sube a YouTube"
-      }
-    },
-    "publishedAt": "2026-11-13T14:17:54.849Z"
-  },
-  {
     "id": "queue-1794576100734-zi2t2",
     "news": {
       "id": "s9bqwccdz",
@@ -23838,12 +23674,13 @@
         "channel": "Mo News",
         "license": "cc-by"
       },
-      "status": "pending",
+      "status": "published",
       "createdAt": "2026-11-26T03:37:08.106Z",
       "cardImageUrl": "/news-cards/news-scdum5r6j-1795664228107.jpg",
       "reelCoverUrl": "/news-cards/news-scdum5r6j-1795664229037-cover.jpg",
       "instagramCardUrl": "/news-cards/news-scdum5r6j-1795664229651-ig.jpg",
-      "articleUrl": "https://blindspotglobal.pages.dev/news/justice-department-deflects-probes-nvidia-executive-s04g/"
+      "articleUrl": "https://blindspotglobal.pages.dev/news/justice-department-deflects-probes-nvidia-executive-s04g/",
+      "publishedAt": "2026-11-26T12:16:25.397Z"
     },
     "channels": {
       "facebook": true,
@@ -23857,10 +23694,34 @@
       "youtube": true
     },
     "scheduledFor": "2026-11-26T12:16:00.000Z",
-    "status": "queued",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "maxAttempts": 3,
-    "createdAt": "2026-11-26T03:37:11.443Z"
+    "createdAt": "2026-11-26T03:37:11.443Z",
+    "lastAttemptAt": "2026-11-26T12:16:15.337Z",
+    "results": {
+      "facebook": {
+        "success": true,
+        "postId": "122113914963539825",
+        "simulated": false
+      },
+      "instagram": {
+        "success": false,
+        "skipped": true,
+        "error": "Estrategia IG: fuera de la franja 18:00–21:00 (Bogotá); el Reel se reprograma a la franja"
+      },
+      "facebookReel": {
+        "success": false,
+        "skipped": true,
+        "error": "Reel no generado: no se pudo descargar el video libre: from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+      },
+      "youtube": {
+        "success": false,
+        "skipped": true,
+        "error": "YouTube: tope diario de 3 Shorts alcanzado"
+      }
+    },
+    "publishedAt": "2026-11-26T12:16:25.397Z"
   },
   {
     "id": "queue-1795669322380-zwyaw",
@@ -24631,6 +24492,155 @@
     "attempts": 0,
     "maxAttempts": 3,
     "createdAt": "2026-11-26T11:22:18.607Z",
+    "igDeferred": true
+  },
+  {
+    "id": "queue-1795695383507-exvo7",
+    "news": {
+      "id": "scdum5r6j",
+      "originalUrl": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "originalTitle": "US attorney general dodges questions about Nvidia investigation",
+      "sourceName": "BBC Technology",
+      "category": "TECHNOLOGY & AI",
+      "urgencyScore": 88,
+      "headline": "US ATTORNEY GENERAL DODGES INQUIRIES OVER NVIDIA INVESTIGATION",
+      "subHeadline": "Attorney General Todd Blanche praised Nvidia as a good corporate citizen while deflecting questions regarding federal probes into CEO Jensen Huang and illegal chip transfers to China.",
+      "blindSpotAngle": "While mainstream coverage focuses on corporate executive intrigue and political pardon rumors, the systemic blind spot is Washington's structural policy contradiction. Federal authorities face an impossible choice between rigorously enforcing semiconductor export controls and shielding the primary corporate champion driving American AI hegemony.",
+      "facebookPost": "US Attorney General Todd Blanche publicly defended Nvidia as a good corporate citizen while repeatedly deflecting inquiries regarding Justice Department investigations into reinstated CEO Jensen Huang. The deflections follow Huang's return to leadership after resigning over extramarital relationships, including one with an executive at Megaspeed, a Singaporean vendor under federal scrutiny for illicitly diverting advanced AI chips to China.\n\nBehind the official rhetoric lies a profound geopolitical paradox. Washington is striving to enforce strict national security bans on semiconductor exports to Beijing without crippling America's flagship hardware provider. By signaling executive leniency and downplaying active investigations, law enforcement authorities risk demonstrating that vital national AI assets operate beyond regulatory reach.\n\nDoes protecting domestic technology dominance justify diluting national security enforcement against strategic adversaries?\n\nSource: BBC Technology\n\n📖 Full analysis & sources in the first comment 👇\n\n#Technology #Semiconductors #Blindspot",
+      "telegramPost": "<b>US ATTORNEY GENERAL DODGES INQUIRIES OVER NVIDIA INVESTIGATION</b>\n\n• <b>What happened:</b> US Attorney General Todd Blanche evaded questions regarding Department of Justice probes into Nvidia CEO Jensen Huang and semiconductor exports, calling Nvidia a good corporate citizen.\n• <b>Why it matters:</b> Nvidia customer Megaspeed faces federal blacklisting for export violations initiated in 2024, exposing a structural conflict between US tech containment policy and domestic AI leadership.\n• <b>What is next:</b> Huang will face formal Congressional testimony next week regarding national security risks and supply chain integrity.",
+      "linkedInPost": "The defense of Nvidia by US Attorney General Todd Blanche illustrates the growing friction between national security enforcement and industrial policy in the artificial intelligence sector. With Nvidia customer Megaspeed under federal investigation since 2024 for chip diversion to China, law enforcement faces institutional pressure to preserve corporate stability while maintaining regulatory credibility.\n\nThis dynamic highlights a critical macro-risk for technology supply chains: systemic hardware providers are increasingly perceived as too critical to prosecute. Enterprise risk leaders must evaluate how national strategic priorities will dictate enforcement consistency across global dual-use technology markets.\n\nSource: BBC Technology\n\nFull analysis: https://blindspotglobal.pages.dev/news/justice-department-deflects-probes-nvidia-executive-s04g/\n\n#GlobalEconomy #Technology #Blindspot",
+      "blueskyPost": "Washington shields Nvidia while deflecting inquiries into illicit chip transfers to China. National AI dominance now supersedes trade control enforcement. #Blindspot #Technology",
+      "copies": {
+        "facebook": "US Attorney General Todd Blanche publicly defended Nvidia as a good corporate citizen while repeatedly deflecting inquiries regarding Justice Department investigations into reinstated CEO Jensen Huang. The deflections follow Huang's return to leadership after resigning over extramarital relationships, including one with an executive at Megaspeed, a Singaporean vendor under federal scrutiny for illicitly diverting advanced AI chips to China.\n\nBehind the official rhetoric lies a profound geopolitical paradox. Washington is striving to enforce strict national security bans on semiconductor exports to Beijing without crippling America's flagship hardware provider. By signaling executive leniency and downplaying active investigations, law enforcement authorities risk demonstrating that vital national AI assets operate beyond regulatory reach.\n\nDoes protecting domestic technology dominance justify diluting national security enforcement against strategic adversaries? #Technology #Semiconductors #Blindspot",
+        "telegram": "<b>US ATTORNEY GENERAL DODGES INQUIRIES OVER NVIDIA INVESTIGATION</b>\n\n• <b>What happened:</b> US Attorney General Todd Blanche evaded questions regarding Department of Justice probes into Nvidia CEO Jensen Huang and semiconductor exports, calling Nvidia a good corporate citizen.\n• <b>Why it matters:</b> Nvidia customer Megaspeed faces federal blacklisting for export violations initiated in 2024, exposing a structural conflict between US tech containment policy and domestic AI leadership.\n• <b>What is next:</b> Huang will face formal Congressional testimony next week regarding national security risks and supply chain integrity.",
+        "bluesky": "Washington shields Nvidia while deflecting inquiries into illicit chip transfers to China. National AI dominance now supersedes trade control enforcement. #Blindspot #Technology",
+        "linkedIn": "The defense of Nvidia by US Attorney General Todd Blanche illustrates the growing friction between national security enforcement and industrial policy in the artificial intelligence sector. With Nvidia customer Megaspeed under federal investigation since 2024 for chip diversion to China, law enforcement faces institutional pressure to preserve corporate stability while maintaining regulatory credibility.\n\nThis dynamic highlights a critical macro-risk for technology supply chains: systemic hardware providers are increasingly perceived as too critical to prosecute. Enterprise risk leaders must evaluate how national strategic priorities will dictate enforcement consistency across global dual-use technology markets.\n\n#GlobalEconomy #Technology #Blindspot"
+      },
+      "article": {
+        "slug": "justice-department-deflects-probes-nvidia-executive-s04g",
+        "title": "Justice Department Deflects Probes as Nvidia Executive Security Crisis Escalates",
+        "dek": "Attorney General Todd Blanche shielded Nvidia as a good corporate citizen despite ongoing federal investigations into illicit chip transfers to China. The maneuver reveals the delicate policy balance between national security enforcement and domestic AI dominance.",
+        "keyFacts": [
+          "Attorney General Todd Blanche publicly called Nvidia a good corporate citizen while dodging questions on DOJ probes.",
+          "Federal authorities began investigating Nvidia customer Megaspeed in 2024 for export control violations.",
+          "Jensen Huang was reinstated as Nvidia CEO less than two weeks after resigning over executive misconduct.",
+          "The US Commerce Department is preparing to blacklist Singapore-based Megaspeed over illicit chip diversions to China.",
+          "President Donald Trump stated he would consider pardoning Huang if criminal charges emerge."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "US Attorney General Todd Blanche publicly defended Nvidia on Tuesday, describing the artificial intelligence hardware giant as a good corporate citizen while refusing to detail active federal investigations into the company or its reinstated Chief Executive Officer, Jensen Huang.",
+              "According to reports from BBC Technology and corroborating news agencies, Blanche repeatedly deflected questions regarding whether the Department of Justice or the FBI had opened formal probes into Huang's security clearance status or his ties to Singapore-based technology firm Megaspeed.",
+              "Huang was reinstated to his executive role less than two weeks after stepping down over extramarital affairs, including a relationship with an alleged Chinese spy who previously headed Megaspeed. Both the US Commerce Department and the Department of Justice have been investigating Megaspeed since 2024 over allegations of illicit export control violations."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "The executive crisis unfolds alongside heightened federal scrutiny regarding dual-use technology leaks across global supply networks. The United States has enacted stringent export restrictions intended to block high-performance computing hardware from bolstering Chinese military capabilities.",
+              "Despite these trade barriers, third-party intermediaries operating in foreign jurisdictions like Singapore have emerged as critical nodes for circumventing federal oversight. The Commerce Department's pending decision to blacklist Megaspeed highlights the systemic difficulty of tracking advanced microprocessors after initial commercial distribution."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "Public debate has centered primarily on internal corporate governance, executive scandal, and potential presidential pardons mentioned by President Donald Trump. However, the critical blind spot remains the underlying policy contradiction governing American technological strategy.",
+              "By treating Nvidia as a protected national asset vital to economic competitiveness, Washington risks compromising the integrity of its own trade sanctions framework. Imposing sanctions on overseas distributors achieves little deterrence if primary domestic manufacturers remain shielded from corporate accountability."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "Nvidia secures immediate political backing and operational continuity, demonstrating that its central position in global AI infrastructure insulates it from aggressive law enforcement actions.",
+              "Conversely, US regulatory agencies lose enforcement credibility, signaling to foreign partners and adversaries that industrial containment strategies yield to domestic commercial priorities."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "Jensen Huang is scheduled to testify before Congress next week, where lawmakers will question him regarding national security vulnerabilities, executive oversight, and corporate ties to Megaspeed.",
+              "Strategic analysts will monitor whether legislative committees push for broader sub-poenas or force federal regulators to expand enforcement beyond foreign intermediary firms."
+            ]
+          }
+        ],
+        "tags": [
+          "Nvidia",
+          "Semiconductors",
+          "Export Controls",
+          "Department of Justice",
+          "Technology Policy"
+        ],
+        "sources": [
+          {
+            "name": "BBC Technology",
+            "title": "US attorney general dodges questions about Nvidia investigation",
+            "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "The Economist",
+            "title": "US in Brief: Todd Blanche dodges questions about Nvidia",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSkFRT29Uc2NyNTN3UkJMcmxYRGl1aEZzMTlnV3o0SlBwb1RrR0tPLUdvZ3pGWlNlMElPcUV0VnNiQXE0bk5rMUxWQjdGR2RxZXB6LUlRLXdMT2haYTRLMkw0QjRfMjc5aEpUY1c4dFVaR0Y1RHB1T0w2RE8zcHhLQXh0cll6eVBNNjlGZXpPdjg4MXFZMEJz?oc=5"
+          },
+          {
+            "name": "CNBC",
+            "title": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbV81cnVIdnI4U0FWQm5NV2JHbEstVEhPd01ta0VQWlRLUE12d0swT1hPVy1QMUo5dVZLV1ZmanNXcDFsM0M3MmJFcURzT0tHbjB5SWZqc3J4NW5GeW5DcG9TM1R4NnEzSi1lenowVTZqQUZZVmhNT05Fa1N5dTdZUHZtQmjSAYoBQVVfeXFMUEZuNjBJWEZmeV9rbUJHcDhvRFB6SE9pUTRrbFc3d0F1eGdaSmg2UkZOaHAyRVVEMzUtSnVVb0hIZHhPeTZ2eFNLOTZLWjM2aTRfd0V5b1FVb0ltbnoxVGhSb1BNQmVXaGlVOXo2Y2FoLXFjREMxNVRCNFotb1VxY1JBdnptYlZJcnNB?oc=5"
+          },
+          {
+            "name": "NBC News",
+            "title": "Todd Blanche calls Nvidia a ‘good corporate citizen’ while dodging questions on investigation",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYng1aGJNWXFlRFZ6eDJad3dyUlA2QzYwcl9WWmNKcXR0MnpPRmJMNE5BWXVtNmxiOF9pcmg0ck5LM0c5OHRSTUwtNmNzZ0hocFA4YzF4R25hcE0tVWFURldLcGh5clBEUzFQcEp1dTd0U29rWU9iVWVIQ3pYanR0VjZtUW1mWTR3TFZSMzdxSXQ3dXBrZDViRlhYSkR4SmM3eGhoRFRYWWFwZ1NXdDVNVFhtejN4ck5iNmNIc01R?oc=5"
+          },
+          {
+            "name": "Forbes",
+            "title": "Attorney General Blanche Dodges Questions About Justice Department’s Investigation Into Jensen Huang",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYl9iRDZtV3dTNEpzMHZBRFdGc2FQSEtZSkM3X1l4ckRreWQtcmZwSmktZHFteXlCTzV5VzRRaUxEbUFyaDBhUk0xTnVGTXFtOXVFWGJPUGoyTDAta3RhWkV5YnczelBLcm00bUNZclg3OHg0LWVQRVUzTTdUbndIV1hoTnlyeVI1RF9tbWtBQXFGcGQzWnNiMDhKTkFTLVdRZnhwSHBSWl9pX0J2eDNyaFJiS1pmWHVaTjhReE5aNXJEZER5Z2lQZlNOS0h5TTQ?oc=5"
+          }
+        ],
+        "wordCount": 411
+      },
+      "videoScript": {
+        "hook": "Is Washington quietly granting immunity to the world's leading AI chipmaker?",
+        "beats": [
+          "Attorney General Todd Blanche praised Nvidia while deflecting questions about federal investigations.",
+          "Customer firm Megaspeed has been under federal probe since 2024 for illicitly diverting chips to China.",
+          "Here is the catch: national AI supremacy is now overriding trade control enforcement."
+        ],
+        "close": "Read our full analysis on the Nvidia investigation at the link in bio."
+      },
+      "rawImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+      "sourceVideo": {
+        "provider": "youtube",
+        "id": "sw4jwZGlAWU",
+        "title": "AG Blanche Dodges Jensen Huang Investigation Questions, Calls Nvidia ‘Good Corporate Citizen’",
+        "channel": "Mo News",
+        "license": "cc-by"
+      },
+      "status": "pending",
+      "createdAt": "2026-11-26T03:37:08.106Z",
+      "cardImageUrl": "/news-cards/news-scdum5r6j-1795664228107.jpg",
+      "reelCoverUrl": "/news-cards/news-scdum5r6j-1795664229037-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-scdum5r6j-1795664229651-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/justice-department-deflects-probes-nvidia-executive-s04g/"
+    },
+    "channels": {
+      "facebook": false,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": false,
+      "mastodon": false,
+      "threads": false,
+      "youtube": false
+    },
+    "scheduledFor": "2026-11-26T23:00:00.000Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-26T12:16:23.507Z",
     "igDeferred": true
   }
 ]

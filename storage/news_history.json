@@ -232,6 +232,30 @@
   ],
   "processedSignatures": [
     {
+      "title": "US ATTORNEY GENERAL DODGES INQUIRIES OVER NVIDIA INVESTIGATION",
+      "normalizedTokens": [
+        "attorney",
+        "general",
+        "dodges",
+        "inquiries",
+        "nvidia",
+        "investigation"
+      ],
+      "date": "2026-11-26T12:16:23.533Z"
+    },
+    {
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "normalizedTokens": [
+        "attorney",
+        "general",
+        "dodges",
+        "questions",
+        "nvidia",
+        "investigation"
+      ],
+      "date": "2026-11-26T12:16:23.531Z"
+    },
+    {
       "title": "US TO HIKE TARIFFS ON MULTIPLE NATIONS OVER SUBSIDIZED FACTORIES",
       "normalizedTokens": [
         "hike",
@@ -7148,29 +7172,6 @@
         "strike"
       ],
       "date": "2026-11-07T17:41:46.540Z"
-    },
-    {
-      "title": "FIVE KILLED IN ARMED ATTACK IN KRAKOW",
-      "normalizedTokens": [
-        "five",
-        "killed",
-        "armed",
-        "attack",
-        "krakow"
-      ],
-      "date": "2026-11-07T17:01:54.519Z"
-    },
-    {
-      "title": "Five killed and at least 10 injured in Krakow shooting",
-      "normalizedTokens": [
-        "five",
-        "killed",
-        "least",
-        "injured",
-        "krakow",
-        "shooting"
-      ],
-      "date": "2026-11-07T17:01:54.518Z"
     }
   ]
 }
