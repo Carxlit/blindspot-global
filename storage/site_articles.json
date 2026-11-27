@@ -1,5 +1,85 @@
 [
   {
+    "slug": "escalating-attacks-western-niger-expose-deep-ne0f",
+    "path": "news/escalating-attacks-western-niger-expose-deep-ne0f/",
+    "title": "Escalating attacks in western Niger expose deep security vulnerabilities",
+    "headline": "THIRTEEN NIGER SOLDIERS KILLED IN SANAM COMPOUND ASSAULT",
+    "dek": "An armed assault on a military compound in Sanam leaves 13 soldiers dead, highlighting the growing vulnerability of Niger's border regions amid persistent regional violence.",
+    "category": "GEOPOLITICS",
+    "sourceName": "Al Jazeera",
+    "image": "img/escalating-attacks-western-niger-expose-deep-ne0f.jpg",
+    "photo": "img/escalating-attacks-western-niger-expose-deep-ne0f-foto.jpg",
+    "publishedAt": "2026-11-27T05:01:35.546Z",
+    "article": {
+      "slug": "escalating-attacks-western-niger-expose-deep-ne0f",
+      "title": "Escalating attacks in western Niger expose deep security vulnerabilities",
+      "dek": "An armed assault on a military compound in Sanam leaves 13 soldiers dead, highlighting the growing vulnerability of Niger's border regions amid persistent regional violence.",
+      "keyFacts": [
+        "13 members of Niger's National Guard were killed in Sanam.",
+        "20 soldiers were wounded in the compound attack.",
+        "The assault took place at about 5am local time on Thursday.",
+        "11 soldiers were killed in a separate attack in Diffa two days prior."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "At least 13 members of Niger’s National Guard were killed and 20 others wounded during an armed raid on their compound in Sanam, located in the western Tillaberi region near the Mali border. According to statements released by the Defence Ministry on state television, the early morning assault was executed by numerous heavily armed assailants.",
+            "Local and security sources speaking to the Nigerien outlet ActuNiger noted that the attack unfolded at approximately 5am local time. The Defence Ministry described the incident as a terrorist attack, issuing a provisional casualty toll while claiming that defending soldiers successfully eliminated several attackers and destroyed their logistical infrastructure before tracking operations commenced."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The violence in Sanam does not occur in a vacuum. It follows closely on the heels of another deadly engagement announced by the ministry, in which 11 soldiers were killed in the southeastern Diffa region in an attack attributed to Boko Haram. Across the border in Nigeria, parallel security crises continue to unfold, including a separate incident where suspected armed fighters killed at least 30 people in central Niger state in what was described as retaliatory violence.",
+            "The Tillaberi region, situated within the volatile tri-border area of Niger, Mali, and Burkina Faso, has long served as an epicenter for militant activity. Armed groups frequently target security installations, exploiting vast, sparsely populated terrain and cross-border sanctuaries to evade state counter-offensives."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While official reports emphasize the immediate tactical engagements and government responses, mainstream coverage frequently misses the structural degradation of the state's security apparatus. The rapid cadence of assaults across both western and southeastern frontiers demonstrates that localized crackdowns fail to address the systemic reach of insurgent networks.",
+            "Furthermore, the reliance on provisional casualty figures and reactive tracking operations masks the broader institutional strain facing Niger's military leaders. As security forces absorb continuous blows, the capacity to project authority beyond urban centers diminishes, creating a self-reinforcing cycle of instability that standard military communiques rarely capture."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Insurgent factions operating along the Mali border gain immediate tactical momentum and leverage from these high-profile raids, which undermine public confidence in state protection. Conversely, the National Guard and the broader defense establishment bear the human and strategic costs, absorbing mounting casualties while stretched thin across multiple active fronts.",
+            "Regional populations bear the ultimate burden of the deteriorating security landscape, caught between intensifying militant operations and heavy-handed military countermeasures."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Observers should monitor the trajectory of military tracking operations in the Tillaberi region and any subsequent adjustments to the junta's defensive deployment. Additionally, indicators of cross-border security cooperation or the lack thereof between Niger, Mali, and Nigeria will dictate whether these insurgent networks can be successfully contained in the near term."
+          ]
+        }
+      ],
+      "tags": [
+        "Geopolitics",
+        "Niger",
+        "Security",
+        "Sahel",
+        "Military"
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "title": "At least 13 Niger soldiers killed in Sanam armed attack",
+          "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss"
+        },
+        {
+          "name": "Kuwait Times",
+          "title": "Armed men kill 13 National Guard members in western Niger",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeGV0ZkFkcl9tcHpxZGRnVl8xRlFhdDZvazI2QkZVd2JCcm5tRi1kc0tWd2dTUzNsSGpTZ2haUG1iMjlHZVk1UWNwZ0J2d21oQzVaWEk1d0RYcGZocXhjQkM2aDFmYzJyVm5YeWgyN2hrYWdsdy1VS2txa0plaE5VWlFQeW1TV0h2UU1fTURPLVJ6NE5QYmVPY3BuMGlVWlE3RVJudQ?oc=5"
+        }
+      ],
+      "wordCount": 466
+    },
+    "blindSpot": "While mainstream coverage focuses on the immediate tactical toll and standard designations of terrorism, it overlooks how contiguous instability across the Mali and Nigerian borders steadily hollows out state control. The compounding frequency of strikes in Diffa and Sanam highlights the structural paralysis of Niger's military junta under regional security strain."
+  },
+  {
     "slug": "fatal-drone-attack-kuwait-exposes-vulnerabilities-e54p",
     "path": "news/fatal-drone-attack-kuwait-exposes-vulnerabilities-e54p/",
     "title": "Fatal Drone Attack in Kuwait Exposes Vulnerabilities of Foreign Contractors in the Gulf",

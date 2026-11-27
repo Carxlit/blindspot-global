@@ -1383,5 +1383,15 @@
     "relevant": true,
     "reason": "The image features the flag of Kuwait alongside a prominent Kuwaiti landmark, visually establishing the country where the strike occurred.",
     "at": "2026-11-27T02:43:03.253Z"
+  },
+  "9aaffb5f308f06d9:pb0uskugo": {
+    "relevant": false,
+    "reason": "The image depicts a soldier near a car, which is generic and lacks specific visual connection to the specific attack on the Sanam compound in Niger mentioned in the headline.",
+    "at": "2026-11-27T05:01:29.164Z"
+  },
+  "e480629cfe2e0c04:pb0uskugo": {
+    "relevant": true,
+    "reason": "The map directly illustrates the geographic location (Tillaberi region, Niger) and details of the military attack mentioned in the headline and context summary.",
+    "at": "2026-11-27T05:01:31.969Z"
   }
 }

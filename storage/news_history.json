@@ -233,9 +233,36 @@
     "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
     "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
     "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2hPQWhhdW9HTWxtRndjQkN3aFhQTzhyWV9sQ0NTbHNsRFpINkRjMHhKRGN4QTk1NTJYWU1yVHhmYVJSazJEVGtOdVIzZ2xsNFJFeHF0YXNEbXBqTF94bnBDOEFnMV9JdGRRbWVROFJGRmZISmZWUXhtYTlJTXFFMlBWa2IwdXBfUXY4OENRd2tVeWh0Q1M1OThsMl9kMkVEamJiTjMzdWxwZHRzdlVHYmtwTUI?oc=5"
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2hPQWhhdW9HTWxtRndjQkN3aFhQTzhyWV9sQ0NTbHNsRFpINkRjMHhKRGN4QTk1NTJYWU1yVHhmYVJSazJEVGtOdVIzZ2xsNFJFeHF0YXNEbXBqTF94bnBDOEFnMV9JdGRRbWVROFJGRmZISmZWUXhtYTlJTXFFMlBWa2IwdXBfUXY4OENRd2tVeWh0Q1M1OThsMl9kMkVEamJiTjMzdWxwZHRzdlVHYmtwTUI?oc=5",
+    "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "THIRTEEN NIGER SOLDIERS KILLED IN SANAM COMPOUND ASSAULT",
+      "normalizedTokens": [
+        "thirteen",
+        "niger",
+        "soldiers",
+        "killed",
+        "sanam",
+        "compound",
+        "assault"
+      ],
+      "date": "2026-11-27T05:01:35.665Z"
+    },
+    {
+      "title": "At least 13 Niger soldiers killed in Sanam armed attack",
+      "normalizedTokens": [
+        "least",
+        "niger",
+        "soldiers",
+        "killed",
+        "sanam",
+        "armed",
+        "attack"
+      ],
+      "date": "2026-11-27T05:01:35.664Z"
+    },
     {
       "title": "TWO ITALIAN WORKERS KILLED IN IRANIAN DRONE STRIKE IN KUWAIT",
       "normalizedTokens": [
@@ -7154,35 +7181,6 @@
         "shooting"
       ],
       "date": "2026-11-07T20:22:24.384Z"
-    },
-    {
-      "title": "SYRIA DENIES DEPLOYING TROOPS TO YEMEN AMID SAUDI RAPPROCHEMENT",
-      "normalizedTokens": [
-        "syria",
-        "denies",
-        "deploying",
-        "troops",
-        "yemen",
-        "saudi",
-        "rapprochement"
-      ],
-      "date": "2026-11-07T18:56:31.346Z"
-    },
-    {
-      "title": "Syria denies plans to send troops to Yemen as Saudi military ties deepen",
-      "normalizedTokens": [
-        "syria",
-        "denies",
-        "plans",
-        "send",
-        "troops",
-        "yemen",
-        "saudi",
-        "military",
-        "ties",
-        "deepen"
-      ],
-      "date": "2026-11-07T18:56:31.346Z"
     }
   ]
 }
