@@ -231,9 +231,34 @@
     "https://www.dw.com/en/duran-duran-guitarist-andy-taylor-dies-at-65/a-80055654?maca=en-rss-en-all-1573-rdf",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYjc1S044enVDVHpleXVSM2YwME5kOGM4azBiSF9QNVc1Q2MyYmNRVFNJZ1p1dFVSOXdKTGxqYi1pU1dhdzcycGQ0dm5pN1NaRmZUendRME9GRVFfNHluZ0pUZkpsc0xLX1pNb1ZFdEk0TU8yTjZxbklUbC04ZkNJbWt6V21qUEowclUwME5KY1ZfUlVXaUlPQm9faDZPVzB4clJfZkFLekxaQVNWaldMT0ZwSFl3LVYwblRiaXYzNEt3dzBMck1WUkp1QQ?oc=5",
     "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
-    "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026"
+    "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+    "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "ASIA MACRO EXPOSURE SWINGS ON NVIDIA AI DOMINANCE",
+      "normalizedTokens": [
+        "asia",
+        "macro",
+        "exposure",
+        "swings",
+        "nvidia",
+        "dominance"
+      ],
+      "date": "2026-11-27T01:48:28.176Z"
+    },
+    {
+      "title": "Asia made a big AI bet on Nvidia. What happens now?",
+      "normalizedTokens": [
+        "asia",
+        "made",
+        "big",
+        "bet",
+        "nvidia",
+        "happens"
+      ],
+      "date": "2026-11-27T01:48:28.174Z"
+    },
     {
       "title": "DIGITAL PUBLISHERS PIVOT TO AFFILIATE REVENUE IN EARLY DISCOUNT BLITZ",
       "normalizedTokens": [
@@ -7150,26 +7175,6 @@
         "tariffs"
       ],
       "date": "2026-11-07T18:43:22.950Z"
-    },
-    {
-      "title": "THE ARITHMETIC OF THE 2026 U.S. SENATE BATTLE",
-      "normalizedTokens": [
-        "arithmetic",
-        "2026",
-        "senate",
-        "battle"
-      ],
-      "date": "2026-11-07T18:16:13.099Z"
-    },
-    {
-      "title": "2026 U.S. Senate Election Results",
-      "normalizedTokens": [
-        "2026",
-        "senate",
-        "election",
-        "results"
-      ],
-      "date": "2026-11-07T18:16:13.098Z"
     }
   ]
 }

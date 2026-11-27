@@ -1,5 +1,81 @@
 [
   {
+    "slug": "asian-growth-models-face-systemic-risk-zbpb",
+    "path": "news/asian-growth-models-face-systemic-risk-zbpb/",
+    "title": "Asian Growth Models Face Systemic Risk from Nvidia AI Dominance",
+    "headline": "ASIA MACRO EXPOSURE SWINGS ON NVIDIA AI DOMINANCE",
+    "dek": "East Asian tech hubs have tied their macroeconomic fortunes to a single U.S. chip designer. As market volatility hits semiconductor stocks, structural exposure across Taiwan, South Korea, and Japan comes into sharp focus.",
+    "category": "GLOBAL ECONOMY",
+    "sourceName": "BBC Business",
+    "image": "img/asian-growth-models-face-systemic-risk-zbpb.jpg",
+    "photo": "img/asian-growth-models-face-systemic-risk-zbpb-foto.jpg",
+    "publishedAt": "2026-11-27T01:48:28.053Z",
+    "article": {
+      "slug": "asian-growth-models-face-systemic-risk-zbpb",
+      "title": "Asian Growth Models Face Systemic Risk from Nvidia AI Dominance",
+      "dek": "East Asian tech hubs have tied their macroeconomic fortunes to a single U.S. chip designer. As market volatility hits semiconductor stocks, structural exposure across Taiwan, South Korea, and Japan comes into sharp focus.",
+      "keyFacts": [
+        "Nvidia contracts out most of its chip production to Taiwanese manufacturing giant TSMC.",
+        "Jensen Huang announced plans for Nvidia to invest around $150bn annually in Taiwan.",
+        "South Korean suppliers Samsung and SK Hynix produce key memory chips and testing equipment for Nvidia processors.",
+        "Stock indices in Japan, South Korea, and Taiwan experienced volatile swings linked to Nvidia valuation shifts."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Major stock indices across Japan, South Korea, and Taiwan experienced heightened volatility following erratic trading in Nvidia equity and growing political scrutiny surrounding the U.S. chip designer. Market rallies spurred by massive capital inflows into AI hardware quickly gave way to pullbacks as investors evaluated regulatory risks in Washington.",
+            "According to BBC Business, the fluctuations demonstrated the extreme sensitivity of East Asian financial markets to Nvidia's corporate trajectory. The firm has emerged as the central economic engine for regional tech exports, dictating valuations across hardware suppliers, component makers, and assembly partners."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The expansion of artificial intelligence infrastructure has transformed East Asia's economic strategy. Taiwan's real economic growth surge since 2024 has been propelled almost entirely by AI-related hardware exports. Central to this dynamic is Taiwan Semiconductor Manufacturing Company (TSMC), which fabricates Nvidia's most advanced processor designs.",
+            "Beyond Taiwan, South Korea and Japan supply essential components to the ecosystem. According to East Asia Econ founder Paul Cavey, South Korean giants Samsung and SK Hynix manufacture key memory chips and testing equipment integral to Nvidia processors. This interconnected network has made semiconductor exports the primary driver of regional GDP growth."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream financial commentary treats Nvidia's growth as a rising tide lifting all East Asian technology sectors. However, the blind spot lies in the extreme concentration of macroeconomic risk. Nvidia operates as a fabless entity, outsourcing physical production while acting as a financial lender and backstop across its supply chain. This structure concentrates systemic leverage within a single corporation.",
+            "Because East Asian national export strategies are deeply intertwined with Nvidia's operational roadmap—including Jensen Huang's stated plan to invest approximately $150bn annually in Taiwan—these sovereign economies have surrendered critical leverage. Any regulatory crackdown, antitrust action, or hardware demand correction in the United States directly threatens the fiscal stability of East Asian export nations."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "In the short term, advanced chip fabricators and specialized memory suppliers gain massive revenues and foreign capital investments. TSMC, SK Hynix, and Samsung remain irreplaceable anchors of the global technology supply chain, ensuring steady cash flows while demand holds.",
+            "Conversely, Asian economies bear elevated macroeconomic exposure. National budgets and currency stability become hostage to equity shifts in Silicon Valley and political decisions in Washington. Smaller regional players like Singapore and Malaysia, which are expanding data center capacity, face vulnerability if global AI infrastructure expenditure slows."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Key indicators include incoming U.S. regulatory filings and potential antitrust actions targeting Nvidia's dominance across software and hardware stacks. Analysts will also monitor whether Jensen Huang fulfills the planned $150bn annual investment commitments in Taiwan amidst tightening geopolitical constraints.",
+            "Furthermore, quarterly export totals from Taiwan and South Korea will serve as a barometer for regional resilience. Any deceleration in Nvidia chip orders will immediately manifest in broader trade deficits across East Asian markets."
+          ]
+        }
+      ],
+      "tags": [
+        "Global Economy",
+        "Semiconductors",
+        "Nvidia",
+        "East Asia",
+        "Supply Chains"
+      ],
+      "sources": [
+        {
+          "name": "BBC Business",
+          "title": "Asia made a big AI bet on Nvidia. What happens now?",
+          "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "wordCount": 490
+    },
+    "blindSpot": "While Asian markets treat Nvidia's demand as a broad tech boom, national economies are quietly surrendering their sovereign export stability to a single U.S. fabless firm. Because Nvidia finances hardware vendors and outsources physical fabrication to TSMC, any political or regulatory action against Santa Clara reverberates as a macroeconomic shock across East Asia."
+  },
+  {
     "slug": "how-digital-media-turned-black-friday-x017",
     "path": "news/how-digital-media-turned-black-friday-x017/",
     "title": "How Digital Media Turned Black Friday into a Permanent Affiliate Revenue Engine",
