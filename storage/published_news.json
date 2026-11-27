@@ -1,5 +1,106 @@
 [
   {
+    "id": "l6f355p5d",
+    "originalUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVnhyX20tNWl0ZzUyT1Zia2VPYmI2WGx4czNSVTFnRm5OcVBJaThFX0pVSTBxRm5qTEZHbzhrSGh0SVNPazJBWFpIRmk2YmxLcGY2NC1MT0Nzdm1tM0haYWhqTWp5ODFZSlNYVXZrM0ZVdGVFTTlDdFloR20zXzFxZQ?oc=5",
+    "originalTitle": "Allstate roiled by tech outage over Thanksgiving week",
+    "sourceName": "CBS News",
+    "category": "TECHNOLOGY & AI",
+    "urgencyScore": 76,
+    "headline": "ALLSTATE TECH OUTAGE EXPOSES GROWING INFRASTRUCTURE FRAGILITY",
+    "subHeadline": "The Northbrook, Illinois-based insurer faced system outages during Thanksgiving week, leaving policyholders unable to file claims or request roadside assistance. Official statements cite routine patching rather than cyberattacks, reflecting broader enterprise software vulnerabilities.",
+    "blindSpotAngle": "While federal officials frame the recent wave of disruptions across insurance, aviation, and banking as isolated maintenance mishaps, the concentration of cloud infrastructure creates systemic operational single points of failure. The insistence on dismissing foreign interference masks a deeper structural reality: modern enterprise systems are becoming functionally brittle under routine updates.",
+    "facebookPost": "Allstate customers encountered system failures across claim-filing and roadside assistance portals during peak Thanksgiving travel. Company officials confirmed that access was restricted over a 48-hour period while assuring policyholders that late fees would be waived for delayed payments.\n\nWhile government officials point to routine software patching and system upgrades rather than malicious cyberattacks, the frequency of these disruptions across banks, airlines, and tech majors signals a broader systemic vulnerability. When enterprise infrastructure falters during high-demand windows, the economic friction exposes the limits of legacy systems integrated into modern cloud environments.\n\nAs corporate networks become increasingly centralized, are enterprise risk models adequately pricing in operational fragility?\n\nSource: CBS News\n\n#Technology #CyberSecurity #Blindspot",
+    "telegramPost": "<b>ALLSTATE TECH OUTAGE EXPOSES GROWING INFRASTRUCTURE FRAGILITY</b>\n\n• <b>What happened:</b> Allstate experienced a major digital disruption over 48 hours during Thanksgiving week, disabling roadside assistance and claim filing systems for policyholders.\n• <b>Why it matters:</b> Federal officials insist recent enterprise outages across insurance, banking, and aviation stem from routine maintenance rather than cyberattacks, highlighting systemic vulnerability to basic software maintenance.\n• <b>What is next:</b> Regulators and enterprise risk officers will face mounting pressure to mandate redundant fail-safes for critical consumer infrastructure.",
+    "linkedInPost": "The operational disruption at Allstate during Thanksgiving week serves as a case study in systemic enterprise vulnerability. With core customer platforms restricted over a 48-hour window, the incident mirrors recent outages across aviation, banking, and enterprise cloud services.\n\nNational security officials note these events stem from routine software updates rather than adversarial cyber operations. However, from a macro-risk perspective, the outcome is functionally identical: high friction, deferred transactions, and reduced operational capacity during peak economic demand periods.\n\nOrganizations relying on centralized cloud architecture must reassess their digital supply chain resilience. As corporate digital transformations mature, maintenance management is no longer merely an internal IT issue but a core determinant of enterprise stability.\n\nSource: CBS News\n\n#EnterpriseTech #RiskManagement #Blindspot",
+    "blueskyPost": "Allstate's 48-hour outage during peak travel shows enterprise software fragility. Officials rule out hackers, but routine updates are now disabling critical financial infrastructure. #Technology #Blindspot",
+    "copies": {
+      "facebook": "Allstate customers encountered system failures across claim-filing and roadside assistance portals during peak Thanksgiving travel. Company officials confirmed that access was restricted over a 48-hour period while assuring policyholders that late fees would be waived for delayed payments.\n\nWhile government officials point to routine software patching and system upgrades rather than malicious cyberattacks, the frequency of these disruptions across banks, airlines, and tech majors signals a broader systemic vulnerability. When enterprise infrastructure falters during high-demand windows, the economic friction exposes the limits of legacy systems integrated into modern cloud environments.\n\nAs corporate networks become increasingly centralized, are enterprise risk models adequately pricing in operational fragility? #Technology #CyberSecurity #Blindspot",
+      "telegram": "<b>ALLSTATE TECH OUTAGE EXPOSES GROWING INFRASTRUCTURE FRAGILITY</b>\n\n• <b>What happened:</b> Allstate experienced a major digital disruption over 48 hours during Thanksgiving week, disabling roadside assistance and claim filing systems for policyholders.\n• <b>Why it matters:</b> Federal officials insist recent enterprise outages across insurance, banking, and aviation stem from routine maintenance rather than cyberattacks, highlighting systemic vulnerability to basic software maintenance.\n• <b>What is next:</b> Regulators and enterprise risk officers will face mounting pressure to mandate redundant fail-safes for critical consumer infrastructure.",
+      "bluesky": "Allstate's 48-hour outage during peak travel shows enterprise software fragility. Officials rule out hackers, but routine updates are now disabling critical financial infrastructure. #Technology #Blindspot",
+      "linkedIn": "The operational disruption at Allstate during Thanksgiving week serves as a case study in systemic enterprise vulnerability. With core customer platforms restricted over a 48-hour window, the incident mirrors recent outages across aviation, banking, and enterprise cloud services.\n\nNational security officials note these events stem from routine software updates rather than adversarial cyber operations. However, from a macro-risk perspective, the outcome is functionally identical: high friction, deferred transactions, and reduced operational capacity during peak economic demand periods.\n\nOrganizations relying on centralized cloud architecture must reassess their digital supply chain resilience. As corporate digital transformations mature, maintenance management is no longer merely an internal IT issue but a core determinant of enterprise stability.\n\n#EnterpriseTech #RiskManagement #Blindspot"
+    },
+    "article": {
+      "slug": "allstate-technology-failure-highlights-broader-systemic-u5u8",
+      "title": "Allstate Technology Failure Highlights Broader Systemic Vulnerabilities in Critical Enterprise Digital Infrastructure",
+      "dek": "A two-day service disruption at one of the largest U.S. insurers reveals how routine software maintenance poses increasing risks to consumer services. Federal officials discount cyberattacks, pointing instead to internal operational friction across key economic sectors.",
+      "keyFacts": [
+        "Allstate confirmed access to critical services was restricted over a 48-hour window during Thanksgiving week.",
+        "The disruption blocked policyholders from filing online claims and obtaining emergency roadside assistance.",
+        "National Security Adviser Marco Rubio and Director of National Intelligence Jay Clayton stated there is zero evidence of cyberattacks or malicious actor involvement.",
+        "Allstate assured customers that coverage would not lapse and late fees would be waived for payment delays caused by the outage."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Northbrook, Illinois-based insurer Allstate suffered a significant technology outage during Thanksgiving week, blocking customers from logging into digital platforms to submit insurance claims or request roadside assistance. According to company statements, service access was restricted over a 48-hour period, prompting widespread customer complaints across tracking services such as Downdetector.",
+            "In response to the disruption, Allstate directed policyholders to alternative channels, including phone lines, and announced that customers facing payment difficulties as a result of the system failure would not face coverage cancellation or late fees."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The incident at Allstate follows a series of high-profile technical disruptions affecting critical infrastructure across the United States. In recent weeks, enterprise cloud providers like Microsoft, major commercial airlines, banking institutions, and federal agencies have faced severe service outages, disrupting operations during critical demand periods.",
+            "According to statements from U.S. National Security Adviser Marco Rubio and Director of National Intelligence Jay Clayton, these failures were caused by internal system maintenance, vulnerability patching, and outdated software upgrades, rather than coordinated cyber operations by state actors or foreign adversaries."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While public sector intelligence officials aim to reassure markets by ruling out foreign sabotage, their diagnosis highlights a more troubling operational reality. The narrative of benign software patching masks how deeply consolidated and fragile corporate digital architecture has become.",
+            "When standard operational updates repeatedly collapse customer-facing portals across insurance, aviation, and financial sectors, the line between deliberate disruption and systemic technical debt becomes negligible. Organizations have created complex, inter-dependent digital environments where single maintenance errors trigger economy-wide friction."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Enterprise software vendors and cybersecurity compliance firms stand to gain as corporations increase capital expenditure on system redundancy and deployment verification tools. Independent IT auditing firms will also see heightened demand as boards seek verification of system stability.",
+            "Conversely, policyholders and retail consumers bear the immediate operational burden of lost service access during emergency situations. Insurers face direct reputational harm, operational delays, and secondary administrative costs tied to manual claims processing and fee waivers."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Financial and insurance regulators are likely to increase oversight regarding operational resilience standards, moving beyond traditional cybersecurity requirements to mandate strict testing protocols for software patches.",
+            "Market observers will monitor whether major enterprise software providers implement staggered deployment models to prevent cascading failures across critical commercial sectors."
+          ]
+        }
+      ],
+      "tags": [
+        "Insurance",
+        "Enterprise Tech",
+        "Digital Infrastructure",
+        "Operational Risk",
+        "Software Outages"
+      ],
+      "sources": [
+        {
+          "name": "CBS News",
+          "title": "Allstate roiled by tech outage over Thanksgiving week",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVnhyX20tNWl0ZzUyT1Zia2VPYmI2WGx4czNSVTFnRm5OcVBJaThFX0pVSTBxRm5qTEZHbzhrSGh0SVNPazJBWFpIRmk2YmxLcGY2NC1MT0Nzdm1tM0haYWhqTWp5ODFZSlNYVXZrM0ZVdGVFTTlDdFloR20zXzFxZQ?oc=5"
+        }
+      ],
+      "wordCount": 407
+    },
+    "videoScript": {
+      "hook": "Why are major companies collapsing under routine software updates without being hacked?",
+      "beats": [
+        "Allstate customers were locked out of claims and roadside help for 48 hours.",
+        "Federal officials say recent bank and airline outages are from routine software patches.",
+        "Here is the catch: corporate systems have become so complex that simple updates act like self-inflicted attacks."
+      ],
+      "close": "Read the complete analysis on our website at the link in bio."
+    },
+    "rawImageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/27/f99d84ce-f00f-4e72-8a6d-cc0fdef3bfa6/thumbnail/1200x630/a44e8396eee5d63c3bd1013260c38522/gettyimages-2306519918.jpg",
+    "status": "published",
+    "createdAt": "2026-11-27T15:32:46.060Z",
+    "cardImageUrl": "/news-cards/news-l6f355p5d-1795793566060.jpg",
+    "reelCoverUrl": "/news-cards/news-l6f355p5d-1795793566608-cover.jpg",
+    "instagramCardUrl": "/news-cards/news-l6f355p5d-1795793567113-ig.jpg",
+    "articleUrl": "https://blindspotglobal.pages.dev/news/allstate-technology-failure-highlights-broader-systemic-u5u8/",
+    "publishedAt": "2026-11-27T15:35:33.599Z"
+  },
+  {
     "id": "j9fy8y4z1",
     "originalUrl": "https://www.europapress.es/internacional/noticia-menos-dos-muertos-ataque-ruso-contra-red-suministro-agua-provincia-chernigov-20261127132831.html",
     "originalTitle": "Al menos dos muertos en un ataque ruso contra la red de suministro de agua en la provincia de Chernígov",
@@ -24197,127 +24298,5 @@
     "instagramCardUrl": "/news-cards/news-e4p0ky3mw-1794236437490-ig.jpg",
     "articleUrl": "https://blindspotglobal.pages.dev/news/inside-downfall-institutional-shielding-comedian-russell-qbjr/",
     "publishedAt": "2026-11-09T17:26:11.461Z"
-  },
-  {
-    "id": "egpdygjkg",
-    "originalUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEdIVXlJc2RaUEw2RmFrR2FZcXYzYlBKUG9Cdl9WUVFfalVxT0hGcGFCdW1DS3JMT2daanhDYktBeXVGNGt5TGlsOGZJVWVSMFpnT3ZVa2RBUjZYakRlVlQ3SXd1ZkpTQVNXVkpoNUZoemdycWY0MG02dVk0cWRuWG4taG5VMm9kbEluSHctTVZVMXJwWXNWSWdVcmxQeWtRSW1EWDQ2dTJ6QVV2TzhoeQ?oc=5",
-    "originalTitle": "Gold gains as lower oil prices ease inflation fears",
-    "sourceName": "Reuters",
-    "category": "GLOBAL ECONOMY",
-    "urgencyScore": 76,
-    "headline": "GOLD RALLIES AS FALLING OIL PRICES EASE INFLATION CONCERNS",
-    "subHeadline": "Spot gold climbed past $4,100 per ounce as declining crude oil prices softened global inflation expectations and weighed on the U.S. dollar. The rally provided immediate tailwinds for mining equities, lifting major indexes including London's FTSE 100.",
-    "blindSpotAngle": "Mainstream commentary interprets falling crude oil as a benign disinflationary force that provides central banks with room to cut rates. However, the drop in oil prices primarily reflects contracting global manufacturing and freight demand rather than supply efficiency. Capital is actively rotating away from industrial commodities and into non-yielding sovereign reserve assets like gold to hedge against structural economic deceleration.",
-    "facebookPost": "Spot gold has surged past $4,100 per ounce as lower crude oil prices temper global inflation fears and depress the U.S. dollar. Financial markets have reacted with immediate optimism, lifting mining equities and boosting major benchmarks such as London's FTSE 100 under the assumption that softer energy costs will pave the way for monetary easing.\n\nYet the underlying mechanics tell a more troubling story. Crude oil is not falling due to surging supply, but due to stagnating industrial activity and weakening global freight volumes. Capital is not simply celebrating lower inflation; it is migrating out of growth-dependent commodities and into non-yielding safe havens ahead of a broader cyclical slowdown.\n\nAre markets misinterpreting a demand-driven commodity collapse as a benign disinflationary victory?\n\nSource: Reuters\n\n#GlobalEconomy #Gold #Blindspot",
-    "telegramPost": "<b>GOLD RALLIES AS FALLING OIL PRICES EASE INFLATION CONCERNS</b><br><br>• <b>What happened:</b> Spot gold broke above $4,100 per ounce as declining crude prices tempered global inflation expectations and weakened the U.S. dollar, driving gains in mining stocks across London's FTSE 100.<br>• <b>Why it matters:</b> While mainstream outlets frame lower energy prices as a harmless victory over inflation, the fall in crude reflects weakening global industrial demand rather than supply-side relief.<br>• <b>What is next:</b> Central banks may use softer CPI metrics to justify rate reductions, but persistent capital inflows into gold indicate institutional preparation for persistent macroeconomic headwinds.",
-    "linkedInPost": "The recent surge in gold above $4,100 per ounce, triggered by falling crude oil prices and a softer U.S. dollar, highlights a critical divergence in global asset allocation. While equity markets treat declining energy prices as a disinflationary green light for central bank rate cuts, sovereign and institutional investors are taking a far more defensive posture.\n\nCrude oil weakness is fundamentally tied to softening manufacturing output and reduced international shipping volumes. As energy demand contracts, institutional capital is rapidly reallocating from industrial commodities into physical gold to hedge against credit risk and sovereign debt monetization.\n\nFor corporate treasurers and risk officers, this shift underscores two major operational implications: first, energy-driven margin relief may be offset by weaker top-line demand; second, the institutional flight to hard reserve assets signals prolonged volatility in global currency and bond markets.\n\nSource: Reuters\n\n#GlobalEconomy #Gold #Blindspot",
-    "blueskyPost": "Gold climbed past $4,100 as oil dropped. Markets applaud lower inflation, but falling energy prices reveal contracting global industrial demand, driving capital straight into safe havens. #Blindspot #GlobalEconomy",
-    "copies": {
-      "facebook": "Spot gold has surged past $4,100 per ounce as lower crude oil prices temper global inflation fears and depress the U.S. dollar. Financial markets have reacted with immediate optimism, lifting mining equities and boosting major benchmarks such as London's FTSE 100 under the assumption that softer energy costs will pave the way for monetary easing.\n\nYet the underlying mechanics tell a more troubling story. Crude oil is not falling due to surging supply, but due to stagnating industrial activity and weakening global freight volumes. Capital is not simply celebrating lower inflation; it is migrating out of growth-dependent commodities and into non-yielding safe havens ahead of a broader cyclical slowdown.\n\nAre markets misinterpreting a demand-driven commodity collapse as a benign disinflationary victory?\n\n#GlobalEconomy #Gold #Blindspot",
-      "telegram": "<b>GOLD RALLIES AS FALLING OIL PRICES EASE INFLATION CONCERNS</b><br><br>• <b>What happened:</b> Spot gold broke above $4,100 per ounce as declining crude prices tempered global inflation expectations and weakened the U.S. dollar, driving gains in mining stocks across London's FTSE 100.<br>• <b>Why it matters:</b> While mainstream outlets frame lower energy prices as a harmless victory over inflation, the fall in crude reflects weakening global industrial demand rather than supply-side relief.<br>• <b>What is next:</b> Central banks may use softer CPI metrics to justify rate reductions, but persistent capital inflows into gold indicate institutional preparation for persistent macroeconomic headwinds.",
-      "bluesky": "Gold climbed past $4,100 as oil dropped. Markets applaud lower inflation, but falling energy prices reveal contracting global industrial demand, driving capital straight into safe havens. #Blindspot #GlobalEconomy",
-      "linkedIn": "The recent surge in gold above $4,100 per ounce, triggered by falling crude oil prices and a softer U.S. dollar, highlights a critical divergence in global asset allocation. While equity markets treat declining energy prices as a disinflationary green light for central bank rate cuts, sovereign and institutional investors are taking a far more defensive posture.\n\nCrude oil weakness is fundamentally tied to softening manufacturing output and reduced international shipping volumes. As energy demand contracts, institutional capital is rapidly reallocating from industrial commodities into physical gold to hedge against credit risk and sovereign debt monetization.\n\nFor corporate treasurers and risk officers, this shift underscores two major operational implications: first, energy-driven margin relief may be offset by weaker top-line demand; second, the institutional flight to hard reserve assets signals prolonged volatility in global currency and bond markets.\n\n#GlobalEconomy #Gold #Blindspot"
-    },
-    "article": {
-      "slug": "gold-surges-past-4-100-softening-pemk",
-      "title": "Gold Surges Past $4,100 as Softening Crude Oil Eases Global Inflation Concerns",
-      "dek": "Declining energy prices have muted inflation expectations and boosted precious metals across international markets. However, the capital flight into gold highlights growing institutional concern over underlying macroeconomic growth.",
-      "keyFacts": [
-        "Spot gold prices climbed above $4,100 per ounce as crude oil prices declined.",
-        "The U.S. dollar softened alongside energy prices, providing additional momentum to bullion.",
-        "London's FTSE 100 index advanced, driven by notable gains in listed mining equities.",
-        "Financial markets linked the gold surge directly to easing medium-term inflation expectations."
-      ],
-      "sections": [
-        {
-          "heading": "What Happened",
-          "paragraphs": [
-            "Spot gold traded above $4,100 per ounce following a sustained decline in crude oil prices that altered short-term inflation metrics across major economies, according to reports from Reuters and CNBC.",
-            "The drop in energy benchmarks reduced near-term cost pressures across supply chains and put downward pressure on the U.S. dollar. The resulting surge in precious metals lifted mining sector shares globally, providing significant upward momentum to indexes such as London's FTSE 100, according to financial data reported by AOL."
-          ]
-        },
-        {
-          "heading": "The Context",
-          "paragraphs": [
-            "For much of the past two years, high energy costs served as the primary engine of global inflationary pressure, forcing central banks to maintain restrictive monetary policy. The recent retreat in crude oil prices offers immediate relief to headline consumer price figures.",
-            "Because bullion does not yield interest, lower inflation expectations typically clear the path for lower policy rates, reducing the opportunity cost of holding physical gold. Concurrently, a weaker dollar makes dollar-denominated metals cheaper for foreign buyers, compounding demand across international exchanges."
-          ]
-        },
-        {
-          "heading": "The Blind Spot",
-          "paragraphs": [
-            "Mainstream financial coverage presents lower oil prices as a unalloyed positive—a disinflationary trend that allows central banks to engineer a soft landing. However, this narrative overlooks the primary cause of the crude sell-off: eroding industrial demand across major manufacturing hubs.",
-            "Rather than signaling supply abundance, falling energy prices reflect contracting freight activity and sluggish factory orders. Institutional capital is recognizing this structural weakness. Instead of rotating into cyclical equities, large investors are parking liquidity in gold, treating the drop in energy costs not as economic relief, but as confirmation of a broader cyclical slowdown."
-          ]
-        },
-        {
-          "heading": "Winners and Losers",
-          "paragraphs": [
-            "Precious metal miners and sovereign gold holders stand as the immediate winners, capitalizing on asset repricing and renewed institutional demand. Importers of raw commodities also benefit from lower input expenses in the short term.",
-            "Conversely, energy-exporting nations and national oil companies face reduced fiscal revenues and narrowing current account surpluses. Cyclical manufacturing sectors also face headwinds as weakening end-user demand outweighs the benefits of lower fuel prices."
-          ]
-        },
-        {
-          "heading": "What to Watch",
-          "paragraphs": [
-            "Market participants should monitor upcoming central bank policy statements to see whether rate setters cite energy disinflation as justification for monetary easing.",
-            "Attention must also focus on global purchasing managers' indexes (PMIs) and ocean freight rates to determine whether crude oil demand stabilizes or continues to signal deepening industrial contraction."
-          ]
-        }
-      ],
-      "tags": [
-        "Gold",
-        "Crude Oil",
-        "Inflation",
-        "Commodities",
-        "FTSE 100",
-        "Global Economy"
-      ],
-      "sources": [
-        {
-          "name": "Reuters",
-          "title": "Gold gains as lower oil prices ease inflation fears",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEdIVXlJc2RaUEw2RmFrR2FZcXYzYlBKUG9Cdl9WUVFfalVxT0hGcGFCdW1DS3JMT2daanhDYktBeXVGNGt5TGlsOGZJVWVSMFpnT3ZVa2RBUjZYakRlVlQ3SXd1ZkpTQVNXVkpoNUZoemdycWY0MG02dVk0cWRuWG4taG5VMm9kbEluSHctTVZVMXJwWXNWSWdVcmxQeWtRSW1EWDQ2dTJ6QVV2TzhoeQ?oc=5"
-        },
-        {
-          "name": "CNBC",
-          "title": "Gold gains as lower oil prices temper inflation fears; US inflation in focus",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeUI1TW05YjFMZ2ttT3hUYnJfdE5fNFVOcHZsVTJldlU1Zy1kbUpTT18wdW9UVDRvYXNXRU9rLWdQZDUyeTQ2emxzb3hCd0VJMkpMalRuOGVKaGFKUXgtdFlTZGdiY2RmVWFxdXdzUlhkTGVwazh3d1hGbWd3dU50QVNOc0NDNUlTMmVMbXBaZ2xZbmRHTG16dFNxYjlvWWhnRVVtdzBwa3J0cVBqd2E0?oc=5"
-        },
-        {
-          "name": "TradingView",
-          "title": "Gold gains as lower oil prices ease inflation fears",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYTFxSUFiLVNaSkg0a1FGRF9xTDRmem00ck9XLTBFckgxV2swUVp2SWJsM0VEdVo5aTJrbE93MjF2MlZYNWlwNkxhQV9ZUlplR18zY3Y3MWtMb0taYm9WY0M0VkdHaW95eTlNZ01DdmVoQnFGd0J5VmVMYzlWb0FJdld6TnE5cDhfOUdEWGJfRUd2bDdraklJSXRIblRja1E2VXlqM1BrWmlEMHhrUXR1Y2k1QWhhc2hSR29mOUpn?oc=5"
-        },
-        {
-          "name": "Economies.com",
-          "title": "Gold climbs above $4,100 as weaker dollar and falling oil prices lift precious metals",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN0ZNZV9vWWVGeDZrMmp3LThNN292TXlscDN5U0dhcFlRMGpGZ2tKSm1ZNHk2UmVHcGVybFM1akRGTFhCcVRLZkJfTnNzejk1bTA5ckRGa2I0RGJfN0VBN0xGRlFDWnk3Z1VaSHlsbWdzRk5hWFl3LW5lTUE2OGlwZ1E0NVcxRFplSk1SUlIyd1IyOTZuTlp6MGdpajdmVTVhU0d2eWxVOUp2clZBdUVuRkl2RDZETC0tLXlSNThTWVdHREN5dTdUS3o1cURMcXJoTFE?oc=5"
-        },
-        {
-          "name": "AOL.com",
-          "title": "London's FTSE 100 climbs as miners gain on firmer gold prices",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aalJLQ3VTRkV3SU5zcC1KU2h3QURrdmMxaF81ZHlDXzlGdGxWWWdhZVVKYXVkWkhtamlTc0I2aDBwQU1CUHdHVTdIay02TFZpYVdzVE9VWnRGTWhpZ1lrWGowb19WM010TG1uSzh6N0FIa1UxV0NUQ1pCY1AzUTA?oc=5"
-        }
-      ],
-      "wordCount": 401
-    },
-    "videoScript": {
-      "hook": "Gold surged past $4,100 as crude oil prices continued to fall.",
-      "beats": [
-        "Lower energy costs are easing immediate inflation fears and putting downward pressure on the dollar.",
-        "Mining stocks rallied worldwide, driving up major benchmarks like the London FTSE 100.",
-        "The real catch is that falling oil reflects weakening global manufacturing demand, not economic stability."
-      ],
-      "close": "Read the full macro analysis at the link in our bio."
-    },
-    "rawImageUrl": "https://image.cnbcfm.com/api/v1/image/108272851-1772555762829-gettyimages-2259128701-20090101260203-99-367219.jpeg?v=1774608087&w=1920&h=1080",
-    "status": "published",
-    "createdAt": "2026-11-09T14:05:40.703Z",
-    "cardImageUrl": "/news-cards/news-egpdygjkg-1794233140703.jpg",
-    "reelCoverUrl": "/news-cards/news-egpdygjkg-1794233141323-cover.jpg",
-    "instagramCardUrl": "/news-cards/news-egpdygjkg-1794233141889-ig.jpg",
-    "articleUrl": "https://blindspotglobal.pages.dev/news/gold-surges-past-4-100-softening-pemk/",
-    "publishedAt": "2026-11-09T16:07:40.935Z"
   }
 ]
