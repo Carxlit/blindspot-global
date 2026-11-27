@@ -1,5 +1,108 @@
 [
   {
+    "slug": "how-digital-media-turned-black-friday-x017",
+    "path": "news/how-digital-media-turned-black-friday-x017/",
+    "title": "How Digital Media Turned Black Friday into a Permanent Affiliate Revenue Engine",
+    "headline": "DIGITAL PUBLISHERS PIVOT TO AFFILIATE REVENUE IN EARLY DISCOUNT BLITZ",
+    "dek": "As top media outlets push early holiday deal lists, publisher business models are increasingly tied to e-commerce transaction fees. Beneath the curated consumer advice lies a systemic shift in digital publishing economics.",
+    "category": "TECHNOLOGY & AI",
+    "sourceName": "The Verge",
+    "image": "img/how-digital-media-turned-black-friday-x017.jpg",
+    "photo": "img/how-digital-media-turned-black-friday-x017-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "5ofqbjHhOW0",
+      "title": "The BEST Black Friday Deals for Shoes, Boots, and Menswear (High-Quality Only)",
+      "channel": "Chris Madaras",
+      "license": "cc-by"
+    },
+    "publishedAt": "2026-11-27T00:53:19.891Z",
+    "article": {
+      "slug": "how-digital-media-turned-black-friday-x017",
+      "title": "How Digital Media Turned Black Friday into a Permanent Affiliate Revenue Engine",
+      "dek": "As top media outlets push early holiday deal lists, publisher business models are increasingly tied to e-commerce transaction fees. Beneath the curated consumer advice lies a systemic shift in digital publishing economics.",
+      "keyFacts": [
+        "The Verge, Forbes, and Business Insider published guides featuring between 50 and 160 early Black Friday discounts ahead of November 27th.",
+        "Promoted streaming deals include an ad-supported Disney Plus and Hulu bundle for $4.99 a month and HBO Max Basic for $5.49 a month until December 1st.",
+        "Hardware highlights feature Apple AirPods Pro 3 and Nintendo Switch 2 equipped with a 7.9-inch LCD display.",
+        "Major outlets openly disclose affiliate commission structures across early holiday retail guides."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Ahead of the official November 27th holiday shopping date, prominent media organizations including The Verge, The New York Times, Forbes, Business Insider, and Food & Wine launched comprehensive early Black Friday deal roundups. According to published guides, outlets highlighted discounts across major consumer tech items, hardware updates, and streaming services.",
+            "Specific offerings featured an ad-supported Disney Plus and Hulu bundle priced at $4.99 per month for a year, HBO Max Basic at $5.49 per month through December 1st, and hardware like the Nintendo Switch 2 with its 7.9-inch LCD display and Apple AirPods Pro 3."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The annual expansion of Black Friday coverage reflects broader shifts in digital media operations over the last decade. As programmatic display advertising yields diminish and digital ad spending centralizes on major tech platforms, media companies have increasingly relied on commerce content to sustain newsroom operations.",
+            "Affiliate disclosures, such as those published by The Verge stating that publications may earn a commission from affiliate links, have shifted from peripheral footers to central components of Q4 editorial strategies across digital newsrooms."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "What mainstream consumer reporting omits is that early deal recommendations operate within a dual constraint of retail price creep and publisher incentive structures. According to reporting from major outlets, prices across consumer goods have risen generally, meaning that announced discounts do not necessarily translate into historical low prices for consumers.",
+            "Moreover, editorial curation within commerce units often favors merchant networks with higher commission structures, creating a system where content production aligns with transaction velocity rather than pure consumer utility."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The primary beneficiaries of this system are dominant hardware makers, retail giants, and digital media groups capable of processing massive transactional volume during Q4 sales events. Platforms like Apple and major streaming services capture subscriber bases while publishers collect steady affiliate margins.",
+            "Conversely, consumers face artificially inflated urgency under early shopping campaigns, while independent editorial teams struggle to maintain clear separation between critical reviews and commerce-driven recommendation engines."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "As holiday deal cycles extend further into November, industry observers should monitor how affiliate monetization impacts year-round editorial independence.",
+            "Key indicators will include the deeper integration of algorithmic product recommendations inside standard news reporting and whether regulatory bodies push for stricter disclosures regarding performance marketing partnerships."
+          ]
+        }
+      ],
+      "tags": [
+        "Technology",
+        "Media Economics",
+        "Digital Commerce",
+        "Affiliate Marketing",
+        "Consumer Electronics"
+      ],
+      "sources": [
+        {
+          "name": "The Verge",
+          "title": "The best Black Friday deals we’ve already found",
+          "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026"
+        },
+        {
+          "name": "The New York Times",
+          "title": "The 50+ Best Walmart Black Friday Deals We’ve Already Found",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Db3BRYURBS1h1QlEyUmZKbnFhQTBRbDg5QnJNb0N3TjNXMUhTZ2ZfY0xQa3pzanZQckdCSGVram9CNkF5cF8xZ3ViYU5xTkpHRjZhclMwRGxGbXdUbU9YQTl2cWlrSm9zOHFlUFEyUDhHbExlR3JaN28xRWdtQQ?oc=5"
+        },
+        {
+          "name": "Business Insider",
+          "title": "160 Red-Hot Black Friday Deals We'd Buy With Our Own Money",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbTh2YzRQUU51T3ZfUkR5ekE0T1JuTDFfdklTODJLWmNPazBLUVNiX25vMXlqcGVYanVMekI5b2FEZi1YSy1YRHdCUjltVC1lS0hldUZtTE5jaGVkVWs0TEJqQTNTRWRITDhiOGlsNnc3dHZvSlJJWFlqZHdpMHVmVU1xTWJ1Zw?oc=5"
+        },
+        {
+          "name": "Forbes",
+          "title": "We’re Live Tracking The 128 Best Black Friday Deals Right Now",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZUZLaXp4M05PNi1lUmdHSG9Jb0ttbkJBQWd3UWNvckxKWmt6UEVxb05VeHJUQ0hVNklJR09aS2cwdzdiU185aklNMkhDZUMtd3BNa0ZGRXJZeDJVd2ljdGsyc3RKdjZmOGt3UkNTNDlJbWlMcU8xc3Z1TWZLdkRrQXVZbG9IQzhxWUV5Ym9ETjVyZw?oc=5"
+        },
+        {
+          "name": "Food & Wine",
+          "title": "We Test Hundreds of Kitchen Products Every Year — These 50 Black Friday Deals Are on Our List",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KUUIzZGtxdXRVLUZ6WElydWU1dHFZX181d1hDeE5RcmdQTG9PZG1wWXhvdERpNkZNaFI0Rm5CYW1tVUpwbFhxd0x5TDBpOVFoeW1kN21XU2JZNTJmZExNa2RsVVpiazJWNE42cE5kM2l6SmZqUlBmclAxQWY?oc=5"
+        }
+      ],
+      "wordCount": 399
+    },
+    "blindSpot": "While media companies frame early holiday roundups as consumer public service, the surge in deal guides reflects a structural pivot to affiliate monetization. Rising baseline retail prices mean many promoted discounts fail to reach historical lows, while algorithmic recommendation engines prioritize high-margin affiliate agreements over unbiased product evaluation."
+  },
+  {
     "slug": "north-korea-expands-uranium-enrichment-sites-dyre",
     "path": "news/north-korea-expands-uranium-enrichment-sites-dyre/",
     "title": "North Korea Expands Uranium Enrichment Sites as Kim Ignores Washington Diplomacy",

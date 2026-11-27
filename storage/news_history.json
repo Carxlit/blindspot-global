@@ -230,9 +230,36 @@
     "https://www.dw.com/en/egypt-at-least-31-dead-after-fuel-truck-overturns-on-highway/a-80055175?maca=en-rss-en-all-1573-rdf",
     "https://www.dw.com/en/duran-duran-guitarist-andy-taylor-dies-at-65/a-80055654?maca=en-rss-en-all-1573-rdf",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYjc1S044enVDVHpleXVSM2YwME5kOGM4azBiSF9QNVc1Q2MyYmNRVFNJZ1p1dFVSOXdKTGxqYi1pU1dhdzcycGQ0dm5pN1NaRmZUendRME9GRVFfNHluZ0pUZkpsc0xLX1pNb1ZFdEk0TU8yTjZxbklUbC04ZkNJbWt6V21qUEowclUwME5KY1ZfUlVXaUlPQm9faDZPVzB4clJfZkFLekxaQVNWaldMT0ZwSFl3LVYwblRiaXYzNEt3dzBMck1WUkp1QQ?oc=5",
-    "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump"
+    "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+    "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026"
   ],
   "processedSignatures": [
+    {
+      "title": "DIGITAL PUBLISHERS PIVOT TO AFFILIATE REVENUE IN EARLY DISCOUNT BLITZ",
+      "normalizedTokens": [
+        "digital",
+        "publishers",
+        "pivot",
+        "affiliate",
+        "revenue",
+        "early",
+        "discount",
+        "blitz"
+      ],
+      "date": "2026-11-27T00:53:20.067Z"
+    },
+    {
+      "title": "The best Black Friday deals we’ve already found",
+      "normalizedTokens": [
+        "best",
+        "black",
+        "friday",
+        "deals",
+        "already",
+        "found"
+      ],
+      "date": "2026-11-27T00:53:20.064Z"
+    },
     {
       "title": "NORTH KOREA EXPANDS NUCLEAR INFRASTRUCTURE AND REJECTS US DIPLOMACY",
       "normalizedTokens": [
@@ -7143,35 +7170,6 @@
         "results"
       ],
       "date": "2026-11-07T18:16:13.098Z"
-    },
-    {
-      "title": "US EXPORT CONTROLS FAIL AS NVIDIA CHIPS REACH EMPTY CHINESE SHELL FIRMS",
-      "normalizedTokens": [
-        "export",
-        "controls",
-        "fail",
-        "nvidia",
-        "chips",
-        "reach",
-        "empty",
-        "chinese",
-        "shell",
-        "firms"
-      ],
-      "date": "2026-11-07T18:01:40.457Z"
-    },
-    {
-      "title": "The US let Nvidia sell chips to an empty office in China",
-      "normalizedTokens": [
-        "let",
-        "nvidia",
-        "sell",
-        "chips",
-        "empty",
-        "office",
-        "china"
-      ],
-      "date": "2026-11-07T18:01:40.457Z"
     }
   ]
 }
