@@ -238,6 +238,34 @@
   ],
   "processedSignatures": [
     {
+      "title": "TWO ITALIAN WORKERS KILLED IN IRANIAN DRONE STRIKE IN KUWAIT",
+      "normalizedTokens": [
+        "two",
+        "italian",
+        "workers",
+        "killed",
+        "iranian",
+        "drone",
+        "strike",
+        "kuwait"
+      ],
+      "date": "2026-11-27T11:02:28.755Z"
+    },
+    {
+      "title": "Two Italian workers killed in Iranian strike in Kuwait, source says",
+      "normalizedTokens": [
+        "two",
+        "italian",
+        "workers",
+        "killed",
+        "iranian",
+        "strike",
+        "kuwait",
+        "source"
+      ],
+      "date": "2026-11-27T11:02:28.753Z"
+    },
+    {
       "title": "THIRTEEN NIGER SOLDIERS KILLED IN SANAM COMPOUND ASSAULT",
       "normalizedTokens": [
         "thirteen",
@@ -7157,30 +7185,6 @@
         "bancaria"
       ],
       "date": "2026-11-07T21:56:20.838Z"
-    },
-    {
-      "title": "GUNMAN KILLS SIX PEOPLE IN POLISH CITY OF KRAKOW",
-      "normalizedTokens": [
-        "gunman",
-        "kills",
-        "six",
-        "people",
-        "polish",
-        "city",
-        "krakow"
-      ],
-      "date": "2026-11-07T20:22:24.384Z"
-    },
-    {
-      "title": "Gunman kills six in Kraków shooting",
-      "normalizedTokens": [
-        "gunman",
-        "kills",
-        "six",
-        "krakow",
-        "shooting"
-      ],
-      "date": "2026-11-07T20:22:24.384Z"
     }
   ]
 }
