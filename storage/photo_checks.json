@@ -1393,5 +1393,10 @@
     "relevant": true,
     "reason": "The map directly illustrates the geographic location (Tillaberi region, Niger) and details of the military attack mentioned in the headline and context summary.",
     "at": "2026-11-27T05:01:31.969Z"
+  },
+  "21f2cfdaece26c7a:sjm9hqlp3": {
+    "relevant": true,
+    "reason": "The illustration depicts emergency preparedness supplies, such as canned food and a portable power station, against a map of the UK, directly illustrating the resilience campaign.",
+    "at": "2026-11-27T11:06:27.754Z"
   }
 }

@@ -234,9 +234,34 @@
     "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
     "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2hPQWhhdW9HTWxtRndjQkN3aFhQTzhyWV9sQ0NTbHNsRFpINkRjMHhKRGN4QTk1NTJYWU1yVHhmYVJSazJEVGtOdVIzZ2xsNFJFeHF0YXNEbXBqTF94bnBDOEFnMV9JdGRRbWVROFJGRmZISmZWUXhtYTlJTXFFMlBWa2IwdXBfUXY4OENRd2tVeWh0Q1M1OThsMl9kMkVEamJiTjMzdWxwZHRzdlVHYmtwTUI?oc=5",
-    "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss"
+    "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
+    "https://www.wired.com/story/the-british-government-is-turning-everyone-into-a-prepper/"
   ],
   "processedSignatures": [
+    {
+      "title": "UK GOVERNMENT RESILIENCE CAMPAIGN SHIFTS CRISIS RESPONSIBILITY TO CITIZENS",
+      "normalizedTokens": [
+        "government",
+        "resilience",
+        "campaign",
+        "shifts",
+        "crisis",
+        "responsibility",
+        "citizens"
+      ],
+      "date": "2026-11-27T11:06:31.818Z"
+    },
+    {
+      "title": "The British Government is Turning Everyone Into a Prepper",
+      "normalizedTokens": [
+        "british",
+        "government",
+        "turning",
+        "everyone",
+        "prepper"
+      ],
+      "date": "2026-11-27T11:06:31.816Z"
+    },
     {
       "title": "TWO ITALIAN WORKERS KILLED IN IRANIAN DRONE STRIKE IN KUWAIT",
       "normalizedTokens": [
@@ -7155,36 +7180,6 @@
         "surgery"
       ],
       "date": "2026-11-07T23:38:29.450Z"
-    },
-    {
-      "title": "PARAGUAY PROSECUTORS CHARGE FORMER PRESIDENT PEÑA OVER BANK COLLAPSE",
-      "normalizedTokens": [
-        "paraguay",
-        "prosecutors",
-        "charge",
-        "former",
-        "president",
-        "pena",
-        "bank",
-        "collapse"
-      ],
-      "date": "2026-11-07T21:56:20.838Z"
-    },
-    {
-      "title": "Fiscalía de Paraguay imputa a expresidente Santiago Peña y pide prisión por crisis bancaria",
-      "normalizedTokens": [
-        "fiscalia",
-        "paraguay",
-        "imputa",
-        "expresidente",
-        "santiago",
-        "pena",
-        "pide",
-        "prision",
-        "crisis",
-        "bancaria"
-      ],
-      "date": "2026-11-07T21:56:20.838Z"
     }
   ]
 }
