@@ -235,9 +235,37 @@
     "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2hPQWhhdW9HTWxtRndjQkN3aFhQTzhyWV9sQ0NTbHNsRFpINkRjMHhKRGN4QTk1NTJYWU1yVHhmYVJSazJEVGtOdVIzZ2xsNFJFeHF0YXNEbXBqTF94bnBDOEFnMV9JdGRRbWVROFJGRmZISmZWUXhtYTlJTXFFMlBWa2IwdXBfUXY4OENRd2tVeWh0Q1M1OThsMl9kMkVEamJiTjMzdWxwZHRzdlVHYmtwTUI?oc=5",
     "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
-    "https://www.wired.com/story/the-british-government-is-turning-everyone-into-a-prepper/"
+    "https://www.wired.com/story/the-british-government-is-turning-everyone-into-a-prepper/",
+    "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "SAUDI AIRSTRIKES IN YEMEN SIGNAL RENEWED REGIONAL ESCALATION",
+      "normalizedTokens": [
+        "saudi",
+        "airstrikes",
+        "yemen",
+        "signal",
+        "renewed",
+        "regional",
+        "escalation"
+      ],
+      "date": "2026-11-27T13:04:06.315Z"
+    },
+    {
+      "title": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
+      "normalizedTokens": [
+        "saudi",
+        "strike",
+        "kills",
+        "civilians",
+        "yemen",
+        "taiz",
+        "houthi",
+        "media"
+      ],
+      "date": "2026-11-27T13:04:06.313Z"
+    },
     {
       "title": "UK GOVERNMENT RESILIENCE CAMPAIGN SHIFTS CRISIS RESPONSIBILITY TO CITIZENS",
       "normalizedTokens": [
@@ -7147,39 +7175,6 @@
         "next"
       ],
       "date": "2026-11-08T01:35:52.160Z"
-    },
-    {
-      "title": "POPE LEO XIV BEGINS SOUTH AMERICAN TOUR IN URUGUAY",
-      "normalizedTokens": [
-        "pope",
-        "leo",
-        "xiv",
-        "begins",
-        "south",
-        "american",
-        "tour",
-        "uruguay"
-      ],
-      "date": "2026-11-07T23:38:29.450Z"
-    },
-    {
-      "title": "Pope Leo XIV arrives in Uruguay at start of South American tour less than a month after lung surgery",
-      "normalizedTokens": [
-        "pope",
-        "leo",
-        "xiv",
-        "arrives",
-        "uruguay",
-        "start",
-        "south",
-        "american",
-        "tour",
-        "less",
-        "month",
-        "lung",
-        "surgery"
-      ],
-      "date": "2026-11-07T23:38:29.450Z"
     }
   ]
 }

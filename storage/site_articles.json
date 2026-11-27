@@ -1,5 +1,87 @@
 [
   {
+    "slug": "renewed-hostilities-yemen-expose-cost-disappearing-h0gu",
+    "path": "news/renewed-hostilities-yemen-expose-cost-disappearing-h0gu/",
+    "title": "Renewed Hostilities in Yemen Expose the Cost of Disappearing International Aid",
+    "headline": "SAUDI AIRSTRIKES IN YEMEN SIGNAL RENEWED REGIONAL ESCALATION",
+    "dek": "Cross-border strikes between Saudi forces and Houthi rebels have resumed alongside wider regional tensions. Beneath the exchange of fire lies a systemic collapse in international humanitarian funding.",
+    "category": "GEOPOLITICS",
+    "sourceName": "Al Jazeera",
+    "image": "img/renewed-hostilities-yemen-expose-cost-disappearing-h0gu.jpg",
+    "photo": "img/renewed-hostilities-yemen-expose-cost-disappearing-h0gu-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "RbtPSEGLoAI",
+      "title": "Yemen Air Strike Reportedly Kills 11 Civilians, Including Children, in Taiz | NewsX World",
+      "channel": "NewsX World"
+    },
+    "publishedAt": "2026-11-27T13:04:06.178Z",
+    "article": {
+      "slug": "renewed-hostilities-yemen-expose-cost-disappearing-h0gu",
+      "title": "Renewed Hostilities in Yemen Expose the Cost of Disappearing International Aid",
+      "dek": "Cross-border strikes between Saudi forces and Houthi rebels have resumed alongside wider regional tensions. Beneath the exchange of fire lies a systemic collapse in international humanitarian funding.",
+      "keyFacts": [
+        "Houthi media reported 11 civilians killed in a Saudi airstrike in al-Turbah, Taiz governorate.",
+        "The Saudi coalition confirmed destroying a Houthi drone targeted at the Riyadh region.",
+        "The World Health Organization reports 13,343 people killed or injured since fighting resumed in August.",
+        "The Norwegian Refugee Council received only 12 percent of its required emergency shelter funding for Yemen this year."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "An airstrike targeting the city of al-Turbah in Yemen's southern Taiz governorate killed 11 civilians, according to media outlets affiliated with the Houthi movement. A local source cited by the media stated that the strike hit a residential building, with the majority of the victims identified as children. Emergency teams retrieved eight bodies from the rubble, while three individuals remained missing.",
+            "While the Saudi-led coalition supporting Yemen's internationally recognized government did not immediately comment on the Taiz strike, it later announced that coalition forces had intercepted and destroyed an explosive-laden drone launched by Houthi forces toward the Riyadh region in Saudi Arabia."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The exchange marks a sharp deterioration in a conflict that has plagued Yemen since 2014, when Iran-backed Houthi forces seized the capital, Sanaa. Saudi Arabia assembled a military coalition in March 2015 to restore the ousted government, leading to years of protracted warfare.",
+            "A fragile ceasefire negotiated in 2022 largely halted major offensives, but fighting between Yemeni government forces and Houthis resumed in July. This breakdown coincided with heightened confrontation between the United States and Iran, which disrupted diplomatic backchannels and reignited secondary fronts across the Middle East."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While international attention remains focused on missile exchanges and regional diplomacy, a parallel crisis is unfolding in the humanitarian sector. Key donor nations, including the United States and Germany, have sharply reduced financial contributions to Yemen over recent years.",
+            "According to the Norwegian Refugee Council, relief organizations have secured only 12 percent of the funding necessary for emergency shelter support this year. As combat displaces thousands of families and disrupts local commercial supply routes, the safety net designed to absorb civilian displacement has effectively collapsed, creating a severe structural blind spot in Western crisis management."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "Regional proxy actors consolidate tactical leverage by reopening the Yemeni front, leveraging local clashes to assert dominance in wider geopolitical negotiations between Washington, Riyadh, and Tehran.",
+            "The primary burden falls upon Yemeni civilians and non-governmental aid groups. According to data from the World Health Organization, 13,343 people have been killed or injured since August, while organizations such as the Food and Agriculture Organization warn of acute food insecurity across renewed battle zones."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Key indicators include whether Houthi forces expand long-range drone and missile strikes into Saudi territory, which would force a stronger coalition reaction and threaten regional energy infrastructure.",
+            "Concurrently, monitor whether international donor conferences reallocate funds to humanitarian operations in Yemen or if sustained budget cuts will force complete retrenchment by major relief agencies."
+          ]
+        }
+      ],
+      "tags": [
+        "Yemen",
+        "Saudi Arabia",
+        "Houthis",
+        "Geopolitics",
+        "Humanitarian Crisis"
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "title": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
+          "url": "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss"
+        }
+      ],
+      "wordCount": 437
+    },
+    "blindSpot": "While mainstream headlines focus on immediate tactical military strikes between Houthi rebels and the Saudi coalition, they overlook how the broader US-Iran confrontation is actively reigniting the Yemeni theater. Crucially, Western donors including the United States and Germany have drastically scaled back humanitarian funding, leaving emergency response mechanisms completely depleted just as high-intensity combat resumes."
+  },
+  {
     "slug": "state-sanctioned-survivalism-strategic-subtext-uk-resilience-njfg",
     "path": "news/state-sanctioned-survivalism-strategic-subtext-uk-resilience-njfg/",
     "title": "State-Sanctioned Survivalism: The Strategic Subtext of the UK Resilience Campaign",
