@@ -238,9 +238,37 @@
     "https://www.wired.com/story/the-british-government-is-turning-everyone-into-a-prepper/",
     "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss",
     "https://www.europapress.es/internacional/noticia-menos-dos-muertos-ataque-ruso-contra-red-suministro-agua-provincia-chernigov-20261127132831.html",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVnhyX20tNWl0ZzUyT1Zia2VPYmI2WGx4czNSVTFnRm5OcVBJaThFX0pVSTBxRm5qTEZHbzhrSGh0SVNPazJBWFpIRmk2YmxLcGY2NC1MT0Nzdm1tM0haYWhqTWp5ODFZSlNYVXZrM0ZVdGVFTTlDdFloR20zXzFxZQ?oc=5"
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVnhyX20tNWl0ZzUyT1Zia2VPYmI2WGx4czNSVTFnRm5OcVBJaThFX0pVSTBxRm5qTEZHbzhrSGh0SVNPazJBWFpIRmk2YmxLcGY2NC1MT0Nzdm1tM0haYWhqTWp5ODFZSlNYVXZrM0ZVdGVFTTlDdFloR20zXzFxZQ?oc=5",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFRwQWxfcmJJYjdURlh4dEJ6bHRBMXdvZUt3Ry0wMGRmMDduc2N0NXVleHBaSWtFbENkbzVkSjRCMDNrUlp5LTdtdHd1WHBfZ044QllESlc1eTdRLTZCQ1NOTHo0aDVJX2xoeDRxOVZPSGxhdVYyOEZPT2w1eDBkZ0RlWUowdC1DWW52Wl85eEYtTHhNb1ZkMENTVmdzdHRTcEluMTZnSU9QSFF2c19rQ3Z0QXBoS3RoS3AtYy0yUQ?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "LULA TAPS BRADESCO CHIEF TO SOOTHE MARKETS",
+      "normalizedTokens": [
+        "lula",
+        "taps",
+        "bradesco",
+        "chief",
+        "soothe",
+        "markets"
+      ],
+      "date": "2026-11-27T23:08:01.020Z"
+    },
+    {
+      "title": "Brazilian markets rally after Lula taps Bradesco chairman for finance chief",
+      "normalizedTokens": [
+        "brazilian",
+        "markets",
+        "rally",
+        "lula",
+        "taps",
+        "bradesco",
+        "chairman",
+        "finance",
+        "chief"
+      ],
+      "date": "2026-11-27T23:08:01.018Z"
+    },
     {
       "title": "ALLSTATE TECH OUTAGE EXPOSES GROWING INFRASTRUCTURE FRAGILITY",
       "normalizedTokens": [
@@ -7154,31 +7182,6 @@
         "strike"
       ],
       "date": "2026-11-08T05:01:25.764Z"
-    },
-    {
-      "title": "ISRAEL PRESIDENT TAPS GADI EISENKOT TO FORM GOVERNMENT",
-      "normalizedTokens": [
-        "israel",
-        "president",
-        "taps",
-        "gadi",
-        "eisenkot",
-        "form",
-        "government"
-      ],
-      "date": "2026-11-08T03:40:52.938Z"
-    },
-    {
-      "title": "Israel president taps Eisenkot to form new government",
-      "normalizedTokens": [
-        "israel",
-        "president",
-        "taps",
-        "eisenkot",
-        "form",
-        "government"
-      ],
-      "date": "2026-11-08T03:40:52.937Z"
     }
   ]
 }

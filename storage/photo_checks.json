@@ -1408,5 +1408,10 @@
     "relevant": true,
     "reason": "The image displays the Allstate logo on a smartphone, directly identifying the company at the center of the tech outage report.",
     "at": "2026-11-27T15:32:44.608Z"
+  },
+  "e38d57a6e6c37352:wfj0cac6t": {
+    "relevant": true,
+    "reason": "The image shows Luiz Inácio Lula da Silva, the central figure making the appointment mentioned in the headline.",
+    "at": "2026-11-27T23:07:58.493Z"
   }
 }
