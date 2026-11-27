@@ -1373,5 +1373,15 @@
     "relevant": true,
     "reason": "The image shows Jensen Huang, CEO of Nvidia, directly representing the company whose AI dominance is central to the headline.",
     "at": "2026-11-27T01:48:21.626Z"
+  },
+  "dd521094b8c9f885:beespgyl9": {
+    "relevant": false,
+    "reason": "The image shows the logo of Rheinmetall, a German defense company, which is unrelated to the main headline about Italian workers killed in an Iranian drone strike in Kuwait.",
+    "at": "2026-11-27T02:42:58.816Z"
+  },
+  "bef11e3d005ff706:beespgyl9": {
+    "relevant": true,
+    "reason": "The image features the flag of Kuwait alongside a prominent Kuwaiti landmark, visually establishing the country where the strike occurred.",
+    "at": "2026-11-27T02:43:03.253Z"
   }
 }

@@ -232,9 +232,38 @@
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYjc1S044enVDVHpleXVSM2YwME5kOGM4azBiSF9QNVc1Q2MyYmNRVFNJZ1p1dFVSOXdKTGxqYi1pU1dhdzcycGQ0dm5pN1NaRmZUendRME9GRVFfNHluZ0pUZkpsc0xLX1pNb1ZFdEk0TU8yTjZxbklUbC04ZkNJbWt6V21qUEowclUwME5KY1ZfUlVXaUlPQm9faDZPVzB4clJfZkFLekxaQVNWaldMT0ZwSFl3LVYwblRiaXYzNEt3dzBMck1WUkp1QQ?oc=5",
     "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
     "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-    "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss"
+    "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2hPQWhhdW9HTWxtRndjQkN3aFhQTzhyWV9sQ0NTbHNsRFpINkRjMHhKRGN4QTk1NTJYWU1yVHhmYVJSazJEVGtOdVIzZ2xsNFJFeHF0YXNEbXBqTF94bnBDOEFnMV9JdGRRbWVROFJGRmZISmZWUXhtYTlJTXFFMlBWa2IwdXBfUXY4OENRd2tVeWh0Q1M1OThsMl9kMkVEamJiTjMzdWxwZHRzdlVHYmtwTUI?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "TWO ITALIAN WORKERS KILLED IN IRANIAN DRONE STRIKE IN KUWAIT",
+      "normalizedTokens": [
+        "two",
+        "italian",
+        "workers",
+        "killed",
+        "iranian",
+        "drone",
+        "strike",
+        "kuwait"
+      ],
+      "date": "2026-11-27T02:43:05.929Z"
+    },
+    {
+      "title": "Two Italian workers killed in Iranian strike in Kuwait, source says",
+      "normalizedTokens": [
+        "two",
+        "italian",
+        "workers",
+        "killed",
+        "iranian",
+        "strike",
+        "kuwait",
+        "source"
+      ],
+      "date": "2026-11-27T02:43:05.927Z"
+    },
     {
       "title": "ASIA MACRO EXPOSURE SWINGS ON NVIDIA AI DOMINANCE",
       "normalizedTokens": [
@@ -7154,27 +7183,6 @@
         "deepen"
       ],
       "date": "2026-11-07T18:56:31.346Z"
-    },
-    {
-      "title": "NAVARRO SIGNALS MASSIVE ESCALATION IN TRADE TARIFFS",
-      "normalizedTokens": [
-        "navarro",
-        "signals",
-        "massive",
-        "escalation",
-        "trade",
-        "tariffs"
-      ],
-      "date": "2026-11-07T18:43:22.950Z"
-    },
-    {
-      "title": "Navarro: ‘We’re quadrupling down on tariffs’",
-      "normalizedTokens": [
-        "navarro",
-        "quadrupling",
-        "tariffs"
-      ],
-      "date": "2026-11-07T18:43:22.950Z"
     }
   ]
 }

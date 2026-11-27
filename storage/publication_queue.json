@@ -24482,5 +24482,151 @@
     "attempts": 0,
     "maxAttempts": 3,
     "createdAt": "2026-11-27T01:48:28.156Z"
+  },
+  {
+    "id": "queue-1795747385913-wmkkc",
+    "news": {
+      "id": "beespgyl9",
+      "originalUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2hPQWhhdW9HTWxtRndjQkN3aFhQTzhyWV9sQ0NTbHNsRFpINkRjMHhKRGN4QTk1NTJYWU1yVHhmYVJSazJEVGtOdVIzZ2xsNFJFeHF0YXNEbXBqTF94bnBDOEFnMV9JdGRRbWVROFJGRmZISmZWUXhtYTlJTXFFMlBWa2IwdXBfUXY4OENRd2tVeWh0Q1M1OThsMl9kMkVEamJiTjMzdWxwZHRzdlVHYmtwTUI?oc=5",
+      "originalTitle": "Two Italian workers killed in Iranian strike in Kuwait, source says",
+      "sourceName": "Reuters",
+      "category": "SECURITY & DEFENSE",
+      "urgencyScore": 88,
+      "headline": "TWO ITALIAN WORKERS KILLED IN IRANIAN DRONE STRIKE IN KUWAIT",
+      "subHeadline": "The deaths of two European contractors in Kuwait mark a dangerous expansion of regional drone warfare, while Tehran officially denies involvement in the fatal strike.",
+      "blindSpotAngle": "While mainstream coverage focuses on diplomatic denials and localized casualties, the strike reveals a calcified targeting strategy aimed at foreign technical personnel vital to Gulf critical infrastructure. By expanding the strike envelope into Kuwait, regional actors are testing European risk tolerance and attempting to force diplomatic fractures within NATO's Gulf security partnerships.",
+      "facebookPost": "Two Italian contractors have been killed in Kuwait following an Iranian drone strike, an event that sharply elevates international exposure to the escalating Middle Eastern conflict. While official diplomatic channels report conflicting accounts on whether direct ordinance or intercepted drone debris caused the fatal impact, Iranian authorities have issued explicit denials of responsibility.\n\nThe critical blind spot lies in the changing geometry of regional targeting. Foreign civilian contractors form the operational backbone of Gulf energy and logistical infrastructure; casualties among European nationals alter the political calculus for EU capitals that have previously sought to maintain operational distance from regional skirmishes.\n\nHow will European governments recalibrate their security and commercial commitments in the Gulf when non-combatant foreign personnel become direct collateral?\n\nSource: Reuters\n\n#Security #Geopolitics #Blindspot",
+      "telegramPost": "<b>TWO ITALIAN WORKERS KILLED IN IRANIAN DRONE STRIKE IN KUWAIT</b>\n\n• <b>What happened:</b> Two Italian contractors died in Kuwait following an Iranian drone strike, though Tehran officially denies launching the attack.\n• <b>Why it matters:</b> The fatalities cross a critical operational threshold by inflicting Western civilian casualties on Gulf soil, threatening the commercial stability of foreign infrastructure projects across the region.\n• <b>What is next:</b> Expect heightened European diplomatic pressure for regional de-escalation alongside defensive realignments around key Gulf logistics and energy assets.",
+      "linkedInPost": "The fatal strike in Kuwait that claimed the lives of two Italian workers highlights an accelerating operational shift in Gulf risk profiles. Beyond the immediate diplomatic fallout and Tehran's public denial of responsibility, the event signals expanding vulnerabilities for foreign capital and international personnel operating in Gulf sovereign territory.\n\nFor enterprise risk directors and multinational logistics firms, the incident underscores three structural shifts: first, the rising operational cost of securing foreign technical talent in key energy and infrastructure hubs; second, the strategic inadequacy of conventional point-defense systems against low-cost uncrewed aerial systems; and third, potential shifts in European insurance premiums and corporate exposure throughout the Arabian Peninsula.\n\nAs asymmetrical aerial threats target secondary commercial hubs, Western corporate presence will face unprecedented political and operational pressure to reassess risk management frameworks across the region.\n\nSource: Reuters\n\n#RiskManagement #SupplyChain #Blindspot",
+      "blueskyPost": "Two Italian workers were killed in Kuwait following an Iranian drone strike that Tehran officially denies. The attack signals a dangerous expansion of regional targeting toward foreign infrastructure personnel. #Blindspot #Defense",
+      "copies": {
+        "facebook": "Two Italian contractors have been killed in Kuwait following an Iranian drone strike, an event that sharply elevates international exposure to the escalating Middle Eastern conflict. While official diplomatic channels report conflicting accounts on whether direct ordinance or intercepted drone debris caused the fatal impact, Iranian authorities have issued explicit denials of responsibility.\n\nThe critical blind spot lies in the changing geometry of regional targeting. Foreign civilian contractors form the operational backbone of Gulf energy and logistical infrastructure; casualties among European nationals alter the political calculus for EU capitals that have previously sought to maintain operational distance from regional skirmishes.\n\nHow will European governments recalibrate their security and commercial commitments in the Gulf when non-combatant foreign personnel become direct collateral? #Security #Geopolitics #Blindspot",
+        "telegram": "<b>TWO ITALIAN WORKERS KILLED IN IRANIAN DRONE STRIKE IN KUWAIT</b>\n\n• <b>What happened:</b> Two Italian contractors died in Kuwait following an Iranian drone strike, though Tehran officially denies launching the attack.\n• <b>Why it matters:</b> The fatalities cross a critical operational threshold by inflicting Western civilian casualties on Gulf soil, threatening the commercial stability of foreign infrastructure projects across the region.\n• <b>What is next:</b> Expect heightened European diplomatic pressure for regional de-escalation alongside defensive realignments around key Gulf logistics and energy assets.",
+        "bluesky": "Two Italian workers were killed in Kuwait following an Iranian drone strike that Tehran officially denies. The attack signals a dangerous expansion of regional targeting toward foreign infrastructure personnel. #Blindspot #Defense",
+        "linkedIn": "The fatal strike in Kuwait that claimed the lives of two Italian workers highlights an accelerating operational shift in Gulf risk profiles. Beyond the immediate diplomatic fallout and Tehran's public denial of responsibility, the event signals expanding vulnerabilities for foreign capital and international personnel operating in Gulf sovereign territory.\n\nFor enterprise risk directors and multinational logistics firms, the incident underscores three structural shifts: first, the rising operational cost of securing foreign technical talent in key energy and infrastructure hubs; second, the strategic inadequacy of conventional point-defense systems against low-cost uncrewed aerial systems; and third, potential shifts in European insurance premiums and corporate exposure throughout the Arabian Peninsula.\n\nAs asymmetrical aerial threats target secondary commercial hubs, Western corporate presence will face unprecedented political and operational pressure to reassess risk management frameworks across the region.\n\n#RiskManagement #SupplyChain #Blindspot"
+      },
+      "article": {
+        "slug": "fatal-drone-attack-kuwait-exposes-vulnerabilities-e54p",
+        "title": "Fatal Drone Attack in Kuwait Exposes Vulnerabilities of Foreign Contractors in the Gulf",
+        "dek": "The deaths of two Italian workers in Kuwait mark a critical escalation in regional drone warfare. While Tehran denies responsibility, the strike challenges Western corporate security assumptions in the Arabian Peninsula.",
+        "keyFacts": [
+          "Two Italian workers were killed in Kuwait following an Iranian drone strike, according to reporting corroborated by Reuters, BBC, and Al Jazeera.",
+          "Iranian authorities officially denied responsibility for the attack.",
+          "Dispatches indicate the fatalities resulted from direct strike impact or debris from an uncrewed aerial vehicle.",
+          "The incident marks one of the few instances of Western civilian contractor casualties occurring in Kuwait during the current cycle of regional escalation."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "According to reports from Reuters, The Washington Post, and the BBC, two Italian contractors were killed in Kuwait following an Iranian drone attack targeting infrastructure facilities. Initial assessments from regional officials suggest the casualties resulted from direct kinetic impact or structural disruption caused by drone debris.",
+              "Iranian diplomatic channels immediately issued statement denying responsibility for the strike. However, defense analysts and regional intelligence sources cited across international media outlets attribute the launch to Iranian-backed capabilities deployed against targets across the Arabian Peninsula."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "The strike comes amidst unprecedented cross-border aerial volatility across the Middle East. Over recent months, low-cost uncrewed aerial systems have consistently targeted energy assets, transport hubs, and military installations across the Gulf region.",
+              "Kuwait, long considered a relatively stable logistics sanctuary compared to active confrontation zones in the Levant and Red Sea, has found its sovereign space increasingly drawn into the broader regional theater of operations."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "Mainstream coverage has largely framed this event around standard diplomatic denials and military press briefings. The unexamined vector, however, is the structural threat posed to the multi-billion-dollar ecosystem of foreign civilian specialists operating critical infrastructure throughout the Gulf.",
+              "Gulf economies rely heavily on European and Western technical expertise to maintain port operations, energy grids, and defense systems. By expanding aerial attacks into areas with high concentrations of foreign personnel, regional actors create secondary economic friction: rising corporate insurance surcharges, potential contractor evacuations, and heightened domestic pressure on European governments to review their security footprint."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "For Iran and its proxy networks, the strike demonstrates an expanded reach capability that imposes asymmetrical economic costs on Gulf states without requiring sustained conventional naval or territorial engagements.",
+              "Conversely, European nations and Gulf host governments face clear strategic costs. European capitals face political pushback over the safety of their citizens abroad, while Gulf states face structural doubts regarding the efficacy of existing air defense umbrellas protecting critical commercial zones."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "Observers must monitor whether Rome initiates formally coordinated diplomatic or security inquiries through NATO and European Union frameworks. Any joint investigation into the origin of the drone wreckage could harden Western sanctions policy.",
+              "Additionally, monitor corporate migration and insurance risk reclassifications across Kuwait and neighboring Gulf states. If international engineering and defense contractors begin curtailing operations, the economic shockwaves will far outlast the diplomatic dispute."
+            ]
+          }
+        ],
+        "tags": [
+          "Kuwait",
+          "Iran",
+          "Italy",
+          "Drone Warfare",
+          "Middle East Security"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "title": "Two Italian workers killed in Iranian strike in Kuwait, source says",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2hPQWhhdW9HTWxtRndjQkN3aFhQTzhyWV9sQ0NTbHNsRFpINkRjMHhKRGN4QTk1NTJYWU1yVHhmYVJSazJEVGtOdVIzZ2xsNFJFeHF0YXNEbXBqTF94bnBDOEFnMV9JdGRRbWVROFJGRmZISmZWUXhtYTlJTXFFMlBWa2IwdXBfUXY4OENRd2tVeWh0Q1M1OThsMl9kMkVEamJiTjMzdWxwZHRzdlVHYmtwTUI?oc=5"
+          },
+          {
+            "name": "The Washington Post",
+            "title": "Two Italians killed in Kuwait as a strained Iran ramps up attacks",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdFVJenQ4a3hlOERnbnhWVGJ1QkNhUVQ1UjFGdUl2QjRFTjVaQUM4VC1sN2ZIWV9INVA3Y1hjUDA5VV94Zk4yOGF2Z00zak5OcGVNYTA3d2trbUxneVR6NnV0YXZ5Y3R5RDh3cTN0LVNqenltbmZMX2E1VkswTmNOT0t4R3hKWDNNeTRRbThMN2lFcUpRUjRwTjVnWS1sSDRLN2NTczlQNGg1Zw?oc=5"
+          },
+          {
+            "name": "BBC",
+            "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82VmIyOXM0dFF5ZVFScjVxU0IzbUV3cU53d1JybkZ3eEJxaUFCTXR4Y0dmS3FjREhrcVZ4QW5GN3AtMHJNdWFDT1JaeWppVkZrXzkteDgzZ0MzTFk?oc=5"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTTJLR040dFNoUlFYaVk0RF9CMUp2d1drUlVYVkNXWGQ4MldxM0VFTE52MDMzTHNXVmpFVEZjeGUteHlCY00zWjFNcFVVX1ZWOWhLSE9GeF9tRGE2bWVVd1l4eHVtY3hUc0dnN19rbVZfN0k4cUtZcTRwQlgzbXF5NUZmM242RmU2UGVXR2tGRHM1RUNOMF9qdVZDTjBFZFZDOWp1blozM3lhU1VXcVhR0gG0AUFVX3lxTFBoVDAzRnVkN1JNUEliazROM0hQamFsWVF0a3lxZXBISlcwOFhoWndKNnlDU1JVMzZWVXM1aVVLRm1aQXNNOU45bnZIVHlqcUg2R2hCbHY4bEtHaEFqS2dmY0RmUlpRMG9MRTZoZTYxMDRLLXhaLWtla2dzNWY1b0xzMU15R0dlVkdJTW9EeFNHYkdRN0RwT2llT2ZWUVlKQ3IwS1ZrRWRHSXdwMUdGZGVkcjF0WA?oc=5"
+          },
+          {
+            "name": "The National",
+            "title": "Two Italian workers killed in Iranian drone attack on Kuwait",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNXzFZMkd0UkE3VGhHbVpDOUYtSThlNVlrTXlPQWRocnZLdTBmeks3aUJ5TWxJeXc4ZHN6UTdjYWtJQnZZMllnWXd4RUtPR1VUb29jR1NhbVlhMmZUMGxWTnU2V2NoN0VZSTdoQ0E3eFpwUk42VkdFc3AwMERiOGw1ODREQ2RSaFQwSDhRZ2pOZFVtaDBFWTF5WlN0WkNDd2lOazh4V3JYS2o3T2diOWRKZGRZNkk?oc=5"
+          }
+        ],
+        "wordCount": 408
+      },
+      "videoScript": {
+        "hook": "Who pays the price when regional drone warfare strikes foreign commercial infrastructure?",
+        "beats": [
+          "2 Italian workers were killed in Kuwait after an Iranian drone attack hit local infrastructure.",
+          "Tehran officially denied launch responsibility while local reports cited heavy drone strike debris.",
+          "Here is the catch: targeting foreign technical specialists forces European capitals to recalculate their presence in the Gulf."
+        ],
+        "close": "Read our full geopolitical analysis on regional security risks at the link in bio."
+      },
+      "rawImageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0855ffcdbc7-1795708415.jpg?resize=1920%2C1440",
+      "sourceVideo": {
+        "provider": "youtube",
+        "id": "72hc4Xyp_WE",
+        "title": "Two Italians Killed in Kuwait Drone Attack",
+        "channel": "Daily News Explained",
+        "license": "cc-by"
+      },
+      "status": "pending",
+      "createdAt": "2026-11-27T02:43:03.255Z",
+      "cardImageUrl": "/news-cards/news-beespgyl9-1795747383255.jpg",
+      "reelCoverUrl": "/news-cards/news-beespgyl9-1795747383958-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-beespgyl9-1795747384550-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/fatal-drone-attack-kuwait-exposes-vulnerabilities-e54p/"
+    },
+    "channels": {
+      "facebook": true,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": true,
+      "mastodon": false,
+      "threads": false,
+      "youtube": true
+    },
+    "scheduledFor": "2026-11-27T11:02:00.000Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-27T02:43:05.913Z"
   }
 ]
