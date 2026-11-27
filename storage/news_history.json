@@ -237,9 +237,35 @@
     "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
     "https://www.wired.com/story/the-british-government-is-turning-everyone-into-a-prepper/",
     "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss",
-    "https://www.europapress.es/internacional/noticia-menos-dos-muertos-ataque-ruso-contra-red-suministro-agua-provincia-chernigov-20261127132831.html"
+    "https://www.europapress.es/internacional/noticia-menos-dos-muertos-ataque-ruso-contra-red-suministro-agua-provincia-chernigov-20261127132831.html",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVnhyX20tNWl0ZzUyT1Zia2VPYmI2WGx4czNSVTFnRm5OcVBJaThFX0pVSTBxRm5qTEZHbzhrSGh0SVNPazJBWFpIRmk2YmxLcGY2NC1MT0Nzdm1tM0haYWhqTWp5ODFZSlNYVXZrM0ZVdGVFTTlDdFloR20zXzFxZQ?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "ALLSTATE TECH OUTAGE EXPOSES GROWING INFRASTRUCTURE FRAGILITY",
+      "normalizedTokens": [
+        "allstate",
+        "tech",
+        "outage",
+        "exposes",
+        "growing",
+        "infrastructure",
+        "fragility"
+      ],
+      "date": "2026-11-27T15:32:48.160Z"
+    },
+    {
+      "title": "Allstate roiled by tech outage over Thanksgiving week",
+      "normalizedTokens": [
+        "allstate",
+        "roiled",
+        "tech",
+        "outage",
+        "thanksgiving",
+        "week"
+      ],
+      "date": "2026-11-27T15:32:48.157Z"
+    },
     {
       "title": "RUSSIAN ATTACK ON CHERNIHIV WATER INFRASTRUCTURE KILLS TWO",
       "normalizedTokens": [
@@ -7153,35 +7179,6 @@
         "government"
       ],
       "date": "2026-11-08T03:40:52.937Z"
-    },
-    {
-      "title": "SOFTBANK AND ABB EXPLORE CHINA CARVE-OUT FOR DEAL",
-      "normalizedTokens": [
-        "softbank",
-        "abb",
-        "explore",
-        "china",
-        "carve",
-        "deal"
-      ],
-      "date": "2026-11-08T02:39:46.651Z"
-    },
-    {
-      "title": "SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports",
-      "normalizedTokens": [
-        "softbank",
-        "abb",
-        "explore",
-        "china",
-        "carve",
-        "salvage",
-        "robotics",
-        "deal",
-        "bloomberg",
-        "news",
-        "reports"
-      ],
-      "date": "2026-11-08T02:39:46.650Z"
     }
   ]
 }

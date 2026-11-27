@@ -1403,5 +1403,10 @@
     "relevant": true,
     "reason": "The image depicts smoke and destruction consistent with an airstrike in Yemen, directly illustrating the news story about Saudi airstrikes and regional escalation.",
     "at": "2026-11-27T13:04:03.467Z"
+  },
+  "6eed40ba44d825b4:l6f355p5d": {
+    "relevant": true,
+    "reason": "The image displays the Allstate logo on a smartphone, directly identifying the company at the center of the tech outage report.",
+    "at": "2026-11-27T15:32:44.608Z"
   }
 }
