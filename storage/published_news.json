@@ -1,5 +1,106 @@
 [
   {
+    "id": "w4ojgddb3",
+    "originalUrl": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+    "originalTitle": "Asia made a big AI bet on Nvidia. What happens now?",
+    "sourceName": "BBC Business",
+    "category": "GLOBAL ECONOMY",
+    "urgencyScore": 84,
+    "headline": "ASIA MACRO EXPOSURE SWINGS ON NVIDIA AI DOMINANCE",
+    "subHeadline": "Supply chain concentration in Taiwan, South Korea, and Japan has tied Asian sovereign growth to Nvidia's equity performance and regulatory hurdles in Washington.",
+    "blindSpotAngle": "While Asian markets treat Nvidia's demand as a broad tech boom, national economies are quietly surrendering their sovereign export stability to a single U.S. fabless firm. Because Nvidia finances hardware vendors and outsources physical fabrication to TSMC, any political or regulatory action against Santa Clara reverberates as a macroeconomic shock across East Asia.",
+    "facebookPost": "Stock markets across Japan, South Korea, and Taiwan swung dramatically following recent volatility in Nvidia equity, underscoring how deeply East Asian economies have integrated into a single corporate supply chain. From TSMC's advanced semiconductor fabrication in Taiwan to memory chip manufacturing by Samsung and SK Hynix, regional industrial output is increasingly pegged to U.S. artificial intelligence demand.\n\nWhile corporate leaders celebrate surging export numbers and foreign direct investment, the underlying structural risk remains unaddressed. By relying on Nvidia not only as an exclusive customer but also as a primary financier across hardware supply lines, East Asian tech hubs have tethered their national economic performance to regulatory decisions in Washington and equity swings on Wall Street.\n\nCan Asian export economies maintain long-term stability when their primary growth driver is controlled by a single silicon designer?\n\nSource: BBC Business\n\n#GlobalEconomy #Semiconductors #Blindspot",
+    "telegramPost": "<b>ASIA MACRO EXPOSURE SWINGS ON NVIDIA AI DOMINANCE</b>\n\n• <b>What happened:</b> Stock benchmarks in Japan, South Korea, and Taiwan experienced severe volatility following fluctuations in Nvidia shares and political scrutiny.\n• <b>Why it matters:</b> East Asian economies are heavily reliant on Nvidia through TSMC fabrication and memory chip suppliers like Samsung and SK Hynix, making national economic growth dependent on one U.S. firm.\n• <b>What is next:</b> Heightened regulatory scrutiny in Washington and potential shifts in AI capital expenditure could destabilize regional export performance across East Asia.",
+    "linkedInPost": "The volatility surrounding Nvidia stock has exposed a critical macroeconomic vulnerability across East Asia. Economic growth in Taiwan, South Korea, and Japan is increasingly concentrated around artificial intelligence hardware exports. With Taiwan's TSMC handling advanced fabrication and South Korea's Samsung and SK Hynix supplying essential memory components, regional industrial health is directly correlated with U.S. chip design orders.\n\nNvidia's dual role as market catalyst and key credit backstop in the AI ecosystem creates systemic risk. As Jensen Huang targets a planned $150bn annual investment footprint in Taiwan, national policymakers must balance short-term foreign capital inflows against the long-term cost of single-firm dependency.\n\nSource: BBC Business\n\n#GlobalEconomy #Semiconductors #Blindspot",
+    "blueskyPost": "East Asian markets face unprecedented risk as economic growth in Taiwan and South Korea tethers to Nvidia demand and U.S. trade policy. #Blindspot #GlobalEconomy",
+    "copies": {
+      "facebook": "Stock markets across Japan, South Korea, and Taiwan swung dramatically following recent volatility in Nvidia equity, underscoring how deeply East Asian economies have integrated into a single corporate supply chain. From TSMC's advanced semiconductor fabrication in Taiwan to memory chip manufacturing by Samsung and SK Hynix, regional industrial output is increasingly pegged to U.S. artificial intelligence demand.\n\nWhile corporate leaders celebrate surging export numbers and foreign direct investment, the underlying structural risk remains unaddressed. By relying on Nvidia not only as an exclusive customer but also as a primary financier across hardware supply lines, East Asian tech hubs have tethered their national economic performance to regulatory decisions in Washington and equity swings on Wall Street.\n\nCan Asian export economies maintain long-term stability when their primary growth driver is controlled by a single silicon designer? #GlobalEconomy #Semiconductors #Blindspot",
+      "telegram": "<b>ASIA MACRO EXPOSURE SWINGS ON NVIDIA AI DOMINANCE</b>\n\n• <b>What happened:</b> Stock benchmarks in Japan, South Korea, and Taiwan experienced severe volatility following fluctuations in Nvidia shares and political scrutiny.\n• <b>Why it matters:</b> East Asian economies are heavily reliant on Nvidia through TSMC fabrication and memory chip suppliers like Samsung and SK Hynix, making national economic growth dependent on one U.S. firm.\n• <b>What is next:</b> Heightened regulatory scrutiny in Washington and potential shifts in AI capital expenditure could destabilize regional export performance across East Asia.",
+      "bluesky": "East Asian markets face unprecedented risk as economic growth in Taiwan and South Korea tethers to Nvidia demand and U.S. trade policy. #Blindspot #GlobalEconomy",
+      "linkedIn": "The volatility surrounding Nvidia stock has exposed a critical macroeconomic vulnerability across East Asia. Economic growth in Taiwan, South Korea, and Japan is increasingly concentrated around artificial intelligence hardware exports. With Taiwan's TSMC handling advanced fabrication and South Korea's Samsung and SK Hynix supplying essential memory components, regional industrial health is directly correlated with U.S. chip design orders.\n\nNvidia's dual role as market catalyst and key credit backstop in the AI ecosystem creates systemic risk. As Jensen Huang targets a planned $150bn annual investment footprint in Taiwan, national policymakers must balance short-term foreign capital inflows against the long-term cost of single-firm dependency.\n\n#GlobalEconomy #Semiconductors #Blindspot"
+    },
+    "article": {
+      "slug": "asian-growth-models-face-systemic-risk-zbpb",
+      "title": "Asian Growth Models Face Systemic Risk from Nvidia AI Dominance",
+      "dek": "East Asian tech hubs have tied their macroeconomic fortunes to a single U.S. chip designer. As market volatility hits semiconductor stocks, structural exposure across Taiwan, South Korea, and Japan comes into sharp focus.",
+      "keyFacts": [
+        "Nvidia contracts out most of its chip production to Taiwanese manufacturing giant TSMC.",
+        "Jensen Huang announced plans for Nvidia to invest around $150bn annually in Taiwan.",
+        "South Korean suppliers Samsung and SK Hynix produce key memory chips and testing equipment for Nvidia processors.",
+        "Stock indices in Japan, South Korea, and Taiwan experienced volatile swings linked to Nvidia valuation shifts."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Major stock indices across Japan, South Korea, and Taiwan experienced heightened volatility following erratic trading in Nvidia equity and growing political scrutiny surrounding the U.S. chip designer. Market rallies spurred by massive capital inflows into AI hardware quickly gave way to pullbacks as investors evaluated regulatory risks in Washington.",
+            "According to BBC Business, the fluctuations demonstrated the extreme sensitivity of East Asian financial markets to Nvidia's corporate trajectory. The firm has emerged as the central economic engine for regional tech exports, dictating valuations across hardware suppliers, component makers, and assembly partners."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "The expansion of artificial intelligence infrastructure has transformed East Asia's economic strategy. Taiwan's real economic growth surge since 2024 has been propelled almost entirely by AI-related hardware exports. Central to this dynamic is Taiwan Semiconductor Manufacturing Company (TSMC), which fabricates Nvidia's most advanced processor designs.",
+            "Beyond Taiwan, South Korea and Japan supply essential components to the ecosystem. According to East Asia Econ founder Paul Cavey, South Korean giants Samsung and SK Hynix manufacture key memory chips and testing equipment integral to Nvidia processors. This interconnected network has made semiconductor exports the primary driver of regional GDP growth."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "Mainstream financial commentary treats Nvidia's growth as a rising tide lifting all East Asian technology sectors. However, the blind spot lies in the extreme concentration of macroeconomic risk. Nvidia operates as a fabless entity, outsourcing physical production while acting as a financial lender and backstop across its supply chain. This structure concentrates systemic leverage within a single corporation.",
+            "Because East Asian national export strategies are deeply intertwined with Nvidia's operational roadmap—including Jensen Huang's stated plan to invest approximately $150bn annually in Taiwan—these sovereign economies have surrendered critical leverage. Any regulatory crackdown, antitrust action, or hardware demand correction in the United States directly threatens the fiscal stability of East Asian export nations."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "In the short term, advanced chip fabricators and specialized memory suppliers gain massive revenues and foreign capital investments. TSMC, SK Hynix, and Samsung remain irreplaceable anchors of the global technology supply chain, ensuring steady cash flows while demand holds.",
+            "Conversely, Asian economies bear elevated macroeconomic exposure. National budgets and currency stability become hostage to equity shifts in Silicon Valley and political decisions in Washington. Smaller regional players like Singapore and Malaysia, which are expanding data center capacity, face vulnerability if global AI infrastructure expenditure slows."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Key indicators include incoming U.S. regulatory filings and potential antitrust actions targeting Nvidia's dominance across software and hardware stacks. Analysts will also monitor whether Jensen Huang fulfills the planned $150bn annual investment commitments in Taiwan amidst tightening geopolitical constraints.",
+            "Furthermore, quarterly export totals from Taiwan and South Korea will serve as a barometer for regional resilience. Any deceleration in Nvidia chip orders will immediately manifest in broader trade deficits across East Asian markets."
+          ]
+        }
+      ],
+      "tags": [
+        "Global Economy",
+        "Semiconductors",
+        "Nvidia",
+        "East Asia",
+        "Supply Chains"
+      ],
+      "sources": [
+        {
+          "name": "BBC Business",
+          "title": "Asia made a big AI bet on Nvidia. What happens now?",
+          "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "wordCount": 490
+    },
+    "videoScript": {
+      "hook": "Asian stock markets are riding a financial coaster driven by one single company.",
+      "beats": [
+        "Nvidia outsources its manufacturing to Taiwan's TSMC while pledging $150bn in annual investments.",
+        "South Korean giants Samsung and SK Hynix provide the memory components powering these advanced AI chips.",
+        "What nobody is talking about is how East Asian national economies have tied their growth entirely to Nvidia."
+      ],
+      "close": "Read our full macroeconomic analysis at the link in our bio."
+    },
+    "rawImageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c76/live/9f54a560-e956-11f1-a629-63e812fa871f.jpg",
+    "status": "published",
+    "createdAt": "2026-11-27T01:48:23.475Z",
+    "cardImageUrl": "/news-cards/news-w4ojgddb3-1795744103475.jpg",
+    "reelCoverUrl": "/news-cards/news-w4ojgddb3-1795744106721-cover.jpg",
+    "instagramCardUrl": "/news-cards/news-w4ojgddb3-1795744107181-ig.jpg",
+    "articleUrl": "https://blindspotglobal.pages.dev/news/asian-growth-models-face-systemic-risk-zbpb/",
+    "publishedAt": "2026-11-27T03:57:23.868Z"
+  },
+  {
     "id": "5qau82bnf",
     "originalUrl": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
     "originalTitle": "The best Black Friday deals we’ve already found",
@@ -24246,135 +24347,5 @@
     "instagramCardUrl": "/news-cards/news-v3d5h2za9-1794223313902-ig.jpg",
     "articleUrl": "https://blindspotglobal.pages.dev/news/china-producer-prices-surge-four-year-high-x8rm/",
     "publishedAt": "2026-11-09T12:07:30.174Z"
-  },
-  {
-    "id": "rxyauwhvh",
-    "originalUrl": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-    "originalTitle": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
-    "sourceName": "The Verge",
-    "category": "TECHNOLOGY & AI",
-    "urgencyScore": 92,
-    "headline": "NVIDIA INVESTIGATES CEO JENSEN HUANG OVER CHINESE ESPIONAGE ALLEGATIONS",
-    "subHeadline": "Nvidia's board of directors initiated an independent inquiry into CEO Jensen Huang following disclosures of a romantic relationship with a Megaspeed executive linked to Chinese intelligence. The distributor is simultaneously under federal investigation for illegal AI chip transfers to Beijing.",
-    "blindSpotAngle": "Beyond corporate governance, the story reveals how state intelligence agencies exploit human vectors within third-party hardware distributors to breach national tech barriers. Huang's proximity to senior U.S. officials raises critical concerns that high-level executive discussions regarding American AI strategy may have been indirectly exposed to Beijing.",
-    "facebookPost": "Nvidia's board of directors has launched an independent investigation into founder and CEO Jensen Huang following revelations of a romantic relationship with Alice Huang, an executive at customer firm Megaspeed. According to reporting from the New York Times, U.S. officials believe the executive was recruited by China's Ministry of State Security to gather intelligence on America's leading microchip developer.\n\nWhile Nvidia states it has no reason to believe national security secrets were compromised, the context is precarious. Megaspeed is currently under investigation by the U.S. Commerce Department for potentially smuggling restricted AI chips into China. Furthermore, Jensen Huang's frequent access to high-level U.S. policy discussions creates lingering concerns regarding what strategic insights may have reached foreign intelligence.\n\nDoes this probe mark a fundamental shift in how Silicon Valley executives will be vetted for national security compliance?\n\nSource: The Verge\n\n#TechnologyAI #Nvidia #Blindspot",
-    "telegramPost": "<b>NVIDIA INVESTIGATES CEO JENSEN HUANG OVER CHINESE ESPIONAGE ALLEGATIONS</b>\n\n• <b>What happened:</b> Nvidia's board launched an independent investigation into CEO Jensen Huang over a relationship with a Megaspeed executive allegedly recruited by Chinese state intelligence.\n• <b>Why it matters:</b> Megaspeed is already under U.S. Commerce Department scrutiny for illegal AI chip smuggling, highlighting critical security gaps in semiconductor supply networks.\n• <b>What is next:</b> Outside legal counsel will audit Nvidia's internal records while federal regulators re-examine executive policy access and third-party silicon distribution.",
-    "linkedInPost": "The board investigation into Nvidia CEO Jensen Huang introduces major macroeconomic and regulatory implications for the global semiconductor ecosystem. The inquiry follows disclosures of a relationship with an executive at Megaspeed—a key hardware customer currently under U.S. Commerce Department investigation for alleged AI chip smuggling to China.\n\nFor institutional investors and risk analysts, the critical vulnerability lies in supply chain intermediary integrity and executive counterintelligence exposure. With Nvidia's chips forming the bedrock of national security infrastructure, regulatory scrutiny over third-party distributors will inevitably intensify, altering cross-border hardware distribution models.\n\nHow will heightened scrutiny over silicon executive access impact corporate governance across dual-use tech supply chains?\n\nSource: The Verge\n\n#TechnologyAI #Geopolitics #Blindspot",
-    "blueskyPost": "Nvidia probes CEO Jensen Huang over ties to an alleged Chinese spy, while customer Megaspeed faces AI chip smuggling inquiries. Tech access meets intelligence risks. #Blindspot #TechnologyAI",
-    "copies": {
-      "facebook": "Nvidia's board of directors has launched an independent investigation into founder and CEO Jensen Huang following revelations of a romantic relationship with Alice Huang, an executive at customer firm Megaspeed. According to reporting from the New York Times, U.S. officials believe the executive was recruited by China's Ministry of State Security to gather intelligence on America's leading microchip developer.\n\nWhile Nvidia states it has no reason to believe national security secrets were compromised, the context is precarious. Megaspeed is currently under investigation by the U.S. Commerce Department for potentially smuggling restricted AI chips into China. Furthermore, Jensen Huang's frequent access to high-level U.S. policy discussions creates lingering concerns regarding what strategic insights may have reached foreign intelligence.\n\nDoes this probe mark a fundamental shift in how Silicon Valley executives will be vetted for national security compliance? #TechnologyAI #Nvidia #Blindspot",
-      "telegram": "<b>NVIDIA INVESTIGATES CEO JENSEN HUANG OVER CHINESE ESPIONAGE ALLEGATIONS</b>\n\n• <b>What happened:</b> Nvidia's board launched an independent investigation into CEO Jensen Huang over a relationship with a Megaspeed executive allegedly recruited by Chinese state intelligence.\n• <b>Why it matters:</b> Megaspeed is already under U.S. Commerce Department scrutiny for illegal AI chip smuggling, highlighting critical security gaps in semiconductor supply networks.\n• <b>What is next:</b> Outside legal counsel will audit Nvidia's internal records while federal regulators re-examine executive policy access and third-party silicon distribution.",
-      "bluesky": "Nvidia probes CEO Jensen Huang over ties to an alleged Chinese spy, while customer Megaspeed faces AI chip smuggling inquiries. Tech access meets intelligence risks. #Blindspot #TechnologyAI",
-      "linkedIn": "The board investigation into Nvidia CEO Jensen Huang introduces major macroeconomic and regulatory implications for the global semiconductor ecosystem. The inquiry follows disclosures of a relationship with an executive at Megaspeed—a key hardware customer currently under U.S. Commerce Department investigation for alleged AI chip smuggling to China.\n\nFor institutional investors and risk analysts, the critical vulnerability lies in supply chain intermediary integrity and executive counterintelligence exposure. With Nvidia's chips forming the bedrock of national security infrastructure, regulatory scrutiny over third-party distributors will inevitably intensify, altering cross-border hardware distribution models.\n\nHow will heightened scrutiny over silicon executive access impact corporate governance across dual-use tech supply chains? #TechnologyAI #Geopolitics #Blindspot"
-    },
-    "article": {
-      "slug": "nvidia-board-launches-probe-into-ceo-8dpm",
-      "title": "Nvidia Board Launches Probe into CEO Jensen Huang Amid Chinese Intelligence Concerns",
-      "dek": "Nvidia has opened an independent investigation into founder Jensen Huang's relationship with an executive linked to Chinese intelligence. The inquiry puts a spotlight on silicon security, executive access, and Beijing's espionage tactics.",
-      "keyFacts": [
-        "Nvidia's board of directors launched an independent investigation into CEO Jensen Huang led by a committee of independent directors and outside counsel.",
-        "The probe follows reports of Huang's romantic relationship with Alice Huang, an executive at Nvidia customer Megaspeed.",
-        "U.S. officials suspect Alice Huang was recruited by China's Ministry of State Security to feed intelligence to Beijing.",
-        "Megaspeed is under investigation by the U.S. Commerce Department for allegedly smuggling restricted AI chips into China.",
-        "Export controls established across both the Biden and Trump administrations restrict the sale of Nvidia's most powerful AI chips to Chinese firms."
-      ],
-      "sections": [
-        {
-          "heading": "What Happened",
-          "paragraphs": [
-            "Nvidia's board of directors announced an independent investigation into founder and Chief Executive Officer Jensen Huang following disclosures regarding his relationship with an executive linked to Chinese state intelligence. The board stated that a committee of independent directors, assisted by outside counsel, will oversee the inquiry to review all available information.",
-            "The announcement follows reporting by the New York Times detailing a relationship between Jensen Huang and Alice Huang, a senior executive at Megaspeed. In an internal corporate memo, Jensen Huang admitted the relationship was romantic. U.S. government officials believe Alice Huang was recruited by China's Ministry of State Security to gather intelligence on the semiconductor giant."
-          ]
-        },
-        {
-          "heading": "The Context",
-          "paragraphs": [
-            "The inquiry emerges amidst intense geopolitical friction surrounding microchip technology. Nvidia's hardware is widely considered essential to national security and artificial intelligence supremacy. Consequently, both the Biden and Trump administrations placed strict export bans on high-performance silicon shipped to Chinese entities.",
-            "Megaspeed, an Nvidia customer, is currently the target of a U.S. Department of Commerce probe examining whether the company engaged in illicit transactions to smuggle restricted AI microprocessors directly into mainland China in violation of federal restrictions."
-          ]
-        },
-        {
-          "heading": "The Blind Spot",
-          "paragraphs": [
-            "While mainstream coverage centers on executive misconduct, the strategic blind spot involves human intelligence targeting of key nodes within technology supply chains. Intelligence agencies often focus on intermediate corporate customers and supply chain intermediaries to bypass formal corporate perimeter defenses.",
-            "Furthermore, Jensen Huang has maintained close access to top U.S. government leadership, participating in confidential deliberations regarding domestic AI subsidies, hardware sanctions, and federal tech policy. The potential risk that executive insights into U.S. administrative strategy were exposed represents a critical intelligence concern."
-          ]
-        },
-        {
-          "heading": "Winners and Losers",
-          "paragraphs": [
-            "Beijing's intelligence apparatus gains actionable insight into U.S. supply chain enforcement boundaries if confidential policy details were compromised. Rival chip manufacturers may also capitalize on the corporate governance disruption to seek government procurement contracts.",
-            "Nvidia faces immediate reputational pressure, potential regulatory sanctions, and legal oversight. The inquiry directly challenges Jensen Huang's standing in Washington as a trusted advisor on national technological strategy."
-          ]
-        },
-        {
-          "heading": "What to Watch",
-          "paragraphs": [
-            "Outside counsel will evaluate internal communications and data records to verify whether proprietary technology or national security discussions were compromised. Simultaneously, the Department of Commerce's final findings on Megaspeed will dictate potential federal legal actions.",
-            "Lawmakers in Washington are expected to demand stricter counterintelligence protocols and security clearance requirements for executive leadership handling dual-use technologies."
-          ]
-        }
-      ],
-      "tags": [
-        "Nvidia",
-        "Jensen Huang",
-        "Artificial Intelligence",
-        "China",
-        "Semiconductors",
-        "Espionage"
-      ],
-      "sources": [
-        {
-          "name": "The Verge",
-          "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
-        },
-        {
-          "name": "The New York Times",
-          "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdZZkpucG9aOVF5R2JPeHljWV85XzlhbUxnbUREYWlKQzBiR1UzeWxwaF9EMnpDajI1aXlmMlo0aENzeGdyRzJDSEtJR0xVanhFSkN3bXE0R1FYV2VWZHdIV1A1MmFlczN4VnRZcVZ5QV9xdUlxZXVlZVl3eHRqVWxsVmE1dktHZzdnelB0ZjUwejJj?oc=5"
-        },
-        {
-          "name": "NPR",
-          "title": "Nvidia launches investigation into CEO’s alleged relationship with Chinese spy",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaGxWZXVRNEFmOUg1TF8tbG8tYmlTSGNwXzFzUE56VGYwUVdxUE93XzBXczNyVFVNbGZDS3l5OTgxMHU3WmhpYVIyNExuZWxRR1h3dkdqTnhLY0JzY0txaWRRc0daUlgyQ3lJREZBT3NSOFJWaGJvQ1ZyVjRhVHJwcm51a3JHSUR0OTVSNmUtVWJJSkhHVldZRXRHYjV0R1RacDJVTi1hZ19rNkxkSDdmZjlaeGJWX2pOU2ZSRm5Kaw?oc=5"
-        },
-        {
-          "name": "CNBC",
-          "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd1BJNjAwTmc1dWhNWkFEblREai1hbkhYZFBjT2MxaWV1b283RXNKTnk1emdfY2p5LWlXOEo5M0hLWWhjTG1UVmdVV2xvS09sb0tlelBpalV1Z1lTdUZ1VWJ5Uzl4cFJqeXV2ZUF5WVpTSWFGeGU4eldfdHpScTMySHpZQk9fWGc?oc=5"
-        },
-        {
-          "name": "Al Jazeera",
-          "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM2c5MDNuN29vR3VHTlVkZ1QyNXd4RWRmLWx1V2VXalh3MzhaWDBIQTF1VnlBTm4yQXpIbDNXUWtnQ2RDYXJ5eUZEdVhkdmR2YkRBYUFaQmlMaDdFTC1FVjdlU290aFZheDJwUmZoNFVIUC1uRUF1WF9XclVGZVFwVm5MWm5SRnZtOVZMLVNBSGUwZ1RHMlB5QjNYYW5zMFVqeDFiR9IBqgFBVV95cUxOMDJtdWpZYVVFTlNxWEdQWlYyR1l6eVlqNGpmSlBnQUZkWDFERVQycEo1WlV5UFZIcWJVODRfZDN4Vlh4NzNjUG1QX1lQSnFRUEdMRWVZWkhCeUdicDhpbGF4VTNCRk5RZFlvUmF0TEszaXo3U1Y4bVV5M21Cbl9OQ19FeEpwa0d0QVF2cktNVWFzRW9tbUVWM1g5cUljOG9JN3pYZjRuajh4Zw?oc=5"
-        }
-      ],
-      "wordCount": 417
-    },
-    "videoScript": {
-      "hook": "Is America's top AI chip maker facing a major foreign intelligence breach?",
-      "beats": [
-        "Nvidia opened 1 independent probe into CEO Jensen Huang over ties to an alleged Chinese intelligence operative.",
-        "The executive worked for Megaspeed, a company 2 U.S. administrations scrutinized over illegal AI chip sales to China.",
-        "The catch is Huang's close access to top officials, creating fears sensitive AI policy decisions reached Beijing."
-      ],
-      "close": "Read our full geopolitical analysis on the Nvidia probe at the link in bio."
-    },
-    "rawImageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "sourceVideo": {
-      "provider": "youtube",
-      "id": "ETc7Prw8TFk",
-      "title": "Nvidia расследует отношения гендиректора Дженсена Хуанга с возможным #DeepTech",
-      "channel": "ALTHEA Research Brief",
-      "license": "cc-by"
-    },
-    "status": "published",
-    "createdAt": "2026-11-09T11:01:56.721Z",
-    "cardImageUrl": "/news-cards/news-rxyauwhvh-1794222116721.jpg",
-    "reelCoverUrl": "/news-cards/news-rxyauwhvh-1794222117688-cover.jpg",
-    "instagramCardUrl": "/news-cards/news-rxyauwhvh-1794222118290-ig.jpg",
-    "articleUrl": "https://blindspotglobal.pages.dev/news/nvidia-board-launches-probe-into-ceo-8dpm/",
-    "publishedAt": "2026-11-09T11:19:27.852Z"
   }
 ]
