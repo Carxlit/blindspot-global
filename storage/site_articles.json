@@ -1,5 +1,88 @@
 [
   {
+    "slug": "institutional-erosion-humanitarian-immunity-behind-latest-jbrt",
+    "path": "news/institutional-erosion-humanitarian-immunity-behind-latest-jbrt/",
+    "title": "The institutional erosion of humanitarian immunity behind the latest Gaza clinic strike",
+    "headline": "ISRAELI STRIKE KILLS TWO DOCTORS WITHOUT BORDERS STAFF",
+    "dek": "An Israeli strike on a marked Doctors Without Borders clinic in Gaza killed two staff members, underscoring a broader, unaddressed pattern where unverified militant allegations normalize attacks on aid infrastructure.",
+    "category": "GEOPOLITICS",
+    "sourceName": "Al Jazeera",
+    "image": "img/institutional-erosion-humanitarian-immunity-behind-latest-jbrt.jpg",
+    "photo": "img/institutional-erosion-humanitarian-immunity-behind-latest-jbrt-foto.jpg",
+    "video": {
+      "provider": "youtube",
+      "id": "nwZneprGbQo",
+      "title": "Israeli Strike Hits MSF Clinic in Gaza City",
+      "channel": "Frontline Maps"
+    },
+    "publishedAt": "2026-11-28T06:02:15.899Z",
+    "article": {
+      "slug": "institutional-erosion-humanitarian-immunity-behind-latest-jbrt",
+      "title": "The institutional erosion of humanitarian immunity behind the latest Gaza clinic strike",
+      "dek": "An Israeli strike on a marked Doctors Without Borders clinic in Gaza killed two staff members, underscoring a broader, unaddressed pattern where unverified militant allegations normalize attacks on aid infrastructure.",
+      "keyFacts": [
+        "Two Doctors Without Borders watchmen were killed in an Israeli strike on a clinic in Gaza City.",
+        "The agency stated the clinic was clearly marked with MSF logos and its location was known to the Israeli military.",
+        "The deaths bring the number of MSF staff killed in Gaza to 17.",
+        "Israeli forces have killed more than 1,700 health workers in Gaza, according to humanitarian data.",
+        "A ceasefire took effect in October 2025, which Israel has repeatedly violated."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "Two staff members of Doctors Without Borders, known by its French initials MSF, were killed in an Israeli strike on one of the agency's clinics in Gaza City. MSF confirmed on X that both victims were watchmen. The agency characterized the strike as a direct hit and stated that the deaths elevate the total number of its personnel killed in Gaza to 17.",
+            "According to MSF, the premises were clearly marked with official logos. Furthermore, the exact geographic coordinates of the facility had been communicated to and were acknowledged by the Israeli military prior to the incident. MSF demanded accountability for those responsible."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "In the aftermath of the strike, the Israeli military claimed, without providing evidence, that the two workers were members of Hamas. This response mirrors previous official statements regarding humanitarian facilities and personnel in the ongoing conflict. International organizations, including the World Health Organization and the Euro-Med Human Rights Monitor, swiftly condemned the attack. WHO chief Tedros Adhanom Ghebreyesus described the incident as outrageous and unacceptable.",
+            "The attack follows a series of similar incidents affecting aid workers. Earlier in the week, an Israeli strike in Gaza killed Adel al-Helou, a 35-year veteran of UNRWA who was supplying water to residents in the Jabalia refugee camp. Humanitarian monitors note that Israeli forces have killed more than 1,700 health workers in Gaza. These events occur despite a ceasefire agreement that went into effect in October 2025."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While mainstream reporting focuses heavily on the immediate casualties and routine diplomatic statements, it largely ignores the second-order systemic mechanism at play: the strategic utility of unverified accusations. By routinely alleging militant links without presenting public evidence, state forces establish a permissive narrative environment.",
+            "This dynamic effectively lowers the political and legal cost of striking protected assets. Once an aid facility or worker is retroactively labeled as a security threat without evidentiary burden, the foundational premise of humanitarian neutrality is undermined. Over time, this transforms deliberate violations of international law into normalized operational friction."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The primary losers are humanitarian agencies, whose operational models depend on strict adherence to neutrality and guaranteed protection under international law. As the cost of maintaining a physical presence in active conflict zones rises, agencies face impossible dilemmas regarding whether to withdraw or expose local and international staff to lethal risk.",
+            "State military actors exercising unchecked targeting authority gain operational latitude, insulating themselves from external accountability. By eroding the boundaries between civilian relief infrastructure and military objectives, they reshape the rules of engagement to favor total operational discretion."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "Future developments will depend on whether international relief organizations alter their operational footprints or implement stricter accountability demands in response to mounting casualties. Observers should monitor whether donor states begin conditioning diplomatic or military support on the protection of humanitarian personnel.",
+            "Additionally, the erosion of the October 2025 ceasefire points toward an escalating disregard for formal agreements, signaling that humanitarian corridors will remain exceptionally volatile."
+          ]
+        }
+      ],
+      "tags": [
+        "Geopolitics",
+        "Humanitarian Law",
+        "Gaza",
+        "Conflict",
+        "Blindspot"
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "title": "Israeli strike on Doctors Without Borders clinic in Gaza kills two staff",
+          "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss"
+        }
+      ],
+      "wordCount": 513
+    },
+    "blindSpot": "While mainstream coverage focuses on individual casualty figures and standard diplomatic condemnations, the underlying structural issue is how unsubstantiated militant allegations serve to institutionalize the erosion of humanitarian immunity. By routinely claiming aid workers have militant links without providing public evidence, military authorities establish a precedent that de facto reclassifies protected civilian infrastructure as legitimate targets."
+  },
+  {
     "slug": "first-russian-soldier-raised-under-full-scale-ol8k",
     "path": "news/first-russian-soldier-raised-under-full-scale-ol8k/",
     "title": "Update: First Russian Soldier Raised Under Full-Scale War Dies in Ukraine",

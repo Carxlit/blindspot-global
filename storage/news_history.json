@@ -246,9 +246,40 @@
     "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
     "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2hsd1NTTmRyejRTUXUtVFRYMGNVRWZqUmhySGJudktEc1hJUWhnMnJaNFVPSFAtUjVKb1NQaU0zZnluMGpIMG8tdF9aM05yY0VVajZKZjhWNHNvbnBOTkhsREl1VE1mWWhjaW9sMmRQdTExUktmM2tZWW1xVjJ5LXUtYlVqNk1PbDRkQy15NERIY2Z1N2tuLTFPaG4?oc=5",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc0tMUjVQQTVCSk9wTXN0Y0Jxc01GcXkxRXQ2R3h5a1NTbTR2NE9qWEFWNFZoYnVib25tSUpiSkY5QmNaaE5yem9LTmNkVUM1b0JTTUlyaHF0Y0dKUFV4b0JRakxIclFBSlV5N2ZnLTVTbzdCQVV6YTJvLUM0RFdfU1hBRVJ1dldzOWc1c1VxV3BXM3dZOGhFenN6V05FNmd0ZEpITUZRNkN3ZDZ4d0lNUG0xVUdyblhKX3c?oc=5"
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc0tMUjVQQTVCSk9wTXN0Y0Jxc01GcXkxRXQ2R3h5a1NTbTR2NE9qWEFWNFZoYnVib25tSUpiSkY5QmNaaE5yem9LTmNkVUM1b0JTTUlyaHF0Y0dKUFV4b0JRakxIclFBSlV5N2ZnLTVTbzdCQVV6YTJvLUM0RFdfU1hBRVJ1dldzOWc1c1VxV3BXM3dZOGhFenN6V05FNmd0ZEpITUZRNkN3ZDZ4d0lNUG0xVUdyblhKX3c?oc=5",
+    "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "ISRAELI STRIKE KILLS TWO DOCTORS WITHOUT BORDERS STAFF",
+      "normalizedTokens": [
+        "israeli",
+        "strike",
+        "kills",
+        "two",
+        "doctors",
+        "without",
+        "borders",
+        "staff"
+      ],
+      "date": "2026-11-28T06:02:16.000Z"
+    },
+    {
+      "title": "Israeli strike on Doctors Without Borders clinic in Gaza kills two staff",
+      "normalizedTokens": [
+        "israeli",
+        "strike",
+        "doctors",
+        "without",
+        "borders",
+        "clinic",
+        "gaza",
+        "kills",
+        "two",
+        "staff"
+      ],
+      "date": "2026-11-28T06:02:15.998Z"
+    },
     {
       "title": "UPDATE: FIRST SOLDIER BORN UNDER MEDVEDEV KILLED IN UKRAINE",
       "normalizedTokens": [
@@ -7159,34 +7190,6 @@
         "complaints"
       ],
       "date": "2026-11-08T15:46:57.417Z"
-    },
-    {
-      "title": "US MIDTERM ELECTIONS PUNCTURE THE UNCHECKED AI INFRASTRUCTURE BOOM",
-      "normalizedTokens": [
-        "midterm",
-        "elections",
-        "puncture",
-        "unchecked",
-        "infrastructure",
-        "boom"
-      ],
-      "date": "2026-11-08T14:40:22.154Z"
-    },
-    {
-      "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
-      "normalizedTokens": [
-        "humankind",
-        "midterms",
-        "vote",
-        "puts",
-        "datacentres",
-        "broligarchy",
-        "back",
-        "box",
-        "heather",
-        "stewart"
-      ],
-      "date": "2026-11-08T14:40:22.154Z"
     }
   ]
 }
