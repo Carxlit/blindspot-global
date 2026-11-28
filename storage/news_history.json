@@ -251,6 +251,33 @@
   ],
   "processedSignatures": [
     {
+      "title": "GLOBAL MICROSOFT OUTAGE PARALYZES DIPLOMATIC AND CORPORATE INFRASTRUCTURE",
+      "normalizedTokens": [
+        "global",
+        "microsoft",
+        "outage",
+        "paralyzes",
+        "diplomatic",
+        "corporate",
+        "infrastructure"
+      ],
+      "date": "2026-11-28T11:26:21.768Z"
+    },
+    {
+      "title": "Microsoft meltdown: Outlook, Teams and Copilot hit by global outage",
+      "normalizedTokens": [
+        "microsoft",
+        "meltdown",
+        "outlook",
+        "teams",
+        "copilot",
+        "hit",
+        "global",
+        "outage"
+      ],
+      "date": "2026-11-28T11:26:21.767Z"
+    },
+    {
       "title": "ISRAELI STRIKE KILLS TWO DOCTORS WITHOUT BORDERS STAFF",
       "normalizedTokens": [
         "israeli",
@@ -7165,31 +7192,6 @@
         "results"
       ],
       "date": "2026-11-08T16:58:03.371Z"
-    },
-    {
-      "title": "THE AI CLOG THREATENS UK PUBLIC SECTOR OPERATIONS",
-      "normalizedTokens": [
-        "clog",
-        "threatens",
-        "public",
-        "sector",
-        "operations"
-      ],
-      "date": "2026-11-08T15:46:57.418Z"
-    },
-    {
-      "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
-      "normalizedTokens": [
-        "clog",
-        "public",
-        "bodies",
-        "battle",
-        "onslaught",
-        "chatbot",
-        "generated",
-        "complaints"
-      ],
-      "date": "2026-11-08T15:46:57.417Z"
     }
   ]
 }
