@@ -245,9 +245,40 @@
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5",
     "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
     "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2hsd1NTTmRyejRTUXUtVFRYMGNVRWZqUmhySGJudktEc1hJUWhnMnJaNFVPSFAtUjVKb1NQaU0zZnluMGpIMG8tdF9aM05yY0VVajZKZjhWNHNvbnBOTkhsREl1VE1mWWhjaW9sMmRQdTExUktmM2tZWW1xVjJ5LXUtYlVqNk1PbDRkQy15NERIY2Z1N2tuLTFPaG4?oc=5"
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2hsd1NTTmRyejRTUXUtVFRYMGNVRWZqUmhySGJudktEc1hJUWhnMnJaNFVPSFAtUjVKb1NQaU0zZnluMGpIMG8tdF9aM05yY0VVajZKZjhWNHNvbnBOTkhsREl1VE1mWWhjaW9sMmRQdTExUktmM2tZWW1xVjJ5LXUtYlVqNk1PbDRkQy15NERIY2Z1N2tuLTFPaG4?oc=5",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc0tMUjVQQTVCSk9wTXN0Y0Jxc01GcXkxRXQ2R3h5a1NTbTR2NE9qWEFWNFZoYnVib25tSUpiSkY5QmNaaE5yem9LTmNkVUM1b0JTTUlyaHF0Y0dKUFV4b0JRakxIclFBSlV5N2ZnLTVTbzdCQVV6YTJvLUM0RFdfU1hBRVJ1dldzOWc1c1VxV3BXM3dZOGhFenN6V05FNmd0ZEpITUZRNkN3ZDZ4d0lNUG0xVUdyblhKX3c?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "UPDATE: FIRST SOLDIER BORN UNDER MEDVEDEV KILLED IN UKRAINE",
+      "normalizedTokens": [
+        "update",
+        "first",
+        "soldier",
+        "born",
+        "medvedev",
+        "killed",
+        "ukraine"
+      ],
+      "date": "2026-11-28T05:32:02.757Z"
+    },
+    {
+      "title": "Russian soldier who was 13 when Russia launched full-scale invasion killed in Ukraine, media reports",
+      "normalizedTokens": [
+        "russian",
+        "soldier",
+        "russia",
+        "launched",
+        "full",
+        "scale",
+        "invasion",
+        "killed",
+        "ukraine",
+        "media",
+        "reports"
+      ],
+      "date": "2026-11-28T05:32:02.755Z"
+    },
     {
       "title": "WWE STAR JERMAINE HALEY KNOWN AS BRONSON REED DIES AT 38",
       "normalizedTokens": [
@@ -7156,33 +7187,6 @@
         "stewart"
       ],
       "date": "2026-11-08T14:40:22.154Z"
-    },
-    {
-      "title": "CLIMATE INDUCED COLOR SHIFTS ALTER GLOBAL ECOSYSTEMS",
-      "normalizedTokens": [
-        "climate",
-        "induced",
-        "color",
-        "shifts",
-        "alter",
-        "global",
-        "ecosystems"
-      ],
-      "date": "2026-11-08T13:27:06.287Z"
-    },
-    {
-      "title": "Climate change is altering the colors we see in the world: an illustrated journey",
-      "normalizedTokens": [
-        "climate",
-        "change",
-        "altering",
-        "colors",
-        "see",
-        "world",
-        "illustrated",
-        "journey"
-      ],
-      "date": "2026-11-08T13:27:06.286Z"
     }
   ]
 }
