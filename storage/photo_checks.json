@@ -1413,5 +1413,15 @@
     "relevant": true,
     "reason": "The image shows Luiz Inácio Lula da Silva, the central figure making the appointment mentioned in the headline.",
     "at": "2026-11-27T23:07:58.493Z"
+  },
+  "98da3cae72f8bdf1:xe6pa87us": {
+    "relevant": false,
+    "reason": "The image depicts Russian President Vladimir Putin in a meeting context, which does not directly illustrate the specific details of drone swarms or explosives mentioned in the repo",
+    "at": "2026-11-28T00:09:28.669Z"
+  },
+  "7e0415e315b5c202:xe6pa87us": {
+    "relevant": true,
+    "reason": "Vladimir Putin directly represents Russia and the state apparatus responsible for the reported hybrid sabotage.",
+    "at": "2026-11-28T00:09:31.529Z"
   }
 }

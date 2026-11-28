@@ -239,9 +239,38 @@
     "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss",
     "https://www.europapress.es/internacional/noticia-menos-dos-muertos-ataque-ruso-contra-red-suministro-agua-provincia-chernigov-20261127132831.html",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVnhyX20tNWl0ZzUyT1Zia2VPYmI2WGx4czNSVTFnRm5OcVBJaThFX0pVSTBxRm5qTEZHbzhrSGh0SVNPazJBWFpIRmk2YmxLcGY2NC1MT0Nzdm1tM0haYWhqTWp5ODFZSlNYVXZrM0ZVdGVFTTlDdFloR20zXzFxZQ?oc=5",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFRwQWxfcmJJYjdURlh4dEJ6bHRBMXdvZUt3Ry0wMGRmMDduc2N0NXVleHBaSWtFbENkbzVkSjRCMDNrUlp5LTdtdHd1WHBfZ044QllESlc1eTdRLTZCQ1NOTHo0aDVJX2xoeDRxOVZPSGxhdVYyOEZPT2w1eDBkZ0RlWUowdC1DWW52Wl85eEYtTHhNb1ZkMENTVmdzdHRTcEluMTZnSU9QSFF2c19rQ3Z0QXBoS3RoS3AtYy0yUQ?oc=5"
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFRwQWxfcmJJYjdURlh4dEJ6bHRBMXdvZUt3Ry0wMGRmMDduc2N0NXVleHBaSWtFbENkbzVkSjRCMDNrUlp5LTdtdHd1WHBfZ044QllESlc1eTdRLTZCQ1NOTHo0aDVJX2xoeDRxOVZPSGxhdVYyOEZPT2w1eDBkZ0RlWUowdC1DWW52Wl85eEYtTHhNb1ZkMENTVmdzdHRTcEluMTZnSU9QSFF2c19rQ3Z0QXBoS3RoS3AtYy0yUQ?oc=5",
+    "https://www.clarin.com/mundo/mapa-ataques-rusos-europa-sabotajes-drones-incendios-riesgo-masacre_0_LKiYjOhE7Z.html"
   ],
   "processedSignatures": [
+    {
+      "title": "RUSSIAN HYBRID SABOTAGE IN EUROPE ESCALATES BY 16 PERCENT",
+      "normalizedTokens": [
+        "russian",
+        "hybrid",
+        "sabotage",
+        "europe",
+        "escalates",
+        "percent"
+      ],
+      "date": "2026-11-28T00:09:35.688Z"
+    },
+    {
+      "title": "Así es el mapa de ataques rusos en Europa: sabotajes, drones, incendios y el riesgo de una masacre",
+      "normalizedTokens": [
+        "asi",
+        "mapa",
+        "ataques",
+        "rusos",
+        "europa",
+        "sabotajes",
+        "drones",
+        "incendios",
+        "riesgo",
+        "masacre"
+      ],
+      "date": "2026-11-28T00:09:35.682Z"
+    },
     {
       "title": "LULA TAPS BRADESCO CHIEF TO SOOTHE MARKETS",
       "normalizedTokens": [
@@ -7156,32 +7185,6 @@
         "drones"
       ],
       "date": "2026-11-08T05:16:36.980Z"
-    },
-    {
-      "title": "UPDATE: SAUDI AIRSTRIKES IN YEMEN KILL 33 NEAR SANAA",
-      "normalizedTokens": [
-        "update",
-        "saudi",
-        "airstrikes",
-        "yemen",
-        "kill",
-        "near",
-        "sanaa"
-      ],
-      "date": "2026-11-08T05:01:25.765Z"
-    },
-    {
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "normalizedTokens": [
-        "houthis",
-        "say",
-        "least",
-        "killed",
-        "saudi",
-        "air",
-        "strike"
-      ],
-      "date": "2026-11-08T05:01:25.764Z"
     }
   ]
 }
