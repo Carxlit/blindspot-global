@@ -240,9 +240,33 @@
     "https://www.europapress.es/internacional/noticia-menos-dos-muertos-ataque-ruso-contra-red-suministro-agua-provincia-chernigov-20261127132831.html",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVnhyX20tNWl0ZzUyT1Zia2VPYmI2WGx4czNSVTFnRm5OcVBJaThFX0pVSTBxRm5qTEZHbzhrSGh0SVNPazJBWFpIRmk2YmxLcGY2NC1MT0Nzdm1tM0haYWhqTWp5ODFZSlNYVXZrM0ZVdGVFTTlDdFloR20zXzFxZQ?oc=5",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFRwQWxfcmJJYjdURlh4dEJ6bHRBMXdvZUt3Ry0wMGRmMDduc2N0NXVleHBaSWtFbENkbzVkSjRCMDNrUlp5LTdtdHd1WHBfZ044QllESlc1eTdRLTZCQ1NOTHo0aDVJX2xoeDRxOVZPSGxhdVYyOEZPT2w1eDBkZ0RlWUowdC1DWW52Wl85eEYtTHhNb1ZkMENTVmdzdHRTcEluMTZnSU9QSFF2c19rQ3Z0QXBoS3RoS3AtYy0yUQ?oc=5",
-    "https://www.clarin.com/mundo/mapa-ataques-rusos-europa-sabotajes-drones-incendios-riesgo-masacre_0_LKiYjOhE7Z.html"
+    "https://www.clarin.com/mundo/mapa-ataques-rusos-europa-sabotajes-drones-incendios-riesgo-masacre_0_LKiYjOhE7Z.html",
+    "https://www.wired.com/story/yeti-black-friday-sale-11-2026/"
   ],
   "processedSignatures": [
+    {
+      "title": "YETI DISCOUNTS EXPOSE CONSUMER SPENDING SHIFTS",
+      "normalizedTokens": [
+        "yeti",
+        "discounts",
+        "expose",
+        "consumer",
+        "spending",
+        "shifts"
+      ],
+      "date": "2026-11-28T01:12:18.348Z"
+    },
+    {
+      "title": "Yeti Coolers Are up to 30% Off for Black Friday (2026)",
+      "normalizedTokens": [
+        "yeti",
+        "coolers",
+        "black",
+        "friday",
+        "2026"
+      ],
+      "date": "2026-11-28T01:12:18.346Z"
+    },
     {
       "title": "RUSSIAN HYBRID SABOTAGE IN EUROPE ESCALATES BY 16 PERCENT",
       "normalizedTokens": [
@@ -7157,34 +7181,6 @@
         "attack"
       ],
       "date": "2026-11-08T05:31:31.181Z"
-    },
-    {
-      "title": "COLOMBIAN MILITARY BASE SUFFERS DEADLY EXPLOSIVE DRONE ATTACK",
-      "normalizedTokens": [
-        "colombian",
-        "military",
-        "base",
-        "suffers",
-        "deadly",
-        "explosive",
-        "drone",
-        "attack"
-      ],
-      "date": "2026-11-08T05:16:36.980Z"
-    },
-    {
-      "title": "Al menos tres militares muertos y 16 heridos graves en un ataque con drones",
-      "normalizedTokens": [
-        "menos",
-        "tres",
-        "militares",
-        "muertos",
-        "heridos",
-        "graves",
-        "ataque",
-        "drones"
-      ],
-      "date": "2026-11-08T05:16:36.980Z"
     }
   ]
 }
