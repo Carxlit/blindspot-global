@@ -251,6 +251,34 @@
   ],
   "processedSignatures": [
     {
+      "title": "SUPREME COURT TO DECIDE FATE OF TRUMP ASYLUM BAN",
+      "normalizedTokens": [
+        "supreme",
+        "court",
+        "decide",
+        "fate",
+        "trump",
+        "asylum",
+        "ban"
+      ],
+      "date": "2026-11-28T12:35:22.813Z"
+    },
+    {
+      "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+      "normalizedTokens": [
+        "trump",
+        "effectively",
+        "ended",
+        "asylum",
+        "advocates",
+        "look",
+        "supreme",
+        "court",
+        "restore"
+      ],
+      "date": "2026-11-28T12:35:22.811Z"
+    },
+    {
       "title": "GLOBAL MICROSOFT OUTAGE PARALYZES DIPLOMATIC AND CORPORATE INFRASTRUCTURE",
       "normalizedTokens": [
         "global",
@@ -7159,39 +7187,6 @@
         "seven"
       ],
       "date": "2026-11-08T17:57:11.327Z"
-    },
-    {
-      "title": "ANC SURVIVES SOUTH AFRICAN LOCAL POLLS WITH RECORD LOW VOTE",
-      "normalizedTokens": [
-        "anc",
-        "survives",
-        "south",
-        "african",
-        "local",
-        "polls",
-        "record",
-        "low",
-        "vote"
-      ],
-      "date": "2026-11-08T16:58:03.372Z"
-    },
-    {
-      "title": "ANC leads South Africa's local polls but records all-time election low: final results",
-      "normalizedTokens": [
-        "anc",
-        "leads",
-        "south",
-        "africa",
-        "local",
-        "polls",
-        "records",
-        "time",
-        "election",
-        "low",
-        "final",
-        "results"
-      ],
-      "date": "2026-11-08T16:58:03.371Z"
     }
   ]
 }
