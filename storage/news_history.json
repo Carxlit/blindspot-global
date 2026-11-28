@@ -241,9 +241,37 @@
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVnhyX20tNWl0ZzUyT1Zia2VPYmI2WGx4czNSVTFnRm5OcVBJaThFX0pVSTBxRm5qTEZHbzhrSGh0SVNPazJBWFpIRmk2YmxLcGY2NC1MT0Nzdm1tM0haYWhqTWp5ODFZSlNYVXZrM0ZVdGVFTTlDdFloR20zXzFxZQ?oc=5",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFRwQWxfcmJJYjdURlh4dEJ6bHRBMXdvZUt3Ry0wMGRmMDduc2N0NXVleHBaSWtFbENkbzVkSjRCMDNrUlp5LTdtdHd1WHBfZ044QllESlc1eTdRLTZCQ1NOTHo0aDVJX2xoeDRxOVZPSGxhdVYyOEZPT2w1eDBkZ0RlWUowdC1DWW52Wl85eEYtTHhNb1ZkMENTVmdzdHRTcEluMTZnSU9QSFF2c19rQ3Z0QXBoS3RoS3AtYy0yUQ?oc=5",
     "https://www.clarin.com/mundo/mapa-ataques-rusos-europa-sabotajes-drones-incendios-riesgo-masacre_0_LKiYjOhE7Z.html",
-    "https://www.wired.com/story/yeti-black-friday-sale-11-2026/"
+    "https://www.wired.com/story/yeti-black-friday-sale-11-2026/",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5"
   ],
   "processedSignatures": [
+    {
+      "title": "GLOBAL MICROSOFT OUTAGE PARALYZES DIPLOMATIC AND CORPORATE INFRASTRUCTURE",
+      "normalizedTokens": [
+        "global",
+        "microsoft",
+        "outage",
+        "paralyzes",
+        "diplomatic",
+        "corporate",
+        "infrastructure"
+      ],
+      "date": "2026-11-28T02:08:49.461Z"
+    },
+    {
+      "title": "Microsoft meltdown: Outlook, Teams and Copilot hit by global outage",
+      "normalizedTokens": [
+        "microsoft",
+        "meltdown",
+        "outlook",
+        "teams",
+        "copilot",
+        "hit",
+        "global",
+        "outage"
+      ],
+      "date": "2026-11-28T02:08:49.459Z"
+    },
     {
       "title": "YETI DISCOUNTS EXPOSE CONSUMER SPENDING SHIFTS",
       "normalizedTokens": [
@@ -7155,32 +7183,6 @@
         "people"
       ],
       "date": "2026-11-08T05:46:45.834Z"
-    },
-    {
-      "title": "FAR RIGHT KRAKOW ATTACK EXPOSES DEEPENING DOMESTIC SECURITY VULNERABILITIES",
-      "normalizedTokens": [
-        "far",
-        "right",
-        "krakow",
-        "attack",
-        "exposes",
-        "deepening",
-        "domestic",
-        "security",
-        "vulnerabilities"
-      ],
-      "date": "2026-11-08T05:31:31.182Z"
-    },
-    {
-      "title": "What we know so far after Krakow gun attack",
-      "normalizedTokens": [
-        "know",
-        "far",
-        "krakow",
-        "gun",
-        "attack"
-      ],
-      "date": "2026-11-08T05:31:31.181Z"
     }
   ]
 }

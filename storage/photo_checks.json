@@ -1428,5 +1428,20 @@
     "relevant": true,
     "reason": "The image displays a YETI cooler, which is the exact subject of the news story regarding rare price cuts and inventory clearing.",
     "at": "2026-11-28T01:12:13.172Z"
+  },
+  "45ddb4d8482ca1de:46czgsupx": {
+    "relevant": false,
+    "reason": "The image shows a company logo, which is a generic corporate graphic rather than visually illustrating the outage event.",
+    "at": "2026-11-28T02:08:33.650Z"
+  },
+  "287efc6a0b5cc93b:46czgsupx": {
+    "relevant": false,
+    "reason": "The image shows passengers waiting at an airport, which does not visually represent diplomatic or corporate infrastructure or government ministries.",
+    "at": "2026-11-28T02:08:43.047Z"
+  },
+  "13a1d91d67e5fdad:46czgsupx": {
+    "relevant": true,
+    "reason": "The image displays a heatmap of a widespread Microsoft 365 outage in the United States, directly illustrating a major global Microsoft service disruption.",
+    "at": "2026-11-28T02:08:45.879Z"
   }
 }
