@@ -24389,5 +24389,124 @@
     "attempts": 0,
     "maxAttempts": 3,
     "createdAt": "2026-11-28T02:08:49.449Z"
+  },
+  {
+    "id": "queue-1795835248985-er8o4",
+    "news": {
+      "id": "ltq5tgpfl",
+      "originalUrl": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
+      "originalTitle": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+      "sourceName": "NPR News",
+      "category": "POWER & SOCIETY",
+      "urgencyScore": 91,
+      "headline": "SUPREME COURT TO DECIDE FATE OF TRUMP ASYLUM BAN",
+      "subHeadline": "The U.S. Supreme Court will review whether the executive branch can unilaterally suspend asylum protections, following a drop in border apprehensions and soaring denial rates.",
+      "blindSpotAngle": "While mainstream coverage focuses on the constitutional clash over executive overreach, the deeper structural shift is the permanent conversion of the immigration court system into an enforcement arm of ICE. This institutional redesign will outlast any single court ruling, permanently altering the machinery of the administrative state.",
+      "facebookPost": "For nearly two years, the Trump administration has effectively prohibited asylum claims at the U.S.-Mexico border, canceled thousands of pending applications, and overhauled immigration courts. The official narrative frames these moves as a necessary defense against systemic abuse, backed by a historic drop in Border Patrol apprehensions to fewer than 99,000 in fiscal year 2026.\n\nYet the blind spot lies in the institutional transformation of the judiciary itself. Critics point out that mass firings and soaring denial rates—reaching 94% in June—have turned the immigration court system into an administrative deportation arm, bypassing legislative intent entirely.\n\nHow can an independent judiciary function when executive enforcement mechanisms systematically absorb its adjudication functions?\n\nSource: NPR News\n\n#PowerAndSociety #ImmigrationPolicy #Blindspot",
+      "telegramPost": "<b>SUPREME COURT TO DECIDE FATE OF TRUMP ASYLUM BAN</b>\n\n• <b>What happened:</b> The U.S. Supreme Court will review the Trump administration's unilateral suspension of asylum claims and its overhaul of the immigration court system.\n• <b>Why it matters:</b> National asylum denial rates soared to 94% in June, and Southwest border apprehensions dropped to fewer than 99,000 in fiscal year 2026, marking a 95% decline from the Biden administration.\n• <b>What is next:</b> The high court will weigh whether the executive branch can bypass federal immigration law and congressional authority, with decisions expected to impact third-country deportations and indefinite detention battles.",
+      "linkedInPost": "The legal showdown heading to the U.S. Supreme Court over the executive suspension of asylum touches directly on institutional stability and administrative law. With Southwest border apprehensions dropping by 95% to fewer than 99,000 in fiscal year 2026 and national denial rates hitting 94%, the economic and regulatory implications for labor supply and institutional precedent are profound. The core question is whether unilateral executive proclamations can permanently override statutory frameworks established by Congress.\n\nSource: NPR News\n\n#PowerAndSociety #LegalRisk #Blindspot",
+      "blueskyPost": "The Supreme Court will weigh if the executive can unilaterally end asylum. While apprehensions dropped 95%, denial rates hit 94%. The deeper story is the permanent redesign of immigration courts into enforcement arms. #PowerAndSociety #Blindspot",
+      "copies": {
+        "facebook": "For nearly two years, the Trump administration has effectively prohibited asylum claims at the U.S.-Mexico border, canceled thousands of pending applications, and overhauled immigration courts. The official narrative frames these moves as a necessary defense against systemic abuse, backed by a historic drop in Border Patrol apprehensions to fewer than 99,000 in fiscal year 2026.\n\nYet the blind spot lies in the institutional transformation of the judiciary itself. Critics point out that mass firings and soaring denial rates—reaching 94% in June—have turned the immigration court system into an administrative deportation arm, bypassing legislative intent entirely.\n\nHow can an independent judiciary function when executive enforcement mechanisms systematically absorb its adjudication functions? #PowerAndSociety #ImmigrationPolicy #Blindspot",
+        "telegram": "<b>SUPREME COURT TO DECIDE FATE OF TRUMP ASYLUM BAN</b>\n\n• <b>What happened:</b> The U.S. Supreme Court will review the Trump administration's unilateral suspension of asylum claims and its overhaul of the immigration court system.\n• <b>Why it matters:</b> National asylum denial rates soared to 94% in June, and Southwest border apprehensions dropped to fewer than 99,000 in fiscal year 2026, marking a 95% decline from the Biden administration.\n• <b>What is next:</b> The high court will weigh whether the executive branch can bypass federal immigration law and congressional authority, with decisions expected to impact third-country deportations and indefinite detention battles.",
+        "bluesky": "The Supreme Court will weigh if the executive can unilaterally end asylum. While apprehensions dropped 95%, denial rates hit 94%. The deeper story is the permanent redesign of immigration courts into enforcement arms. #PowerAndSociety #Blindspot",
+        "linkedIn": "The legal showdown heading to the U.S. Supreme Court over the executive suspension of asylum touches directly on institutional stability and administrative law. With Southwest border apprehensions dropping by 95% to fewer than 99,000 in fiscal year 2026 and national denial rates hitting 94%, the economic and regulatory implications for labor supply and institutional precedent are profound. The core question is whether unilateral executive proclamations can permanently override statutory frameworks established by Congress. #PowerAndSociety #LegalRisk #Blindspot"
+      },
+      "article": {
+        "slug": "legal-institutional-battle-over-executive-dismantling-gcj5",
+        "title": "The legal and institutional battle over the executive dismantling of asylum",
+        "dek": "As the U.S. Supreme Court prepares to review sweeping immigration policy changes, the underlying architecture of the administrative state is undergoing a permanent transformation. The legal challenges question whether executive authority can override statutory refugee protections.",
+        "keyFacts": [
+          "Fewer than 99,000 Southwest border apprehensions were recorded in fiscal year 2026.",
+          "The 2026 apprehensions mark a 95% decline compared with more than 1.8 million per year under President Biden.",
+          "National asylum denial rates soared to 94% in June, up from about 50% in 2024.",
+          "The Trump administration's ban went into effect within hours of the president retaking office."
+        ],
+        "sections": [
+          {
+            "heading": "What Happened",
+            "paragraphs": [
+              "For nearly two years, the Trump administration has prohibited asylum claims at the U.S.-Mexico border, canceled thousands of pending applications, and overhauled the immigration court system through mass firings. According to critics, these synchronized actions have effectively dismantled a vital pathway for individuals fleeing persecution.",
+              "The legal challenge to the executive ban is now moving to the U.S. Supreme Court. The high court will determine whether the president can circumvent Congress and existing federal immigration law to unilaterally suspend access to asylum protections."
+            ]
+          },
+          {
+            "heading": "The Context",
+            "paragraphs": [
+              "According to U.S. Customs and Border Protection data cited by NPR, Southwest border apprehensions dropped to their lowest level in agency history, with fewer than 99,000 apprehensions recorded in fiscal year 2026. This represents a 95% decline compared with more than 1.8 million per year under President Biden.",
+              "Administration defenders argue the proclamation is a necessary defense against system abuse. Simon Hankinson, a senior research fellow at the Heritage Foundation, told NPR that most arrivals do not qualify for asylum and that allowing the ban to be reversed would be disastrous. Conversely, civil rights advocates maintain that the policies strip asylum seekers of basic due process rights."
+            ]
+          },
+          {
+            "heading": "The Blind Spot",
+            "paragraphs": [
+              "While public debate focuses on border security metrics and executive overreach, mainstream coverage frequently overlooks the structural remodeling of the immigration court system itself. Through mass firings and policy overhauls, the adjudication apparatus has been systematically aligned with enforcement priorities.",
+              "Data from TRAC at Syracuse University shows that national asylum denial rates soared to 94% in June, a sharp increase from about 50% in 2024 during the final full year of the Biden administration. This administrative shift ensures that even if specific proclamations face judicial setbacks, the operational machinery of expedited removal and third-country transfers remains deeply entrenched."
+            ]
+          },
+          {
+            "heading": "Winners and Losers",
+            "paragraphs": [
+              "The executive branch and conservative border security advocates stand to gain considerable institutional control if the Supreme Court upholds the ban, cementing a model of unilateral immigration management. Conversely, asylum seekers, human rights organizations, and legal advocates bear the direct cost of severely restricted due process and heightened deportation risks.",
+              "Third-country transit nations also absorb significant geopolitical pressure as policies shift adjudication burdens outside U.S. borders."
+            ]
+          },
+          {
+            "heading": "What to Watch",
+            "paragraphs": [
+              "The Supreme Court's upcoming review in December will address the administration's strategy of deporting immigrants to third countries that have agreed to adjudicate claims, despite allegations of human rights abuses in those jurisdictions.",
+              "A third legal battle focusing on the indefinite detention of individuals in deportation proceedings will further test the boundaries of executive authority. The rulings will signal whether the judiciary intends to check administrative overreach or acquiesce to a redefined executive role in immigration enforcement."
+            ]
+          }
+        ],
+        "tags": [
+          "Supreme Court",
+          "Asylum",
+          "Immigration",
+          "Executive Power",
+          "Border Security"
+        ],
+        "sources": [
+          {
+            "name": "NPR News",
+            "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+            "url": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court"
+          }
+        ],
+        "wordCount": 467
+      },
+      "videoScript": {
+        "hook": "Can a president unilaterally end the legal right to seek asylum?",
+        "beats": [
+          "The Supreme Court is weighing whether the executive branch can bypass Congress to suspend asylum protections.",
+          "Border apprehensions dropped to fewer than 99,000 in fiscal year 2026, marking a 95% decline from previous levels.",
+          "National denial rates hit 94% as the immigration court system is transformed into an enforcement arm."
+        ],
+        "close": "Read the full analysis at the link in our bio."
+      },
+      "rawImageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5079x2857+0+265/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2F2e%2Fbd2ef7014b16a3b474a9ef7aad59%2Fgettyimages-2301934612.jpg",
+      "status": "pending",
+      "createdAt": "2026-11-28T03:07:26.856Z",
+      "cardImageUrl": "/news-cards/news-ltq5tgpfl-1795835246856.jpg",
+      "reelCoverUrl": "/news-cards/news-ltq5tgpfl-1795835247419-cover.jpg",
+      "instagramCardUrl": "/news-cards/news-ltq5tgpfl-1795835247931-ig.jpg",
+      "articleUrl": "https://blindspotglobal.pages.dev/news/legal-institutional-battle-over-executive-dismantling-gcj5/"
+    },
+    "channels": {
+      "facebook": true,
+      "telegram": false,
+      "bluesky": false,
+      "linkedIn": false,
+      "instagram": true,
+      "facebookReel": true,
+      "mastodon": false,
+      "threads": false,
+      "youtube": true
+    },
+    "scheduledFor": "2026-11-28T12:35:00.000Z",
+    "status": "queued",
+    "attempts": 0,
+    "maxAttempts": 3,
+    "createdAt": "2026-11-28T03:07:28.985Z"
   }
 ]

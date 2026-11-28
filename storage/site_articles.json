@@ -1,5 +1,81 @@
 [
   {
+    "slug": "legal-institutional-battle-over-executive-dismantling-gcj5",
+    "path": "news/legal-institutional-battle-over-executive-dismantling-gcj5/",
+    "title": "The legal and institutional battle over the executive dismantling of asylum",
+    "headline": "SUPREME COURT TO DECIDE FATE OF TRUMP ASYLUM BAN",
+    "dek": "As the U.S. Supreme Court prepares to review sweeping immigration policy changes, the underlying architecture of the administrative state is undergoing a permanent transformation. The legal challenges question whether executive authority can override statutory refugee protections.",
+    "category": "POWER & SOCIETY",
+    "sourceName": "NPR News",
+    "image": "img/legal-institutional-battle-over-executive-dismantling-gcj5.jpg",
+    "photo": "img/legal-institutional-battle-over-executive-dismantling-gcj5-foto.jpg",
+    "publishedAt": "2026-11-28T03:07:28.883Z",
+    "article": {
+      "slug": "legal-institutional-battle-over-executive-dismantling-gcj5",
+      "title": "The legal and institutional battle over the executive dismantling of asylum",
+      "dek": "As the U.S. Supreme Court prepares to review sweeping immigration policy changes, the underlying architecture of the administrative state is undergoing a permanent transformation. The legal challenges question whether executive authority can override statutory refugee protections.",
+      "keyFacts": [
+        "Fewer than 99,000 Southwest border apprehensions were recorded in fiscal year 2026.",
+        "The 2026 apprehensions mark a 95% decline compared with more than 1.8 million per year under President Biden.",
+        "National asylum denial rates soared to 94% in June, up from about 50% in 2024.",
+        "The Trump administration's ban went into effect within hours of the president retaking office."
+      ],
+      "sections": [
+        {
+          "heading": "What Happened",
+          "paragraphs": [
+            "For nearly two years, the Trump administration has prohibited asylum claims at the U.S.-Mexico border, canceled thousands of pending applications, and overhauled the immigration court system through mass firings. According to critics, these synchronized actions have effectively dismantled a vital pathway for individuals fleeing persecution.",
+            "The legal challenge to the executive ban is now moving to the U.S. Supreme Court. The high court will determine whether the president can circumvent Congress and existing federal immigration law to unilaterally suspend access to asylum protections."
+          ]
+        },
+        {
+          "heading": "The Context",
+          "paragraphs": [
+            "According to U.S. Customs and Border Protection data cited by NPR, Southwest border apprehensions dropped to their lowest level in agency history, with fewer than 99,000 apprehensions recorded in fiscal year 2026. This represents a 95% decline compared with more than 1.8 million per year under President Biden.",
+            "Administration defenders argue the proclamation is a necessary defense against system abuse. Simon Hankinson, a senior research fellow at the Heritage Foundation, told NPR that most arrivals do not qualify for asylum and that allowing the ban to be reversed would be disastrous. Conversely, civil rights advocates maintain that the policies strip asylum seekers of basic due process rights."
+          ]
+        },
+        {
+          "heading": "The Blind Spot",
+          "paragraphs": [
+            "While public debate focuses on border security metrics and executive overreach, mainstream coverage frequently overlooks the structural remodeling of the immigration court system itself. Through mass firings and policy overhauls, the adjudication apparatus has been systematically aligned with enforcement priorities.",
+            "Data from TRAC at Syracuse University shows that national asylum denial rates soared to 94% in June, a sharp increase from about 50% in 2024 during the final full year of the Biden administration. This administrative shift ensures that even if specific proclamations face judicial setbacks, the operational machinery of expedited removal and third-country transfers remains deeply entrenched."
+          ]
+        },
+        {
+          "heading": "Winners and Losers",
+          "paragraphs": [
+            "The executive branch and conservative border security advocates stand to gain considerable institutional control if the Supreme Court upholds the ban, cementing a model of unilateral immigration management. Conversely, asylum seekers, human rights organizations, and legal advocates bear the direct cost of severely restricted due process and heightened deportation risks.",
+            "Third-country transit nations also absorb significant geopolitical pressure as policies shift adjudication burdens outside U.S. borders."
+          ]
+        },
+        {
+          "heading": "What to Watch",
+          "paragraphs": [
+            "The Supreme Court's upcoming review in December will address the administration's strategy of deporting immigrants to third countries that have agreed to adjudicate claims, despite allegations of human rights abuses in those jurisdictions.",
+            "A third legal battle focusing on the indefinite detention of individuals in deportation proceedings will further test the boundaries of executive authority. The rulings will signal whether the judiciary intends to check administrative overreach or acquiesce to a redefined executive role in immigration enforcement."
+          ]
+        }
+      ],
+      "tags": [
+        "Supreme Court",
+        "Asylum",
+        "Immigration",
+        "Executive Power",
+        "Border Security"
+      ],
+      "sources": [
+        {
+          "name": "NPR News",
+          "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+          "url": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court"
+        }
+      ],
+      "wordCount": 467
+    },
+    "blindSpot": "While mainstream coverage focuses on the constitutional clash over executive overreach, the deeper structural shift is the permanent conversion of the immigration court system into an enforcement arm of ICE. This institutional redesign will outlast any single court ruling, permanently altering the machinery of the administrative state."
+  },
+  {
     "slug": "microsoft-outage-exposes-strategic-peril-centralized-u5eg",
     "path": "news/microsoft-outage-exposes-strategic-peril-centralized-u5eg/",
     "title": "The Microsoft Outage Exposes the Strategic Peril of Centralized Sovereign Cloud",

@@ -242,9 +242,38 @@
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFRwQWxfcmJJYjdURlh4dEJ6bHRBMXdvZUt3Ry0wMGRmMDduc2N0NXVleHBaSWtFbENkbzVkSjRCMDNrUlp5LTdtdHd1WHBfZ044QllESlc1eTdRLTZCQ1NOTHo0aDVJX2xoeDRxOVZPSGxhdVYyOEZPT2w1eDBkZ0RlWUowdC1DWW52Wl85eEYtTHhNb1ZkMENTVmdzdHRTcEluMTZnSU9QSFF2c19rQ3Z0QXBoS3RoS3AtYy0yUQ?oc=5",
     "https://www.clarin.com/mundo/mapa-ataques-rusos-europa-sabotajes-drones-incendios-riesgo-masacre_0_LKiYjOhE7Z.html",
     "https://www.wired.com/story/yeti-black-friday-sale-11-2026/",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5"
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5",
+    "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court"
   ],
   "processedSignatures": [
+    {
+      "title": "SUPREME COURT TO DECIDE FATE OF TRUMP ASYLUM BAN",
+      "normalizedTokens": [
+        "supreme",
+        "court",
+        "decide",
+        "fate",
+        "trump",
+        "asylum",
+        "ban"
+      ],
+      "date": "2026-11-28T03:07:28.996Z"
+    },
+    {
+      "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+      "normalizedTokens": [
+        "trump",
+        "effectively",
+        "ended",
+        "asylum",
+        "advocates",
+        "look",
+        "supreme",
+        "court",
+        "restore"
+      ],
+      "date": "2026-11-28T03:07:28.995Z"
+    },
     {
       "title": "GLOBAL MICROSOFT OUTAGE PARALYZES DIPLOMATIC AND CORPORATE INFRASTRUCTURE",
       "normalizedTokens": [
@@ -7158,31 +7187,6 @@
         "secretary"
       ],
       "date": "2026-11-08T11:28:11.637Z"
-    },
-    {
-      "title": "MAGNITUDE 5.7 EARTHQUAKE STRIKES CENTRAL JAPAN INDUSTRIAL CORRIDOR",
-      "normalizedTokens": [
-        "magnitude",
-        "earthquake",
-        "strikes",
-        "central",
-        "japan",
-        "industrial",
-        "corridor"
-      ],
-      "date": "2026-11-08T05:46:45.835Z"
-    },
-    {
-      "title": "Earthquake hits central Japan, injuring more than 20 people",
-      "normalizedTokens": [
-        "earthquake",
-        "hits",
-        "central",
-        "japan",
-        "injuring",
-        "people"
-      ],
-      "date": "2026-11-08T05:46:45.834Z"
     }
   ]
 }
