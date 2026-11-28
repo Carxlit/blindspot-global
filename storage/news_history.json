@@ -243,9 +243,36 @@
     "https://www.clarin.com/mundo/mapa-ataques-rusos-europa-sabotajes-drones-incendios-riesgo-masacre_0_LKiYjOhE7Z.html",
     "https://www.wired.com/story/yeti-black-friday-sale-11-2026/",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5",
-    "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court"
+    "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
+    "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss"
   ],
   "processedSignatures": [
+    {
+      "title": "PERUVIAN MILITARY HELICOPTER CRASHES IN NARCO-TRAFFICKING VRAEM REGION",
+      "normalizedTokens": [
+        "peruvian",
+        "military",
+        "helicopter",
+        "crashes",
+        "narco",
+        "trafficking",
+        "vraem",
+        "region"
+      ],
+      "date": "2026-11-28T05:01:56.959Z"
+    },
+    {
+      "title": "Eight killed in Peruvian military helicopter crash",
+      "normalizedTokens": [
+        "eight",
+        "killed",
+        "peruvian",
+        "military",
+        "helicopter",
+        "crash"
+      ],
+      "date": "2026-11-28T05:01:56.957Z"
+    },
     {
       "title": "SUPREME COURT TO DECIDE FATE OF TRUMP ASYLUM BAN",
       "normalizedTokens": [
@@ -7155,38 +7182,6 @@
         "epidemic"
       ],
       "date": "2026-11-08T12:34:14.572Z"
-    },
-    {
-      "title": "TRUMP OFFERS UFC BOSS DANA WHITE PRESS SECRETARY ROLE",
-      "normalizedTokens": [
-        "trump",
-        "offers",
-        "ufc",
-        "boss",
-        "dana",
-        "white",
-        "press",
-        "secretary",
-        "role"
-      ],
-      "date": "2026-11-08T11:28:11.637Z"
-    },
-    {
-      "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
-      "normalizedTokens": [
-        "ufc",
-        "dana",
-        "white",
-        "meet",
-        "trump",
-        "monday",
-        "offer",
-        "white",
-        "house",
-        "press",
-        "secretary"
-      ],
-      "date": "2026-11-08T11:28:11.637Z"
     }
   ]
 }
